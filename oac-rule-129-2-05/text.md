@@ -1,0 +1,2 @@
+# Rule 129-2-05: Semi-annual reports.
+Semi-annual reports of the sinking fund, including the matters provided for in Section 11 of Article VIII of the Ohio Constitution and Section 129.22 of the Revised Code, shall be prepared by the sinking fund and submitted to the governor and the general assembly no later than forty-five days after June thirtieth and December thirty-first of each year. Copies of such reports shall be submitted to the members of the sinking fund.
