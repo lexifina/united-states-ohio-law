@@ -1,0 +1,5 @@
+# Rule 109:4-3-10: Substantiation of claims in advertising.
+It shall be a deceptive act or practice in connection with a consumer transaction for a supplier to:
+(A) Make any representations, claims, or assertions of fact, whether orally or in writing, which would cause a reasonable consumer to believe such statements are true, unless, at the time such representations, claims, or assertions are made, the supplier possesses or relies upon a reasonable basis in fact such as factual, objective, quantifiable, clinical or scientific data or other competent and reliable evidence which substantiates such representations, claims, or assertions of fact; or
+(B) Fail, upon the written request of the attorney general or the attorney general's representative, to produce within a reasonable time period specified, written substantiating documentation, tests, studies, reports, or other data in the possession of the supplier at or prior to the time that representations, claims, or assertions are made about the supplier or the supplier's goods or services.
+Last updated March 6, 2025 at 12:53 PM
