@@ -1,0 +1,5 @@
+# Rule 129:1-1-06: Amendment or repeal of rules.
+Any rule adopted by The Commissioners of the Sinking Fund may be amended or repealed at any meeting of The Commissioners of the Sinking Fund. Any rule which shall have been adopted by The Commissioners of the Sinking Fund may be amended only by the adoption of a new rule which shall contain the entire rule as amended and by the repeal of the rule amended.
+Notice of the adoption, amendment or repeal of any rule herein shall be by publication in a newspaper of general circulation in the nine most populous counties of the state at least thirty days prior to the hearing on said adoption, amendment or repeal of any rule.
+Such notice shall contain the date, time and place of said hearing and a statement of the rule to be adopted, amended or repealed.
+The full text of the proposed rule, amendment or repeal of a rule shall be filed with the Secretary of State at least thirty (30) days prior to the date set for the hearing and shall be available at the office of the Ohio Vietnam Veterans Bonus Commission.
