@@ -1,0 +1,2 @@
+# Rule 1501:21-22-01: Inspection procedure.
+The chief may make inspections during repair construction as deemed necessary to ensure that the structure is being repaired in compliance with the approved plans and specifications. However, the inspections by the chief do not relieve the owner or the registered professional engineer in charge of the responsibility of providing adequate inspection of the work.
