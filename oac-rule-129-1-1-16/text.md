@@ -1,0 +1,2 @@
+# Rule 129:1-1-16: Severability.
+Should any rules adopted or promulgated by the Board of Commissioners of the Sinking Fund of the State of Ohio in the implementation of Section 2j, Article VIII of the Constitution of Ohio be held voidable, void, invalidate or unenforceable by any court of competent jurisdiction, such a determination shall be nowise invalidate, void or render unenforceable any other rules as each rule is hereby declared to be severable from any other such rule.
