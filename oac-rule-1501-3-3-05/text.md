@@ -1,0 +1,2 @@
+# Rule 1501:3-3-05: Use of campground facilities; permit required; visitors.
+No person shall walk into or drive any vehicle into or through any designated campground, camp area or campsite or park any vehicle in a designated campground, camp area or campsite of the division in a manner which would annoy or interfere with person or persons desiring to camp or in possession of a valid camping permit.
