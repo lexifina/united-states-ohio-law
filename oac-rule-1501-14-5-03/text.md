@@ -1,0 +1,2 @@
+# Rule 1501:14-5-03: Water Supply Replacement.
+(A) For the purposes of section 1514.13 of the Revised Code, unless otherwise determined by the chief, water replacement provisions shall be applicable within the geographic area defined by the ten foot contour line of the cone of depression established under rule 1501:14-5-01 of the Administrative Code. The chief may, however, designate a different contour line based upon water resource availability, seasonal variations, other water users in the hydrologic study area as well as other ground water data available.
