@@ -1,0 +1,3 @@
+# Rule 1501:9-7-14: Property rights unaffected.
+(A) The purpose of Chapter 1501:9-7 of the Administrative Code is to prescribe minimum construction and operation requirements for solution mining projects so as to protect the surface and subsurface soils and waters of the state. Thus, the authorization or failure to authorize a solution mining project should not be construed so as to alter or amend any common law property rights or responsibilities.
+(B) The issuance of a permit does not authorize any injury to persons or property or invasion of other private rights or any infringement of state or local laws or regulations.
