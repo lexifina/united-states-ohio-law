@@ -1,0 +1,7 @@
+# Official source information
+Publisher notice: Last updated March 6, 2026 at 12:30 PM
+Effective: June 1, 1982
+Promulgated Under: 119.03
+Authorized By: -
+Amplifies: -
+Prior Effective Dates: 11/6/1967
