@@ -1,0 +1,4 @@
+# Rule 145-3-81: Military service.
+(A) This rule amplifies section 21.02 of the member-directed plan document.
+(B) A member participating in the member-directed plan may make contributions under section 145.302 of the Revised Code in accordance with rule 145-2-06 of the Administrative Code. Notwithstanding section 145.302 of the Revised Code, a member who makes contributions in accordance with that section shall receive a year or portion of a year of participation, as defined in section 1.38 of the member-directed plan document, rather than service credit.
+(C) Contributions received from a member described in paragraph (B) of this rule shall be deposited and credited in accordance with section 3.03 of the member-directed plan document. Contributions received from the member's employer shall be deposited and credited in accordance with section 3.02 of the member-directed plan document.
