@@ -1,0 +1,3 @@
+# Rule 124-7-05: Investigations.
+(A) Investigations shall be conducted by an exchange of correspondence between the board and the parties. Unless a party can show good cause for its failure to respond, decisions will be based on the information received within the response time allowed. In the board's discretion, investigations may be set for hearing.
+(B) Prior to recommending removal of persons pursuant to section 124.40 or 124.56 of the Revised Code, the board may, as an alternative to removal, order the correction of a violation of Chapter 124. of the Revised Code, or of the rules of the Administrative Code.
