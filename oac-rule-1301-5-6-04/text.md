@@ -1,0 +1,4 @@
+# Rule 1301:5-6-04: Agency agreements Fair housing and Blockbusting Disclosures.
+(A) Divisions (A)(2) to (A)(4) of section 4735.55 of the Revised Code shall only apply to an agency agreement in which the property identified on the agency agreement falls within the definition of housing accommodation as contained in any municipal, state, or federal fair housing laws and regulations and the disclosures required pursuant to section 4735.56 of the Revised Code.
+(B) Unless exempt under paragraph (A) of this rule, the statement regarding blockbusting shall read as follows:
+"It is also illegal, for profit, to induce or attempt to induce a person to sell or rent a dwelling by representations regarding the entry into the neighborhood of a person or persons belonging to one of the protected classes."
