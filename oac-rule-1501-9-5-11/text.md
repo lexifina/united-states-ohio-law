@@ -1,0 +1,2 @@
+# Rule 1501:9-5-11: Property rights unaffected.
+The purpose of Chapter 1501:9-5 of the Administrative Code is to prescribe minimum construction and operation requirements for enhanced recovery projects so as to protect surface and subsurface soils and waters of the state. Thus, the authorization or failure to authorize an enhanced recovery project permit should not be construed so as to alter or amend any common law property rights or responsibilities.
