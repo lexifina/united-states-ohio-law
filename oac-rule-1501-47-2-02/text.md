@@ -1,0 +1,4 @@
+# Rule 1501:47-2-02: Responsibility.
+(A) Nothing in rules 1501:47-2-01 to 1501:47-2-36 of the Administrative Code shall exonerate any vessel, or the operator, owner, master, or crew thereof, from the consequences of any neglect to comply with rules 1501:47-2-01 to 1501:47-2-36 of the Administrative Code or of the neglect of any precaution which may be required by the ordinary practice of operator, owner, master or crew thereof, or by the special circumstances of the case.
+(B) In construing and complying with this chapter due regard shall be had to all dangers of navigation and collision and to any special circumstances, including the limitations of the vessels involved, which may make a departure from these rules necessary to avoid immediate danger.
+No person shall operate or permit to be operated, any vessel on the waters in this state, in violation of this rule.
