@@ -1,0 +1,2 @@
+# Rule 145-2-31: Proof of dependency.
+Where dependency as defined in division (A) of section 145.43 of the Revised Code is required for eligibility of benefits pursuant to section 145.43 or 145.45 of the Revised Code, a beneficiary shall file a copy of the deceased member's federal income tax return for the year preceding the member's death, or other satisfactory evidence of dependency to the public employees retirement board.
