@@ -1,0 +1,3 @@
+# Rule 1501:22-1-06: Reporting requirements.
+(A) Upon the written request by the director or his designee, the county or municipal corporation shall within thirty days of the mailing of the request furnish certified copies of such adopted resolutions or ordinances to the chief of the division of water in the department of natural resources.
+(B) A county or municipal corporation which makes any modifications or amendments to its adopted resolutions or ordinances governing coastal flood hazard areas shall within thirty days of adoption submit a certified copy of such modifications or amendments to the chief of the division of water in the department of natural resources.
