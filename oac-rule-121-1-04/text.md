@@ -1,0 +1,4 @@
+# Rule 121-1-04: Resolutions.
+(A) Resolutions shall be introduced only by members of the commission present at a meeting, upon recommendation of a standing or special committee, or by the director of the office of the Spanish speaking affairs. They shall be deposited with the director of the office of Spanish speaking affairs at least forty-eight hours prior to the meeting at which they are to be considered.
+(B) All resolutions shall be typewritten and shall be reproduced and distributed to all members prior to their consideration at a meeting.
+(C) A resolution referred to a committee shall thereafter be reported upon only for adoption, with or without amendment, for rejection or for further reference. If amendments are recommended, the complete text of the proposed resolution as amended shall be typewritten and distributed to commission members prior to consideration of the reported resolution.
