@@ -1,0 +1,4 @@
+# Rule 109:2-11-09: Notebook.
+(A) Each person in a jailer training school shall maintain a notebook and shall submit such notebook to the training school commander for inspection. The notebook shall be evaluated as satisfactory or unsatisfactory by the school commander. The notebook shall include entries of pertinent material covered during the classroom sessions of the school. Among the factors to be evaluated are: neatness, accuracy, legibility, and sufficiency of curriculum related content, organization, appropriateness of material, and regularity of entries. Notebooks and the grades assigned to them by the commander are subject to review by the executive director at any time.
+(B) No person shall participate in the state examination who has a notebook evaluated as unsatisfactory.
+Last updated December 5, 2023 at 10:59 AM
