@@ -1,0 +1,2 @@
+# Rule 1501:21-17-01: Inspection procedure.
+The chief may make inspections during construction as deemed necessary to insure that the structure is being built in compliance with the approved plans and specifications which serve as the basis for issuing the construction permit. However, the inspections by the chief do not relieve the owner or the registered professional engineer in charge of the responsibility of providing adequate inspection of the work.
