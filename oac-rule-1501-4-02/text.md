@@ -1,0 +1,6 @@
+# Rule 1501-4-02: Sponsorships.
+Sponsorships are the solicited assistance of money, material, or service from individuals, associations or business entities to support department activities or department programs or projects.
+The department of natural resources may solicit sponsorships of money, materials, or services for department programs or projects. The department reserves the right to select sponsors based on the compatibility and propriety of the sponsor with a project and with the mission and goals of the department. Money, material and equipment must be accounted for in accordance with state policies and procedures.
+To recognize a sponsor for their contribution of money, products, or in kind services, the department may produce and display public acknowledgement of these sponsors. The department may also establish additional terms and conditions.
+No acknowledgement shall convey an endorsement of a particular sponsor or product. An endorsement is defined as the expression of a favorable opinion about the quality, value, or effectiveness of a particular product, service, company or organization.
+The department may reject sponsorships from any entity whose activities are either intended or may be construed to influence the outcome of any election, department permitting, contracting, or other regulatory program.
