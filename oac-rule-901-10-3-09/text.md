@@ -1,0 +1,2 @@
+# Rule 901:10-3-09: Appeals of variances.
+When the director issues a permit on which the United States environmental protection agency has made a variance decision, separate appeals of the state permit and of the United States environmental protection agency variance decision are possible. If the owner or operator is challenging the same issues in both proceedings, the regional administrator will decide, in consultation with state officials, which case will be heard first.
