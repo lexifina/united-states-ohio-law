@@ -1,0 +1,2 @@
+# Rule 145-1-55: Exemption termination.
+An exemption from membership in the public employees retirement system pursuant to section 145.03 of the Revised Code shall be valid only during the current period of employment for the public employer by whom a public employee is employed at the time the exemption is approved. When the employment is terminated the exemption also terminates. Upon a return to public employment either for the former employer or another employer membership in the system is mandatory unless the employee may be exempt or excluded from membership.
