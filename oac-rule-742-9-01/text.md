@@ -1,0 +1,2 @@
+# Rule 742-9-01: Authorization to charge employer for requested detail on accrued liability.
+When a municipality specifically requests a further breakdown of its gross accrued liability, the executive director of the pension fund shall be authorized to ask the actuary to provide such information as the actuary deems appropriate, at the expense of the municipality making such request for information.
