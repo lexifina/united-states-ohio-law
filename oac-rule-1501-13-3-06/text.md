@@ -1,0 +1,2 @@
+# Rule 1501:13-3-06: Exploration on land designated as unsuitable for coal mining operations.
+Designation of any area as unsuitable for all or certain types of coal mining operations does not prohibit coal exploration operations in the area, provided that exploration is conducted in accordance with the requirements of Chapter 1513. of the Revised Code and rules 1501:13-4-02 and 1501:13-8-01 of the Administrative Code, and that the exploration does not interfere with any value for which the area has been designated unsuitable for coal mining.
