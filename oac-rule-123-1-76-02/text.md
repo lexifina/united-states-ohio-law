@@ -1,0 +1,2 @@
+# Rule 123:1-76-02: Purpose and responsibility.
+The administrator of the drug-free workplace services program shall plan for, implement, administer, coordinate and evaluate Ohio's drug-free workplace policy, including any testing and education programs developed for state employees, and shall administer and coordinate Ohio's compliance with provisions of the federal Drug-Free Workplace Act of 1988, the Omnibus Transportation Employee Testing Act of 1991, and any other federal or state laws or regulations requiring substance abuse testing.
