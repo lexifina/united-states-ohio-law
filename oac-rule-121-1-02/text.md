@@ -1,0 +1,5 @@
+# Rule 121-1-02: Proceedings of the commission.
+(A) Except as herein otherwise directed, all proceedings of the commission, or any committee thereof, shall be governed by "Roberts Rule of Order." The chairman shall enforce order at all proceedings.
+(B) Any member may appeal to the commission from a ruling of the chairman, if the appeal is seconded. Prior to the vote on the appeal, the member may briefly state his reasons and the chairman may briefly explain his ruling. Thereafter, the commission shall vote to sustain or overrule the ruling of the chairman.
+(C) Privileges of the floor to address the commission shall be available only to members of the commission and the director of the office of Spanish speaking affairs. However, the commission may, by a majority vote, receive comments from any interested person at any meeting.
+(D) Agency rules can be amended at a regular meeting of the commission by a two-thirds vote of eligible commission members, provided the amendment is submitted in writing at the previous regular meeting.
