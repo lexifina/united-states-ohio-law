@@ -1,0 +1,2 @@
+# Rule 742-9-14: Reliance on records for purposes of determining taxability.
+In furtherance of the policy adopted by the board of trustees of the Ohio police and fire pension fund ("OP&F"), the information used in determining the taxability of benefits payable to those members outlined in OP&F's policy will be based on OP&F's books and records as of the date the form 1099 is issued, as such information is provided to OP&F by the employers, members, and benefit recipients.
