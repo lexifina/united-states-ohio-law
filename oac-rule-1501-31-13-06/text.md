@@ -1,0 +1,5 @@
+# Rule 1501:31-13-06: Skin and scuba diving sport fishing regulations.
+(A) It shall be unlawful to engage in skin diving while using a snorkel or to engage in diving with scuba (self-contained underwater breathing apparatus) in any water area owned or controlled by the division of wildlife except when fishing for forage fish specified in paragraph (A) of rule 1501:31-13-01 of the Administrative Code.
+(B) It shall be lawful to take only the forage fish specified in rule 1501:31-13-01 of the Administrative Code while skin diving with a snorkel or while scuba diving with self-contained underwater breathing apparatus in any water area owned or controlled by the division of wildlife or in any other water area where skin or scuba diving is lawful.
+(C) It shall be unlawful for any person to engage in fishing while skin or scuba diving while alone, or without first marking the fishing area by displaying an official diving flag at the water's surface.
+(D) All definitions set forth in rule 1501:31-1-02 of the Administrative Code shall apply to this rule.
