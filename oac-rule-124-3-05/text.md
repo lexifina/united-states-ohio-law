@@ -1,0 +1,6 @@
+# Rule 124-3-05: Merger and bar.
+(A) All incidents which occurred prior to the incident for which a non-oral disciplinary action is being imposed, of which an appointing authority has knowledge and for which an employee could be disciplined, are merged into the non-oral discipline imposed by the appointing authority. Incidents occurring after the incident for which a non-oral disciplinary action is being imposed, but prior to the issuance of the non-oral disciplinary order, are not merged and may form the basis for subsequent discipline.
+(1) For purposes of this rule, knowledge of an appointing authority will include knowledge of those persons with authority to impose non-oral discipline for the appointing authority.
+(2) For purposes of this rule, non-oral discipline includes written reprimands and suspension orders. It does not include a written memorandum of oral counseling or written warnings.
+(B) Except as provided in rules 124-3-01 and 124-9-04 of the Administrative Code, once discipline is imposed for a particular incident, that incident shall not be used as the basis for subsequent discipline.
+(C) Upon written notice to the employee, an appointing authority may rescind non-oral discipline. Rescission of non-oral discipline under this rule shall not be a bar to issuing another non-oral discipline based upon the same allegations.
