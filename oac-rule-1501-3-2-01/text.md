@@ -1,0 +1,4 @@
+# Rule 1501:3-2-01: Hours closed.
+(A) No person shall be within or upon the state forests between the hours of eleven p.m. and six a.m. except as hereinafter provided and as provided in rule 1501:3-2-02 of the Administrative Code.
+(B) Hocking state forest, all state forest target ranges and all state forest all-purpose vehicle areas shall be closed daily one-half hour after sunset until one-half hour before sunrise throughout the year, except as provided in rule 1501:3-2-02 of the Administrative Code.
+(C) The chief of the division of forestry or authorized agent, may temporarily close to the public any state forest or any facility, target range, trail, or area within any state forest where it is determined to be hazardous for public use or detrimental to the resource or facility due to weather, water, fire, construction, timber removal or other situation involving public health, safety, or welfare.
