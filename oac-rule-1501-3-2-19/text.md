@@ -1,0 +1,2 @@
+# Rule 1501:3-2-19: Paleontological, archaeological, historical and geological features.
+No person shall remove from, injure, disfigure, deface, destroy or disturb any object or feature of paleontological, archaeological, geological or historical interest or value in any area administered by the division without first obtaining written permission from the chief of the division or authorized agent.
