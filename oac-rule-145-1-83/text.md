@@ -1,0 +1,13 @@
+# Rule 145-1-83: Application of USERRA to 180-day election period.
+(A) This rule amplifies sections 145.19 and 145.191 of the Revised Code.
+(B) As used in this rule, "service in the uniformed services" and "uniformed services" have the same meanings as in section 145.302 of the Revised Code.
+(C) This rule applies to a member whose service in the uniformed services occurs during the member's one hundred eighty day election period as described in section 145.19 or 145.191 of the Revised Code.
+(D) Upon a member described in paragraph (C) of this rule being reemployed with the same public employer that employed the member prior to the member's service in the uniformed services, the member may, not later than ninety days after the reemployment, apply to the public employees retirement system on a form provided by the system to reestablish all or a portion of the member's one hundred eighty day election period.
+(1) On receipt of the application, the system shall request from the public employer that employed the member prior to the military service a certification that the member was employed by the public employer prior to, and returned to employment with the employer within three months of honorable discharge or release from, service in the uniformed services. If the public employer can so certify, the employer shall do so.
+(2) The member shall submit to the system report(s) of separation (form DD214) or other satisfactory documentation as evidence of the member's military service.
+(E) On receipt of the certification and documentation under paragraph (D) of this rule and approval of the certification, the system shall reestablish the member's election period as follows:
+(1) If all of the member's one hundred eighty day election period was interrupted by the member's service in the uniformed services, the member shall have one hundred eighty days after the date certification is approved by the system to make an election under section 145.19 or 145.191 of the Revised Code.
+(2) If a portion of the member's one hundred eighty day election period was interrupted by the member's service in the uniformed services, the member shall have the same portion of the member's one hundred eighty day election period after the date certification is approved by the system to make an election under section 145.19 or 145.191 of the Revised Code.
+(F) The election of a member under this rule takes effect as follows:
+(1) For members who are eligible to make an election under section 145.191 of the Revised Code, the election shall take effect on January 1, 2003.
+(2) For members who are eligible to make an election under section 145.19 of the Revised Code, the election shall take effect on the date employment began.
