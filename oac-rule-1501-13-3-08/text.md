@@ -1,0 +1,2 @@
+# Rule 1501:13-3-08: Lateral support.
+To provide for lateral support, no permit application shall be approved to extend any part of a pit within fifty feet of horizontal distance to an adjacent land or water unless the permittee owns either the surface or the mineral rights in and under the adjoining land or water, or the permittee has written consent from the adjoining surface and mineral owners which consent shall be filed with the permit application.
