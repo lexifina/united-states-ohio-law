@@ -1,0 +1,6 @@
+# Rule 742-17-01: Rule on rules.
+(A) Ohio police and fire pension fund ("OP&F") shall adopt rules in accordance with sections 111.15 and 742.10 of the Revised Code.
+(B) Any person or organization may obtain notice of any proposed amendment, rescission or adoption of a rule by submitting a written request to the executive director or the chairman of the board of trustees to have his, her or its name and address placed on the mailing list of those to whom the agenda of meetings of the board of trustees are sent. An organization may designate only one representative to receive such notice.
+(C) Notice of the amendment, rescission or adoption of any rule, along with a copy of the rule, shall be sent to those persons and organizations on the list in paragraph (B) of this rule.
+(D) The executive director shall cause notice of the amendment, rescission or adoption of a rule to be reported in OP&F publications.
+(E) Any person or organization who has submitted or who hereafter submits a written request under this rule to obtain notice of any proposed amendment, rescission or adoption of a rule by OP&F shall also be deemed to have filed a written request to obtain notice of all meetings and board reports of OP&F.
