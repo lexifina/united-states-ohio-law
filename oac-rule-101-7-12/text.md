@@ -1,0 +1,11 @@
+# Rule 101-7-12: Hearing procedures.
+(A) The committee shall schedule a hearing within forty-five days after the filing of a complaint unless a continuance is granted.
+(B) The respondent shall be given the opportunity to be represented by counsel, to have counsel appointed for him if he is unable to afford counsel without undue hardship, to examine the evidence against him, to produce evidence and to call and subpoena witnesses in his defense, to confront his accusers, and to cross-examine witnesses.
+(C) All witnesses at any hearing before the committee shall testify under oath or affirmation. A witness may be accompanied and advised by legal counsel. Participation by such counsel shall be limited to protection of his client's rights. Counsel for a non-party witness may neither examine nor cross-examine any witness.
+(D) If, upon a preponderance of the evidence considered at the hearing, the committee finds that the facts alleged in the complaint are true and constitute a violation of section 102.02, 102.03, 102.031 or 102.04 of the Revised Code, it shall report its findings to the appropriate prosecuting authority and to the appointing or employing authority of the respondent.
+(E) If the committee does not find, on the basis of a preponderance of the evidence, that the facts alleged in the complaint are true and constitute a violation of section 102.02, 102.03, 102.031 or 102.04 of the Revised Code, it shall dismiss the complaint.
+(F) If a complaint is dismissed, the committee shall, upon the request of the respondent, make a public report of its findings. In such case all evidence and the record of the hearing shall remain confidential unless the respondent requests, in writing, that the evidence and record be made available for public inspection at the office of the committee.
+(G) Except as otherwise provided in this rule, all papers, records, affidavits, and documents upon any complaint, inquiry, or investigation relating to the proceedings of the committee shall be sealed and are private and confidential.
+(H) A stenographic record shall be made of all hearings conducted under section 102.06 of the Revised Code and this chapter.
+(I) All hearings held under authority of section 102.06 of the Revised Code and this chapter shall be closed to the public.
+Last updated May 23, 2023 at 9:07 AM
