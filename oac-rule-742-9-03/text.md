@@ -1,0 +1,2 @@
+# Rule 742-9-03: Delinquent accrued liability payments.
+For purposes of the certification required under section 742.301 of the Revised Code, the executive director and/or the administrative staff shall provide any certifications for any unpaid accrued liability that has not been paid in accordance with the terms of section 742.30 of the Revised Code and rule 742-9-02 of the Administrative Code and all penalties and interest provided for in section 742.301 of the Revised Code.
