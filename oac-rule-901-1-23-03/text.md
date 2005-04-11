@@ -1,0 +1,3 @@
+# Rule 901:1-23-03: Movement of swine into livestock auction markets and livestock concentration markets.
+(A) No person shall move or cause to be moved into either an Ohio livestock auction market or livestock concentration market when these markets are designated under 9 CFR 71 to handle any class of swine, a sow or boar originating from a livestock auction market, livestock concentration market, or a livestock slaughter assembly market in a state with a pseudorabies status of stage IV or lower.
+(B) No person shall move or cause to be moved feral swine into any Ohio livestock auction market or livestock concentration market.
