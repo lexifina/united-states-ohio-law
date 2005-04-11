@@ -1,0 +1,3 @@
+# Rule 901:1-11-01: Pseudorabies.
+(A) For the purpose of rules 901:1-11-01 to 901:1-11-09 of the Administrative Code "pseudorabies" means that disease of animals designated as dangerously contagious or infectious by paragraph (A) of rule 901:1-21-02 of the Administrative Code.
+(B) Any test for pseudorabies performed on any animal within the state of Ohio shall be reported to the department of agriculture within seven days after the date the test was performed. The report shall be on a form approved by the department and shall provide the information required on the form. Each animal tested shall be listed individually on the form by its official identification.
