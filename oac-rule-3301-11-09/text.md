@@ -1,0 +1,7 @@
+# Rule 3301-11-09: Termination of eligibility.
+(A) Eligibility to continue to receive a scholarship in the school year in which it is being received shall be terminated if any of the following occur:
+(1) It is determined that the application made for the program contained false information that, had it been correct, would have caused the scholarship recipient to be ineligible for the program; or
+(2) The scholarship recipient is withdrawn from, or is expelled from, the chartered nonpublic school in which the student is enrolled, and fails within thirty calendar days to enroll in another school listed pursuant to rule 3301-11-11 of the Administrative Code.
+(B) Eligibility to receive scholarships in subsequent school years and submit an application for continuing eligibility pursuant to paragraph (B) of rule 3301-11-05 of the Administrative Code shall cease if the scholarship recipient fails to comply with the provisions of paragraphs (C)(1) to (C)(3) of rule 3301-11-04 of the Administrative Code.
+(C) Eligibility to receive scholarships in subsequent school years shall not be terminated because a student failed to take a state test prescribed for the student's grade level if a determination is made by the department that the chartered nonpublic school in which the student was enrolled failed to meet its obligation to administer the test.
+(D) The applicant and the chartered nonpublic school in which the student is enrolled shall be notified by mail of termination of eligibility. Such notification shall include the effective date of the termination.
