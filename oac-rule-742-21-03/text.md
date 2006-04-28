@@ -1,0 +1,5 @@
+# Rule 742-21-03: Administration of method of payment section of approved division of property order format.
+(A) As used in this rule, "the approved DPO format" shall mean the division of property order form required by sections 3105.82 and 3105.90 of the Revised Code and adopted by OP&F in rule 742-21-01 of the Administrative Code.
+(B) For purposes of administering the method of payment section of the approved DPO format, "a plan of payment that consists of either periodic benefits or a lump sum payment" shall apply to all of the following OP&F benefits or payments: age and service retirement benefit, disability monthly benefit, account refund, and reemployed retiree monthly annuity or lump sum refund.
+(C) For purposes of administering the method of payment section of the approved DPO format, "a plan of payment consisting of both a lump sum benefit and a periodic benefit" shall apply to distributions from the deferred retirement option plan ("DROP").
+(D) Partial distributions from DROP, as outlined in paragraph (A)(1) of rule 742-4-16 of the Administrative Code, shall be considered lump sum payments for purposes of administering the DPO method of payment.
