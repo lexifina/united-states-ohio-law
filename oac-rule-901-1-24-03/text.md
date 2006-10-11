@@ -1,0 +1,2 @@
+# Rule 901:1-24-03: Payment of predator claims.
+Pursuant to division (A)(1) of section 955.52 of the Revised Code, the department of agriculture shall hear and pay only those claims that have been approved by the dog warden and that are supported by the wildlife officer. Any claims that are submitted and not supported by the dog warden and the wildlife officer will be denied and shall not be subject to a hearing.
