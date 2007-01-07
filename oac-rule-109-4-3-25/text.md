@@ -1,0 +1,3 @@
+# Rule 109:4-3-25: Debt collection agreements.
+For purposes of division (B)(11) of section 1345.031 of the Revised Code, "debt collection agreement" means any debt cancellation, deferment, suspension or any similar product coverage (whether or not insurance under applicable law), written in connection with a residential mortgage, that provides for cancellation, deferment or suspension of all or part of the consumer's liability for the residential mortgage in the event of loss of life, health, or income, or in the case of accident, unless financed or calculated upon a monthly basis.
+Last updated October 3, 2024 at 2:49 PM
