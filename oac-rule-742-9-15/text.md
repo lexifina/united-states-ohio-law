@@ -1,0 +1,2 @@
+# Rule 742-9-15: Calculation of penalties/interest.
+For purposes of applying the penalties provided for under sections 742.352 and 742.353 of the Revised Code, the first date of the penalties will begin on the date that immediately follows the applicable due date, as defined in the applicable statutory provisions, and the last day of the penalty shall be the date on which OP&F received the corrected report and/or payment, as more fully outlined in the governing administrative rules.
