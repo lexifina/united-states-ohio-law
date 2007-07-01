@@ -1,0 +1,2 @@
+# Rule 145-2-35: Validity of marriage.
+In the absence of a valid marriage certificate, the public employees retirement board will accept only a decision rendered by a court, having jurisdiction in the state in which the member was domiciled at the time of death, that the relationship constituted a valid marriage at time of death, or the "spouse" would have the same status as a widow or widower for purposes of sharing in the distribution of the member's or retirant's intestate personal property.
