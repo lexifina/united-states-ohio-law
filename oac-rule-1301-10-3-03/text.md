@@ -1,0 +1,5 @@
+# Rule 1301:10-3-03: Holder reports; enforcement.
+(A) All information required to be reported to the director of commerce shall be reported on such forms, and in such manner, as prescribed by the director of commerce.
+(B) If there are no unclaimed funds to report for the current period, the holder is required to file with the director a negative report, which must be certified by the holder, or an officer or agent of the holder organization.
+(C) It will be permissible for holders to make copies of the standard forms provided by the director of commerce, provided the reproduction of the form is of substantially equal quality as the original. Computer printouts are also acceptable, provided they are in the same format and spacing as the reporting forms.
+(D) If any person fails to file any reports, files a report in gross error or refuses to deliver funds to the director as required under Chapter 169. of the Revised Code, the director may bring an action in a court of appropriate jurisdiction to require the filing of the report and to recover the funds with interest and penalties due.
