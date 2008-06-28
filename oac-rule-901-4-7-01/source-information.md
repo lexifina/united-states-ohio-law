@@ -1,0 +1,7 @@
+# Official source information
+Publisher notice: Last updated September 9, 2024 at 1:49 PM
+Effective: June 28, 2008
+Promulgated Under: 119.03
+Authorized By: 924.25
+Amplifies: 924.20
+Five Year Review Date: 8/5/2029
