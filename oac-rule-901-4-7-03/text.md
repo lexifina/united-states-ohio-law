@@ -1,0 +1,6 @@
+# Rule 901:4-7-03: Nomination of the grain marketing program operating committee.
+(A) The grain marketing program shall notify Ohio farm organizations and Ohio agricultural media of committee vacancies and publish said notification in at least two agricultural periodicals.
+(B) Any producer wishing to be placed on the ballot may submit his or her nomination to the director by having twenty-five or more valid signatures from producers in the district in which the producer seeks election.
+(C) In the event there are more than five persons in a district having the requisite number of valid signatures to be placed on the ballot, the director shall place the names of the five nominees having the greatest number of valid signatures on the ballot.
+(D) In the event there are two or more producers with an equal number of valid signatures received for a nomination, the director shall select from those seeking nomination the producer whose name shall be placed on the ballot.
+(E) All producers seeking election must submit written consent statements to the director stating that their names may appear on the ballot, that they are qualified producers, and they are willing to serve on the committee.
