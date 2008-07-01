@@ -1,0 +1,3 @@
+# Rule 1301:8-3-13: Cancellation and return of original loan documents; receipt upon payment.
+(A) Upon repayment of the loan in full, the original note signed by any obligor or copy, photograph, or stored representation of the original note as retained in accordance with rule 1301:8-3-04 of the Administrative Code shall be plainly marked "paid" or "canceled" and the note or the reproduction of the note shall be returned to the obligor or, if there are two or more obligors, to one of them.
+(B) If requested, the registrant shall give to the borrower a receipt for each payment made on account of any interest-bearing or precomputed loan.
