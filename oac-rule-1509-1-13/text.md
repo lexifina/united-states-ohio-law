@@ -1,0 +1,5 @@
+# Rule 1509-1-13: Interested Persons.
+(A) An interested person in an appeal before the commission is a person having a pecuniary or proprietary interest directly affected by an appeal before the commission, as defined in rule 1509-1-02 of the Administrative Code.
+(B) In the event that a question arises concerning whether a person is an interested person in an appeal, the commission may make a determination as to whether said person qualifies as an interested person. A person claiming to be an interested person in an appeal shall have the burden of establishing their status as an interested person.
+(C) An interested person may petition to intervene into an existing action before the commission. If granted intervenor status, the interested person shall be allowed to participate in such proceeding in the manner set forth in rule 1509-1-14 of the Administrative Code.
+(D) If an interested person has not demonstrated an interest in all of the issues presented in a particular appeal, the commission may limit the interested person's participation to only those issues in which an interest has been established.
