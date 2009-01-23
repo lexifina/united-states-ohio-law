@@ -1,0 +1,12 @@
+# Rule 901:10-3-07: Designated operations and determinations by the director.
+(A) The director may designate any animal feeding facility as a concentrated animal feeding operation in accordance with division (F)(1) of section 903.10 of the Revised Code upon determining that it is a significant contributor of manure to waters of the state. In making a designation, the director shall consider the following factors:
+(1) The size of the animal feeding facility and the amount of manure reaching waters of the state;
+(2) The location of the animal feeding facility relative to waters of the state;
+(3) The means of conveyance of manure into waters of the state;
+(4) The slope, vegetation, rainfall, and other factors affecting the likelihood or frequency of discharge of manure into waters of the state; and
+(5) Other relevant factors.
+(B) No animal feeding facility shall be designated under this rule unless the director has conducted an on-site inspection of the animal feeding facility and determined that the facility should and could be regulated under the permit program. In addition, no animal feeding facility with numbers of animals below those established in division (Q) of section 903.01 of the Revised Code may be designated as a concentrated animal feeding operation or concentrated animal feeding facility unless:
+(1) Manure is discharged into waters of the state through a constructed ditch, flushing system, or other similar constructed device; or
+(2) Manure is discharged directly into waters of the state which originate outside of the facility and pass over, across, or through the facility or otherwise come into direct contact with the animals confined in the facility.
+(C) The director may determine that an animal feeding facility that is not a medium concentrated animal feeding operation or a small concentrated animal feeding operation is a concentrated animal feeding facility in accordance with section 903.082 of the Revised Code.
+(D) If the director determines that an animal feeding facility shall be required to be permitted as a medium or small concentrated animal feeding operation, then the owner or operator shall apply to the director for an NPDES permit as a concentrated animal feeding operation. If the director determines that the existing facility cannot comply with best management practices in Chapter 901:10-2 or Chapter 1505:15-5 of the Administrative Code, without modifying the existing facility, the owner or operator shall apply for a permit to install.
