@@ -1,0 +1,2 @@
+# Rule 124-7-04: Determination of unclassified status.
+When an employee has been adversely affected as an unclassified employee, the burden of proving the unclassified status of the employee is on the appointing authority. The board will take evidence of the employee's duties over a reasonable period of time, which is generally defined as at least two calendar years immediately prior to the adverse action, provided that the employee was in an active work status during that time period.
