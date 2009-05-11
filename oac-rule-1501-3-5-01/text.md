@@ -1,0 +1,3 @@
+# Rule 1501:3-5-01: Permit required to sell or rent items.
+(A) No person in any state forest shall offer for sale, sell, or have in his possession with intent to sell any food, beverage or other article, or service without the written permission of the chief of the division or authorized agent.
+(B) No person shall rent or offer to rent or have in their possession with the intent to rent, any service, animal, machine or item, or any other commercial activity on state forest property, regardless if the exchange of money occurred on state forest property, without first obtaining a special use permit from the chief of the division or authorized agent and paying any applicable fee.
