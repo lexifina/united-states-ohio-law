@@ -1,0 +1,2 @@
+# Rule 1501:17-11-05: Special orders posted.
+The division shall post in a conspicuous location within the access areas of any state nature preserve or natural area, special instructions, orders, and notices pertaining to the use of the area by the public. Such instructions, orders or notices shall pertain but are not limited to: Special hours of operation, emergency situations or other situations not otherwise covered in the rules. Declaration of posting shall originate with the chief of the division.
