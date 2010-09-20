@@ -1,0 +1,3 @@
+# Rule 1501:17-9-02: Vehicles, bicycles required to stay on roads; vehicles prohibited.
+No person shall operate a vehicle or bicycle within any nature preserve or natural area except over and upon roads, streets, driveways or parking lots which are designated or posted for such purposes. No person shall drive around any barrier or gate which is across a road or trail nor shall they operate a motor vehicle or bicycle upon such barricaded or closed facility.
+The following vehicles will be prohibited from use in any nature preserve or natural area: in line skates, street luges, roller skates and skateboards.
