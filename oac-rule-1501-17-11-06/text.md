@@ -1,0 +1,2 @@
+# Rule 1501:17-11-06: Temporary closing of facilities.
+(A) No person shall enter upon the confines of any state nature preserve or natural area or facility that has been temporarily closed or evacuated by the chief of the division or his appointed agent if it has been determined to be hazardous for public use due to weather, water, fire, construction or other situation involving public health, safety or welfare.
