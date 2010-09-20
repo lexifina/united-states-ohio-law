@@ -1,0 +1,2 @@
+# Rule 1501:17-1-01: Exceptions.
+The following rules are applicable to all nature preserves and natural areas under the supervision and control of the Ohio department of natural resources or its designated custodian. However, nothing herein shall be interpreted or construed in such a manner as to prevent or delay authorized personnel of the department of natural resources, law enforcement officers from another agency or its designated custodian in the completion of necessary duties or while on patrol or emergency service.
