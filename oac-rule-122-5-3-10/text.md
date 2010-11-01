@@ -1,0 +1,3 @@
+# Rule 122:5-3-10: Severability.
+If any clause, provision or application of any rule in this chapter is determined to be invalid or unenforceable under applicable law, such determination shall not affect the remainder of such rule or other application of the rule or other rules of this chapter, which shall be applied as if the invalid or unenforceable portion or application or references to the invalid or unenforceable portion did not exist.
+Last updated August 14, 2026 at 3:26 PM
