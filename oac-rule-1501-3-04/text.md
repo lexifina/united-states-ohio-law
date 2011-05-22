@@ -1,0 +1,2 @@
+# Rule 1501-3-04: Statement of qualifications.
+In response to the announcement of a project pursuant to rule 1501-3-03 of the Administrative Code, each professional design firm desiring to be considered for the project shall submit a statement of qualifications on a standard form as designated in the project announcement. As deemed appropriate, the department may request each professional design firm to provide additional information supplemental to the standard form.
