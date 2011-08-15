@@ -1,0 +1,3 @@
+# Rule 011-1-02: "Apportionment Board" defined.
+The term "Apportionment Board" is adopted for use in this chapter to designate the five persons directed by the Constitution of the State of Ohio, Article XI, Section 1, to establish the boundaries of house of representatives and senate districts following the federal decennial census 2010. Such persons, collectively, shall be referred to in this chapter as "Members" and, individually, as "Member." The term "Secretary" is adopted for use in this chapter to designate the person or persons selected by the board to serve as the secretary in rule 011-1-04 of the Administrative Code.
+The rules stated herein, as supplemented by Robert's Rules of Order, shall be the rules of procedures of the apportionment board.
