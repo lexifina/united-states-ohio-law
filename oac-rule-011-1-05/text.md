@@ -1,0 +1,2 @@
+# Rule 011-1-05: Calling of meetings.
+After the initial meeting of the apportionment board, at which the board is convened, a meeting of the apportionment board may be called upon twenty-four hours notice. Such call and notice to each member of the apportionment board shall be issued by the chair, or may be dispensed with if a motion to recess the meeting designates a time certain for continuation of the meeting. However, a meeting may be called by the chair, upon proper notice, prior to a previously designated meeting, should the chair deem it necessary.
