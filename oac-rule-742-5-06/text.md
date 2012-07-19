@@ -1,0 +1,2 @@
+# Rule 742-5-06: Definition of "honorably discharged".
+As used in sections 742.52 and 742.521 of the Revised Code, the phrase "honorably discharged" shall be construed to mean the favorable character of service status given by the department of defense or the national guard, as the case may be, for the member's service in the armed forces of the united states, as defined in sections 742.52 and 742.521 of the Revised Code, whether characterized as honorable or general (under honorable conditions).
