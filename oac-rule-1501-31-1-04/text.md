@@ -1,0 +1,2 @@
+# Rule 1501:31-1-04: Severability.
+(A) The invalidation by a court and the holding of any rule or part of a rule adopted or amended pursuant to Chapter 1531. or 1533. of the Revised Code to be unconstitutional, void or ineffective for any cause, including failure to comply with Chapter 119. of the Revised Code, shall not affect the validity of any other rule or portion thereof adopted or amended thereunder by the chief of the division of wildlife.
