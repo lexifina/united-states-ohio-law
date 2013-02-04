@@ -1,0 +1,3 @@
+# Rule 742-20-01: Recovery of overpaid funds.
+(A) As provided by section 742.64 of the Revised Code, if a person is paid any benefit or payment by Ohio police and fire pension fund (OP&F) to which the person is not entitled, the benefits shall be repaid to OP&F by the person and/or the person's beneficiary, which shall include the person's estate. If the person or the person's beneficiary or estate fails to make such repayment, OP&F shall withhold the amount due from any payment due the person or the person's beneficiary or estate under this chapter or may collect the amount in any other manner provided by law.
+(B) This rule is in addition to the payment provisions outlined in rule 742-3-08, 742-3-20 or 742-7-09 of the Administrative Code.
