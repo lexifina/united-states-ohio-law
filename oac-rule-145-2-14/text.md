@@ -1,0 +1,2 @@
+# Rule 145-2-14: Use of "Ohio service credit" in benefit calculations.
+Service credit that is purchased or obtained under section 145.295, 145.2911, 145.2913, 145.301, or 145.302 of the Revised Code that is, or is considered to be the equivalent of, Ohio service credit, shall be used in determining eligibility for a benefit as provided in Chapter 145. of the Revised Code, including the calculation of the member's final average salary and contributing service credit in the public employees retirement system.
