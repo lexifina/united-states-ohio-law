@@ -1,0 +1,2 @@
+# Rule 145-2-52: Application by a contributor for refund of accumulated contributions.
+For purposes of division (A)(2) of section 145.40 of the Revised Code, "eligible for age and service retirement" means a contributor is eligible for a retirement benefit under section 145.32, 145.33, 145.331, or 145.332 of the Revised Code on or before the first of the month following the date the application for a refund is received by the public employees retirement system.
