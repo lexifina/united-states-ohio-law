@@ -1,0 +1,2 @@
+# Rule 1509-1-12: Motion to Stay or Suspend Execution of Order.
+The filing of an appeal with the commission does not automatically suspend or stay execution of the order appealed from. An appellant may apply to the commission to suspend or stay the execution of an order appealed from. Such request must be submitted in writing to the official office of the commission. The commission shall consider such request, and may suspend an order or stay the execution of an order, upon such terms and conditions as the commission considers proper.
