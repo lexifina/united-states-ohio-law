@@ -1,0 +1,2 @@
+# Rule 3301-102-06: Payments, adjustments and deductions for community schools.
+Instructions regarding the flow of state foundation funds for all new and continuing community schools shall be found in the manuals for SOES/EMIS (school options enrollment system/education management information system) or their successor systems, which shall be made available on the department's website (education.ohio.gov).
