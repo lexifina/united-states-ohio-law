@@ -1,0 +1,4 @@
+# Rule 145-2-30: Designation of beneficiary prior to retirement.
+(A) This rule amplifies section 145.431 of the Revised Code.
+(B) A member may designate a beneficiary on a form provided by the public employees retirement system. The designation applies to all retirement plans in which the member has contributions on deposit prior to retirement. If a member or participant has not designated a beneficiary, the beneficiary shall be determined pursuant to section 145.43 of the Revised Code and applicable provisions of the combined and member-directed plan documents.
+(C) A member or participant who designated a beneficiary or beneficiaries prior to the effective date of this rule shall have the last designation in time maintained as the single designation for the member's accounts in the traditional pension plan, combined plan, and member-directed plan.
