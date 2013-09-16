@@ -1,0 +1,2 @@
+# Rule 145-2-60: Designation of beneficiaries under the multiple-life plan.
+The portion of the lesser amount continuing after death to two, three, or four surviving beneficiaries designated at the time of a member's retirement or at the time of commencement of a contributor's benefit under section 145.384 or 145.64 of the Revised Code shall be allocated among the beneficiaries in whole percentages only.
