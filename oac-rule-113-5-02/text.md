@@ -1,0 +1,3 @@
+# Rule 113-5-02: Sweep accounts.
+(A) A sweep account is not considered an investment for the purpose of continuing education requirements under section 135.22 of the Revised Code, so long as the sweep account sweeps from one type of deposit or investment exempted from the continuing education requirements to another type of deposit or investment exempted from the continuing education requirements under division (E) of section 135.22 of the Revised Code. Therefore, a subdivision treasurer or fiscal officer who uses a sweep account for these purposes is not ineligible to obtain an exemption from continuing education requirements solely based on the use of such a sweep account.
+Last updated November 29, 2023 at 1:46 PM
