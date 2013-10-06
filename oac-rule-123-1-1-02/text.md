@@ -1,0 +1,3 @@
+# Rule 123:1-1-02: Records of the director.
+(A) Personnel records are maintained in the employee records center and are available for public inspection pursuant to section 149.43 of the Revised Code. Records not available for inspection include medical records, records pertaining to adoption, probation and parole proceedings, trial preparation records, confidential law enforcement investigatory records, and records the release of which is prohibited by state or federal law.
+(B) No information shall be altered, modified, or removed from an employee's personnel record unless so ordered by a court of law, the state personnel board of review, or the director of administrative services.
