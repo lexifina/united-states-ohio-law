@@ -1,0 +1,4 @@
+# Rule 1513-3-17: Voluntary dismissal and settlement.
+(A) An appeal before the commission may be closed by the appellant's filing of a notice of withdrawal of appeal at any time prior to the commission's rendering of a final decision.
+(B) If all full parties agree, settlement may be allowed at any stage of the proceedings prior to a final decision. In all cases where a proceeding is sought to be terminated by any of the parties as a result of a settlement agreement, the terms of such settlement shall be submitted to the commission for final action.
+(C) If an appeal is settled during the course of a hearing, the parties shall enter into the record a statement acknowledging that they have reached an agreement, that all issues have been resolved, and that a withdrawal of the appeal will be filed.
