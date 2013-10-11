@@ -1,0 +1,10 @@
+# Rule 1513-3-08: Temporary relief.
+(A) The chairperson of the reclamation commission may, under conditions he prescribes, grant temporary relief he considers appropriate pending final determination of an appeal in accordance with the provisions of division (C) of section 1513.13 of the Revised Code.
+(B) A request for temporary relief must meet the requirements for a notice of appeal set forth in paragraph (B) of rule 1513-3-04 of the Administrative Code and must also contain:
+(1) A detailed written statement setting forth the reasons why relief should be granted; and
+(2) Where a right to a decision in five days exists pursuant to division (C) of section 1513.13 of the Revised Code a clear statement of whether or not that right is waived.
+(C) The appellant may waive the requirement that the hearing for temporary relief be held in the locality of the permit area.
+(D) The chairperson may terminate the temporary relief hearing whenever, in the chairperson's judgment, further argument or evidence is unnecessary.
+(E) If at any time after the initiation of the temporary relief procedure, the appellant acts in a manner so as to frustrate the expeditious nature of this proceeding, such action shall constitute a waiver of the right to temporary relief.
+(F) The decision of the chairperson of the commission to grant or deny temporary relief may be appealed to the commission, including the chairperson who decided temporary relief, within thirty days after the chairperson's issuance of the decision in accordance with the provisions of section 1513.13 of the Revised Code. The commission may confine its review to the record developed at the temporary relief hearing conducted by the chairperson. The commission shall affirm the decision of the chairperson, unless it determines that the chairperson's decision is arbitrary, capricious, or otherwise inconsistent with law.
+(G) Temporary relief shall not be granted when the relief sought is the issuance of a permit when a permit has been denied, in whole or in part, by the chief.
