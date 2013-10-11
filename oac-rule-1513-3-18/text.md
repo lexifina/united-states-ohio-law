@@ -1,0 +1,9 @@
+# Rule 1513-3-18: Reports and recommendations of the hearing officer.
+(A) Unless otherwise directed by the commission, where a hearing officer has conducted an adjudicatory hearing, the hearing officer shall submit a report and recommendation to the commission in accordance with the provisions of section 1513.131 of the Revised Code.
+(B) After an action is commenced, or as part of a notice of appeal, any full party to an appeal may make a written motion requesting that its hearing be conducted before the commission, rather than before a hearing officer.
+(C) The hearing officer shall submit reports and recommendations to the commission on any interlocutory rulings which fully adjudicate the issues of the appeal.
+(D) Reports and recommendations of hearing officers shall be submitted to the commission within a time reasonably sufficient to allow the commission to issue its orders within any time limits imposed by law. However, in the event that a decision must be rendered within a specified time period, the appeal will be heard by the commission rather than by a hearing officer, unless there has been a waiver of the right to an expedited hearing.
+(E) Reports and recommendations of the hearing officers shall be sent to the parties by certified mail.
+(F) A party may, within fourteen days after receipt of a report and recommendation of the hearing officer, serve and file written objections to the hearing officer's report, which objections may include a motion for admission of additional evidence. Objections shall be specific and state with particularity the grounds therefor.
+(G) Any party may within fourteen days after receipt of objections to the report and recommendation of the hearing officer, file a response.
+(H) The commission may order oral argument upon objections to a report and recommendation of the hearing officer.
