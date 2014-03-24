@@ -1,0 +1,4 @@
+# Rule 124-11-20: Settlements and withdrawals.
+(A) An appeal may be withdrawn any time prior to the issuance of the final order of the board by filing a notice with the board. All withdrawals shall be signed by either the appellant or appellant's representative.
+(B) An appeal may be settled by the parties thereto any time prior to the issuance of a final order of the board. The board will accept signed settlement agreements and incorporate them into its final order. All notices of settlement shall be filed with the board, and shall be signed by all affected parties and their representatives.
+(C) If the board is notified a case has been withdrawn or settled, and no settlement agreement or withdrawal notice is filed with the board within the time frame set by the board, then the board shall schedule the case for a hearing.
