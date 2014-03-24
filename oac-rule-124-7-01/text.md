@@ -1,0 +1,8 @@
+# Rule 124-7-01: Job abolishments and layoffs.
+(A) Job abolishments and layoffs shall be disaffirmed if the action was taken in bad faith. The employee must prove the appointing authority's bad faith by a preponderance of the evidence.
+(1) The appointing authority shall demonstrate by a preponderance of the evidence that a job abolishment was undertaken due to a lack of a continuing need for the position based on: a reorganization for the efficient operation of the appointing authority; reasons of economy; or a lack of work expected to last one year or longer; or any combination thereof.
+(2) The appointing authority shall demonstrate by a preponderance of the evidence that a layoff was undertaken due to a temporary lack of work or lack of funds expected to last less than one year.
+(3) Layoffs and abolishments may only be affirmed if the appointing authority has substantially complied with procedural requirements set forth in sections 124.321 to 124.394 of the Revised Code and the administrative rules promulgated pursuant to these statutes.
+(B) Certification of lack of funds or lack of work is not required for job abolishments.
+(C) When a position is abolished or an employee is laid off, displacement rights, as set forth in division (C) of section 124.321 of the Revised Code, shall be afforded the employee.
+(D) Layoffs are governed by division (C) of section 124.321 of the Revised Code and any layoff rules which apply to a particular appointing authority. In the absence of superseding rules, the layoff rules promulgated by the director of administrative services shall be followed.
