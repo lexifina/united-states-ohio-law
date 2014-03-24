@@ -1,0 +1,4 @@
+# Rule 124-15-06: Appeals to the court of common pleas.
+(A) Appeals to the courts of common pleas are governed by the provisions of Chapters 119. and 124. of the Revised Code.
+(B) An original written notice of appeal or a copy of the notice of appeal shall be filed with the board and an original notice of appeal or a copy of the notice of appeal shall be filed with the reviewing court of common pleas within fifteen calendar days of mailing of the final order of the board. Each notice of appeal or copy thereof shall include the name of the county in which the appeal to court has been filed. The board is not to be named as a party in any appeal to the court of common pleas filed under the authority of Chapter 119. of the Revised Code.
+(C) A copy of the notice of appeal shall be served upon the opposing party.
