@@ -1,0 +1,19 @@
+# Rule 153:1-6-03: Authority of a contracting authority in the award of best value selection contracts.
+A contracting authority shall adhere to either rule 153:1-6-01 or rule 153:1-6-02 of the Administrative Code and the following procedures for the approval or award of best value selection contracts:
+(A) The contracting authority shall designate a selection coordinator to facilitate and manage the procurement of services under this chapter.
+(B) The contracting authority shall not change the recommendation of an evaluation committee or prevent the award of contract for a best value selection unless the contracting authority, upon reviewing the selection, discovers that one or more of the following exists:
+(1) The contract cannot be awarded under section 9.24 of the Revised Code because the person or firm has a finding for recovery issued by the auditor of state, and the finding for recovery is unresolved;
+(2) The recommended firm is debarred under section 153.02 of the Revised Code;
+(3) The recommended firm has been found by a court to be in default of a judgment or breach of settlement agreement;
+(4) The recommended firm has violated section 3517.102 of the Revised Code by exceeding allowable campaign contributions;
+(5) A correction of a clerical error made by the selection coordinator or evaluation committee changes the result of a selection;
+(6) A conflict of interest exists between the evaluation committee members and proposing firms.
+(C) If the contracting authority determines that one or more of the reasons in paragraphs (B)(1) to (B)(5) of this rule exists, then the contracting authority shall reject the recommendation of the evaluation committee and approve award to the firm next determined to provide the best value.
+(D) If the contracting authority determines that paragraph (B)(6) of this rule exists, then the contracting authority shall reject the recommendation of the evaluation committee, establish a new evaluation committee and repeat the selection process.
+(E) If the contracting authority determines that the evaluation committee did not follow the appropriate processes established in either rule 153:1-6-01 or rule 153:1-6-02 of the Administrative Code, or had inadequate documentation in support of the selection and is unable to cure the failure to consider adequate documentation, the contracting authority may reject the recommendation of the evaluation committee, establish a new evaluation committee and repeat the selection process.
+(F) If the firm that was recommended by the evaluation committee is not awarded a contract due to reasons set forth in paragraphs (B)(1) to (B)(4) of this rule, the contracting authority shall notify the affected firm in writing and describe the reason(s) for rejection.
+(1) Only the affected firm that was recommended by the evaluation committee but not awarded a contract by the contracting authority may protest the decision within five days and request a meeting seeking a final administrative decision. The reason(s) for the protest must be in writing. The contracting authority shall consider the objection within fifteen days of the notice. This process is not subject to Chapter 119. of the Revised Code.
+(2) No award of contract shall be made final until the contracting authority either affirms or reverses the rejection, which is the final administrative decision.
+(G) If the recommended firm withdraws its proposal, the contracting authority may approve award to the firm next determined to provide the best value.
+(H) The contracting authority reserves the right to waive minor errors that do not change the results of a selection.
+(I) No section of this rule requires a contracting authority to award a contract to any firm if the owner decides to terminate the selection process and reject all proposals at any time for any reason.
