@@ -1,0 +1,8 @@
+# Rule 175-1-02: General provisions.
+(A) Under extreme exigent circumstances and not in contradiction of any provision under the ORC or agency rules, the agency may waive specific provisions of the rules in this chapter where good cause is shown and adequate supporting documentation is provided. Any waiver is at the sole discretion of the agency, subject to applicable provisions of the Revised Code and Internal Revenue Code.
+(B) The agency shall not issue obligations to provide financing for any project unless the owners have satisfied the general requirements set forth in the rules in this chapter. The agency reserves the right to impose additional specific requirements with respect to any particular project. Compliance with the rules in this chapter by an applicant does not and shall not create any right by such applicant to a commitment or assurance that financing will be provided by the agency.
+(C) The agency shall not provide funding for any project or home unless such project or home are located entirely within the boundaries of the state of Ohio.
+(D) Projects assisted with funds from the agency shall be made available without discrimination or preference based on race, age, sex, ancestry, national origin, religion, veteran status, or disability and the recipient of funds must agree to affirmatively market the units.
+(E) Funding provided by the agency for any project or home is subject to the availability of funds and limitations otherwise prescribed by law.
+(F) The agency shall establish specific occupancy and eligibility requirements in program guidelines.
+(G) The agency shall issue and amend guidelines from time to time to establish procedures to amplify rules in this chapter.
