@@ -1,0 +1,3 @@
+# Rule 109:2-3-13: Adjudication hearing procedure.
+If a request for certification or renewal of any certification is denied, if certification is suspended or revoked, or school approval is revoked, the executive director shall notify the affected party. Unless the decision was of a ministerial nature, the executive director shall advise the affected party that the affected party may request a hearing before the commission as provided in sections 119.06 and 119.07 of the Revised Code. The commission shall conduct the hearing as required by sections 119.01 to 119.13 of the Revised Code.
+Last updated May 11, 2026 at 10:18 AM
