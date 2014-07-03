@@ -1,0 +1,12 @@
+# Rule 3301-102-11: Dropout prevention and recovery schools' assessment of growth in student achievement.
+(A) Pursuant to the development of the dropout prevention and recovery academic performance rating and report card system as required under section 3314.017 of the Revised Code and described in rule 3301-102-10 of the Administrative Code, dropout prevention and recovery community schools shall report assessment data to measure growth in student achievement in reading and in mathematics.
+(B) The assessments required to be used by dropout prevention and recovery community schools shall be selected by the state board of education through a competitive bidding process.
+(1) For the 2014-2015 school year, notice of the department's selection of the assessment and test vendor, as well as information regarding the processes and procedures to obtain, administer and report these assessments for reading and mathematics shall be communicated to the schools and made available on the department's website (education.ohio.gov);
+(2) For the 2015-2016 school year and beyond, any changes in the required assessments for reading and mathematics shall be communicated to the schools and the information made available on the department's website (education.ohio.gov).
+(C) For the 2014-2015 school year, in the absence of national norms for assessments in reading and mathematics for students enrolled in dropout prevention and recovery programs, the department shall develop a growth measure based upon value-added progress dimension, as defined in division (A)(1)(e) of section 3302.03 of the Revised Code.
+(1) Gain scores for both reading and mathematics shall be calculated and used to form a composite gain score for the school annually;
+(2) The gains scores shall use up to three years of measured progress data, as available, to form the composite gain score.
+(D) Ratings shall be assigned as follows:
+(1) A school shall receive a rating of "exceeds standards' if the composite gain score is at least two standard errors of measure above the mean score;
+(2) A school shall receive a rating of "meets standards" if the composite gain score is less than two standard errors of measure above the mean score and greater than or equal to two standard errors of measure below the mean score;
+(3) A school shall receive a rating of "does not meet standards" if the composite gain score is not greater than two standard errors of measure below the mean score.
