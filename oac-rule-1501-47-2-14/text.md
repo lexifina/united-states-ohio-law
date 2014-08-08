@@ -1,0 +1,6 @@
+# Rule 1501:47-2-14: Head-on situation.
+(A) Unless otherwise agreed, when two power-driven vessels are meeting on reciprocal or nearly reciprocal courses so as to involve risk of collision each shall alter its course to starboard so that each shall pass on the port side of the other.
+(B) Such a situation shall be deemed to exist when a vessel sees the other ahead or nearly ahead and by night it could see the masthead lights of the other in a line or nearly in a line or both sidelights and by day it observes the corresponding aspect of the other vessel.
+(C) When a vessel is in any doubt as to whether such a situation exists it shall assume that it does exist and act accordingly.
+(D) Notwithstanding paragraph (A) of this rule, a power-driven vessel operating on lake Erie and its tributaries, the Ohio river and its tributaries (or waters specified by the secretary) and proceeding downbound with a following current shall have the right-of-way over an upbound vessel, shall propose the manner of passage, and shall initiate the maneuvering signals prescribed by paragraph (A)(1) of rule 1501:47-2-34 of the Administrative Code, as appropriate.
+No person shall operate or permit to be operated, any vessel on the waters in this state, in violation of this rule.
