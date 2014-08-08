@@ -1,0 +1,14 @@
+# Rule 1501:47-2-09: Narrow channels.
+(A)
+(1) A vessel proceeding along the course of a narrow channel or fairway shall keep as near to the outer limit of the channel or fairway which lies on its starboard side as is safe and practicable.
+(2) Notwithstanding paragraph (A)(1) of this rule and paragraph (A) of rule 1501:47-2-14 of the Administrative Code, a power-driven vessel operating in narrow channels or fairways on lake Erie and its tributaries and the Ohio river and its tributaries and proceeding downbound with a following current shall have the right-of-way over an upbound vessel, shall propose the manner and place of passage, and shall initiate the maneuvering signals prescribed by paragraph (A)(1) of rule 1501:47-2-34 of the Administrative Code, as appropriate. The vessel proceeding upbound against the current shall hold as necessary to permit safe passing.
+(B) A vessel of less than twenty meters in length or a sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel or fairway.
+(C) A vessel engaged in fishing shall not impede the passage of any other vessel navigating within a narrow channel or fairway.
+(D) A vessel shall not cross a narrow channel or fairway if such crossing impedes the passage of a vessel which can safely navigate only within that channel or fairway. The latter vessel shall use the danger signal prescribed in paragraph (D) of rule 1501:47-2-34 of the Administrative Code if in doubt as to the intention of the crossing vessel.
+(E)
+(1) In a narrow channel or fairway when overtaking, the vessel intending to overtake shall indicate its intention by sounding the appropriate signal prescribed in paragraph (C) of rule 1501:47-2-34 of the Administrative Code and take steps to permit safe passing. The overtaken vessel, if in agreement, shall sound the same signal. If in doubt it shall sound the danger signal prescribed in paragraph (D) of rule 1501:47-2-34 of the Administrative Code.
+(2) This rule does not relieve the overtaking vessel of its obligation under rule 1501:47-2-13 of the Administrative Code.
+(F) A vessel nearing a bend or an area of a narrow channel or fairway where other vessels may be obscured by an intervening obstruction shall navigate with particular alertness and caution and shall sound the appropriate signal prescribed in paragraph (E) of rule 1501:47-2-34 of the Administrative Code.
+(G) Every vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel.
+(H) Vessels leaving a dock, boat slip, tie-up space, or mooring shall yield the right-of-way to all vessels approaching such dock, boat slip, tie-up space, or mooring.
+No person shall operate or permit to be operated, any vessel on the waters in this state, in violation of this rule.
