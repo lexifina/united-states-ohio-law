@@ -1,0 +1,14 @@
+# Rule 991-1-01: Proposed rule concerning notice of meetings.
+(A) Authority: This rule is adopted in compliance with, and under the authority of division (F) of section 121.22 of the Revised Code, as amended, effective November 28, 1975.
+(B) Any person may ascertain the time and place of all regularly scheduled meetings and the time, place and purpose of all special meetings by:
+(1) Writing to the following address: "Public Relations Office, Ohio Expo Center, 717 E. 17th Avenue, Columbus, Ohio 43211";
+(2) Calling the following telephone number during normal business hours: (614) 644-4000;
+(3) Consulting the receptionist in the lobby of the administration building at the Ohio expo center.
+(C) Any representative of the news media may obtain notice of all special meetings by requesting in writing that such notice be provided. Such notice will only be given, however, to one representative of any particular publication or radio or television station. A request for such notification shall be addressed to: "Public Relations Coordinator, Ohio Expo Center, 717 E. 17th Avenue, Columbus, Ohio 43211."
+(1) The request shall provide the name of the individual media representative to be contacted, and his or her fax number and email address. The public relations office shall maintain a list of all representatives of the news media who have requested notice of special meetings pursuant to this rule.
+(2) In the event of a special meeting not of an emergency nature, the public relations office shall notify all media representatives on the list of such meeting by doing at least one of the following:
+(a) Sending written notice, which must be faxed no later than twenty-four hours prior to the time of the special meeting;
+(b) Notifying such representatives by email or telephone no later than twenty-four hours prior to the special meeting, such telephone notice or email shall be complete if a message has been left for the representative, or if, after reasonable effort, the public relations office has been unable to provide such email or telephone notice.
+(3) In the event of a special meeting of an emergency nature, the public relations office shall notify all media representatives on the list of such meeting by providing the notice described in paragraph (C)(2)(b) of this rule, or notifying the clerks of the state house press room and radio/TV room. In such event, however, the notice need not be given twenty-four hours prior to the meeting, but shall be given as soon as possible.
+(4) In giving the notices required by this paragraph, such notice is complete if given by either the general manager or the public relations office in the manner provided in paragraph (C) of this rule.
+(D) The public relations office shall maintain a list of all persons who have requested, in writing, notice of all meetings of the Ohio expositions commission at which specific subject matters designated by such persons are scheduled to be discussed.
