@@ -1,0 +1,3 @@
+# Rule 1501:31-3-15: Taking of certain species of fish with seine.
+(A) Carp, grass carp, buffalo fish, suckers, sheepshead, goldfish, bowfin, gizzard shad, quillback and white perch may be taken with a seine only in the bays, marshes, estuaries, or inlets bordering upon, flowing into, or in any manner connected with lake Erie, except as in any of these waters that are in the lake Erie fishing district where they may be taken with other nets as provided in Chapters 1531. and 1533. of the Revised Code.
+(B) Such fish as described in paragraph (A) of this rule may be taken with a seine in the Sandusky river within the inland fishing district upstream to the Interstate 80 bridge "(41 23' 52.55" N 082 06' 1.31"W)."
