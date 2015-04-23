@@ -1,0 +1,8 @@
+# Rule 742-16-01: Policy for reimbursement of trustee business and educational travel expense.
+(A) Subject to the provisions of section 742.101 of the Revised Code and this rule, board members may receive reimbursement from police and fire pension fund for all proper, reasonable and necessary expenses actually incurred in the performance of their official duties, as more fully described in the board's travel policy. Eligible reimbursable expenses include, but are not limited to reasonable charges for meals, beverages, tips, lodging, airfare, ground transportation, telephone calls, and registration fees, subject to the limitations outlined in the board's travel policy.
+(B) Reimbursement from the fund for out-of-state travel shall require approval in advance by a majority of the board at a regularly scheduled board meeting after review and recommendation by the audit/administration committee, with the following exception. In the case of an emergency, out-of-state travel requires approval by the chairman of the board and the executive director of the fund. In the case of an emergency, reimbursement for in-state travel shall be approved by the chairman of the board or the executive director.
+(C) Official duties may include:
+(1) Attendance at a conference, convention, educational seminar, school or meeting which will serve to help the trustee become a better, more knowledgeable and active trustee.
+(2) Meetings with OP&F staff, other trustees, members and associates on pension matters.
+(3) Other travel on fund business, as required by the board or executive director.
+(D) For all travel and business expenses on which reimbursement is sought by a trustee, expense reports must be submitted on forms provided by OP&F.
