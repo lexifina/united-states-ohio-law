@@ -1,0 +1,10 @@
+# Rule 145-2-03: Purchase of workers' compensation service.
+(A) A member is not eligible to purchase service under section 145.2915 of the Revised Code if any of the following circumstances apply:
+(1) Service credit for the period of receiving workers compensation was obtained by the member under the version of division (H) of section 145.01 of the Revised Code that existed prior to January 7, 2013;
+(2) The member is eligible to purchase the service under section 145.291 or division (G) of section 145.47 of the Revised Code;
+(3) Service credit for the period of receiving workers compensation was obtained under section 145.483 of the Revised Code;
+(4) The member has not made a redeposit of contributing service pursuant to section 145.31 of the Revised Code or rule 145-3-22 of the Administrative Code for which a member received a refund of the member's accumulated contributions pursuant to section 145.40 of the Revised Code or article VIII of the combined plan document, for any period of contributing service adjacent to the period of receiving workers compensation; or
+(5) The member received a benefit from the system for the period of receiving workers compensation.
+(B) The employer contributions due pursuant to section 145.2915 of the Revised Code shall be billed to the public employer after the member has paid all or part of the corresponding employee contributions. If the employer fails to remit the required payments, any employer contributions not paid shall be certified for collection and subject to the same penalty and interest described in section 145.51 of the Revised Code.
+(C) The limit described in paragraph (F) of section 145.2915 of the Revised Code also applies to service credit obtained under Chapter 742. or 5505. of the Revised Code for a period the member was out of service and reciving workers' compensation.
+(D) If a member is eligible to purchase more than one period of workers compensation service, the purchase shall be completed in the order of the most recent period to the earliest period.
