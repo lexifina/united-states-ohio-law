@@ -1,0 +1,9 @@
+# Rule 145-2-02: Additional liability for service purchases in the traditional pension plan.
+(A) This rule amplifies section 145.29 of the Revised Code.
+(B) As used in this rule, "service credit" means both of the following:
+(1) Service credit that may be purchased or obtained under sections 145.20, 145.201, 145.28, 145.291, 145.292, 145.293, 145.299, and 145.47 of the Revised Code, as those sections existed on and after January 7, 2013.
+(2) Service credit that may be purchased or obtained under section 145.814 of the Revised Code or rule 145-2-18 of the Administrative Code for an election that is effective on or after August 1, 2013, under section 2.03 of the combined or member-directed plan document, as amended on January 7, 2013.
+(C)
+(1) Except as provided in this paragraph, the public employees retirement system shall calculate the cost to purchase service credit by using the greater of the member's final average salary or the member's earnable salary for the twelve months of contributing service under Chapter 145., 3307., or 3309. of the Revised Code immediately preceding the month in which the application to purchase is received by the system. If the member's election to purchase service described in paragraph (B)(2) of this rule occurs less than twelve months after the effective date of a plan change, the system shall calculate the cost to purchase service credit by using the final average salary or last twelve months of earnable salary in the prior plan.
+(2) The public employees retirement board shall, based upon its actuary's recommendation, establish the percentage rate for the cost of the service credit in the traditional pension plan.
+(D) Payments made by a member to purchase service credit under section 145.29 of the Revised Code and this rule shall be credited to the employees' savings fund and shall be considered the accumulated contributions of the member.
