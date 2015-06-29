@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated June 17, 2024 at 10:28 AM
+Effective: June 29, 2015
+Promulgated Under: 119.03
+Authorized By: 927.52, 927.71
+Amplifies: 927.70, 927.71
+Five Year Review Date: 5/21/2029
+Prior Effective Dates: 8/29/2002, 7/21/2006
