@@ -1,0 +1,3 @@
+# Rule 901:3-5-02: Personnel training.
+(A) The operators of processing and packaging systems shall be under the operating supervision of a person who has attended a school for giving instruction in food-handling techniques, food-protection principles, personal hygiene, plant sanitation practices, pH controls, critical factors in acidification, and who has been identified by that school as having satisfactorily completed the prescribed course of instruction.
+(B) The supervisor identified in paragraph (A) of this rule shall supply the director, upon request, a copy of their certificate of completion for the prescribed applicable course of instruction.
