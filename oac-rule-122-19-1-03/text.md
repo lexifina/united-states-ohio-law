@@ -1,0 +1,6 @@
+# Rule 122:19-1-03: Historic preservation tax credit eligibility.
+(A) Only the applicant may apply for a historic preservation tax credit for that building.
+(B) An application for the historic preservation tax credit must include evidence, reasonably acceptable to the director, that the applicant is the current owner in fee simple title of the historic building or a qualified lessee pursuant to section 149.311 of the Revised Code.
+(C) An application for the historic preservation tax credit must include documentation that the subject building is a historic building.
+(D) All rehabilitation identified in the historic preservation tax credit application must meet applicable rehabilitation standards. An application for the historic preservation tax credit shall include, in a format acceptable to the officer and director, a description of the proposed project rehabilitation activities sufficient to determine whether the applicable rehabilitation standards will be met if the rehabilitation is undertaken as proposed in the application.
+(E) An application for the historic preservation tax credit must include evidence, reasonably acceptable to the director, that the tax credit is a major factor in the applicant's decision to rehabilitate the historic building or to increase the level of the applicant's investment in such rehabilitation.
