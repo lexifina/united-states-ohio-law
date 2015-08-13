@@ -1,0 +1,4 @@
+# Rule 1501:3-4-04: Vehicles, snowmobiles, bicycles, dog sleds, horses required to stay on roads or trails; negligent operation, accessibility.
+(A) No person shall operate any vehicle, snowmobile, bicycle, dog sled, or horse within any state forest except over and upon roads, trails or other facilities designated and provided and posted for such purpose unless authorized by the chief or his authorized agent.
+(B) No person shall cause a vehicle, dog sled, bicycle, snowmobile or horse to be operated or lead in a careless, negligent or reckless manner.
+(C) This rule shall not restrict the use of a motorized wheelchair or scooter by a person who is non-ambulatory in any area open to the public and where not otherwise restricted for safety purposes, resource protection, or by designation of the chief or authorized agent.
