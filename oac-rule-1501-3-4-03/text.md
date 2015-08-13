@@ -1,0 +1,2 @@
+# Rule 1501:3-4-03: Parked vehicles; exception.
+No person shall park any vehicle within state forests during the hours of closure as defined in rule 1501:3-2-01 of the Administrative Code except that registered campers may park vehicles in designated parking areas for the length of time permitted by such camping, and that individuals engaged in legal hunting and fishing and military personnel or other persons engaged in special use under authorization of the chief or authorized agent are excepted.
