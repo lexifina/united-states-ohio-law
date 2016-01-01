@@ -1,0 +1,3 @@
+# Rule 145-2-01: Service credit definitions.
+(A) For service purchased or restored in the traditional pension plan under sections 145.28, 145.295, 145.2911, 145.2913, 145.31, and 145.311 of the Revised Code, "eighteen months of contributing service credit in the system," means eighteen months of contributing service credit under the traditional pension plan, inclusive of service credit transferred from a prior plan to the traditional pension plan pursuant to rule 145-2-18 of the Administrative Code.
+(B) For purposes of division (H)(1) of section 145.01 of the Revised Code, "contributing service in this system" means contributing service credit under the traditional pension plan.
