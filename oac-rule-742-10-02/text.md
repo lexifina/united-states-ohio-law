@@ -1,0 +1,3 @@
+# Rule 742-10-02: Qualified investment manager.
+(A) For the purposes of division (A)(4) of section 742.114 and section 742.116 of the Revised Code, an investment manager may be designated as an "Ohio-qualified investment manager" if the investment manager and/or any parent, affiliates, or subsidiaries of the investment manager meets the requirements of divisions (A)(1) and (A)(2) of section 742.116 of the Revised Code.
+(B) For purposes of sections 742.114 and 742.116 of the Revised Code, "principal place of business" includes an office in which the agent or investment manager regularly provides securities or investment advisory services and solicits, meets with, or otherwise communicates with clients.
