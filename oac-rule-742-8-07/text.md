@@ -1,0 +1,15 @@
+# Rule 742-8-07: Penalties and interest under section 742.352 of the Ohio Revised Code.
+(A) Pursuant to the authority outlined in division (C) of section 742.352 of the Revised Code, the board of trustees hereby modifies the statutory penalties and interest in accordance with the following provisions.
+(B) Subject to the provisions of paragraph (D) of this rule, an employer with no more than twenty members shall be penalized for failing to transmit reports and payment in accordance with sections 742.32 and 742.56 of the Revised Code and corresponding administrative rules or payments in accordance with section 742.35 of the Revised Code as follows:
+(1) If a report or payment is at least one but not more than fifteen days past due, fifty dollars;
+(2) If a report or payment is at least sixteen but not more than sixty days past due, one hundred dollars;
+(3) If a report or payment is at least sixty-one but not more than one hundred eighty days past due, the greater of five hundred dollars or two per cent of the payment.
+(4) If a report or payment is at least one hundred eighty-one days but not more than two hundred forty days past due, the greater of one thousand dollars or three per cent of the payment;
+(5) If a report or payment is at least than two hundred forty-one days past due, the greater of three thousand dollars or four per cent of the payment.
+(C) Pursuant to division (C) of section 742.352 of the Revised Code, an employer with twenty-one or more members shall be penalized for failing to transmit reports and payment in accordance with sections 742.32 and 742.56 of the Revised Code and corresponding administrative rules or payments in accordance with section 742.35 of the Revised Code as follows:
+(1) If a report or payment is at least one but not more than fifteen days past due, one hundred dollars;
+(2) If a report or payment is at least sixteen but not more than sixty days past due, the greater of five hundred dollars or one per cent of the payment;
+(3) If a report or payment is at least sixty-one but not more than one hundred eighty days past due, the greater of one thousand dollars or two per cent of the payment.
+(4) If a report or payment is at least one hundred eighty-one days but not more than two hundred forty days past due, the greater of three thousand dollars or three per cent of the payment;
+(5) If a report or payment is at least two hundred forty-one days past due, the greater of seven thousand five hundred dollars or four per cent of the payment.
+(D) Notwithstanding the provisions of paragraph (B) of this rule, employers with no more than five members shall have a cap on penalties equal to five hundred dollars for each failure to transmit reports and payment in accordance with sections 742.32 and 742.56 of the Revised Code or payments in accordance with section 742.35 of the Revised Code. Such employers shall also be eligible to participate in the payment plan outlined in rule 742-7-15 of the Administrative Code to the extent that they require an additional amount of time to repay penalties and interest.
