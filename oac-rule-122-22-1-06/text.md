@@ -1,0 +1,3 @@
+# Rule 122:22-1-06: Fees.
+(A) Each applicant shall submit with its application for a credit allocation an application fee in the amount of fifteen hundred dollars. An application will not be considered by the director unless the application fee is paid prior to the date the application is required to be filed. Application fees are non-refundable upon submission of the application.
+(B) Each state allocatee shall pay a servicing fee in the amount of seventeen thousand five hundred dollars. The servicing fee will be payable in full upon execution and delivery of the allocation agreement. No allocation agreement shall be effective unless the servicing fee has been paid. Servicing fees are non-refundable upon execution of the agreement.
