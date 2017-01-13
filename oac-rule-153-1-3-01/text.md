@@ -1,0 +1,10 @@
+# Rule 153:1-3-01: Definitions.
+(A) For the purpose of this chapter, "construction manager at risk" shall have the same meaning given it in section 9.33 of the Revised Code.
+(B) For the purpose of this chapter, "public authority" and "design-build firm" shall have the meanings given them in section 153.65 of the Revised Code, but this rule does not apply to the department of transportation as the director of the department of transportation has specific statutory authority under Chapters 5517., 5525. and 5526. of the Revised Code to establish a design build program, criteria and selection process.
+(C) For the purpose of this chapter, "general contracting firm" shall have the same meaning given it in section 153.50 of the Revised Code.
+(D) "Contingent payment clause" means language that makes the contractor's obligation to pay the subcontractor contingent upon the contractor's receipt of payment from the public authority for the subcontractor's work.
+(E) "Contractor" means either a construction manager at risk, design-build firm, or general contracting firm.
+(F) "Work" means the labor, materials, equipment, and services, individually or collectively, which are required by the contract documents to be performed or provided by the contractor for the project.
+(G) "Contract documents" means collectively the documents that constitute the substance of the contract between the contractor and the public authority, including, but not limited to, all exhibits and addendum to that contract, drawings, specifications, general conditions, supplementary conditions, and any change orders.
+(H) "Subcontractor" means any person or entity who undertakes to perform any part of the work on the project that is in privity of contract with a contractor.
+(I) "Subcontract form" means the subcontract form developed by the Ohio facilities construction commission. The current version of the subcontract form shall be found on the following website under Misc: http://ofcc.ohio.gov/Documents/AgreementsandStandardRequirements.aspx.
