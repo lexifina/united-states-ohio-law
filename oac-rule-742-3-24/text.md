@@ -1,0 +1,2 @@
+# Rule 742-3-24: Specified amount of court order.
+The specified amount that a member is required to elect pursuant to a court order, described in division (D)(1)(c) of section 742.3711 of the Revised Code, shall be expressed only as a percentage of the allowance that continues after the member's death. In the event that it is expressed as a dollar amount, Ohio police and fire pension fund shall convert the amount to a percentage that will continue at least that amount to the former spouse as a survivor annuity upon the member's death.
