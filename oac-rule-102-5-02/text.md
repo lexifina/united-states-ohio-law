@@ -1,0 +1,6 @@
+# Rule 102-5-02: Financial disclosure statements.
+(A) The commission shall maintain all financial disclosure statements filed under section 102.02 of the Revised Code pursuant to its retention schedule.
+(B) Financial disclosure statements will be stored by the commission in electronic or hard copy form. Statements stored in the commission's office or at a secure storage facility acquired for that purpose will be made available for public inspection at the commission's office. Statements maintained under this paragraph at the Ohio historical society will be available at the society.
+(C) A financial disclosure statement that is required to be confidential pursuant to division (B) of section 102.02 of the Revised Code will be maintained by the commission at its office pursuant to the commission's retention schedule. Except as described in division (B) of section 102.02 of the Revised Code and rule 102-5-08 of the Administrative Code, a financial disclosure statement that is required to be confidential is not available for public inspection.
+(D) A financial disclosure statement filed by a voluntary filer must comply with the provisions of division (A) of section 102.02 of the Revised Code. A statement filed by a voluntary filer will be maintained in accordance with paragraph (B) of this rule.
+Last updated October 10, 2023 at 2:50 PM
