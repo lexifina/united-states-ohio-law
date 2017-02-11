@@ -1,0 +1,7 @@
+# Rule 102-5-04: Financial disclosure filing requirement; chief administrative or executive officers of sovereign power state boards and commissions.
+This rule is adopted pursuant to division (B) of section 102.02 of the Revised Code.
+(A) The chief administrative or executive officer of any entity who holds a position that involves a substantial and material exercise of administrative discretion in the formulation of public policy, expenditure of public funds, enforcement of laws, rules, and regulations of state, or the execution of other public trusts, is required to file an annual financial disclosure statement.
+(B) The commission must send any person who is required to file a financial disclosure statement under this rule written notice of this requirement not less than thirty days before the applicable filing deadline, unless the person is appointed after that date.
+(C) If a person who is required to file a financial disclosure statement under this rule is appointed after that date, the commission will send the person written notice of this requirement within thirty days after the commission is notified of the appointment.
+(D) In satisfying the written notice requirement described in paragraphs (B) and (C) of this rule, the commission may send written notice of the financial disclosure filing requirement to the entity with which the person is or was associated during the financial disclosure statement filing period.
+Last updated October 10, 2023 at 2:50 PM
