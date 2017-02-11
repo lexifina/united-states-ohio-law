@@ -1,0 +1,5 @@
+# Rule 102-5-15: Waiver of late fees.
+The commission may waive a late fee imposed upon a person for failing to file a financial disclosure statement by the applicable filing deadline on a case-by-case basis under circumstances including, but not limited to, the following instances:
+(A) The person objectively demonstrates the existence of a serious and compelling medical, legal or other reason that prevented filing by the applicable deadline; or
+(B) The person objectively demonstrates that the public agency or appointing authority required by section 102.02 of the Revised Code to provide the financial disclosure statement failed to provide the statement or provided the statement late in the applicable filing period that made it impossible or unlikely for the person to comply with the required filing deadline. In so doing, the commission requires that an independent source must verify that the statutorily responsible agency or appointing authority failed to provide the financial disclosure statement or provided it late, and that such failure is not attributable to the filer's knowing inaction.
+Last updated October 11, 2023 at 1:06 PM
