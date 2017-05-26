@@ -1,0 +1,7 @@
+# Rule 175-10-04: Confidentiality statutes.
+The following federal statutes or regulations or state statutes and administrative rules make personal information maintained by the agency confidential and identify the confidential personal information within the scope of rules promulgated by this agency in accordance with section 1347.15 of the Revised Code:
+(A) Social security numbers: 5 U.S.C. 552a., unless the individual was told that the number would be disclosed.
+(B) "Bureau of Criminal Investigation and Information" criminal records check results: section 4776.04 of the Revised Code.
+(C) Financial statements and data submitted to the agency for any purpose by any person in connection with applying for, receiving, or accounting for financial assistance the agency provides: division (B)(1) of section 175.12 of the Revised Code; and
+(D) Information that identifies any individual who benefits directly or indirectly from financial assistance that the agency provides: division (B)(2) of section 175.12 of the Revised Code.
+The list of confidentiality statutes in this rule is provided as illustrative and should not be relied upon exclusively. As federal and state statutes are enacted or amended, the applicability of those statutes to the rules adopted under this chapter shall be as set forth in those statutes taking into consideration the requirements of these rules. Any changes that occur shall be available to any requester by making a request to the agency's chief legal counsel.
