@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated March 7, 2023 at 10:14 AM
+Effective: June 4, 2017
+Promulgated Under: 111.15
+Authorized By: 3307.04
+Amplifies: 3307.121
+Five Year Review Date: 2/18/2027
+Prior Effective Dates: 7/1/2001 (Emer.)
