@@ -1,0 +1,3 @@
+# Rule 3307-1-06: Ohio-qualified agents and investment managers.
+(A) For purposes of division (A)(4) of section 3307.152 and section 3307.154 of the Revised Code, an investment manager may be designated as an "Ohio-qualified investment manager" if the investment manager and/or any parents, affiliates, or subsidiaries of the investment manager meets the requirements of divisions (A)(1) and (A)(2) of section 3307.154 of the Revised Code.
+(B) For purposes of section 3307.154 of the Revised Code, "principal place of business" includes an office in which the agent or investment manager regularly provides securities or investment advisory services and solicits, meets with, or otherwise communicates with clients.
