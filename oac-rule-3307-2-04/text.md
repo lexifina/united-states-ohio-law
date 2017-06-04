@@ -1,0 +1,2 @@
+# Rule 3307-2-04: Payment of allowances and benefits.
+The retirement system is authorized to pay monthly retirement allowances, disability benefits and other statutorily mandated benefits during the interim period which may occur between the date such allowances and benefits are payable and the date the retirement board can act as provided in Chapter 3307. of the Revised Code, as such authority so granted is considered necessary to the proper operation of the retirement system.
