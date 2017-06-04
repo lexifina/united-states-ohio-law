@@ -1,0 +1,4 @@
+# Rule 3307-1-01: Rules.
+(A) Except as otherwise provided in Chapter 3307. of the Revised Code, the retirement board shall adopt rules pursuant to section 111.15 of the Revised Code.
+(B) Any person or organization may obtain notice of any proposed amendment, rescission, or adoption of a rule by making a written request to be placed on the mailing list to receive the retirement board's meeting agenda. Notice need not be provided to more than one representative of an organization.
+(C) The retirement system shall take all actions requested or required by the legislative service commission to facilitate publication of rules in the Administrative Code. Notice and information about any adopted rule or rule change shall also be provided to employers and, where applicable, shall also be reported in communications sent to members, contributors, retirants, and benefit recipients.
