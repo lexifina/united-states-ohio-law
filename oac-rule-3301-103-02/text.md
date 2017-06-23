@@ -1,0 +1,4 @@
+# Rule 3301-103-02: Autism scholarship program established.
+(A) The purpose of the rules in Chapter 3301-103 of the Administrative Code is to prescribe procedures to implement the autism scholarship program established in section 3310.41 of the Revised Code.
+(B) The purpose of the scholarship is to permit the parent of a qualified special education child the choice to send the child to a special education program, instead of the one operated by or for the school district in which the child is entitled to attend school, to receive the services prescribed in the child's IEP once the IEP is finalized. Upon written agreement with the eligible applicant, the provider may modify services provided to the child.
+(C) Recipients of a scholarship through the autism scholarship program must be in compliance with the state compulsory attendance law established under Chapter 3321. of the Revised Code.
