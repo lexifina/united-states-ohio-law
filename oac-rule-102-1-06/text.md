@@ -1,0 +1,4 @@
+# Rule 102-1-06: Officers and committees.
+(A) A chair and vice chair will be elected at the first annual meeting of each calendar year, and will serve for one year or until a successor is elected. The vice chair will preside at any meeting of the commission at which the chair is not present. In the absence of the chair and vice chair, the members present will designate a member as the presiding officer.
+(B) The commission or chair may establish, abolish, modify, or appoint members or chairs of committees to assist in performing its statutory authority. No committee will make decisions that require the full vote of the commission. Meetings of committees will be subject to the same notice requirements as commission meetings, set forth in rule 102-1-05 of the Administrative Code. The advisory committee and investigative committee shall be standing committees.
+Last updated October 10, 2023 at 2:48 PM
