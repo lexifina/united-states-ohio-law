@@ -1,0 +1,6 @@
+# Rule 109:2-3-09: Examination.
+(A) The Ohio peace officer training commission will prepare, conduct and score a final examination for each person successfully completing the private security academic training course. Each student recommended for certification must pass the final examination with a minimum score to be determined by the commission.
+(B) No student shall participate in the final examination who has not successfully completed first aid or unarmed self-defense, or has failed to submit a satisfactory student notebook.
+(C) No student shall participate in the final examination who has failed to meet the minimum attendance requirements established by the commission.
+(D) The results of this examination shall be made known to the commander within five business days of the date administered. Persons failing to achieve the designated minimum score shall be given one retest. This retest shall normally be given within two weeks of the date the commander is notified of the initial examination results. The results of the retest shall be made known to the commander within five business days of the date administered. Students who fail the retest shall not be permitted to take the final examination again until they successfully complete another private security academic training course.
+Last updated May 11, 2026 at 10:18 AM
