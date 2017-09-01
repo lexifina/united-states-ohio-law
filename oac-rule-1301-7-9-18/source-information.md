@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated September 8, 2023 at 10:59 AM
+Effective: September 1, 2017
+Promulgated Under: 119.03
+Authorized By: 3737.88
+Amplifies: 3737.38
+Five Year Review Date: 6/4/2027
+Prior Effective Dates: 5/16/2011
