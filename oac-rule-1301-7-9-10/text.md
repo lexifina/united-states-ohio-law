@@ -1,0 +1,27 @@
+# Rule 1301:7-9-10: Permits for UST systems.
+(A) Purpose and scope.
+For the purpose of prescribing rules pursuant to section 3737.88 of the Revised Code, the state fire marshal hereby adopts this rule to establish permit requirements for underground storage tanks containing petroleum or other regulated substances. This rule is adopted by the state fire marshal in accordance with Chapter 119. of the Revised Code and shall not be considered a part of the "Ohio Fire Code."
+(B) Storage tank systems that are partially exempt as described in paragraph (E) of rule 1301:7-9-01 of the Administrative Code are not required to obtain a permit for activities listed in paragraph (C)(1) of this rule or use certified UST installers and UST inspectors as described in paragraph (D) of this rule.
+(C) Permits.
+(1) A permit is required to perform all of the following activities on an UST system:
+(a) Installation;
+(b) Removal;
+(c) Closure-in-place;
+(d) Removal from service more than ninety days;
+(e) Performance of a change in service;
+(f) Performance of a change of product;
+(g) Performance of a major repair of an UST system that has caused a release; or
+(h) Performance of a modification of an UST system or component.
+(2) A permit is not required to operate an UST system or perform routine maintenance or normal operational upkeep of an UST system.
+(3) A permit must be obtained prior to any permit related activity taking place unless the state fire marshal or the local fire agency that has been given delegated authority pursuant to rule 1301:7-9-15 of the Administrative Code having jurisdiction over the location where the activity is to take place gives verbal approval or establishes an alternative notification process to allow permit related activity to be performed prior to the issuance of a permit.
+(4) Any person engaged in an activity requiring a permit shall submit a permit application form prescribed by the state fire marshal accompanied by any drawings or additional information required on the prescribed application form. A permit shall be obtained for any of the activities described in paragraph (C)(1) of this rule from the local fire agency that has been given delegated authority pursuant to rule 1301:7-9-15 of the Administrative Code having jurisdiction over the location where the activity is to take place. Otherwise, the permit shall be obtained from the state fire marshal.
+(a) The authority issuing the permit shall review the permit application and, if the authority determines that the proposed activity is in compliance with this rule and that the appropriate fee has been paid, the authority shall issue the permit. The authority may place upon the permit such terms and conditions as the authority determines to be necessary to bring the proposed activity into compliance with this chapter.
+(b) Any permit issued under this paragraph shall not be construed as authority to violate any provision of this chapter.
+(c) The state fire marshal may revoke any permit pursuant to Chapter 119. of the Revised Code if upon inspection any violation of this chapter exists, if conditions of a permit have been violated, or if there has been any false statement or misrepresentation as to a material fact on the permit application or supporting documentation.
+(5) For permits obtained from the state fire marshal, the permit fee shall be thirty-five dollars for each location described in the permit application. Inspections conducted by a state fire marshal employee shall be billed at a rate of sixty dollars per hour for each hour or fraction thereof at the inspection location. The state fire marshal may bill the owner of the underground storage tank or the owner of the property where the underground storage tank is located. Permit and inspection fees for permits obtained from a local fire agency that has been delegated authority pursuant to rule 1301:7-9-15 of the Administrative Code shall be established by the local fire agency.
+(6) No person shall operate any UST system or portion thereof upon which there are past due permit fees or inspection fees owed to the state fire marshal. Inspection fees will be considered past due if they are not actually received by the state fire marshal within thirty days of the date of the invoice. Nothing in this paragraph shall be construed to establish inspection fees charged by an UST inspector certified pursuant to rule 1301:7-9-15 of the Administrative Code.
+(7) Obtaining a permit pursuant to this rule does not relieve a person engaged in underground storage tank activity from;
+(a) The obligation of obtaining any other applicable federal, state, or local permits, or
+(b) The obligation of complying with any other applicable federal, state, or local laws and regulations.
+(D) Certified UST installers and UST inspectors.
+All activity requiring a permit shall be supervised by an installer certified pursuant to rule 1301:7-9-11 of the Administrative Code, unless instructed otherwise by this chapter. All activity requiring a permit shall be inspected by an employee of the state fire marshal or a certified UST inspector who has been certified by the state fire marshal to conduct such inspections pursuant to rule 1301:7-9-15 of the Administrative Code, unless instructed otherwise by this chapter. No person shall operate any UST system or portion thereof until the activity requiring a permit has been inspected.
