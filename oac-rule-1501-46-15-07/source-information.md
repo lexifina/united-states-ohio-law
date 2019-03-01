@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated February 17, 2026 at 2:13 PM
+Effective: March 1, 2019
+Promulgated Under: 119.03
+Authorized By: 1546.04
+Amplifies: 1546.02, 1546.19, 1546.04
+Five Year Review Date: 1/14/2031
+Prior Effective Dates: 3/1/1993
