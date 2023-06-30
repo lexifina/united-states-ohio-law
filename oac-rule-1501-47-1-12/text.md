@@ -1,0 +1,7 @@
+# Rule 1501:47-1-12: Buoys.
+In accordance with section 1547.08 of the Revised Code the following buoys or signs will be used to mark recreational water areas of the state of Ohio.
+(A) Buoys marking control zones, hazards and no boat areas shall show all around the horizon. The body of such buoys are to be white in color and with a solid orange cap at the top. On the white background, as an integral part of the buoy or on a suitable decal, the outline of a circular or diamond shaped insignia of the same orange color is to be clearly visible. Black block letters with an indication of the restriction are to be located above, below, or enclosed withing the insignia. The size of the insignia and the letters will be determined by the chief of the division of parks and watercraft commensurate with the size of the buoy.
+(B) Control zones will be marked by buoys displaying a circular-shaped insignia of the above mentioned orange color.
+(C) Danger areas will be marked by buoys displaying a diamond-shaped insignia of the above mentioned orange color.
+(D) Dams, rapids, swimming areas and all other areas in which recreational vessels are prohibited will be marked by buoys displaying a diamond-shaped insignia containing intersecting horizontal and vertical lines of the above mentioned orange color.
+(E) In addition to the above mentioned buoys, the chief of the division of parks and watercraft may prescribe signs to mark similar and dissimilar hazards and areas.
