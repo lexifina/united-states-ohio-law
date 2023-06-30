@@ -1,0 +1,2 @@
+# Rule 1501:47-3-32: Watercraft operation in activity zone.
+At Portage lakes state park and Buckeye lake state park, no person is permitted to operate a watercraft in either of the two activity zones for purposes other than the activity that is designated for that period of time. This rule is effective from Memorial day to Labor day between the hours of nine a.m. and eight p.m., and from Labor day to Memorial day between the hours of nine a.m. and sunset.
