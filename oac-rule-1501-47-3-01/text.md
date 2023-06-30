@@ -1,0 +1,2 @@
+# Rule 1501:47-3-01: Exceptions.
+The rules contained within Chapter 1501:47-3 of the Administrative Code are applicable to all water areas under the supervision and control of the Ohio division of parks and watercraft. However, nothing herein is to be interpreted or construed in such a manner as to prevent or delay authorized personnel of the department of natural resources in the completion of necessary duties or while on patrol or emergency service.
