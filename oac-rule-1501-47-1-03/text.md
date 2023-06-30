@@ -1,0 +1,2 @@
+# Rule 1501:47-1-03: Application for mail renewal of registration certificate.
+An application for mail renewal of a registration certificate may be made by the owner on forms mailed to and provided by the chief of the division of parks and watercraft. The same Ohio registration number will be issued upon renewal. Such application for mail renewal shall contain all of the information required in rule 1501:47-1-02 of the Administrative Code except paragraph (M) of that rule.
