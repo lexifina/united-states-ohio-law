@@ -1,0 +1,2 @@
+# Rule 1501:47-1-05: New ownership of watercraft already registered: exceptions.
+The application for a registration certificate of a watercraft already numbered will, for the purpose of the fees set forth in section 1547.54 of the Revised Code, be regarded as an original application for registration, but where the watercraft will continue in use in the state of Ohio the number will be identical with the previously issued number, except where a lienholder acquired title and lawful possession by virtue of his lien (repossession), in which case a new number will be issued.
