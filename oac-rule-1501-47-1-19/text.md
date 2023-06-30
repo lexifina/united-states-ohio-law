@@ -1,0 +1,8 @@
+# Rule 1501:47-1-19: Watercraft registration/boating education course fee refunds.
+(A) A refund of a watercraft registration fee set forth in section 1547.54 of the Revised Code will be issued in the event the watercraft owner is able to provide proof that the registration fee had been paid multiple times for the current triennial registration time period. A refund may also be issued in those situations where the chief deems a refund is appropriate provided the request for refund was received by the chief within the first thirty days after the purchase of the watercraft registration.
+(B) A refund of a boating skill development course or other educational course as set forth in rule 1501:47-1-18 of the Administrative Code will be issued in the event of an emergency, or in those situations where the chief deems a refund is appropriate.
+For the purposes of paragraph (B) of this rule, "emergency" is defined as any situation in which the instructor finds it necessary to cancel the course or the student misses the course due to circumstances beyond their control. "Emergencies" include, but are not limited to:
+(1) Death or illness of the student or family member;
+(2) Natural disaster or impending natural disaster at the course site or the students' home, and the course cannot be made up or rescheduled;
+(3) Termination of necessary services at the course site, and the course cannot be made up or rescheduled; and
+(4) Forced evacuation of the course site due to epidemic, contamination, or any other threat to the students' health or well being, and the course cannot be made up or rescheduled.
