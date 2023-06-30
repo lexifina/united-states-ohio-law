@@ -1,0 +1,4 @@
+# Rule 1501:47-1-18: Boating education course fees.
+(A) Persons participating in the division of parks and watercraft Ohio boating education course may be assessed a fee of five dollars plus facility costs.
+(B) Persons participating in division of parks and watercraft sponsored courses and programs approved by the chief of the division of parks and watercraft other than as prescribed in paragraph (A) of this rule, may be assessed a fee no greater than the costs of the educational materials, room rentals, and equipment rental fees incurred by the division of parks and watercraft. Course fees will be determined in accordance with policies established by the chief.
+(C) The division of parks and watercraft will deposit all course fees collected into the waterways safety fund established in section 1547.75 of the Revised Code.
