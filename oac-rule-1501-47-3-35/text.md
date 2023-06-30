@@ -1,0 +1,2 @@
+# Rule 1501:47-3-35: Intoxicating beverages on waters administered by the division of parks and watercraft.
+It is unlawful to overtly and publicly consume or display the presence of any beer or intoxicating liquor on any watercraft on any waters administered by the division of parks and watercraft. For the purposes of this section, beer or intoxicating liquor are defined as in section 4301.01 of the Revised Code.
