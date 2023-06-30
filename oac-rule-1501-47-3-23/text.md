@@ -1,0 +1,2 @@
+# Rule 1501:47-3-23: Ski patterns.
+At those areas where water ski zones are designated, the direction of travel for ski boat traffic on that specific lake may be posted. It is unlawful for any person to operate or cause a watercraft to move in a direction in violation of the posted direction of travel except when a person has fallen overboard or when a skier has fallen, and then only for the purpose of retrieving the fallen person.
