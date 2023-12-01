@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated December 1, 2023 at 9:30 AM
+Effective: December 1, 2023
+Promulgated Under: 119.03
+Authorized By: 121.07, 173.01, 173.02, 173.392; 42 U.S.C. 3025; 45 C.F.R. 1321.11, 1321.17
+Amplifies: 173.39, 173.392; 2 U.S.C. 3025, 3030c-2, 3030e, 3030f, 3030g-21; 45 C.F.R. 1321.11, 1321.17, 1321.67
+Five Year Review Date: 11/30/2028
+Prior Effective Dates: 10/29/2020
