@@ -1,0 +1,10 @@
+# Rule 1501:14-4-04: Abandoned and inactive mining areas.
+(A) A mining area may be considered abandoned if the chief finds, as a result of an inspection, evidence to indicate that the permittee does not have the ability to continue the mining operation.
+(B) If the chief finds evidence pursuant to paragraph (A) of this rule, the chief shallwill notify the permittee through certified mail that the mining area may be declared abandoned.
+(C) The permittee may, within thirty days after receipt of notification by the chief declaring that the mining area may be declared abandoned, submit sufficient evidence to the chief that the surface mining operation on such mining area is in fact not abandoned.
+(D) If the permittee fails to submit sufficient evidence in accordance with paragraph (C) of this rule, the chief shallwill issue an order declaring the mining area abandoned.
+(1) If a mining area is declared to be abandoned under paragraph (D) of this rule and there has been no incidental production of coal, the permittee shall comply with the requirements of Chapter 1514. of the Revised Code.
+(2) If a mining area that has been declared to be abandoned under paragraph (D) of this rule has involved the incidental production of coal, and the permittee has complied with the requirements for and conditions of exemption for coal extraction incidental to the extraction of other minerals under rule 1501:13-4-16 of the Administrative Code, the permittee shall comply with the requirements of Chapter 1514. of the Revised Code. If the permittee has failed to comply with the requirements for and conditions of exemption for coal extraction incidental to the extraction of other minerals under rule 1501:13-4-16 of the Administrative Code, the chief shallwill revoke the exemption and take enforcement in accordance with rule 1501:13-5-03 of the Administrative Code.
+(E) The chief may consider a mining area inactive and not abandoned if:
+(1) The permittee submits an annual report indicating that the surface mining operation is inactive; and
+(2) The permittee remains in compliance with all requirements of Chapter 1514. of the Revised Code.
