@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated March 21, 2024 at 8:37 AM
+Effective: March 21, 2024
+Promulgated Under: 119.03
+Authorized By: 1711.11
+Amplifies: 1711.11
+Five Year Review Date: 3/21/2029
+Prior Effective Dates: 3/23/2017
