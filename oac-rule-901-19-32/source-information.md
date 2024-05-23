@@ -1,0 +1,8 @@
+# Official source information
+Publisher notice: Last updated May 23, 2024 at 8:24 AM
+Effective: May 23, 2024
+Promulgated Under: 119.03
+Authorized By: 901.72
+Amplifies: 901.72
+Five Year Review Date: 5/23/2029
+Prior Effective Dates: 10/30/1996, 3/21/2016
