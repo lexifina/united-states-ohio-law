@@ -1,0 +1,53 @@
+# Rule 3301-2-18: Restricting and logging access to confidential personal information in computerized personal information systems.
+For personal information systems that are computer
+systems and contain confidential personal information, the department will do
+the following:
+(A) Access restrictions. Access to
+confidential personal information that is kept electronically needs a password
+or other authentication measure;
+(B) Acquisition of a new computer system.
+When the department acquires a new computer system that stores, manages, or
+contains confidential personal information, the department will include a
+mechanism for recording specific access by employees of the department to
+confidential personal information in the system;
+(C) Upgrading existing computer systems.
+When the department modifies an existing computer system that stores, manages,
+or contains confidential personal information, the department will make a
+determination whether the modification constitutes an upgrade. Any upgrades to
+a computer system will include a mechanism for recording specific access by
+employees of the department to confidential personal information in the
+system;
+(D) Existing computer systems. Logging
+obligations regarding confidential personal information in existing computer
+systems:
+(1) The department will
+mandate that employees of the department who access confidential personal
+information within computer systems to maintain a log that records that
+access;
+(2) Access to
+confidential information is not necessary to be entered into the log under the
+following circumstances:
+(a) The employee of the department is accessing confidential
+personal information for official departmental purposes, including research,
+and the access is not specifically directed toward a specifically named
+individual or a group of specifically named individuals;
+(b) The employee of the department is accessing confidential
+personal information for routine office procedures and the access is not
+specifically directed toward a specifically named individual or a group of
+specifically named individuals;
+(c) The employee of the department comes into incidental contact
+with confidential personal information and the access of the information is not
+specifically directed toward a specifically named individual or a group of
+specifically named individuals;
+(d) The employee of the agency accesses confidential personal
+information about an individual based upon a request made under either of the
+following circumstances:
+(i) The individual
+requests confidential personal information about himself/herself;
+(ii) The individual makes
+a request that the department takes some action on that individual's
+behalf and accessing the confidential personal information is needed in order
+to consider or process that request.
+(3) For purposes of this
+paragraph, the department may choose the form or forms of logging, whether in
+electronic or paper formats.
