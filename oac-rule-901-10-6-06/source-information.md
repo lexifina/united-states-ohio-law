@@ -1,0 +1,7 @@
+# Official source information
+Publisher notice: Last updated June 25, 2025 at 6:06 PM
+Effective: January 1, 2025
+Promulgated Under: 119.03
+Authorized By: 903.08, 903.10
+Amplifies: 903.09, 903.20
+Five Year Review Date: 1/1/2030
