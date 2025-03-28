@@ -1,0 +1,8 @@
+# Rule 1301:5-1-04: Applications.
+(A) The signature on any application may be written by hand or be an electronic signature, as defined by division (H) of section 1306.01 of the Revised Code.
+(B) Upon notice from the division of real estate and professional licensing that an application is incomplete or incorrect as filed, the applicant shall within thirty days of the date of the notice submit to the division a corrected application or the additional information requested.
+(C) Failure to timely submit a corrected application or additional information shall constitute just cause for the superintendent to impose a forfeiture of the application fee and void the application.
+(D) Any principal broker who terminates sponsorship of an applicant for initial licensure shall give the division and such applicant notice in writing.
+(1) Failure to give such notice to the division or applicant may be deemed to be evidence of misconduct in violation of division (A)(6) of section 4735.18 of the Revised Code.
+(2) An applicant not yet approved by the division to sit for the real estate salesperson examination shall within sixty days of the date of notice submit to the division a corrected application with the sponsorship of a new principal broker. Failure to timely submit a corrected application shall constitute just cause for the superintendent to impose a forfeiture of the application fee pursuant to section 4735.09 of the Revised Code.
+(3) An applicant approved by the division to sit for the examination shall be permitted to take the examination. The division shall only issue a new license when the applicant both passes the salesperson examination and submits to the division the sponsorship of a new principal broker.
