@@ -1,0 +1,90 @@
+# Rule 1301:1-1-05: Reimbursement to banks and trust companies for assembling or providing financial records.
+This rule is issued by the superintendent of
+financial institutions pursuant to division (C) of section 9.02 of the Revised
+Code. It establishes the rates and conditions for reimbursement of actual and
+necessary costs directly incurred by banks and trust companies in assembling or
+providing customer financial records to any party.
+(A) Except as provided in this rule or in
+section 9.02 of the Revised Code, any party, including a governmental
+authority, that requires or requests a bank or trust company to assemble or
+provide a customer's financial records shall pay the bank or trust company
+for all actual and necessary costs directly incurred in searching for,
+reproducing, or transporting these records according to the following
+schedule:
+(1) Search and processing
+costs. Reimbursement of search and processing costs shall be the total amount
+of personnel direct time incurred in locating and retrieving, reproducing,
+packaging, and preparing financial records for shipment. The rate for search
+and processing costs is twenty-seven dollars per hour per person for clerical
+or technical personnel, computed on the basis of six dollars and seventy-five
+cents per quarter hour or fraction thereof, and thirty-seven dollars per hour
+per person for managerial or supervisory personnel, computed on the basis of
+nine dollars and twenty-five cents per quarter hour or fraction thereof, and is
+limited to the total amount of personnel time spent in locating and retrieving
+documents or information or reproducing or packaging and preparing documents
+for shipment where required or requested by a party. Specific salaries of such
+persons shall not be included in search costs. In addition, search and
+processing costs do not include salaries, fees, or similar costs for analysis
+of material or for managerial or legal advice, expertise, research, or time
+spent for any of these activities. If itemized separately, search and
+processing costs may include the actual cost of extracting information stored
+by computer in the format in which it is normally produced, based on computer
+time and necessary supplies; however, personnel time for computer search may be
+paid for only at the rate specified in this paragraph.
+(2) Reproduction costs.
+Reimbursements for reproduction costs shall be for costs incurred in making
+copies of documents required or requested. The rate for reproduction costs for
+making copies of required or requested documents is as follows:
+(a) Twenty-five cents per page for photocopies;
+(b) Twenty-five cents per page for paper copies of
+microfiche;
+(c) Fifty cents per microfiche for duplicate microfiche;
+and
+(d) Actual cost for each computer diskette or compact disk, or
+other storage media.
+(3) Transportation costs.
+Reimbursement for transportation costs shall be for necessary costs, directly
+incurred, to transport personnel to locate and retrieve the information
+required or requested; and necessary costs, directly incurred solely by the
+need to convey the required or requested material to the place of
+examination.
+(B) A bank or trust company is not
+entitled to reimbursement under this rule for costs incurred in assembling or
+providing the following records or information:
+(1) Security interest,
+bankruptcy claims, debt collection. Any financial records provided as an
+incident to perfecting a security interest, proving a claim in bankruptcy, or
+otherwise collecting on a debt owing either to the bank or trust company itself
+or in its role as a fiduciary.
+(2) Nonidentifiable
+information. Financial records that are not identified with or identifiable as
+being derived from the financial records of a particular customer.
+(3) Financial institution
+regulatory authorities. Financial records disclosed to a financial institution
+regulatory authority in the exercise of its supervisory or regulatory functions
+with respect to a financial institution.
+(C) Payment shall be limited to material
+required or requested. Payment shall be made only for costs that are directly
+incurred, actual, and necessary. No payment must be made until the bank or
+trust company satisfactorily complies with the request or requirement, except
+that in the case where the request or requirement is withdrawn or revoked, the
+bank or trust company shall be reimbursed for the actual and necessary costs
+directly incurred in assembling financial records required or requested to be
+produced prior to the time the party notifies the bank or trust company that
+the request or requirement is withdrawn or revoked. No payment must be made
+unless the bank or trust company submits an itemized bill or invoice showing
+specific details concerning search and processing, reproduction, and
+transportation costs.
+(D) For the purposes of this rule, the
+term "costs directly incurred" means costs incurred solely and
+necessarily as a consequence of searching for, reproducing or transporting
+books, papers, records, or other data, in order to comply with a request or
+requirement to produce a customer's financial records. The term does not
+include any allocation of fixed costs (overhead, equipment, depreciation,
+etc.). If a bank or trust company has financial records that are stored at an
+independent storage facility that charges a fee to search for, reproduce, or
+transport particular records requested, these costs are considered to be
+directly incurred by the bank or trust company.
+(E) Where terms used in this rule are
+defined in section 9.02 of the Revised Code, they shall have the meaning set
+forth in that section.
