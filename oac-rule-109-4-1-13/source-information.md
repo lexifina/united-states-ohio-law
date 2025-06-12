@@ -1,0 +1,7 @@
+# Official source information
+Effective: June 12, 2025
+Promulgated Under: 119.03
+Authorized By: 1345.05
+Amplifies: 1345.05
+Five Year Review Date: 6/3/2030
+Prior Effective Dates: 12/11/1977, 10/18/2009
