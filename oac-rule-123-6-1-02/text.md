@@ -1,0 +1,13 @@
+# Rule 123:6-1-02: Assignment of vehicles.
+(A) Each state agency will limit the size of its fleet to a number that is necessary for efficient and effective business operations. In addition, each agency will maximize the number of motor pool vehicles within its fleet.
+(B) Each state agency will make available its pool of motor vehicles to employees for necessary business-related travel only.
+(C) A state agency may not assign any state motor vehicle for long term regular work-related use, unless both of the following are met:
+(1) The employee's regular work-related activities require frequent business travel; and
+(2) The employee's work-related activities require motor vehicle travel that exceeds the established minimum number of annual business miles as determined by the Ohio department of administrative services, pursuant to division (O) of section 125.832 of the Revised Code.
+(D) A state agency may not assign any state motor vehicle for long-term regular commuting, unless no vehicle is available in the agency's pool of motor vehicles and any of the following are met:
+(1) The state agency requires that an employee be "on-call" twenty-four hours a day for each of the seven days of the week, in order to meet non-business hours emergency, security or public communications needs; or
+(2) The state employee is required to use specialized equipment that cannot be attached to an employee personal vehicle or would be impractical to transport in an employee's personal vehicle; or
+(3) The employee is required to travel to and from various work locations throughout the state and the director of the department of administrative services approves the assignment pursuant to paragraph (E) of this rule.
+(E) The director or designee will approve all assignments of motor vehicles. Each state agency will provide the director all necessary information regarding a request to assign a vehicle to an agency employee. The state agency will provide the necessary information prior to assignment and on a form and in a format prescribed by the director.
+(F) Failure to maintain current and accurate employee assignment information may result in the department revoking all or part of the authority delegated to an agency pursuant to division (G) of section 125.832 of the Revised Code.
+(G) The department may revoke the authority delegated to the agency pursuant to division (G) of section 125.832 of the Revised Code at any time when an agency substantially deviates from the policies and procedures as set forth by the department or fails to provide information as requested by the department.
