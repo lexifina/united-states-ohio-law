@@ -1,0 +1,4 @@
+# Rule 311-5-05: Minutes.
+(A) The commission shall promptly prepare and maintain minutes of the commission's regular and special meetings and shall keep the minutes open to public inspection. The minutes of the commission's regular and special meetings shall consist of a summary of the meeting, reflecting discussion at the meeting and official action or actions taken by the commission and vote thereon.
+(B) Minutes of the commission's emergency meetings shall state the general nature of the emergency requiring immediate official action.
+(C) At the beginning of each meeting of the commission, the president or the designee of the president shall inform those present that the notice requirements set forth in this rule have been complied with and this shall be noted in the minutes of the commission.
