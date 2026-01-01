@@ -1,0 +1,8 @@
+# Rule 173-39-03.5: ODA provider certification: military provisions.
+(A) Applications:
+(1) A person who applies for provider certification (applicant) with documentation that the applicant is a service member or veteran, as section 5903.01 of the Revised Code defines those terms, including a service member facing imminent deployment, or the spouse or surviving spouse of a service member or veteran, shall receive priority processing of their applications.
+(2) If an applicant answers affirmatively that the applicant is a service member, veteran, or the spouse or surviving spouse of a service member or veteran, then the applicant shall submit supporting evidence along with the application. A copy of either or both of the following are acceptable forms of documentation:
+(a) A military identification card, military discharge certificate, or similar document issued by the armed forces.
+(b) A marriage certificate or other document showing that the applicant is the spouse of a service member or veteran.
+(3) AGE or its designee shall track and monitor the total number of applications submitted by service members, veterans, or their spouses or surviving spouses, and the average number of business days it takes to process their applications.
+(B) Training: Pursuant to section 5903.03 of the Revised Code, a person subject to the training requirements in this chapter may request that AGE or its designee consider their successfully completed military training to satisfy the training requirements in this chapter. The person shall provide AGE or its designee with documentation that the military training was successfully completed and was substantially equivalent to, or exceeded, the training requirements in this chapter.
