@@ -1,0 +1,4 @@
+# Rule 111:3-2-05: Transition from oversight.
+(A) If the secretary of state or assistant secretary of state is satisfied that the significant condition(s) that warranted oversight has been resolved, and no other significant conditions exist, the board of elections shall be notified that it is no longer subject to oversight.
+(B) If the secretary of state or assistant secretary of state determines that the significant condition(s) that warranted oversight has not been resolved, or that another significant condition exists, the secretary of state, the assistant secretary of state or the secretary's designee may notify the board of elections of the terms and period of continued oversight, if the board is to remain on oversight, and may escalate the level of oversight.
+Last updated February 17, 2026 at 7:56 AM
