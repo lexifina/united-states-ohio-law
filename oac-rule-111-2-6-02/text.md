@@ -1,0 +1,17 @@
+# Rule 111:2-6-02: Request for Advisory Opinions.
+(A) Request for advisory opinion.
+Each request for an advisory opinion shall be made in writing, and be in substantial compliance (as determined by the administrator or chairperson) with the following format:
+(1) Typewritten, double-spaced, in no less than twelve-point font size, on 8.5 x 11 inch white paper, and containing no more than five pages excluding exhibits;
+(2) Clearly set forth the legal names and full residence and/or business addresses and telephone numbers of the person(s) making the request;
+(3) Clearly set forth a hypothetical fact pattern upon which the commission's advice is requested and describe, in general, all parties involved in the hypothetical fact pattern, whether individuals, committees, organizations, legislative campaign funds, or others. The request must include the legal name, title and address of the individual, treasurer, officer, member or agent responsible for the request and contain by attachment all sample exhibits and other documents which the commission will need to render its opinion;
+(4) Clearly set forth each and every separate element or section of Ohio elections law upon which the commission's advice is requested, in a narrative form, cross-referenced to the relevant Revised Code section(s);
+(5) Clearly cite every known relevant prior advisory opinion(s) from the Ohio election integrity commission and/or relevant legal authority.
+(6) Clearly set forth sufficient evidence that the requesting party is an Ohio elector over whose acts the commission has or may have jurisdiction or who is requesting advice on behalf of an entity over whose acts the commission has or may have jurisdiction;
+(7) Requesting parties may submit a memorandum in support of the request. Such memorandum shall be no more than twelve pages;
+(8) Advisory opinions of the commission may not be applied retroactively;
+(9) In the letter requesting the opinion, the requesting party shall demonstrate, to the sufficiency of the administrator for the commission, that the request is made in good faith. If the requesting party does not establish to the sufficiency of the administrator that the request is being made in good faith, the administrator shall recommend to the commission that an opinion not be issued;
+(10) Any request that does not sufficiently establish any of the elements in this paragraph shall be denied and a reason for the denial shall be provided to the requesting party.
+(B) Any non-complying or insufficient request for advisory opinion shall be first entered into the records of the commission and then returned electronically to the submitting party with a notice detailing the insufficiency. The submitting party shall have fourteen calendar days from the date of the notice in which to resubmit satisfactory documents. If the request for advisory opinion is not timely resubmitted, such request for advisory opinion may be dismissed without prejudice.
+(C) The administrator or the commission may request additional information from the submitting party and the submitting party shall have fourteen calendar days from the date of the notice in which to submit the requested information.
+(D) The administrator or designee shall assign a separate unique designation to all opinions issued by the commission. After each case has received its designation, any correspondence with the commission shall include this designation.
+Last updated February 19, 2026 at 7:39 AM
