@@ -1,0 +1,12 @@
+# Rule 111:2-6-05: Time.
+(A) Extension of time; continuance.
+(1) Before a continuance is granted by the commission, the party seeking the continuance shall request the consent of the other party for such continuance. If the parties mutually agree on the continuance, the parties shall submit a joint motion for continuance, in writing, which will be considered by the commission. If there is no agreement of the parties, the requesting party shall specify the efforts by parties to meet and confer in good faith, to reach resolution, which shall at minimum include a telephonic conversation, and be made in writing to the commission and which shall be considered by the commission.
+(2) No extension of time or continuance will be granted unless timely submitted, in writing, and approved by the administrator to the commission, the hearing officer, or the chairperson of the commission. The commission may grant extensions of time in a manner consistent with the provisions of section 3517.17 of the Revised Code. Parties appearing before the commission will not be summarily granted any continuance without good cause. At such time as a continuance is granted, the date to which the continuance will be made will be determined and notice will be sent to all parties pursuant to rule 111:2-6-03 of the Administrative Code.
+(B) Hearing, motions, subsequent filings.
+(1) Hearing.
+A hearing on the complaint shall be held within a reasonable time following notice thereof to the parties and/or counsel, unless such notice is waived by all parties and/or counsel to the parties.
+(2) Motions.
+Motions and supporting affidavits and/or supporting documents shall be served upon and received by other parties and/or counsel, and received by the commission no later than seven business days prior to the date set for hearing. Responsive affidavits and documents shall be served upon and received by other parties and/or counsel and received by the commission no later than three business days prior to the date set for hearing. The filing of any motions not addressed within these rules, or outside of the time permitted by this chapter, is subject to the discretion of the hearing officer or the chairperson, as applicable.
+(3) Subsequent filings.
+Unless otherwise allowed by these rules or by the hearing officer or the chairperson, as applicable, all filings must be submitted three business days prior to the relevant hearing or commission meeting.
+Last updated February 19, 2026 at 7:40 AM
