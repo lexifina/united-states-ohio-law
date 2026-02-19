@@ -1,0 +1,4 @@
+# Rule 111:2-6-09: Reconsideration of commission decisions.
+(A) A party adversely affected by a finding of the commission may request reconsideration of the finding by submitting a letter requesting that the commission reconsider its finding within fourteen calendar days of the receipt of the notice of disposition.
+(B) In order to assure just results, the commission may reconsider a finding pursuant to paragraph (A) of this rule if, in the reasonable discretion of the administrator to the commission, that finding of the commission did not give proper due process, or imposed an undue burden on a party before the commission. However, no reconsideration shall be granted after the earlier of either the fourteenth calendar day following the receipt of the notice of disposition, or the time by which the commission shall have acted pursuant to division (A) of section 3517.17 of the Revised Code.
+Last updated February 19, 2026 at 7:40 AM
