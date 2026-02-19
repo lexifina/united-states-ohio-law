@@ -1,0 +1,6 @@
+# Rule 111:2-6-04: Service and filing of subsequent pleadings and documents.
+(A) Response.
+Any party that is the subject of a complaint referred to the commission for a hearing as provided in section 3517.17 of the Revised Code that is not given the expedited process, shall file a response on the merits, or on commission jurisdiction, with the commission within fourteen calendar days of the receipt of the complaint. Said response shall be filed in writing.
+(B) Required service.
+Except as otherwise provided in these rules, every motion, every pleading subsequent to the initial complaint, every paper relating to discovery (except requests for issuance of subpoenas), every document filed with the commission, every written notice, appearance, demand, offer of judgment, and similar paper shall be served upon each of the parties by the party making the filing. The party making the service shall maintain a certificate of service, authenticated by the USPS or by electronic service, that such service was made by use of mail service or electronic service. No service need be made on parties in default for failure to appear or respond, except that pleadings asserting new or additional claims against them shall be served upon them in the manner set forth in rule 111:2-6-03 of the Administrative Code.
+Last updated February 19, 2026 at 7:38 AM
