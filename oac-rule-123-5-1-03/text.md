@@ -1,0 +1,7 @@
+# Rule 123:5-1-03: Community rehabilitation program - administration.
+(A) A government ordering office may apply for a waiver from the requirement to purchase supplies or services from qualified nonprofit agencies as set forth in section 125.607 of the Revised Code. Such application is made through the electronic procurement system or by contacting the department. The department may grant a government ordering office the waiver if the department determines:
+(1) There are no qualified nonprofit agencies available or willing to provide the needed supplies or services;
+(2) There is a qualified nonprofit agency that is willing to provide the needed supplies or services, but is not capable of providing them;
+(3) The government ordering office is or has been dissatisfied with substantially similar or same supplies or services provided by the willing qualified nonprofit agency and has reported its dissatisfaction to the department or the department possesses specific information indicating such dissatisfaction; or
+(4) The government ordering office made a good faith effort to reach agreement with the willing qualified nonprofit agency regarding price, terms, and specifications but was unsuccessful.
+(B) When more than one qualified nonprofit agency desires to provide particular supplies or services to a government ordering office, the department will select one of the qualified nonprofit agencies to provide the supplies or services.
