@@ -1,0 +1,5 @@
+# Rule 123:1-5-03: Retaining rights to the classified service upon appointment to the unclassified service.
+A certified or permanent employee appointed to an unclassified position pursuant to division (D) of section 124.11 of the Revised Code on or after March 30, 1999, are subject to the following:
+(A) Upon return to the classified service, an employee will be placed back into the same classification from which the initial appointment to the unclassified service was made, or similar classification as provided in division (D) of section 124.11 of the Revised Code. The employee's total rate of pay will be adjusted to reflect the compensation to which the employee would be entitled had he or she remained in the former classified position.
+(B) An employee appointed to the unclassified service while serving a probationary period will serve the remainder of the probationary period of the same or similar classification upon return to the classified service.
+(C) Time spent in the unclassified service does not count for the purposes of becoming permanent in the classified service.
