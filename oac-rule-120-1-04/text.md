@@ -1,0 +1,11 @@
+# Rule 120-1-04: Appointment of additional attorney.
+(A) In all capital cases, two attorneys certified by the supreme court of Ohio's commission on appointment of counsel in capital cases must be appointed.
+(B) Two attorneys may be appointed in aggravated murder cases without capital specifications. An entry by the court for the extraordinary appointment of additional counsel is not needed if the appointment of two attorneys is provided for in the county's resolution for appointed counsel rates.
+(C) In all other cases, a second attorney should be appointed as co-counsel whenever necessary to protect the rights of a defendant. An entry by the court for the extraordinary appointment of additional counsel is required to qualify for reimbursement. Situations necessitating the appointment of additional counsel include, but are not limited to:
+(1) Cases that are unusually complex, involve numerous charges or co-defendants, include a large volume of discovery or evidence, or involve technical issues that require special expertise.
+(2) When an additional attorney is needed to depose a witness not located in the immediate area.
+(3) In a juvenile case when both an attorney and an attorney guardian ad litem are needed to fully represent and protect the child.
+(4) In a juvenile bindover or serious youthful offender case, if two attorneys are needed to meet the qualification requirements of rule 120-1-10 of the Administrative Code.
+(5) Additional counsel is necessary to provide a quality and effective defense.
+(D) Specialty courts, specialty dockets, and other diversion programs can often benefit from the appointment of one attorney to represent the defendant on the criminal or delinquency charge, and the appointment of a second attorney as part of the defendant's participation in the diversion program. Specialty docket representation must comply with the state public defender's requirements of representation in the specialty court and in any violation proceeding, in order to qualify for reimbursement.
+(E) Where an attorney seeks to gain the skills and experience necessary to meet the qualifications outlined in rule 120-1-10 of the Administrative Code, that attorney may be appointed to a case as second chair to an attorney who meets the qualifications in rule 120-1-10 of the Administrative Code.
