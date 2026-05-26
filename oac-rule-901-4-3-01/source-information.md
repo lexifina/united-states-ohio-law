@@ -1,0 +1,7 @@
+# Official source information
+Publisher notice: Last updated May 26, 2026 at 7:58 AM
+Effective: May 26, 2026
+Promulgated Under: 119.03
+Authorized By: 936.02
+Amplifies: 936.01
+Five Year Review Date: 5/26/2031
