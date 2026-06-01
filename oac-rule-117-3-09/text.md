@@ -1,0 +1,2 @@
+# Rule 117-3-09: Selection and award.
+The selection of the independent certified public accountant shall be made by the auditor of state. Upon award of a proposal, quote, or bid, the auditor of state will send a formal notice of award to the independent certified public accountant and to the public office. The auditor of state will also prepare the memorandum of agreement on the basis of the request for proposals, quotes, or bids and submit it to the independent certified public accountant and the public office for execution.
