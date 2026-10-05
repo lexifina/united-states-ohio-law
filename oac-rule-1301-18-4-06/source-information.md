@@ -1,0 +1,7 @@
+# Official source information
+Publisher notice: Last updated October 5, 2026 at 7:42 AM
+Effective: October 5, 2026
+Promulgated Under: 119.03
+Authorized By: 3796.03, 3796.06
+Amplifies: 3796.03, 3796.06, 3796.18, 3796.19, 3796.20
+Five Year Review Date: 10/5/2031
