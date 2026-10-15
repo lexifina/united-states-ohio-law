@@ -1,0 +1,3 @@
+# Rule 901:3-8-01: Incorporation by reference - shellfish processing.
+The federal food safety standards contained in the "National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish" (2023 revision) published by the United States food and drug administration is adopted in its entirety. A copy is available at https://www.fda.gov/food/federalstate-food-programs/national-shellfish-sanitation-program-nssp.
+All food processing establishments as defined in section 3715.021 of the Revised Code shall comply with this rule and Chapter 901:3-17 of the Administrative Code to determine that food has been manufactured under such conditions that render the food safe, unadulterated, and not misbranded.
