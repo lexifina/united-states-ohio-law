@@ -1,0 +1,9 @@
+{
+  "path": "us-oh",
+  "code": "OH",
+  "name": "Ohio",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-ohio-law",
+  "build": "built: metadata only, no law text (4 open facts from Wikidata); the Revised Code is not open to crawlers",
+  "register_date": "2026-10-30"
+}

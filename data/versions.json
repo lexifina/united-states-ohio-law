@@ -1,0 +1,19 @@
+{
+ "country": "US-OH",
+ "acts": [
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Ohio legal system: open facts (metadata only, no law text)",
+   "url": "https://www.wikidata.org/wiki/Q1397",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1397|Q5164222|Q7080878|Q3001112",
+     "sha256": "18e2bcccf7b5058c5c6dc5e5f448b42dc1a04f886c2165820ba009caf10e592d"
+    }
+   ]
+  }
+ ]
+}
