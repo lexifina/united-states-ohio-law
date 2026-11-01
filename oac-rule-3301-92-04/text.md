@@ -1,0 +1,52 @@
+# Rule 3301-92-04: Reporting financial forecast with current budget information and projections for succeeding years.
+(A) Application. The provisions of this rule apply only to city, exempted village, local, and joint vocational school districts.
+(B) Definitions.
+(1) The term "financial forecast" refers to the consolidated submissions of current fiscal year budget information, three-year projections for the succeeding fiscal years, and any additional information specified by the department or the auditor pursuant to section 5705.391 of the Revised Code and this rule.
+(2) The term "current fiscal year budget information" refers to the "appropriations, revenue, and fund balance assumptions contained in the budget adopted by the board" for the current fiscal year and the "current budget information" described in section 5705.391 of the Revised Code.
+(3) The terms "three-year forecast" and "three-year projections" are used interchangeably and refer to the "projections of expenditures, revenues, and fund balance for the three succeeding fiscal years" following the current fiscal year and "three-year projections of operational revenues and expenditures" described in section 5705.391 of the Revised Code.
+(4) The term "fiscal oversight" refers to the three fiscal declaration categories established under Chapter 3316. of the Revised Code: fiscal caution, fiscal watch, and fiscal emergency.
+(5) All references to the "department" refer to the department of education and workforce.
+(6) All references to the "auditor" refer to the Ohio auditor of state.
+(7) The term "appropriations" means the total amount expendable for the current fiscal year, which includes the expenditures in the appropriation measure adopted by the board of education pursuant to section 5705.38 of the Revised Code, plus any carryover encumbrances. Appropriations establish spending levels that cannot be exceeded without further authorization of the board of education.
+(8) "Education management information system (EMIS)" means the integrated system of statewide data collecting, reporting, and compiling for school districts and schools established under section 3301.0714 of the Revised Code.
+(C) Submission dates.
+(1) The submission deadlines for the financial forecast and updated financial forecast are set forth in division (A) of section 5705.391 of the Revised Code. A board of education may approve and submit its financial forecast or updated financial forecast to the department up to thirty days in advance of the applicable due dates prescribed in division (A) of that section.
+(2) Nothing precludes a board of education from filing other updates to its financial forecast at any time in addition to the filings required by division (A) of section 5705.391 of the Revised Code.
+(D) Submission requirements. The purpose of this paragraph is to specify the information to be included in each financial forecast and the additional information necessary for the audits, examinations, and analyses conducted by the department or the auditor. Omissions, errors, inaccuracies, or the submission of incomplete information material to the district's financial condition could indicate a potential to incur a deficit and be cause for the district to be subject to fiscal oversight in accordance with Chapter 3316. of the Revised Code.
+(1) Each financial forecast consists of two components: the financial data and the notes that provide information necessary to understand the data submission. Each financial forecast shall meet each of the following conditions:
+(a) Contain the information prescribed by this rule;
+(b) Be in the format prescribed by the department and auditor;
+(c) Be approved by the board of education;
+(d) Be submitted to the department through EMIS.
+(2) All current fiscal year budget information shall meet each of the following conditions:
+(a) Include the operational revenues; expenditures, including carryover encumbrances; and unencumbered fund balance for the current fiscal year. This information may, in whole or in part, differ from the current approved appropriation measure adopted by the board of education pursuant to section 5705.38 of the Revised Code. If this information materially differs, the current fiscal year budget information is to include accompanying notes that identify and clearly explain the reason and basis for any such differences;
+(b) Use the known operational revenues; expenditures, including carryover encumbrances; and unencumbered fund balance of the district for the preceding fiscal year-end as the basis for the assumptions;
+(c) Include accompanying notes for each reported line item that include all of the following information:
+(i) The line number for each note;
+(ii) A description of the assumptions and key factors used to develop the current fiscal year budget amounts, including the reasoning and basis for each assumption and key factor, such as relevant data, trends, or known factors;
+(iii) An explanation of the cause or causes of any significant changes from the year-end actual amounts for the preceding fiscal year and a description of the assumptions and key factors so the reader can understand the reasons for such changes.
+(3) All three-year projections shall meet each of the following conditions:
+(a) Include projections of operational revenues; expenditures; including carryover encumbrances; and unencumbered fund balance for the three succeeding fiscal years;
+(b) Use the known operational revenues; expenditures, including carryover encumbrances; and unencumbered fund balance of the district for the preceding fiscal year and current fiscal year as the basis for the projections;
+(c) Include accompanying notes for each reported line item that include all of the following information:
+(i) The line number for each note;
+(ii) A description of the assumptions and key factors used to develop the projected amounts, including the reasoning and basis for each assumption and key factor, such as relevant data, trends, or known factors;
+(iii) An explanation of the cause or causes of any significant changes in amounts from fiscal year to fiscal year and a description of the assumptions and key factors so the reader can understand the reasons for such changes.
+(4) The information prescribed in paragraphs (D)(2) and (D)(3) of this rule may be combined in a manner to avoid unnecessary duplication.
+(5) The department or the auditor may require any of the following:
+(a) Historical financial information;
+(b) Information regarding revenues, expenditures, and balances for special, federal, and other funds outside of the general fund, and a description in the notes regarding how funds and activity outside of the general fund may impact general fund activity.
+(E) Examinations. The department or the auditor shall examine, at no cost to the district, the financial forecast and determine whether any further fiscal analysis is needed to ascertain whether a district has the potential to incur a deficit during the current fiscal year or the first two years of the three-year projection period and may make recommendations to update a financial forecast submission based on their examination.
+(F) Written plan requirements.
+(1) A board of education notified under division (A) of section 5705.391 of the Revised Code shall submit a board of education approved written plan to the department to eliminate any deficit in the current fiscal year and avoid the projected future deficits.
+(2) All written plans are to be in the format prescribed by the department and contain all of the following information:
+(a) A summary narrative describing the district's plan to eliminate the deficit in the current fiscal year and avoid the projected future deficits which demonstrates the board of education's understanding of the fiscal distress reflected in the projections and acknowledges the board of education's responsibility to resolve the forecasted deficits;
+(b) A completed written plan workbook using the workbook template provided by the department, unless the board of education requests and the department approves an alternative format;
+(c) An explanation of how the board of education will be kept informed on the status of the written plan implementation including the financial reports to be used to monitor and manage the district's financial status.
+(3) The department may request the written plan to be submitted through EMIS.
+(4) All written plans are due within forty-five days of the date of the notification provided pursuant to division (A) of section 5705.391 of the Revised Code, unless extended by the department. Prior to the due date of the written plan, a board of education may submit, via email, a written request for an extension. The extension request will be approved or disapproved at the discretion of the department.
+(5) The department will evaluate written plan submissions and either approve or disapprove the plans. If the initial written plan is disapproved, recommendations to render the written plan acceptable will be provided along with a due date to remedy the identified written plan deficiencies.
+(G) Written plan implementation and results monitoring.
+(1) If the board of education fails to submit a written plan or does not modify a disapproved plan to render it approvable by the due date established by the department, it may be cause for the district to be subject to fiscal oversight in accordance with Chapter 3316. of the Revised Code.
+(2) The department may request the board of education to update the district's financial forecast, including assumptions, to be consistent with the board of education's written plan approved by the department. If the board of education does not update the financial forecast as requested, it may be cause for the district to be subject to fiscal oversight in accordance with Chapter 3316. of the Revised Code.
+(3) The department may request evidence the board of education is monitoring the implementation of the written plan. This evidence may include documentation necessary to identify and evaluate the sufficiency of the actions taken by the board to correct the budgetary conditions which prompted the need for the written plan and to determine if fiscal oversight is necessary to prevent further fiscal decline. If the board does not provide evidence, it may be cause for the district to be subject to fiscal oversight in accordance with Chapter 3316. of the Revised Code.
