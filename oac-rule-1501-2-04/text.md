@@ -1,0 +1,2 @@
+# Rule 1501-2-04: Lake erie and ohio river drainage basin.
+The chief of the division of water resources shall establish and maintain a map file of the boundaries of the lake Erie and Ohio river drainage basins in this state. The map file shall be available for public inspection at the division's offices in Columbus. The chief shall develop a generalized map illustrating the drainage basins for lake Erie and the Ohio river in this state. Copies of the generalized map shall be available upon request.
