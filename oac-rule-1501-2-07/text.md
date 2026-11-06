@@ -1,0 +1,3 @@
+# Rule 1501-2-07: Timetables for action on water diversion permit applications.
+(A) The chief shall issue or deny the water diversion permit within ninety days of accepting the completed application in accordance with the provisions set forth in rule 1501-2-06 of the Administrative Code, unless the chief determines that the complexity of the issues requires further consideration. In that event, the chief shall notify the applicant in writing of the need for an extension and of the reason therefor.
+(B) No construction on the water diversion project shall be performed until the permit is issued by the chief.
