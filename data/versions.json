@@ -10752,6 +10752,3086 @@
      "sha256": "99260a677af58d46fb5aa6f808eef0f71323221039764d714c4545f76084ad13"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-4778",
+   "short": "R.C. Chapter 4778",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4778: Genetic Counselors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4778",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260811042608/https://codes.ohio.gov/ohio-revised-code/chapter-4778",
+     "sha256": "f8e29b7c2adbbc75e48d11feb37ab9d169cb412d54d6d3f11cbc8f6365234316"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4779",
+   "short": "R.C. Chapter 4779",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4779: Orthotists, Prosthetists, Pedorthists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4779",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20250708181209/https://codes.ohio.gov/ohio-revised-code/chapter-4779",
+     "sha256": "e27429b12d1a516a8e31397c58ccf8adbf724bf94fb8c2e03ccad76c35e16dd9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4781",
+   "short": "R.C. Chapter 4781",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4781: Manufactured Homes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4781",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20260516014618/https://codes.ohio.gov/ohio-revised-code/chapter-4781",
+     "sha256": "13ddf4b2d8782bb07cbd0740064716b6747682fd663962d30f130d5c954ca4de"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4783",
+   "short": "R.C. Chapter 4783",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4783: Behavior Analysts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4783",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260621203042/https://codes.ohio.gov/ohio-revised-code/chapter-4783",
+     "sha256": "0ca36e96a309fd9959b2cee387ff40840d7a23fae0ca24f005a468b44eabda80"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4785",
+   "short": "R.C. Chapter 4785",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4785: Elevator Contractors and Elevator Mechanics",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4785",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260426114636/https://codes.ohio.gov/ohio-revised-code/chapter-4785",
+     "sha256": "3ff2b80b802154dc6e93cfd81be751f8df4706d5c5df90829763bf40251a7b2a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4796",
+   "short": "R.C. Chapter 4796",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4796: Occupational Licenses for Out-of-State Applicants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4796",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260716132807/https://codes.ohio.gov/ohio-revised-code/chapter-4796",
+     "sha256": "170c5262bd88eae1892fefd5a9c3a023a7fb7bb1ee5ca9183676b72c5d6db32a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4798",
+   "short": "R.C. Chapter 4798",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4798: Occupational Regulations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4798",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260517052941/https://codes.ohio.gov/ohio-revised-code/chapter-4798",
+     "sha256": "baeaf7107edeafa01b869d69acbc46186510fd97293c378d075c7a5b4ffef317"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4799",
+   "short": "R.C. Chapter 4799",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4799: Licensing of Childhood Sexual Abuse Registrants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4799",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260818001732/https://codes.ohio.gov/ohio-revised-code/chapter-4799",
+     "sha256": "7ee7b5cbfa97ab985912b41e5b33772462efa106031630a7f1b2ed372b421284"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4901",
+   "short": "R.C. Chapter 4901",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4901: Public Utilities Commission - Organization",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4901",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260317030252/https://codes.ohio.gov/ohio-revised-code/chapter-4901",
+     "sha256": "a452e106f2aaa4aef19e79fa6a853297a5d21f57c4aed805348dc4daa33f2ab6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4903",
+   "short": "R.C. Chapter 4903",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4903: Public Utilities Commission - Hearings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4903",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250922031127/https://codes.ohio.gov/ohio-revised-code/chapter-4903",
+     "sha256": "6028931631a00e4f8a2bc464944ccf316b6e3a65dfbcd759bc8e8d34302dda01"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4905",
+   "short": "R.C. Chapter 4905",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4905: Public Utilities Commission - General Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4905",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 94,
+     "source_url": "https://web.archive.org/web/20260415224414/https://codes.ohio.gov/ohio-revised-code/chapter-4905",
+     "sha256": "cac7623a9b1460f4925aca481d6c211dd049ce397ed3a1426086b35381bf3b96"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4906",
+   "short": "R.C. Chapter 4906",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4906: Power Siting",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4906",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260413011545/https://codes.ohio.gov/ohio-revised-code/chapter-4906",
+     "sha256": "90f0f3a2a0f41d6313696e5aa2d9b808d601c5186d2543cb6d7e403ca3c3ad90"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4907",
+   "short": "R.C. Chapter 4907",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4907: Public Utilities Commission - Railroad Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4907",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20260426072444/https://codes.ohio.gov/ohio-revised-code/chapter-4907",
+     "sha256": "5a3dad0a46b230a9ea6f8d6c7802f5677bc8000e3b83dd0f249e34b4cad7d7cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4909",
+   "short": "R.C. Chapter 4909",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4909: Public Utilities Commission - Fixation Of Rates",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4909",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20251205121034/https://codes.ohio.gov/ohio-revised-code/chapter-4909",
+     "sha256": "2537023436c59a4b64ee4a5bd6b5e9903bed9e2eb71c47f761e1ac6c075cb862"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4911",
+   "short": "R.C. Chapter 4911",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4911: Consumers' Counsel",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4911",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260421072731/https://codes.ohio.gov/ohio-revised-code/chapter-4911",
+     "sha256": "48997acf4159aa7339c2e4ab5e9e122e493d74e72d727cddc5ccfa7bf157e2ac"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4913",
+   "short": "R.C. Chapter 4913",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4913: Public Utilities Commission - Enforcement Of Underground-utility-damage-prevention Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4913",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250916043717/https://codes.ohio.gov/ohio-revised-code/chapter-4913",
+     "sha256": "080d84e5c303dbff3dea07076cc204597a4de7e32ed53315b24755ce39de23b4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4921",
+   "short": "R.C. Chapter 4921",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4921: Motor Carrier Authority And Permitting",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4921",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250708181259/https://codes.ohio.gov/ohio-revised-code/chapter-4921",
+     "sha256": "d0f4497f39e00f88e94e8da4a10459ba001c4c3d9df0d050d58292a970f4b5b3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4923",
+   "short": "R.C. Chapter 4923",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4923: Motor Carrier Operations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4923",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250708181302/https://codes.ohio.gov/ohio-revised-code/chapter-4923",
+     "sha256": "d32dcf6152c6b3aafa4e1078eb940111b0af333ff9236c82f884ba601893b0cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4925",
+   "short": "R.C. Chapter 4925",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4925: Transportation Network Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4925",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260521171242/https://codes.ohio.gov/ohio-revised-code/chapter-4925",
+     "sha256": "45d1abf717888ef5d3ada4a88620d89193035edf5109395401678b1396887cf4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4926",
+   "short": "R.C. Chapter 4926",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4926: Electric Cooperative Pole Attachments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4926",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20251108003857/https://codes.ohio.gov/ohio-revised-code/chapter-4926",
+     "sha256": "deb5eab099be2c642a269c84a1056a80cae7fd112ecf39d6db3f4e8a0e9ea727"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4927",
+   "short": "R.C. Chapter 4927",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4927: Telecommunications - Alternative Regulation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4927",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260613185742/https://codes.ohio.gov/ohio-revised-code/chapter-4927",
+     "sha256": "916948b98439b1d7a9b185e95f47ca0f1483f3ab7df0a8f1f48a08b5b95303fa"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4928",
+   "short": "R.C. Chapter 4928",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4928: Competitive Retail Electric Service",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4928",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 110,
+     "source_url": "https://web.archive.org/web/20260615111610/https://codes.ohio.gov/ohio-revised-code/chapter-4928",
+     "sha256": "0d5983d9b44b97f3047d0ebf5cf876fa144fad5379e20b615bc086167a65a571"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4929",
+   "short": "R.C. Chapter 4929",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4929: Alternate Rate Plan For Natural Gas Companies; Certification Of Governmental Aggregators And Retail Natural Gas Suppliers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4929",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20261021104204/https://codes.ohio.gov/ohio-revised-code/chapter-4929",
+     "sha256": "35b909c826242d27e48c562249f2d7714dfcb6be1abe446cd2222380508d7ace"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4931",
+   "short": "R.C. Chapter 4931",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4931: Companies - Telegraph; Telephone",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4931",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250708181328/https://codes.ohio.gov/ohio-revised-code/chapter-4931",
+     "sha256": "5d338f541965767183349573b246b2f0b16397d660f1ed9b2e2190241838fe3e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4933",
+   "short": "R.C. Chapter 4933",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4933: Companies - Gas; Electric; Water; Others",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4933",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260412003023/https://codes.ohio.gov/ohio-revised-code/chapter-4933",
+     "sha256": "1badc9729cf81cf1fbe36fbbfda72d52adc4a8e17eb41c96d5972a2265d3015d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4935",
+   "short": "R.C. Chapter 4935",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4935: Energy Data",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4935",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250708181340/https://codes.ohio.gov/ohio-revised-code/chapter-4935",
+     "sha256": "7f28af721ac6d7daebff167fc8c35b1d0730bce9e35d8a0794fa652d8b540fcd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4937",
+   "short": "R.C. Chapter 4937",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4937: Utility Radiological Safety",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4937",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250708181342/https://codes.ohio.gov/ohio-revised-code/chapter-4937",
+     "sha256": "9ccd58cce799fa2d1037d5eb7e31b1fd9983f7c675f2ecd1950cc9f76a29899e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4939",
+   "short": "R.C. Chapter 4939",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4939: Use Of Municipal Public Way",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4939",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260710084659/https://codes.ohio.gov/ohio-revised-code/chapter-4939",
+     "sha256": "1934449540d2b148d91c0eb0a0345e1c84a0a9af467bbe7f7e45c84a580963da"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4951",
+   "short": "R.C. Chapter 4951",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4951: Street Railways And Interurban Railroads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4951",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20250708181352/https://codes.ohio.gov/ohio-revised-code/chapter-4951",
+     "sha256": "af34bdfe386d8d25a6ba34c22b25cdc512cec7db3a8efa131a50aff89f080225"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4953",
+   "short": "R.C. Chapter 4953",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4953: Transportation Terminal Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4953",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250712093639/https://codes.ohio.gov/ohio-revised-code/chapter-4953",
+     "sha256": "e728ad6326a98e28436c74a01871ccae1c2372b01d59241959715635e897b597"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4955",
+   "short": "R.C. Chapter 4955",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4955: Tracks; Crossings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4955",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20250708181358/https://codes.ohio.gov/ohio-revised-code/chapter-4955",
+     "sha256": "9fd525eb7c58ac840c8227c532d5b76768ca363439b414cb6f972518115766f4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4957",
+   "short": "R.C. Chapter 4957",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4957: Elimination Of Crossings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4957",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20250708181404/https://codes.ohio.gov/ohio-revised-code/chapter-4957",
+     "sha256": "19f297676e658db47b4a19a671d9828a1079738a3cb10e39e5300c208ae41636"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4959",
+   "short": "R.C. Chapter 4959",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4959: Right Of Way Drainage And Fences",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4959",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250708181409/https://codes.ohio.gov/ohio-revised-code/chapter-4959",
+     "sha256": "6f64d1b0ac4342802cc75f7d1ee954efe48118dc8a50dfddb7e07d48852dd309"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4961",
+   "short": "R.C. Chapter 4961",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4961: Special Powers Of Railroads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4961",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261007113159/https://codes.ohio.gov/ohio-revised-code/chapter-4961",
+     "sha256": "a571febb06ac3e857abfc7204abd1e18608bde9005cea1591886fccff941acda"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4963",
+   "short": "R.C. Chapter 4963",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4963: Trains; Equipment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4963",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260806053153/https://codes.ohio.gov/ohio-revised-code/chapter-4963",
+     "sha256": "d70b1a7f78b63510bc710ae3efe6f2f783730eb8a232aaeb2acc3b6b171cc992"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4965",
+   "short": "R.C. Chapter 4965",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4965: Passenger Fares",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4965",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260606075534/https://codes.ohio.gov/ohio-revised-code/chapter-4965",
+     "sha256": "baa1512ca45d54e6c9ef336b2b540f214b2399d02eab9f96c90e93675f12a49d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4967",
+   "short": "R.C. Chapter 4967",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4967: Consolidation Of Railroads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4967",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260611170223/https://codes.ohio.gov/ohio-revised-code/chapter-4967",
+     "sha256": "f245a0f6b5f7acd3ca980471ff98c1b96b964e6ad8d2034761d0ac25582b4606"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4969",
+   "short": "R.C. Chapter 4969",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4969: Railroad Sales; Railroad Receivers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4969",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260123020824/https://codes.ohio.gov/ohio-revised-code/chapter-4969",
+     "sha256": "22d0865b22bfedce82dcb1561be0be5f4c41078355071debfd975eda21c3dc69"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4971",
+   "short": "R.C. Chapter 4971",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4971: Reorganization Of Railroads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4971",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260514043222/https://codes.ohio.gov/ohio-revised-code/chapter-4971",
+     "sha256": "95ea56b85271e716d707ff2678da822318ddbc2193a887939d13e728561c5565"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4973",
+   "short": "R.C. Chapter 4973",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4973: Employees; Police Officers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4973",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260827162746/https://codes.ohio.gov/ohio-revised-code/chapter-4973",
+     "sha256": "8e01fb6945120ca40f6721111dd92de0d0e0f892cf364103610cc9d0447014cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4981",
+   "short": "R.C. Chapter 4981",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4981: Rail Development Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4981",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260921081256/https://codes.ohio.gov/ohio-revised-code/chapter-4981",
+     "sha256": "c8fc1326705697a56a2cdbb7dedd3e554fa3407aa25ab29ea3503d4c9a4014f9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4999",
+   "short": "R.C. Chapter 4999",
+   "title": "Ohio Revised Code, Title 49: Public Utilities, Chapter 4999: Crimes Relating To Railroads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4999",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260516050234/https://codes.ohio.gov/ohio-revised-code/chapter-4999",
+     "sha256": "1f7c7f0ce5209090a23e45c93f4ba8990de82ba627217e38b62a4900f44dac42"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5101",
+   "short": "R.C. Chapter 5101",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5101: Department of Job and Family Services- General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5101",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 144,
+     "source_url": "https://web.archive.org/web/20260713223151/https://codes.ohio.gov/ohio-revised-code/chapter-5101",
+     "sha256": "9f4a12da47d14be7ee3d0f60d72b836a77f2d4bf79b789c12340c39c084d7602"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5103",
+   "short": "R.C. Chapter 5103",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5103: Placement of Children",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5103",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 113,
+     "source_url": "https://web.archive.org/web/20260509194321/https://codes.ohio.gov/ohio-revised-code/chapter-5103",
+     "sha256": "f75430f3062c3d134a2016e645de706179eb42abeade828cb3f02d26cae373bc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5104",
+   "short": "R.C. Chapter 5104",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5104: Child Day-care",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5104",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260421171434/https://codes.ohio.gov/ohio-revised-code/chapter-5104",
+     "sha256": "8b63963dcdfe2832e5cbda50b530274ecf5535b9198189fce179eb65c218b57c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5107",
+   "short": "R.C. Chapter 5107",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5107: Ohio Works First Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5107",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 64,
+     "source_url": "https://web.archive.org/web/20260613091348/https://codes.ohio.gov/ohio-revised-code/chapter-5107",
+     "sha256": "71c92fd5055cd6744671ba73c01c0bf6fc8a3559efb44cfe1bb6afb28a93c3ad"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5108",
+   "short": "R.C. Chapter 5108",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5108: Prevention, Retention, And Contingency Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5108",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250901180245/https://codes.ohio.gov/ohio-revised-code/chapter-5108",
+     "sha256": "cc5c972595de1b2cf0de9eff50ae913d4326d0ea18d7d60e9080c87226a286db"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5109",
+   "short": "R.C. Chapter 5109",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5109: Blind-made Products",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5109",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250708181617/https://codes.ohio.gov/ohio-revised-code/chapter-5109",
+     "sha256": "c62dcf5a1b58f53f71cfa6ae53bd8d76f3cc9f3da8a6afda83fb435fe63ff185"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5116",
+   "short": "R.C. Chapter 5116",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5116: Comprehensive Case Management and Employment Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5116",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260514033912/https://codes.ohio.gov/ohio-revised-code/chapter-5116",
+     "sha256": "cff28c01ca793ae03dcb7c204a4377b6286fc90135040f71c1b1045494b27f10"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5117",
+   "short": "R.C. Chapter 5117",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5117: Energy Credit Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5117",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260512034207/https://codes.ohio.gov/ohio-revised-code/chapter-5117",
+     "sha256": "5c3e4fb4529f89c13214ac6fc3303f969da6bd69650a204af6e3860a30f3f556"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5119",
+   "short": "R.C. Chapter 5119",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5119: Department of Behavioral Health",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5119",
+   "versions": [
+    {
+     "from": "2025-11-30",
+     "units": 114,
+     "source_url": "https://web.archive.org/web/20251130004849/https://codes.ohio.gov/ohio-revised-code/chapter-5119",
+     "sha256": "1a4dbd4948e622dc70cc52616da61dfdd1621112e2514ad6b6bfe9d353d81e39"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5120",
+   "short": "R.C. Chapter 5120",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5120: Department of Rehabilitation and Correction",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5120",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 120,
+     "source_url": "https://web.archive.org/web/20260521173205/https://codes.ohio.gov/ohio-revised-code/chapter-5120",
+     "sha256": "e12fb7c1d416678f4daa94a8b3e81099cbda763d32d8417f29f22976df47a96d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5121",
+   "short": "R.C. Chapter 5121",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5121: Welfare Institutions - Generally",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5121",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261009130652/https://codes.ohio.gov/ohio-revised-code/chapter-5121",
+     "sha256": "d8ec042268bdd85da53d037c6d7f682fa07f6e77c728742b57d61cc17f52db14"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5122",
+   "short": "R.C. Chapter 5122",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5122: Hospitalization of Mentally Ill",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5122",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260619080923/https://codes.ohio.gov/ohio-revised-code/chapter-5122",
+     "sha256": "da5523a4c138f5205fb027b29bca93c2f0d2c90f32c1179b09d1cafcad1767e9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5123",
+   "short": "R.C. Chapter 5123",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5123: Department of Developmental Disabilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5123",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 182,
+     "source_url": "https://web.archive.org/web/20260422211000/https://codes.ohio.gov/ohio-revised-code/chapter-5123",
+     "sha256": "9a1f7fd9adcfcf8da5f1140e336c5f60fb367c44c440f01fa7d96fff6faca806"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5124",
+   "short": "R.C. Chapter 5124",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5124: Intermediate Care Facility For Individuals With Intellectual Disabilities Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5124",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 80,
+     "source_url": "https://web.archive.org/web/20250708181931/https://codes.ohio.gov/ohio-revised-code/chapter-5124",
+     "sha256": "151560ffa1253d15972b80136207d205c89080173176b06cec02a63218e7cb2c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5126",
+   "short": "R.C. Chapter 5126",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5126: County Boards of Developmental Disabilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5126",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20251006143743/https://codes.ohio.gov/ohio-revised-code/chapter-5126",
+     "sha256": "6af874eab618adb2334a808ace14fd009553f5299b3ce1a0589b640f825eadb4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5139",
+   "short": "R.C. Chapter 5139",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5139: Youth Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5139",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20250807121827/https://codes.ohio.gov/ohio-revised-code/chapter-5139",
+     "sha256": "612628249da4f5fa34a368af23c98cf1cda8367195382797c7fcf3a43067aa07"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5145",
+   "short": "R.C. Chapter 5145",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5145: Penitentiary",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5145",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260715155229/https://codes.ohio.gov/ohio-revised-code/chapter-5145",
+     "sha256": "d1ae38d7424f6f2468b19aecf7d165b160e436d9f03e807fd730322283e482bb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5147",
+   "short": "R.C. Chapter 5147",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5147: Convict Labor",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5147",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260813112922/https://codes.ohio.gov/ohio-revised-code/chapter-5147",
+     "sha256": "a41278aa4ed208a4eb2a96fe7d3374fda0871c0fe5e9a7d9d7e99a1e0d0017e8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5149",
+   "short": "R.C. Chapter 5149",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5149: Adult Parole Authority",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5149",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260807182837/https://codes.ohio.gov/ohio-revised-code/chapter-5149",
+     "sha256": "de7ae5aad26d35ff216d10a53aed431e9cb794ffc191fdaf6febfefd29a9ad9c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5153",
+   "short": "R.C. Chapter 5153",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5153: County Children Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5153",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 72,
+     "source_url": "https://web.archive.org/web/20260410222411/https://codes.ohio.gov/ohio-revised-code/chapter-5153",
+     "sha256": "104de99b8603e7e96d993b6e58a8f1a4bc07f64d39e3e6f12aefd55c6c7da131"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5155",
+   "short": "R.C. Chapter 5155",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5155: County Homes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5155",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250708182352/https://codes.ohio.gov/ohio-revised-code/chapter-5155",
+     "sha256": "361be2455234c78939f967478a6038088f332bb492fa5ee82acbb74d29151686"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5160",
+   "short": "R.C. Chapter 5160",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5160: Medical Assistance Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5160",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260516023456/https://codes.ohio.gov/ohio-revised-code/chapter-5160",
+     "sha256": "c939c21e0137e650bbee7ce26a1561761a9fd31436242610bef4e1348041de76"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5161",
+   "short": "R.C. Chapter 5161",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5161: Children's Health Insurance Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5161",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250708182409/https://codes.ohio.gov/ohio-revised-code/chapter-5161",
+     "sha256": "3b02dca1d207f36dfe33433d03948993137d64aba1782fa0026a810d33bb3a3e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5162",
+   "short": "R.C. Chapter 5162",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5162: Medicaid and Medicaid Funds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5162",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260610220548/https://codes.ohio.gov/ohio-revised-code/chapter-5162",
+     "sha256": "f9b7976f839412fccc97021e232122921462c2ba68ca0c92f0c4768400937281"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5163",
+   "short": "R.C. Chapter 5163",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5163: Medicaid Eligibility",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5163",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20250708182423/https://codes.ohio.gov/ohio-revised-code/chapter-5163",
+     "sha256": "4c01b7554422be107ad33bb475a7567944a7eb935c149ca50b576c06443b342f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5164",
+   "short": "R.C. Chapter 5164",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5164: Medicaid State Plan Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5164",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 92,
+     "source_url": "https://web.archive.org/web/20260711025648/https://codes.ohio.gov/ohio-revised-code/chapter-5164",
+     "sha256": "33fb372a31a8240e1798af3e7822b55cad13e5d1898ca3822f60fb0c66c4e377"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5165",
+   "short": "R.C. Chapter 5165",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5165: Medicaid Coverage Of Nursing Facility Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5165",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 117,
+     "source_url": "https://web.archive.org/web/20250708182551/https://codes.ohio.gov/ohio-revised-code/chapter-5165",
+     "sha256": "8978686de326de2fe6741ee822e880bfd205664d58f22395bf7a8a7591023bf8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5166",
+   "short": "R.C. Chapter 5166",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5166: Federal Medicaid Waiver Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5166",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260610222406/https://codes.ohio.gov/ohio-revised-code/chapter-5166",
+     "sha256": "e3a8ed0a7f04fe48d96d1ecdaec163ea2f71bee6121c3e183d4511069f09fc0a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5167",
+   "short": "R.C. Chapter 5167",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5167: Medicaid Managed Care",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5167",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260610214309/https://codes.ohio.gov/ohio-revised-code/chapter-5167",
+     "sha256": "dcfb2200df48755816169e84bff6e73df5b49c9eda58923e041a7c68cb134526"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5168",
+   "short": "R.C. Chapter 5168",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5168: Hospital Care Assurance Program; Health Care Franchise Permit Fees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5168",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260517215236/https://codes.ohio.gov/ohio-revised-code/chapter-5168?utm_source=chatgpt.com",
+     "sha256": "429f04882664fa88554b61f669911fdf0b47b6929eca48c46b2232cdf4eb28c4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5180",
+   "short": "R.C. Chapter 5180",
+   "title": "Ohio Revised Code, Title 51: Public Welfare, Chapter 5180: Department of Children and Youth",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5180",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250710082525/https://codes.ohio.gov/ohio-revised-code/chapter-5180",
+     "sha256": "f6144b4165e624a1b7f1169b40c5ddfe8f7a62b94e99398f073cc037c676168e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5301",
+   "short": "R.C. Chapter 5301",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5301: Conveyances; Encumbrances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5301",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 109,
+     "source_url": "https://web.archive.org/web/20261009125905/https://codes.ohio.gov/ohio-revised-code/chapter-5301",
+     "sha256": "a521ad06aed8a421d587ae3439fe62dc6b3edf4844abc23296421a1683cd5fa9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5302",
+   "short": "R.C. Chapter 5302",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5302: Statutory Forms Of Land Conveyance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5302",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261009114044/https://codes.ohio.gov/ohio-revised-code/chapter-5302",
+     "sha256": "47cd61fd27e9bc482f2bde2e48f1f19a8f7e9878d9bdc070ebedd71cd116f694"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5303",
+   "short": "R.C. Chapter 5303",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5303: Actions Relating To Realty",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5303",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250708182753/https://codes.ohio.gov/ohio-revised-code/chapter-5303",
+     "sha256": "f17b171f845597912bfbbe68d9ca2555bf6e6f0dc1d06e6c0e05b02fc49c0489"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5305",
+   "short": "R.C. Chapter 5305",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5305: Dower",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5305",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260713131529/https://codes.ohio.gov/ohio-revised-code/chapter-5305",
+     "sha256": "18b0809ac365231cb37bad9f4a9f9c4b8fcbee403c4d0ee98fd6117dda61a647"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5307",
+   "short": "R.C. Chapter 5307",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5307: Partition",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5307",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260806144636/https://codes.ohio.gov/ohio-revised-code/chapter-5307",
+     "sha256": "95220c2e9bd2f5c4fcd0553acc33774f05759af625bde3d817296e7a0d775e8e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5309",
+   "short": "R.C. Chapter 5309",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5309: Registration Of Land Titles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5309",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 100,
+     "source_url": "https://web.archive.org/web/20260509161233/https://codes.ohio.gov/ohio-revised-code/chapter-5309",
+     "sha256": "56654ec0ad562583c4fec9ff520674f150a8fc50e140d3a87938a657f5d4ccd7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5310",
+   "short": "R.C. Chapter 5310",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5310: Registration Of Land Titles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5310",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20250708182901/https://codes.ohio.gov/ohio-revised-code/chapter-5310",
+     "sha256": "2c3565e8e9301b3a377ac5ede369554c533d7f66ba31675d0622c0b3d253065d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5311",
+   "short": "R.C. Chapter 5311",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5311: Condominium Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5311",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20251213200514/https://codes.ohio.gov/ohio-revised-code/chapter-5311",
+     "sha256": "13186632328d27892ff5de4ae2081672402ce87e4df58dca13e91ce17fcb884d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5312",
+   "short": "R.C. Chapter 5312",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5312: Ohio Planned Community Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5312",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260901062144/https://codes.ohio.gov/ohio-revised-code/chapter-5312",
+     "sha256": "939e8c92fb40a8f06664a5eac1e4f723553ea6ce8599b7e63bd4ad0570f47e26"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5313",
+   "short": "R.C. Chapter 5313",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5313: Land Installment Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5313",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261009182329/https://codes.ohio.gov/ohio-revised-code/chapter-5313",
+     "sha256": "7fd3338f24c53a3e8ca29d774ecccf1b158db9f6476737e91addc154f72ab77a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5315",
+   "short": "R.C. Chapter 5315",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5315: D.o.l.l.a.r. Deed Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5315",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261007031842/https://codes.ohio.gov/ohio-revised-code/chapter-5315",
+     "sha256": "4272ad29708ebbc80cf534ebe0cfeea48a06a2cd8136e6f22cd9841635e831a6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5321",
+   "short": "R.C. Chapter 5321",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5321: Landlords And Tenants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5321",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260803133616/https://codes.ohio.gov/ohio-revised-code/chapter-5321",
+     "sha256": "88004bcc9ab8f82fd9b856923f6f352fb64db263449a78a392e12059e697d34c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5322",
+   "short": "R.C. Chapter 5322",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5322: Storage Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5322",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261009203937/https://codes.ohio.gov/ohio-revised-code/chapter-5322",
+     "sha256": "f8d13732b7e0b1ceebc2c28231f3d36759f9c5fca268c07d9d2131a64ac19bb6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5323",
+   "short": "R.C. Chapter 5323",
+   "title": "Ohio Revised Code, Title 53: Real Property, Chapter 5323: Residential Rental Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5323",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260801113618/https://codes.ohio.gov/ohio-revised-code/chapter-5323",
+     "sha256": "cffb181dfb846522548710df2dcb57d35cf3860101f57174224d0cf9cf11745d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5501",
+   "short": "R.C. Chapter 5501",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5501: Department Of Transportation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5501",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20260613085018/https://codes.ohio.gov/ohio-revised-code/chapter-5501",
+     "sha256": "52820f3ca5e6433b29ad5da8a38b02eabf8a58564d2877b7bab6d59ad172e1b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5502",
+   "short": "R.C. Chapter 5502",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5502: Department of Public Safety",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5502",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20260516024148/https://codes.ohio.gov/ohio-revised-code/chapter-5502",
+     "sha256": "83177d5f0f3eea0593ffa0aa0ea9d28c0c2dacc1653f60742205fe26e7495a05"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5503",
+   "short": "R.C. Chapter 5503",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5503: State Highway Patrol",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5503",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250708182954/https://codes.ohio.gov/ohio-revised-code/chapter-5503",
+     "sha256": "9754e36cd025ae2048e28657e321c19ae909a73ed7075b716a6e1b828e449084"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5505",
+   "short": "R.C. Chapter 5505",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5505: Highway Patrol Retirement System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5505",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20260713041614/https://codes.ohio.gov/ohio-revised-code/chapter-5505",
+     "sha256": "da6682b3364ec41ac1bf6e1070184c33679c20977a75636c176453d76a9445f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5511",
+   "short": "R.C. Chapter 5511",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5511: State Highway System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5511",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260715162106/https://codes.ohio.gov/ohio-revised-code/chapter-5511",
+     "sha256": "576ee24f19ee88d2f343218a03e8f18a4a866571e4f6685d7792b800c96ab5ef"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5512",
+   "short": "R.C. Chapter 5512",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5512: Transportation Review Advisory Council",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5512",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20251126005032/https://codes.ohio.gov/ohio-revised-code/chapter-5512",
+     "sha256": "ecda6c2cb848cb0050a734bb14fda0470aa198281ae9990ba3b7f891e8449582"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5513",
+   "short": "R.C. Chapter 5513",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5513: Materials - Purchase; Sale; Exchange",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5513",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260613153038/https://codes.ohio.gov/ohio-revised-code/chapter-5513",
+     "sha256": "66160c0c7cd2ae315fd9e5afb6bb0918cf2b6c3a50dce5b2b87eb67c801c6fe2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5515",
+   "short": "R.C. Chapter 5515",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5515: State Highways - Use; Obstruction",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5515",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260713124915/https://codes.ohio.gov/ohio-revised-code/chapter-5515",
+     "sha256": "4a0b2032077d0d43d273f9efb5951b724c9b35189e177b5202c05077b51d081f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5516",
+   "short": "R.C. Chapter 5516",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5516: Advertising On Interstate Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5516",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261021021618/https://codes.ohio.gov/ohio-revised-code/chapter-5516",
+     "sha256": "707962c447133817902331c288621ad4fd535c526ec3b3cd87bbe0665afdc7ee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5517",
+   "short": "R.C. Chapter 5517",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5517: Proposed Projects - Maintenance; Repair",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5517",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250708183111/https://codes.ohio.gov/ohio-revised-code/chapter-5517",
+     "sha256": "b7d93daf136b095dd208f0df3b5b11975ca57a7593358ede1ced1f89a1ef5ed1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5519",
+   "short": "R.C. Chapter 5519",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5519: Appropriation Of Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5519",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250708183118/https://codes.ohio.gov/ohio-revised-code/chapter-5519",
+     "sha256": "593cf5782d11585dde4868a98ae5026940781abbe7b87cf5ba65b049c3f3138e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5521",
+   "short": "R.C. Chapter 5521",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5521: Municipal And County Cooperation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5521",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260701085104/https://codes.ohio.gov/ohio-revised-code/chapter-5521",
+     "sha256": "fe641c06315119b430c135728e2839e7821c664fff5bc0c3f7e2b73b61ddaa1b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5523",
+   "short": "R.C. Chapter 5523",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5523: Grade Crossings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5523",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260614195725/https://codes.ohio.gov/ohio-revised-code/chapter-5523",
+     "sha256": "b6e54c380b9d7024394103137bd1fb19d60896b6f2fd995c73e278c720787081"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5525",
+   "short": "R.C. Chapter 5525",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5525: Construction Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5525",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261013012837/https://codes.ohio.gov/ohio-revised-code/chapter-5525",
+     "sha256": "2553232db1308bd4af67dbb94661dc1089b72901a68ec90240c758e4a69fdf61"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5526",
+   "short": "R.C. Chapter 5526",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5526: Contracts For Professional Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5526",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260511055704/https://codes.ohio.gov/ohio-revised-code/chapter-5526",
+     "sha256": "5d64224d4cd0fdf61e3711697f0adc597ac4b7becb1f3b0027599ce14d401260"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5527",
+   "short": "R.C. Chapter 5527",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5527: State Highway Construction Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5527",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250708183137/https://codes.ohio.gov/ohio-revised-code/chapter-5527",
+     "sha256": "b405132e97f5c9dda4442cd813bebbb6133d2123eef40c10d0c2cc3f95bca9ff"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5528",
+   "short": "R.C. Chapter 5528",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5528: State Highway Bonds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5528",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260614223934/https://codes.ohio.gov/ohio-revised-code/chapter-5528",
+     "sha256": "37d80b4a0a833362aed0f50e1c9e4580476fbbe65175dffe0a6a1674706eaa72"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5529",
+   "short": "R.C. Chapter 5529",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5529: Roadside Improvements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5529",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250708183144/https://codes.ohio.gov/ohio-revised-code/chapter-5529",
+     "sha256": "4f535f911c92207f7622ae98b903f3465992ba4a586212f03213a2dc151c9d1d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5531",
+   "short": "R.C. Chapter 5531",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5531: Federal Cooperation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5531",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260712061610/https://codes.ohio.gov/ohio-revised-code/chapter-5531",
+     "sha256": "917880af142f72ac73410411406cc28550e42391102297522676057302bf5bc6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5533",
+   "short": "R.C. Chapter 5533",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5533: Memorial Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5533",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 276,
+     "source_url": "https://web.archive.org/web/20260410125835/https://codes.ohio.gov/ohio-revised-code/chapter-5533",
+     "sha256": "3806bd261cbfdb89b5dfecefd33fa028f858e54d6fc49f80c046d7032dcc24af"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5534",
+   "short": "R.C. Chapter 5534",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5534: Memorial Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5534",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 300,
+     "source_url": "https://web.archive.org/web/20260512123128/https://codes.ohio.gov/ohio-revised-code/chapter-5534",
+     "sha256": "33c308cb5d9dfa99ce8034d5d888aa973c974052e651626e30031cfc46aaa0b0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5535",
+   "short": "R.C. Chapter 5535",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5535: Types Of Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5535",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250708183239/https://codes.ohio.gov/ohio-revised-code/chapter-5535",
+     "sha256": "ca42a165152702774ac73b098bd7f5e3d61c8b6b5e970428c3e094a8b44f26d4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5537",
+   "short": "R.C. Chapter 5537",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5537: Ohio Turnpike And Infrastructure Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5537",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260715163118/https://codes.ohio.gov/ohio-revised-code/chapter-5537",
+     "sha256": "ba824c07da3d3238510bbf66851209d0fe5318fd666d0ab90de9e2b4f9abf245"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5540",
+   "short": "R.C. Chapter 5540",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5540: Transportation Improvement Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5540",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260706071306/https://codes.ohio.gov/ohio-revised-code/chapter-5540",
+     "sha256": "399921e4625364d418a0c60dc10807551aae47f5a0591b117950ddbaaa0e4789"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5541",
+   "short": "R.C. Chapter 5541",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5541: County Highway System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5541",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251007033018/https://codes.ohio.gov/ohio-revised-code/chapter-5541",
+     "sha256": "196041189fa64ee041e9723b007a5e09916f3980564244f610d194fe9e72560f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5543",
+   "short": "R.C. Chapter 5543",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5543: Duties Of County Engineer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5543",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261009130843/https://codes.ohio.gov/ohio-revised-code/chapter-5543",
+     "sha256": "020fd6d1c11d3209c9be508a5d34fe838a34617e01a268d6dbe6adad13b35f0d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5545",
+   "short": "R.C. Chapter 5545",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5545: Highway Improvement Commissions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5545",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250708183314/https://codes.ohio.gov/ohio-revised-code/chapter-5545",
+     "sha256": "40459123cc233a9a15cc51056168dd565d423a187777fe55071f63955332741e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5547",
+   "short": "R.C. Chapter 5547",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5547: County Highways - Use; Obstruction",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5547",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250912001248/https://codes.ohio.gov/ohio-revised-code/chapter-5547",
+     "sha256": "400e883111c4277ffd923f2e1bde8b61ff0827123b1e4672470e197bdf602d52"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5549",
+   "short": "R.C. Chapter 5549",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5549: Purchase Of Machinery And Equipment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5549",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250708183320/https://codes.ohio.gov/ohio-revised-code/chapter-5549",
+     "sha256": "229245472c841ea04431d3030ed7ddca29a11aadf558673f35155f45f9acb8ef"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5551",
+   "short": "R.C. Chapter 5551",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5551: Acquisition Of Railway Right Of Way",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5551",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260427200805/https://codes.ohio.gov/ohio-revised-code/chapter-5551",
+     "sha256": "359c04a8532b0ab6a68e64f30334b23823d861d457a2b554becec41f12ab3ebe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5552",
+   "short": "R.C. Chapter 5552",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5552: Road Access Management",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5552",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260925092414/https://codes.ohio.gov/ohio-revised-code/chapter-5552",
+     "sha256": "c5f27db3bd4f6bab2f7a7e5435584764ad5ad9e68eef5e2b1970d39b675490bd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5553",
+   "short": "R.C. Chapter 5553",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5553: County Roads - Establishment; Alteration; Vacation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5553",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260808033022/https://codes.ohio.gov/ohio-revised-code/chapter-5553",
+     "sha256": "af58a972790c56feebb116c6f898aeda20aa0a6e05f0ffda472d1fd6e3c02842"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5555",
+   "short": "R.C. Chapter 5555",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5555: County Road Improvement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5555",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20261012235933/https://codes.ohio.gov/ohio-revised-code/chapter-5555",
+     "sha256": "9a4772c069e1ca92f20ef0a90ed88b361b69817fffdd275e56d4dd2a9813e06b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5557",
+   "short": "R.C. Chapter 5557",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5557: Municipal Road Improvement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5557",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260307115934/https://codes.ohio.gov/ohio-revised-code/chapter-5557",
+     "sha256": "5f990437d46dff0a06b5f30d2f13ecad20027d57c46eff2f169674caecfe3a8c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5559",
+   "short": "R.C. Chapter 5559",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5559: Platted Territory Road Improvement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5559",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260717171235/https://codes.ohio.gov/ohio-revised-code/chapter-5559",
+     "sha256": "fb7c25b9eef4c0fc0216039a9e6a258292d6af24be322547b768285a34d6e1ff"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5561",
+   "short": "R.C. Chapter 5561",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5561: County Road Grade Crossings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5561",
+   "versions": [
+    {
+     "from": "2026-08-02",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260802131842/https://codes.ohio.gov/ohio-revised-code/chapter-5561",
+     "sha256": "ef215ffca736d3a9c55be0cb4f3b40d429c38f65647b9ac806226f0eb85296c0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5563",
+   "short": "R.C. Chapter 5563",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5563: Appeals In County Road Cases",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5563",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260608020415/https://codes.ohio.gov/ohio-revised-code/chapter-5563",
+     "sha256": "e23214b3570839b32793dfaa48b13920be246bb2e5e3713bc07d30462c7f686c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5571",
+   "short": "R.C. Chapter 5571",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5571: Board Of Township Trustees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5571",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250708183348/https://codes.ohio.gov/ohio-revised-code/chapter-5571",
+     "sha256": "c10f7578c8df8979cf9d027cf2b33a743767186b15af1c64185fa1d294c4a166"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5573",
+   "short": "R.C. Chapter 5573",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5573: Township Road Improvement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5573",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260609003645/https://codes.ohio.gov/ohio-revised-code/chapter-5573",
+     "sha256": "0e89b72d0a8a6036a254a23637b2ceed03aaa847bba0e51d4f2f98003fd36211"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5575",
+   "short": "R.C. Chapter 5575",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5575: Maintenance And Repair - Contract; Force Account",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5575",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250708183432/https://codes.ohio.gov/ohio-revised-code/chapter-5575",
+     "sha256": "8fb0df1bd4f7c103edf25ea4185ea0431f1ac3f0c9cd379d3f9590c813af3a25"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5577",
+   "short": "R.C. Chapter 5577",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5577: Load Limits On Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5577",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260830185703/https://codes.ohio.gov/ohio-revised-code/chapter-5577",
+     "sha256": "630b7509e511b31714a200d145a38178c3411cd13d51d1728db8adabdcc65fac"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5579",
+   "short": "R.C. Chapter 5579",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5579: General Highway Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5579",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250708183440/https://codes.ohio.gov/ohio-revised-code/chapter-5579",
+     "sha256": "26001f75080f20e4f308ba2d67f8943ebf31ed28cf82db5001718757d4efdef1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5589",
+   "short": "R.C. Chapter 5589",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5589: Offenses Relating To Highways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5589",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250708183445/https://codes.ohio.gov/ohio-revised-code/chapter-5589",
+     "sha256": "5a2f0f2247e27a86c11b9694953b0fe4beb266983f198972943982063c12a40c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5591",
+   "short": "R.C. Chapter 5591",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5591: County Bridges",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5591",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260806212217/https://codes.ohio.gov/ohio-revised-code/chapter-5591",
+     "sha256": "3deaf0194f6f7607731e64118d5ec73db63bdc9e4baca9d7d6d33a9153c6d05d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5593",
+   "short": "R.C. Chapter 5593",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5593: Bridge Commissions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5593",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250708183454/https://codes.ohio.gov/ohio-revised-code/chapter-5593",
+     "sha256": "656f145737277b7e704d63c411c2b33964a11416806b8e0fb17014660e37fe90"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5595",
+   "short": "R.C. Chapter 5595",
+   "title": "Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5595: Regional Transportation Improvement Projects",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5595",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261027140127/https://codes.ohio.gov/ohio-revised-code/chapter-5595",
+     "sha256": "fe8dc35c6780ff3bbf8bbaf3d1c77933e30046f065c254001e17c810f1837f67"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5701",
+   "short": "R.C. Chapter 5701",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5701: Definitions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5701",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260520201231/https://codes.ohio.gov/ohio-revised-code/chapter-5701",
+     "sha256": "33952edfc05a72ffb0763f4cd29c16e8380d9606a1c62fc7159584d462d943ee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5703",
+   "short": "R.C. Chapter 5703",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5703: Department Of Taxation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5703",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 92,
+     "source_url": "https://web.archive.org/web/20260317003912/https://codes.ohio.gov/ohio-revised-code/chapter-5703",
+     "sha256": "3111b5d84237f5a83d58b7b18d0cc1f815ab675fbcec81e6c97e2d9bb1994729"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5705",
+   "short": "R.C. Chapter 5705",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5705: Tax Levy Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5705",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 103,
+     "source_url": "https://web.archive.org/web/20260520190145/https://codes.ohio.gov/ohio-revised-code/chapter-5705",
+     "sha256": "2197f07136e47ac8484c4f8a8662f654eac90deec0c23767da492aa53bf10f39"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5707",
+   "short": "R.C. Chapter 5707",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5707: County Taxes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5707",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251006022349/https://codes.ohio.gov/ohio-revised-code/chapter-5707",
+     "sha256": "764ae2a07234750d1447bb8160722edcfc60ac55d0a5d954837bfe1091da8040"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5709",
+   "short": "R.C. Chapter 5709",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5709: Taxable Property - Exemptions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5709",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 107,
+     "source_url": "https://web.archive.org/web/20261009230531/https://codes.ohio.gov/ohio-revised-code/chapter-5709",
+     "sha256": "3d8b4a9bae7222f67cc25f1a98fdde1ae776a77559fc0a442078f7d4e41d3611"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5711",
+   "short": "R.C. Chapter 5711",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5711: Listing Personal Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5711",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260606052151/https://codes.ohio.gov/ohio-revised-code/chapter-5711",
+     "sha256": "01b76ac6d51f7da025b5fdde28914d5b6f437e075f430e8bf4e47a661e7c8c37"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5713",
+   "short": "R.C. Chapter 5713",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5713: Assessing Real Estate",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5713",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250708183542/https://codes.ohio.gov/ohio-revised-code/chapter-5713",
+     "sha256": "2158e15fffa018b1756b6b0db20cf6fe16f61c9e25ec24ca6cb6811b67be4f33"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5715",
+   "short": "R.C. Chapter 5715",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5715: Boards Of Revision; Equalization Of Assessments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5715",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20260716041433/https://codes.ohio.gov/ohio-revised-code/chapter-5715",
+     "sha256": "d1b7d7c1edcf8146ac1a84bfd05589fd76a16b5951d00d7d7d4844b2ca9c5162"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5717",
+   "short": "R.C. Chapter 5717",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5717: Appeals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5717",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260716042316/https://codes.ohio.gov/ohio-revised-code/chapter-5717",
+     "sha256": "ccbdc0c542437156f16cfee8cf4c711ad7bfbb74909a55c78e7e59cf0a41c9dc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5719",
+   "short": "R.C. Chapter 5719",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5719: Personal Property Tax Collection",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5719",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250803082335/https://codes.ohio.gov/ohio-revised-code/chapter-5719",
+     "sha256": "70f331fd8ad36a6fe2e4bc15994d9ac6f83608b00be1784c64934a1432d46884"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5721",
+   "short": "R.C. Chapter 5721",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5721: Delinquent Lands",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5721",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260611155656/https://codes.ohio.gov/ohio-revised-code/chapter-5721",
+     "sha256": "ea083742382497c9e868eacfd6faf06f0de409a1cd3ad997ba86be06f0bdb854"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5722",
+   "short": "R.C. Chapter 5722",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5722: Land Reutilization Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5722",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250708183634/https://codes.ohio.gov/ohio-revised-code/chapter-5722",
+     "sha256": "250307e2a8d5619c8b135c063b95d86e4c10d807536ff9c473da38c351ef2e69"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5723",
+   "short": "R.C. Chapter 5723",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5723: Forfeited Lands",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5723",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260513184515/https://codes.ohio.gov/ohio-revised-code/chapter-5723",
+     "sha256": "c3bb9a35c175ee7018ad4bf19190b6798f520618a6977690709d4ae45178004c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5725",
+   "short": "R.C. Chapter 5725",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5725: Financial Institutions; Dealers In Intangibles; Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5725",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260712114710/https://codes.ohio.gov/ohio-revised-code/chapter-5725",
+     "sha256": "72c69a9d7d1c6cb61d2248bcf2a6ca0297f1838faca48f6d7f976065342ed6ff"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5726",
+   "short": "R.C. Chapter 5726",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5726: Financial Institutions Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5726",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250708183643/https://codes.ohio.gov/ohio-revised-code/chapter-5726",
+     "sha256": "ebc6338545c603c9f3b667e16d7aa1c30e025c05157d272c60f2972d997bb1b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5727",
+   "short": "R.C. Chapter 5727",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5727: Public Utilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5727",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20260718214934/https://codes.ohio.gov/ohio-revised-code/chapter-5727",
+     "sha256": "467e6c81b236c9f940842832f18420248f08c05ccb2b9dc240091d1849723201"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5728",
+   "short": "R.C. Chapter 5728",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5728: Fuel Use Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5728",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260608181638/https://codes.ohio.gov/ohio-revised-code/chapter-5728",
+     "sha256": "3610fdf5504b9d74b97c304be2830f7f680a934ea971cc77e688920405031f16"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5729",
+   "short": "R.C. Chapter 5729",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5729: Foreign Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5729",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261008205051/https://codes.ohio.gov/ohio-revised-code/chapter-5729",
+     "sha256": "00b3d902728ff09e562abff6dbf2a7c3a1252397a64b366e18b5ce40ee31f82c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5731",
+   "short": "R.C. Chapter 5731",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5731: Estate Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5731",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20261009115920/https://codes.ohio.gov/ohio-revised-code/chapter-5731",
+     "sha256": "ea12cdb84334a058eadaa976ad31e47478cc4045f16ff68573833bd9a1032964"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5733",
+   "short": "R.C. Chapter 5733",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5733: Corporation Franchise Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5733",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260512183620/https://codes.ohio.gov/ohio-revised-code/chapter-5733",
+     "sha256": "87588d0b3d6802614155d6fa5ab92ae90f40ee397244d59399e9ec03361cb88a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5735",
+   "short": "R.C. Chapter 5735",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5735: Motor Fuel Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5735",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20261009200236/https://codes.ohio.gov/ohio-revised-code/chapter-5735",
+     "sha256": "e0316b68bf36a52fbea3b57d9b66f520c5cc65e56c846eb1c2d4692e3633ff79"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5736",
+   "short": "R.C. Chapter 5736",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5736: Motor Fuel Supplier Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5736",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250712012807/https://codes.ohio.gov/ohio-revised-code/chapter-5736",
+     "sha256": "7f5a873cbfb509d65617ac47abdd84ca093563b9a9695155c46ec97234052a7b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5737",
+   "short": "R.C. Chapter 5737",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5737: Grain Handling Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5737",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260208143700/https://codes.ohio.gov/ohio-revised-code/chapter-5737",
+     "sha256": "a7633c08eaa6475ecdef8028a749601e46a2c8904857901d67359bb85ac82126"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5739",
+   "short": "R.C. Chapter 5739",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5739: Sales Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5739",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260606050209/https://codes.ohio.gov/ohio-revised-code/chapter-5739",
+     "sha256": "70da24b5bfa849b88ea63853275fd9e1b5c130105517f4ed3be89acddf576c39"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5740",
+   "short": "R.C. Chapter 5740",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5740: Simplified Sales And Use Tax Administration Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5740",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250910115623/https://codes.ohio.gov/ohio-revised-code/chapter-5740",
+     "sha256": "f492de3b10fed5f8f28c14bafaaae109b15be9c02a08704de71301a9c8f70a2b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5741",
+   "short": "R.C. Chapter 5741",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5741: Use Tax; Storage Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5741",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250708183734/https://codes.ohio.gov/ohio-revised-code/chapter-5741",
+     "sha256": "e6345d962b4543f94ee819a9d0f37399f9eebd9be4b334a6c171223d5861d572"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5743",
+   "short": "R.C. Chapter 5743",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5743: Cigarette Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5743",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260514165015/https://codes.ohio.gov/ohio-revised-code/chapter-5743",
+     "sha256": "6628542247cc67e1d0a57c7fab459daa9c6f3ec73379e4794c1530d2234d5ef7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5745",
+   "short": "R.C. Chapter 5745",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5745: Municipal Taxation Of Electric Light Company Income",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5745",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250708183743/https://codes.ohio.gov/ohio-revised-code/chapter-5745",
+     "sha256": "04e03a68dcf7d53c327f31d07b77e7722db437da8563f6781c8ef5bb0b038019"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5747",
+   "short": "R.C. Chapter 5747",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5747: Income Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5747",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 110,
+     "source_url": "https://web.archive.org/web/20260418012322/https://codes.ohio.gov/ohio-revised-code/chapter-5747",
+     "sha256": "cf284a4913d0456c3748bf3404fe3d0cff0242c09d4ac6621f1b513bbe89b3b6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5748",
+   "short": "R.C. Chapter 5748",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5748: School District Income Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5748",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260412223204/https://codes.ohio.gov/ohio-revised-code/chapter-5748",
+     "sha256": "38d6e54ea674af1086caaa9a83f431e0456fa7a87fb3cb2b3ecd8de3c4519468"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5749",
+   "short": "R.C. Chapter 5749",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5749: Severance Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5749",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260517120456/https://codes.ohio.gov/ohio-revised-code/chapter-5749",
+     "sha256": "3eee0e59ecce14f53624883f99a6e8a05e7c4d812d32c1bdf4a8ecafb4abf018"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5751",
+   "short": "R.C. Chapter 5751",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5751: Commercial Activity Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5751",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260410123441/https://codes.ohio.gov/ohio-revised-code/chapter-5751",
+     "sha256": "5d0752a0da167a8ab89f493b02e5376e9bccfcb53137c3c469c93a33bdb553bc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5753",
+   "short": "R.C. Chapter 5753",
+   "title": "Ohio Revised Code, Title 57: Taxation, Chapter 5753: Casinos and Sports Gaming",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5753",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260613032731/https://codes.ohio.gov/ohio-revised-code/chapter-5753",
+     "sha256": "d1139f64574680bf19a040ccec74320360f64365d9db01e921c936a12b936f74"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5801",
+   "short": "R.C. Chapter 5801",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5801: Ohio Trust Code",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5801",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250708183807/https://codes.ohio.gov/ohio-revised-code/chapter-5801",
+     "sha256": "1c626b86a37def20356b53bafea18d49d0f7203490512ab6a76290641ae76ba6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5802",
+   "short": "R.C. Chapter 5802",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5802: Jurisdiction Of Court",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5802",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261020213047/https://codes.ohio.gov/ohio-revised-code/chapter-5802",
+     "sha256": "e086e3878818fc9e04f7e7b1012f3741a2e8f12ec623b6e36086256090775547"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5803",
+   "short": "R.C. Chapter 5803",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5803: Representatives",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5803",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260316171807/https://codes.ohio.gov/ohio-revised-code/chapter-5803",
+     "sha256": "8c958a8723ace4f273bdefd76f8191a7757a04285b10b3505fd97396e9eb56f6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5804",
+   "short": "R.C. Chapter 5804",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5804: Creation, Modification, Revocation, And Termination",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5804",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250708183814/https://codes.ohio.gov/ohio-revised-code/chapter-5804",
+     "sha256": "771d3ebaabc630d60bd5d21002aaa37f0deb1898509d925fb01704618428ac6a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5805",
+   "short": "R.C. Chapter 5805",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5805: Spendthrift Trust Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5805",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260413074138/https://codes.ohio.gov/ohio-revised-code/chapter-5805",
+     "sha256": "f9d83e389482e7de092cdd768f44fe56e239bd4b8928548d8c598fc77cd4a9d3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5806",
+   "short": "R.C. Chapter 5806",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5806: Powers Of Settlor",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5806",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261009141613/https://codes.ohio.gov/ohio-revised-code/chapter-5806",
+     "sha256": "e2e4ed0021f50b4d912fd9579a8fc336941c31f1efe5feb2a492898772a649ef"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5807",
+   "short": "R.C. Chapter 5807",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5807: Trustees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5807",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260428144856/https://codes.ohio.gov/ohio-revised-code/chapter-5807",
+     "sha256": "60616695d6f21e6d566b3444c40608003ab04c1fa25f7e48ed20911f0ef168f3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5808",
+   "short": "R.C. Chapter 5808",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5808: Trust Administration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5808",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20251116035633/https://codes.ohio.gov/ohio-revised-code/chapter-5808",
+     "sha256": "6bac5564a2927933907b49601d6b8d8140f640c4516eaff1432696917ba2f4f4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5809",
+   "short": "R.C. Chapter 5809",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5809: Ohio Uniform Prudent Investor Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5809",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250708183827/https://codes.ohio.gov/ohio-revised-code/chapter-5809",
+     "sha256": "faca69fd7f7dc41160ffd867057cbe74944a7ddaa6e99f436e4e5736154fea5d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5810",
+   "short": "R.C. Chapter 5810",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5810: Breach Of Trust",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5810",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260610093048/https://codes.ohio.gov/ohio-revised-code/chapter-5810",
+     "sha256": "c8277634410dd3e30a65070c4a939ef3bf1afb7ce0501ce3f51b5405cc0874e9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5811",
+   "short": "R.C. Chapter 5811",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5811: Application And Construction Of Code",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5811",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261013232021/https://codes.ohio.gov/ohio-revised-code/chapter-5811",
+     "sha256": "22e23db666cf02c1a2a66e732b3a4d35aada758b01f2f80a2ce1e44a588086c6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5812",
+   "short": "R.C. Chapter 5812",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5812: Uniform Principal And Income Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5812",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250708183836/https://codes.ohio.gov/ohio-revised-code/chapter-5812",
+     "sha256": "653e898f285c95403c3fcbf8275703aebdca503c81a8f1aa84177fb3d653d627"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5813",
+   "short": "R.C. Chapter 5813",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5813: Institutional Trust Funds Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5813",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260521180714/https://codes.ohio.gov/ohio-revised-code/chapter-5813",
+     "sha256": "4d23c4b43300ffced37291330488e24b63ceb33a3e37b65c0e45f0e28b3e7ef0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5814",
+   "short": "R.C. Chapter 5814",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5814: Ohio Transfers To Minors Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5814",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261009174110/https://codes.ohio.gov/ohio-revised-code/chapter-5814",
+     "sha256": "940cb8ba0efd3d157b1564cb27698646c526267312cc08b9023e3cb2c5f91a02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5815",
+   "short": "R.C. Chapter 5815",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5815: Miscellaneous Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5815",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20251207184515/https://codes.ohio.gov/ohio-revised-code/chapter-5815",
+     "sha256": "519d0bb16bf60204e825f87b15a1d49a864bf798c3ed4c3f4c55c45091e1d417"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5816",
+   "short": "R.C. Chapter 5816",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5816: Ohio Legacy Trust Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5816",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260808004721/https://codes.ohio.gov/ohio-revised-code/chapter-5816",
+     "sha256": "7dd6897087be439d945c081a80bd113abbb4107c209c2d3c3facb959916c43e0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5817",
+   "short": "R.C. Chapter 5817",
+   "title": "Ohio Revised Code, Title 58: Trusts, Chapter 5817: Determination Of Validity Of Trust Or Will During Lifetime",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5817",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260904024740/https://codes.ohio.gov/ohio-revised-code/chapter-5817",
+     "sha256": "bd5d81b2902d9bf6681a6da85b3e83be22f329bed4892085c47fcedc04383964"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5901",
+   "short": "R.C. Chapter 5901",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5901: Veterans' Services Commissions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5901",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260716134319/https://codes.ohio.gov/ohio-revised-code/chapter-5901",
+     "sha256": "19e77fbe11ea38cd4dcd5717a11e7cc6bd71a7915e599e2dda846c994d7f60c3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5902",
+   "short": "R.C. Chapter 5902",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5902: Veterans' Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5902",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20251113140912/https://codes.ohio.gov/ohio-revised-code/chapter-5902",
+     "sha256": "bde4efa34f7d917ed0cf8f4f7bb4d1474624596b28def9797e2b60f91764a4e4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5903",
+   "short": "R.C. Chapter 5903",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5903: Veterans' Rights",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5903",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260520071120/https://codes.ohio.gov/ohio-revised-code/chapter-5903",
+     "sha256": "86ecc19f9c2e1639090be231a7f48b44203e3bb0c23347ff93dfb62bce9a95cf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5904",
+   "short": "R.C. Chapter 5904",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5904: Ohio Veterans Hall Of Fame",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5904",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260721183244/https://codes.ohio.gov/ohio-revised-code/chapter-5904",
+     "sha256": "c067d151f64a99c411a52f050089d4a0c51e54f72ebf485c0b5e9f35b5fb1501"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5905",
+   "short": "R.C. Chapter 5905",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5905: Veterans' Guardianship Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5905",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260511133026/https://codes.ohio.gov/ohio-revised-code/chapter-5905",
+     "sha256": "1725062a90f3dc0db36737396bef127c15851e181651baa6db0811cb4c7eb9e0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5906",
+   "short": "R.C. Chapter 5906",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5906: Employer Responsibility To Provide Leave For Parent Or Spouse Of Members Of Uniformed Services Called To Active Duty Or Injured During Active Duty",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5906",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260417215920/https://codes.ohio.gov/ohio-revised-code/chapter-5906",
+     "sha256": "202777a48be5aef5e1ef2caac67a8b05660df0b75db9d177bc302f4ff4f38d99"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5907",
+   "short": "R.C. Chapter 5907",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5907: Veterans' Homes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5907",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250708183945/https://codes.ohio.gov/ohio-revised-code/chapter-5907",
+     "sha256": "d111a72ca96918d1cd76ae3a8c22d74d62652e19d23736974b97341892798b88"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5910",
+   "short": "R.C. Chapter 5910",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5910: War Orphans and Severely Disabled Veterans' Children Scholarships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5910",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250708183948/https://codes.ohio.gov/ohio-revised-code/chapter-5910",
+     "sha256": "eafb10e9183a61dc57d82463596c4f8f4734be1b39aa8fdb1a7cd49b6ff8de83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5911",
+   "short": "R.C. Chapter 5911",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5911: Armories",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5911",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251115143758/https://codes.ohio.gov/ohio-revised-code/chapter-5911",
+     "sha256": "243db21ce93a43f4b1a13f2b4628ff5da68ed4a77ab0ce1533aaeed2b13a9c7f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5913",
+   "short": "R.C. Chapter 5913",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5913: Adjutant General",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5913",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260714044150/https://codes.ohio.gov/ohio-revised-code/chapter-5913",
+     "sha256": "968a4160698c12efbb90a1ec8e1ee7d5ea852a685004e4deaf6f155e8a5314ee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5919",
+   "short": "R.C. Chapter 5919",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5919: Ohio National Guard",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5919",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260317034949/https://codes.ohio.gov/ohio-revised-code/chapter-5919",
+     "sha256": "0f18ed6adf6b91092dfb1f3228eaf786ed8390d76f7d1a751ab717c4c8f7e089"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5920",
+   "short": "R.C. Chapter 5920",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5920: Ohio Military Reserve",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5920",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250708184005/https://codes.ohio.gov/ohio-revised-code/chapter-5920",
+     "sha256": "b8fccfeec30983d2a4af59d74155629881424448dd03d68b9fcb384fd3257f82"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5921",
+   "short": "R.C. Chapter 5921",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5921: Ohio Naval Militia",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5921",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20251007022514/https://codes.ohio.gov/ohio-revised-code/chapter-5921",
+     "sha256": "0939b9bcc87ed0dd09c580e4de2b8e0cc20c661cd4d23f15cf0093a93adc85d7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5922",
+   "short": "R.C. Chapter 5922",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5922: Civilian Cyber Security Reserve Forces",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5922",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250708184013/https://codes.ohio.gov/ohio-revised-code/chapter-5922",
+     "sha256": "d9f24c6439a26d64f4e254a7fddc8e67897a0d947b3e87516d89288f44786517"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5923",
+   "short": "R.C. Chapter 5923",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5923: Organized Militia",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5923",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20251115185117/https://codes.ohio.gov/ohio-revised-code/chapter-5923",
+     "sha256": "27a245bf9d51c2f33a4dddc6a6063c7670dc7d5ddf1dc3b5833852f144d024fb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-5924",
+   "short": "R.C. Chapter 5924",
+   "title": "Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5924: Code Of Military Justice",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-5924",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 137,
+     "source_url": "https://web.archive.org/web/20251115062504/https://codes.ohio.gov/ohio-revised-code/chapter-5924",
+     "sha256": "74d4ed343e50a1b51842a9f894e2178187f7fab2087a1e7ed6b295c3ab5158f4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6101",
+   "short": "R.C. Chapter 6101",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6101: Conservancy Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6101",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 92,
+     "source_url": "https://web.archive.org/web/20260117022918/https://codes.ohio.gov/ohio-revised-code/chapter-6101",
+     "sha256": "b32229928eb1757bbacd7f6c7e252593cd2f035619dffc10b6f2e31986a62fad"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6103",
+   "short": "R.C. Chapter 6103",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6103: County Water Supply Systems",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6103",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260714094115/https://codes.ohio.gov/ohio-revised-code/chapter-6103",
+     "sha256": "e88de27901746e1b2b61d2f157577848468811c35c5fd090938dbed163e1bfbc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6105",
+   "short": "R.C. Chapter 6105",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6105: Watershed Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6105",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250716075614/https://codes.ohio.gov/ohio-revised-code/chapter-6105",
+     "sha256": "bf102a6da4a8a13bd695bd34b9b3efbfa52adad6334eb9f8e5197cae4026a3cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6109",
+   "short": "R.C. Chapter 6109",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6109: Safe Drinking Water",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6109",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250708184123/https://codes.ohio.gov/ohio-revised-code/chapter-6109",
+     "sha256": "e79c1b43897afb5873eb1cb20aed686075524fa7cb6c43f284d5bcdfc8b72042"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6111",
+   "short": "R.C. Chapter 6111",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6111: Water Pollution Control",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6111",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20250708184128/https://codes.ohio.gov/ohio-revised-code/chapter-6111",
+     "sha256": "5e84b34cc7c04d9cba0767862db706dff1bfb30ae823012948c9e39f22735c83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6112",
+   "short": "R.C. Chapter 6112",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6112: Private Sewer Systems",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6112",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250708184134/https://codes.ohio.gov/ohio-revised-code/chapter-6112",
+     "sha256": "611bac60e3a241ea3eb0369d8b3ddf4eda778ba0fcaa2ab7b1c2fd5be9caf3cf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6113",
+   "short": "R.C. Chapter 6113",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6113: Ohio River Sanitation Compact",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6113",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250708184136/https://codes.ohio.gov/ohio-revised-code/chapter-6113",
+     "sha256": "dd23481f14a842b21a8ce5033ff45c4b0f031319014724451f1aa25c8d647edb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6115",
+   "short": "R.C. Chapter 6115",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6115: Sanitary Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6115",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20260609084835/https://codes.ohio.gov/ohio-revised-code/chapter-6115",
+     "sha256": "2a2281b1fe327844ed3608abd2c5a09c49246306a749458a752a15fc532569cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6117",
+   "short": "R.C. Chapter 6117",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6117: Sewer Districts; County Sewers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6117",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20250917141134/https://codes.ohio.gov/ohio-revised-code/chapter-6117",
+     "sha256": "97164bd78c5e812a8a05a24c827f970f34f4dcdcf5e4a360727c96614fc22c66"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6119",
+   "short": "R.C. Chapter 6119",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6119: Regional Water And Sewer Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6119",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20250708184203/https://codes.ohio.gov/ohio-revised-code/chapter-6119",
+     "sha256": "55fdde959b4497df30f406337158832917b5f2d986a6cd14093a3ffd5c9ada81"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6121",
+   "short": "R.C. Chapter 6121",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6121: Water Development Authority",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6121",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260614035549/https://codes.ohio.gov/ohio-revised-code/chapter-6121",
+     "sha256": "c44fe95cc70cf4f2c5b5f2c4800574e40496eda31cdaf5200d6ac07df781b342"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6123",
+   "short": "R.C. Chapter 6123",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6123: Solid Waste And Energy Resource Development Projects",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6123",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250708184213/https://codes.ohio.gov/ohio-revised-code/chapter-6123",
+     "sha256": "624b9746df9efd52d4fec0cb302e43fbbb109cf899c5adace60084d5c6c6217f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6131",
+   "short": "R.C. Chapter 6131",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6131: Single County Drainage Improvements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6131",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20250802232533/https://codes.ohio.gov/ohio-revised-code/chapter-6131",
+     "sha256": "8ccf3e87345d3cf475ae9a763de0b52a642fed88d0844a3609cbcfde3c85786e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6133",
+   "short": "R.C. Chapter 6133",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6133: Joint County Drainage Improvements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6133",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250708184223/https://codes.ohio.gov/ohio-revised-code/chapter-6133",
+     "sha256": "bef7271b497059a5a468f348efe0f7b42df20468d30924a33277180c9eea2969"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6135",
+   "short": "R.C. Chapter 6135",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6135: Interstate County Ditches",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6135",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250708184227/https://codes.ohio.gov/ohio-revised-code/chapter-6135",
+     "sha256": "4db373a331617acce30dfdcd1a0e966b6f70cfa1d248ff40ef9c6aaf11eb5842"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6137",
+   "short": "R.C. Chapter 6137",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6137: Drainage Improvement Maintenance Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6137",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250708184231/https://codes.ohio.gov/ohio-revised-code/chapter-6137",
+     "sha256": "aa43ead8101eeff09961c4515b71fd0e5c38b289ea7933a99e5f0ca2228dddec"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6151",
+   "short": "R.C. Chapter 6151",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6151: Watercourses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6151",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250708184234/https://codes.ohio.gov/ohio-revised-code/chapter-6151",
+     "sha256": "4917888b0bf5ffda72d366c3845dd5a5e4da869cba8ab15eaa7fae50b605f127"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6155",
+   "short": "R.C. Chapter 6155",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6155: Removal Of Milldams",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6155",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250708184237/https://codes.ohio.gov/ohio-revised-code/chapter-6155",
+     "sha256": "00000974e955006717c6c7f60d74ce93019ca92a5236d2f382d7ea92bd234fa2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6156",
+   "short": "R.C. Chapter 6156",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6156: County Reclamation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6156",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250708184243/https://codes.ohio.gov/ohio-revised-code/chapter-6156",
+     "sha256": "73b867aacf894a3900dd9f4ecef005f1b6e081182868c79db2634a4f685f3841"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6161",
+   "short": "R.C. Chapter 6161",
+   "title": "Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6161: Great Lakes Basin Compact",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6161",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250708184246/https://codes.ohio.gov/ohio-revised-code/chapter-6161",
+     "sha256": "3f170f053a811a8220be904d1c65f462e3807c04e69d6e3d5983bf2c3a3c3d5c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-6301",
+   "short": "R.C. Chapter 6301",
+   "title": "Ohio Revised Code, Title 63: Workforce Development, Chapter 6301: Workforce Development System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-6301",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260613062739/https://codes.ohio.gov/ohio-revised-code/chapter-6301",
+     "sha256": "b19e4f47fb7519b2b2bd48373b3c509f4186d920a3c3d80be2b3b30353e5b794"
+    }
+   ]
   }
  ]
 }

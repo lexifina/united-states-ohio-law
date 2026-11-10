@@ -783,12 +783,232 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-4775` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4775: Motor Vehicle Repair and Window Tint Operators | 1 | 2026-10-14 to 2026-10-14 |
 | `orc-chapter-4776` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4776: Criminal Records Checks | 1 | 2025-12-07 to 2025-12-07 |
 | `orc-chapter-4777` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4777: Practice of Occupational Safety or Industrial Hygiene | 1 | 2026-09-06 to 2026-09-06 |
+| `orc-chapter-4778` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4778: Genetic Counselors | 1 | 2026-08-11 to 2026-08-11 |
+| `orc-chapter-4779` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4779: Orthotists, Prosthetists, Pedorthists | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4781` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4781: Manufactured Homes | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-4783` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4783: Behavior Analysts | 1 | 2026-06-21 to 2026-06-21 |
+| `orc-chapter-4785` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4785: Elevator Contractors and Elevator Mechanics | 1 | 2026-04-26 to 2026-04-26 |
+| `orc-chapter-4796` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4796: Occupational Licenses for Out-of-State Applicants | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-4798` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4798: Occupational Regulations | 1 | 2026-05-17 to 2026-05-17 |
+| `orc-chapter-4799` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4799: Licensing of Childhood Sexual Abuse Registrants | 1 | 2026-08-18 to 2026-08-18 |
+| `orc-chapter-4901` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4901: Public Utilities Commission - Organization | 1 | 2026-03-17 to 2026-03-17 |
+| `orc-chapter-4903` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4903: Public Utilities Commission - Hearings | 1 | 2025-09-22 to 2025-09-22 |
+| `orc-chapter-4905` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4905: Public Utilities Commission - General Powers | 1 | 2026-04-15 to 2026-04-15 |
+| `orc-chapter-4906` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4906: Power Siting | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-4907` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4907: Public Utilities Commission - Railroad Powers | 1 | 2026-04-26 to 2026-04-26 |
+| `orc-chapter-4909` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4909: Public Utilities Commission - Fixation Of Rates | 1 | 2025-12-05 to 2025-12-05 |
+| `orc-chapter-4911` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4911: Consumers' Counsel | 1 | 2026-04-21 to 2026-04-21 |
+| `orc-chapter-4913` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4913: Public Utilities Commission - Enforcement Of Underground-utility-damage-prevention Law | 1 | 2025-09-16 to 2025-09-16 |
+| `orc-chapter-4921` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4921: Motor Carrier Authority And Permitting | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4923` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4923: Motor Carrier Operations | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4925` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4925: Transportation Network Companies | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-4926` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4926: Electric Cooperative Pole Attachments | 1 | 2025-11-08 to 2025-11-08 |
+| `orc-chapter-4927` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4927: Telecommunications - Alternative Regulation | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-4928` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4928: Competitive Retail Electric Service | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-4929` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4929: Alternate Rate Plan For Natural Gas Companies; Certification Of Governmental Aggregators And Retail Natural Gas Suppliers | 1 | 2026-10-21 to 2026-10-21 |
+| `orc-chapter-4931` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4931: Companies - Telegraph; Telephone | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4933` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4933: Companies - Gas; Electric; Water; Others | 1 | 2026-04-12 to 2026-04-12 |
+| `orc-chapter-4935` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4935: Energy Data | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4937` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4937: Utility Radiological Safety | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4939` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4939: Use Of Municipal Public Way | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-4951` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4951: Street Railways And Interurban Railroads | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4953` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4953: Transportation Terminal Companies | 1 | 2025-07-12 to 2025-07-12 |
+| `orc-chapter-4955` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4955: Tracks; Crossings | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4957` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4957: Elimination Of Crossings | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4959` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4959: Right Of Way Drainage And Fences | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4961` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4961: Special Powers Of Railroads | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-4963` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4963: Trains; Equipment | 1 | 2026-08-06 to 2026-08-06 |
+| `orc-chapter-4965` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4965: Passenger Fares | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-4967` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4967: Consolidation Of Railroads | 1 | 2026-06-11 to 2026-06-11 |
+| `orc-chapter-4969` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4969: Railroad Sales; Railroad Receivers | 1 | 2026-01-23 to 2026-01-23 |
+| `orc-chapter-4971` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4971: Reorganization Of Railroads | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-4973` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4973: Employees; Police Officers | 1 | 2026-08-27 to 2026-08-27 |
+| `orc-chapter-4981` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4981: Rail Development Commission | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-4999` | Ohio Revised Code, Title 49: Public Utilities, Chapter 4999: Crimes Relating To Railroads | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-5101` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5101: Department of Job and Family Services- General Provisions | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-5103` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5103: Placement of Children | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-5104` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5104: Child Day-care | 1 | 2026-04-21 to 2026-04-21 |
+| `orc-chapter-5107` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5107: Ohio Works First Program | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-5108` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5108: Prevention, Retention, And Contingency Program | 1 | 2025-09-01 to 2025-09-01 |
+| `orc-chapter-5109` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5109: Blind-made Products | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5116` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5116: Comprehensive Case Management and Employment Program | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-5117` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5117: Energy Credit Program | 1 | 2026-05-12 to 2026-05-12 |
+| `orc-chapter-5119` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5119: Department of Behavioral Health | 1 | 2025-11-30 to 2025-11-30 |
+| `orc-chapter-5120` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5120: Department of Rehabilitation and Correction | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-5121` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5121: Welfare Institutions - Generally | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5122` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5122: Hospitalization of Mentally Ill | 1 | 2026-06-19 to 2026-06-19 |
+| `orc-chapter-5123` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5123: Department of Developmental Disabilities | 1 | 2026-04-22 to 2026-04-22 |
+| `orc-chapter-5124` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5124: Intermediate Care Facility For Individuals With Intellectual Disabilities Services | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5126` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5126: County Boards of Developmental Disabilities | 1 | 2025-10-06 to 2025-10-06 |
+| `orc-chapter-5139` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5139: Youth Services | 1 | 2025-08-07 to 2025-08-07 |
+| `orc-chapter-5145` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5145: Penitentiary | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-5147` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5147: Convict Labor | 1 | 2026-08-13 to 2026-08-13 |
+| `orc-chapter-5149` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5149: Adult Parole Authority | 1 | 2026-08-07 to 2026-08-07 |
+| `orc-chapter-5153` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5153: County Children Services | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-5155` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5155: County Homes | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5160` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5160: Medical Assistance Programs | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-5161` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5161: Children's Health Insurance Program | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5162` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5162: Medicaid and Medicaid Funds | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-5163` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5163: Medicaid Eligibility | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5164` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5164: Medicaid State Plan Services | 1 | 2026-07-11 to 2026-07-11 |
+| `orc-chapter-5165` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5165: Medicaid Coverage Of Nursing Facility Services | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5166` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5166: Federal Medicaid Waiver Programs | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-5167` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5167: Medicaid Managed Care | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-5168` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5168: Hospital Care Assurance Program; Health Care Franchise Permit Fees | 1 | 2026-05-17 to 2026-05-17 |
+| `orc-chapter-5180` | Ohio Revised Code, Title 51: Public Welfare, Chapter 5180: Department of Children and Youth | 1 | 2025-07-10 to 2025-07-10 |
+| `orc-chapter-5301` | Ohio Revised Code, Title 53: Real Property, Chapter 5301: Conveyances; Encumbrances | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5302` | Ohio Revised Code, Title 53: Real Property, Chapter 5302: Statutory Forms Of Land Conveyance | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5303` | Ohio Revised Code, Title 53: Real Property, Chapter 5303: Actions Relating To Realty | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5305` | Ohio Revised Code, Title 53: Real Property, Chapter 5305: Dower | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-5307` | Ohio Revised Code, Title 53: Real Property, Chapter 5307: Partition | 1 | 2026-08-06 to 2026-08-06 |
+| `orc-chapter-5309` | Ohio Revised Code, Title 53: Real Property, Chapter 5309: Registration Of Land Titles | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-5310` | Ohio Revised Code, Title 53: Real Property, Chapter 5310: Registration Of Land Titles | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5311` | Ohio Revised Code, Title 53: Real Property, Chapter 5311: Condominium Property | 1 | 2025-12-13 to 2025-12-13 |
+| `orc-chapter-5312` | Ohio Revised Code, Title 53: Real Property, Chapter 5312: Ohio Planned Community Law | 1 | 2026-09-01 to 2026-09-01 |
+| `orc-chapter-5313` | Ohio Revised Code, Title 53: Real Property, Chapter 5313: Land Installment Contracts | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5315` | Ohio Revised Code, Title 53: Real Property, Chapter 5315: D.o.l.l.a.r. Deed Program | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-5321` | Ohio Revised Code, Title 53: Real Property, Chapter 5321: Landlords And Tenants | 1 | 2026-08-03 to 2026-08-03 |
+| `orc-chapter-5322` | Ohio Revised Code, Title 53: Real Property, Chapter 5322: Storage Facilities | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5323` | Ohio Revised Code, Title 53: Real Property, Chapter 5323: Residential Rental Property | 1 | 2026-08-01 to 2026-08-01 |
+| `orc-chapter-5501` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5501: Department Of Transportation | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-5502` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5502: Department of Public Safety | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-5503` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5503: State Highway Patrol | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5505` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5505: Highway Patrol Retirement System | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-5511` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5511: State Highway System | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-5512` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5512: Transportation Review Advisory Council | 1 | 2025-11-26 to 2025-11-26 |
+| `orc-chapter-5513` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5513: Materials - Purchase; Sale; Exchange | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-5515` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5515: State Highways - Use; Obstruction | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-5516` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5516: Advertising On Interstate Highways | 1 | 2026-10-21 to 2026-10-21 |
+| `orc-chapter-5517` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5517: Proposed Projects - Maintenance; Repair | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5519` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5519: Appropriation Of Property | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5521` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5521: Municipal And County Cooperation | 1 | 2026-07-01 to 2026-07-01 |
+| `orc-chapter-5523` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5523: Grade Crossings | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-5525` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5525: Construction Contracts | 1 | 2026-10-13 to 2026-10-13 |
+| `orc-chapter-5526` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5526: Contracts For Professional Services | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-5527` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5527: State Highway Construction Fund | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5528` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5528: State Highway Bonds | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-5529` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5529: Roadside Improvements | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5531` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5531: Federal Cooperation | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-5533` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5533: Memorial Highways | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-5534` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5534: Memorial Highways | 1 | 2026-05-12 to 2026-05-12 |
+| `orc-chapter-5535` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5535: Types Of Highways | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5537` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5537: Ohio Turnpike And Infrastructure Commission | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-5540` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5540: Transportation Improvement Districts | 1 | 2026-07-06 to 2026-07-06 |
+| `orc-chapter-5541` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5541: County Highway System | 1 | 2025-10-07 to 2025-10-07 |
+| `orc-chapter-5543` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5543: Duties Of County Engineer | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5545` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5545: Highway Improvement Commissions | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5547` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5547: County Highways - Use; Obstruction | 1 | 2025-09-12 to 2025-09-12 |
+| `orc-chapter-5549` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5549: Purchase Of Machinery And Equipment | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5551` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5551: Acquisition Of Railway Right Of Way | 1 | 2026-04-27 to 2026-04-27 |
+| `orc-chapter-5552` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5552: Road Access Management | 1 | 2026-09-25 to 2026-09-25 |
+| `orc-chapter-5553` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5553: County Roads - Establishment; Alteration; Vacation | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-5555` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5555: County Road Improvement | 1 | 2026-10-12 to 2026-10-12 |
+| `orc-chapter-5557` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5557: Municipal Road Improvement | 1 | 2026-03-07 to 2026-03-07 |
+| `orc-chapter-5559` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5559: Platted Territory Road Improvement | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-5561` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5561: County Road Grade Crossings | 1 | 2026-08-02 to 2026-08-02 |
+| `orc-chapter-5563` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5563: Appeals In County Road Cases | 1 | 2026-06-08 to 2026-06-08 |
+| `orc-chapter-5571` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5571: Board Of Township Trustees | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5573` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5573: Township Road Improvement | 1 | 2026-06-09 to 2026-06-09 |
+| `orc-chapter-5575` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5575: Maintenance And Repair - Contract; Force Account | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5577` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5577: Load Limits On Highways | 1 | 2026-08-30 to 2026-08-30 |
+| `orc-chapter-5579` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5579: General Highway Provisions | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5589` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5589: Offenses Relating To Highways | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5591` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5591: County Bridges | 1 | 2026-08-06 to 2026-08-06 |
+| `orc-chapter-5593` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5593: Bridge Commissions | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5595` | Ohio Revised Code, Title 55: Roads-Highways-Bridges, Chapter 5595: Regional Transportation Improvement Projects | 1 | 2026-10-27 to 2026-10-27 |
+| `orc-chapter-5701` | Ohio Revised Code, Title 57: Taxation, Chapter 5701: Definitions | 1 | 2026-05-20 to 2026-05-20 |
+| `orc-chapter-5703` | Ohio Revised Code, Title 57: Taxation, Chapter 5703: Department Of Taxation | 1 | 2026-03-17 to 2026-03-17 |
+| `orc-chapter-5705` | Ohio Revised Code, Title 57: Taxation, Chapter 5705: Tax Levy Law | 1 | 2026-05-20 to 2026-05-20 |
+| `orc-chapter-5707` | Ohio Revised Code, Title 57: Taxation, Chapter 5707: County Taxes | 1 | 2025-10-06 to 2025-10-06 |
+| `orc-chapter-5709` | Ohio Revised Code, Title 57: Taxation, Chapter 5709: Taxable Property - Exemptions | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5711` | Ohio Revised Code, Title 57: Taxation, Chapter 5711: Listing Personal Property | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-5713` | Ohio Revised Code, Title 57: Taxation, Chapter 5713: Assessing Real Estate | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5715` | Ohio Revised Code, Title 57: Taxation, Chapter 5715: Boards Of Revision; Equalization Of Assessments | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-5717` | Ohio Revised Code, Title 57: Taxation, Chapter 5717: Appeals | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-5719` | Ohio Revised Code, Title 57: Taxation, Chapter 5719: Personal Property Tax Collection | 1 | 2025-08-03 to 2025-08-03 |
+| `orc-chapter-5721` | Ohio Revised Code, Title 57: Taxation, Chapter 5721: Delinquent Lands | 1 | 2026-06-11 to 2026-06-11 |
+| `orc-chapter-5722` | Ohio Revised Code, Title 57: Taxation, Chapter 5722: Land Reutilization Program | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5723` | Ohio Revised Code, Title 57: Taxation, Chapter 5723: Forfeited Lands | 1 | 2026-05-13 to 2026-05-13 |
+| `orc-chapter-5725` | Ohio Revised Code, Title 57: Taxation, Chapter 5725: Financial Institutions; Dealers In Intangibles; Insurance Companies | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-5726` | Ohio Revised Code, Title 57: Taxation, Chapter 5726: Financial Institutions Tax | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5727` | Ohio Revised Code, Title 57: Taxation, Chapter 5727: Public Utilities | 1 | 2026-07-18 to 2026-07-18 |
+| `orc-chapter-5728` | Ohio Revised Code, Title 57: Taxation, Chapter 5728: Fuel Use Tax | 1 | 2026-06-08 to 2026-06-08 |
+| `orc-chapter-5729` | Ohio Revised Code, Title 57: Taxation, Chapter 5729: Foreign Insurance Companies | 1 | 2026-10-08 to 2026-10-08 |
+| `orc-chapter-5731` | Ohio Revised Code, Title 57: Taxation, Chapter 5731: Estate Tax | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5733` | Ohio Revised Code, Title 57: Taxation, Chapter 5733: Corporation Franchise Tax | 1 | 2026-05-12 to 2026-05-12 |
+| `orc-chapter-5735` | Ohio Revised Code, Title 57: Taxation, Chapter 5735: Motor Fuel Tax | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5736` | Ohio Revised Code, Title 57: Taxation, Chapter 5736: Motor Fuel Supplier Tax | 1 | 2025-07-12 to 2025-07-12 |
+| `orc-chapter-5737` | Ohio Revised Code, Title 57: Taxation, Chapter 5737: Grain Handling Tax | 1 | 2026-02-08 to 2026-02-08 |
+| `orc-chapter-5739` | Ohio Revised Code, Title 57: Taxation, Chapter 5739: Sales Tax | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-5740` | Ohio Revised Code, Title 57: Taxation, Chapter 5740: Simplified Sales And Use Tax Administration Act | 1 | 2025-09-10 to 2025-09-10 |
+| `orc-chapter-5741` | Ohio Revised Code, Title 57: Taxation, Chapter 5741: Use Tax; Storage Tax | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5743` | Ohio Revised Code, Title 57: Taxation, Chapter 5743: Cigarette Tax | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-5745` | Ohio Revised Code, Title 57: Taxation, Chapter 5745: Municipal Taxation Of Electric Light Company Income | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5747` | Ohio Revised Code, Title 57: Taxation, Chapter 5747: Income Tax | 1 | 2026-04-18 to 2026-04-18 |
+| `orc-chapter-5748` | Ohio Revised Code, Title 57: Taxation, Chapter 5748: School District Income Tax | 1 | 2026-04-12 to 2026-04-12 |
+| `orc-chapter-5749` | Ohio Revised Code, Title 57: Taxation, Chapter 5749: Severance Tax | 1 | 2026-05-17 to 2026-05-17 |
+| `orc-chapter-5751` | Ohio Revised Code, Title 57: Taxation, Chapter 5751: Commercial Activity Tax | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-5753` | Ohio Revised Code, Title 57: Taxation, Chapter 5753: Casinos and Sports Gaming | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-5801` | Ohio Revised Code, Title 58: Trusts, Chapter 5801: Ohio Trust Code | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5802` | Ohio Revised Code, Title 58: Trusts, Chapter 5802: Jurisdiction Of Court | 1 | 2026-10-20 to 2026-10-20 |
+| `orc-chapter-5803` | Ohio Revised Code, Title 58: Trusts, Chapter 5803: Representatives | 1 | 2026-03-16 to 2026-03-16 |
+| `orc-chapter-5804` | Ohio Revised Code, Title 58: Trusts, Chapter 5804: Creation, Modification, Revocation, And Termination | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5805` | Ohio Revised Code, Title 58: Trusts, Chapter 5805: Spendthrift Trust Provisions | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-5806` | Ohio Revised Code, Title 58: Trusts, Chapter 5806: Powers Of Settlor | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5807` | Ohio Revised Code, Title 58: Trusts, Chapter 5807: Trustees | 1 | 2026-04-28 to 2026-04-28 |
+| `orc-chapter-5808` | Ohio Revised Code, Title 58: Trusts, Chapter 5808: Trust Administration | 1 | 2025-11-16 to 2025-11-16 |
+| `orc-chapter-5809` | Ohio Revised Code, Title 58: Trusts, Chapter 5809: Ohio Uniform Prudent Investor Act | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5810` | Ohio Revised Code, Title 58: Trusts, Chapter 5810: Breach Of Trust | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-5811` | Ohio Revised Code, Title 58: Trusts, Chapter 5811: Application And Construction Of Code | 1 | 2026-10-13 to 2026-10-13 |
+| `orc-chapter-5812` | Ohio Revised Code, Title 58: Trusts, Chapter 5812: Uniform Principal And Income Act | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5813` | Ohio Revised Code, Title 58: Trusts, Chapter 5813: Institutional Trust Funds Act | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-5814` | Ohio Revised Code, Title 58: Trusts, Chapter 5814: Ohio Transfers To Minors Act | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-5815` | Ohio Revised Code, Title 58: Trusts, Chapter 5815: Miscellaneous Provisions | 1 | 2025-12-07 to 2025-12-07 |
+| `orc-chapter-5816` | Ohio Revised Code, Title 58: Trusts, Chapter 5816: Ohio Legacy Trust Act | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-5817` | Ohio Revised Code, Title 58: Trusts, Chapter 5817: Determination Of Validity Of Trust Or Will During Lifetime | 1 | 2026-09-04 to 2026-09-04 |
+| `orc-chapter-5901` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5901: Veterans' Services Commissions | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-5902` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5902: Veterans' Services | 1 | 2025-11-13 to 2025-11-13 |
+| `orc-chapter-5903` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5903: Veterans' Rights | 1 | 2026-05-20 to 2026-05-20 |
+| `orc-chapter-5904` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5904: Ohio Veterans Hall Of Fame | 1 | 2026-07-21 to 2026-07-21 |
+| `orc-chapter-5905` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5905: Veterans' Guardianship Law | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-5906` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5906: Employer Responsibility To Provide Leave For Parent Or Spouse Of Members Of Uniformed Services Called To Active Duty Or Injured During Active Duty | 1 | 2026-04-17 to 2026-04-17 |
+| `orc-chapter-5907` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5907: Veterans' Homes | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5910` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5910: War Orphans and Severely Disabled Veterans' Children Scholarships | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5911` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5911: Armories | 1 | 2025-11-15 to 2025-11-15 |
+| `orc-chapter-5913` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5913: Adjutant General | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-5919` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5919: Ohio National Guard | 1 | 2026-03-17 to 2026-03-17 |
+| `orc-chapter-5920` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5920: Ohio Military Reserve | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5921` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5921: Ohio Naval Militia | 1 | 2025-10-07 to 2025-10-07 |
+| `orc-chapter-5922` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5922: Civilian Cyber Security Reserve Forces | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-5923` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5923: Organized Militia | 1 | 2025-11-15 to 2025-11-15 |
+| `orc-chapter-5924` | Ohio Revised Code, Title 59: Veterans-Military Affairs, Chapter 5924: Code Of Military Justice | 1 | 2025-11-15 to 2025-11-15 |
+| `orc-chapter-6101` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6101: Conservancy Districts | 1 | 2026-01-17 to 2026-01-17 |
+| `orc-chapter-6103` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6103: County Water Supply Systems | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-6105` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6105: Watershed Districts | 1 | 2025-07-16 to 2025-07-16 |
+| `orc-chapter-6109` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6109: Safe Drinking Water | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6111` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6111: Water Pollution Control | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6112` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6112: Private Sewer Systems | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6113` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6113: Ohio River Sanitation Compact | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6115` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6115: Sanitary Districts | 1 | 2026-06-09 to 2026-06-09 |
+| `orc-chapter-6117` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6117: Sewer Districts; County Sewers | 1 | 2025-09-17 to 2025-09-17 |
+| `orc-chapter-6119` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6119: Regional Water And Sewer Districts | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6121` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6121: Water Development Authority | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-6123` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6123: Solid Waste And Energy Resource Development Projects | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6131` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6131: Single County Drainage Improvements | 1 | 2025-08-02 to 2025-08-02 |
+| `orc-chapter-6133` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6133: Joint County Drainage Improvements | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6135` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6135: Interstate County Ditches | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6137` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6137: Drainage Improvement Maintenance Fund | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6151` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6151: Watercourses | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6155` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6155: Removal Of Milldams | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6156` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6156: County Reclamation | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6161` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6161: Great Lakes Basin Compact | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-6301` | Ohio Revised Code, Title 63: Workforce Development, Chapter 6301: Workforce Development System | 1 | 2026-06-13 to 2026-06-13 |
 
-The build made 768 commits:
+The build made 988 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 768 | first version of an act |
+| 988 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -796,7 +1016,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 768 tags.
+- 988 tags.
 
 ## Dates
 
@@ -808,7 +1028,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9b28d55035a19a6d028d867b5517fb3f7113ec3a48219ba8947a466730b8e5f1` (67620625 bytes).
+- Corpus: sha256 `c32e92f4bd78564ed85b728e96df308d14806594d6e7caeb37f58efae16f5e55` (85088178 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
