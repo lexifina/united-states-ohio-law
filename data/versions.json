@@ -462,6 +462,1238 @@
      "sha256": "22814f34e9f465eac83588d7b8218b0af8c0a14879bebd188c3d4ff87bdd7b62"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-0120",
+   "short": "R.C. Chapter 120",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 120: Public Defenders",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-120",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260422134214/https://codes.ohio.gov/ohio-revised-code/chapter-120",
+     "sha256": "825a1570ba28a29a2421035a7969931b3ffdd10efe467b6cd772834d845a5b30"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0121",
+   "short": "R.C. Chapter 121",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 121: State Departments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-121",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260606042551/https://codes.ohio.gov/ohio-revised-code/chapter-121",
+     "sha256": "1e3738bde8d13e1ff4dba6dfe35604a7620fb40a62e1606f30008db528b2743f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0122",
+   "short": "R.C. Chapter 122",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 122: Department of Development",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-122",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 223,
+     "source_url": "https://web.archive.org/web/20260519042733/https://codes.ohio.gov/ohio-revised-code/chapter-122",
+     "sha256": "f8c71b81e04545668e45b1faf599fcf1959a34a08208365c2f6ba4017403857d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0123",
+   "short": "R.C. Chapter 123",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 123: Department of Administrative Services - Public Works",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-123",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260514165518/https://codes.ohio.gov/ohio-revised-code/chapter-123",
+     "sha256": "9da4a22ae9eaffc5ef793cff43089f5340a29537774bc56a90beada5f64cc59b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0124",
+   "short": "R.C. Chapter 124",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 124: Department of Administrative Services - Personnel",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-124",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 129,
+     "source_url": "https://web.archive.org/web/20261013213724/https://codes.ohio.gov/ohio-revised-code/chapter-124",
+     "sha256": "7565eec2f7361e441b33e4d8bcfd10ce04ed7756744bf1b4b803c35577d8d72d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0125",
+   "short": "R.C. Chapter 125",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 125: Department of Administrative Services - Office Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-125",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260714104248/https://codes.ohio.gov/ohio-revised-code/chapter-125",
+     "sha256": "326e3a31eeeb7d599b862767e244a7906b0c1f2d61da2d4adad6aff0dc00bbe0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0126",
+   "short": "R.C. Chapter 126",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 126: Office of Budget and Management",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-126",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260711201602/https://codes.ohio.gov/ohio-revised-code/chapter-126",
+     "sha256": "60e90cc0b4762024efdf742009e81308d2f40e9db685986bc395f2b38a5796e5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0127",
+   "short": "R.C. Chapter 127",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 127: Controlling Board",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-127",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260312193755/https://codes.ohio.gov/ohio-revised-code/chapter-127",
+     "sha256": "c12b097a8d3156150a9e7de1bfa4bfefb8f63d46512b9efce05329dba129b9e9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0128",
+   "short": "R.C. Chapter 128",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 128: 9-1-1 Emergency Telephone Number System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-128",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260616124842/https://codes.ohio.gov/ohio-revised-code/chapter-128",
+     "sha256": "bec384807e4257c25d1672c090e6058ba18a2ef738eb3246c9bd238a91315b01"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0129",
+   "short": "R.C. Chapter 129",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 129: Board of Commissioners of Sinking Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-129",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260309091229/https://codes.ohio.gov/ohio-revised-code/chapter-129",
+     "sha256": "a883e8372839501a014e89a3d52db14fca0557453c4caa7bf9f2e6648f9136ab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0131",
+   "short": "R.C. Chapter 131",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 131: Revenues and Funds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-131",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260606165159/https://codes.ohio.gov/ohio-revised-code/chapter-131",
+     "sha256": "91e67125fd7179952b09dcca80122b90f86500050c5d180424699f4ef121136e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0133",
+   "short": "R.C. Chapter 133",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 133: Uniform Public Securities Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-133",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20250626011104/https://codes.ohio.gov/ohio-revised-code/chapter-133",
+     "sha256": "d49f7c6d4f6a87c7b516013426c185d42550e41c5fe151277fb4c5e2e946451a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0135",
+   "short": "R.C. Chapter 135",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 135: Uniform Depository Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-135",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 80,
+     "source_url": "https://web.archive.org/web/20260805201427/https://codes.ohio.gov/ohio-revised-code/chapter-135",
+     "sha256": "75da9a3769098bc14901601a72baee5b40c187ed866eac15b61475bb04569050"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0139",
+   "short": "R.C. Chapter 139",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 139: Federal Aid Bonds; Food Stamp Plan",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-139",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250626011111/https://codes.ohio.gov/ohio-revised-code/chapter-139",
+     "sha256": "6931378c7c2f9e024d9cb3a84209e06be43f14ab54fe624051b2cf9cae323322"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0140",
+   "short": "R.C. Chapter 140",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 140: Hospital Agencies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-140",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260517060107/https://codes.ohio.gov/ohio-revised-code/chapter-140",
+     "sha256": "7e982bffb36ec217b890a4f25e2d09cf85c92d16a0ac8aa92f3686256a226068"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0141",
+   "short": "R.C. Chapter 141",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 141: Salaries of State Officers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-141",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250626011116/https://codes.ohio.gov/ohio-revised-code/chapter-141",
+     "sha256": "abc4ce8802389d182c86e22c9b9982281e5d61edc5a5ff9d120a3c8b235f4ee6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0143",
+   "short": "R.C. Chapter 143",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 143: Volunteer Peace Officers Dependents",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-143",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250626011121/https://codes.ohio.gov/ohio-revised-code/chapter-143",
+     "sha256": "f71b2d6f36da3422b83ebad1f37aa999045508c9f2dc1c82275f3329ce9ee70e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0145",
+   "short": "R.C. Chapter 145",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 145: Public Employees Retirement System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-145",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 182,
+     "source_url": "https://web.archive.org/web/20260411020507/https://codes.ohio.gov/ohio-revised-code/chapter-145",
+     "sha256": "5ffde4996df08bdebccd5bb7ff0758113f2c5ed829c92b1744633284111abaa3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0146",
+   "short": "R.C. Chapter 146",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 146: Volunteer Fire Fighters' Dependents Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-146",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260422075317/https://codes.ohio.gov/ohio-revised-code/chapter-146",
+     "sha256": "12f5e69cd2b17b66a5bd7cd377b88e4a35a99d9176acd5a3d0eebbe37f1df0fe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0147",
+   "short": "R.C. Chapter 147",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 147: Notaries Public and Commissioners",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-147",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20261020075410/https://codes.ohio.gov/ohio-revised-code/chapter-147",
+     "sha256": "68e75df8154a94b9a90afed454eff650b29fb03232f167706418478ef792afee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0148",
+   "short": "R.C. Chapter 148",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 148: Deferred Compensation Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-148",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261011023428/https://codes.ohio.gov/ohio-revised-code/chapter-148",
+     "sha256": "390d9f966c957a38942b5b694a0ede16d0c585979efb602898575eb951ccfa66"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0149",
+   "short": "R.C. Chapter 149",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 149: Documents, Reports, and Records",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-149",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 64,
+     "source_url": "https://web.archive.org/web/20260707212933/https://codes.ohio.gov/ohio-revised-code/chapter-149",
+     "sha256": "8989c3e83ad20d90a612ec1bd515aa68a314b8190981fbceb102567f6089a72a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0150",
+   "short": "R.C. Chapter 150",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 150: Venture Capital Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-150",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250626011141/https://codes.ohio.gov/ohio-revised-code/chapter-150",
+     "sha256": "3e70eda2ceda6b8d58109c8dcf5fdd76f9029c47b6557629bc96c360237d06f1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0151",
+   "short": "R.C. Chapter 151",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 151: Public Facilities Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-151",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250626011144/https://codes.ohio.gov/ohio-revised-code/chapter-151",
+     "sha256": "d99f91affc1b6a8e5078ae2779f9a346621c58eba76607e56c77ef89ddb3b474"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0153",
+   "short": "R.C. Chapter 153",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 153: Public Improvements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-153",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260419235634/https://codes.ohio.gov/ohio-revised-code/chapter-153",
+     "sha256": "c685299a61b3b35112b0907537e3e0878438ab6dbd2ef7e16348962e98a3176f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0154",
+   "short": "R.C. Chapter 154",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 154: Financing for Certain Capital Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-154",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260417215603/https://codes.ohio.gov/ohio-revised-code/chapter-154",
+     "sha256": "ede1a71ca15234ad3b1db8aa30e347dee6b3b58b16499fb24fb8f5322a1e3aae"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0155",
+   "short": "R.C. Chapter 155",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 155: Lands and Memorials",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-155",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260717115338/https://codes.ohio.gov/ohio-revised-code/chapter-155",
+     "sha256": "5c9d900323b767b06a8020c37e41898d7a819e50c76ba4cd9abf3e0945a0ee48"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0156",
+   "short": "R.C. Chapter 156",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 156: Energy Conservation Measures",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-156",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250626011158/https://codes.ohio.gov/ohio-revised-code/chapter-156",
+     "sha256": "34fbe33220b3442767a15513e07e24dd2609bf1f9c81c7be3a8afc4ef862d79e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0157",
+   "short": "R.C. Chapter 157",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 157: Ohio Co-ordinate System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-157",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250626011201/https://codes.ohio.gov/ohio-revised-code/chapter-157",
+     "sha256": "66a3ed9bd270b31781b639160ce1f34e4c9ac76e4e2ba61b868abb66fe6828eb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0159",
+   "short": "R.C. Chapter 159",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 159: Purchase and Jurisdiction of Land by United States",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-159",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260608021119/https://codes.ohio.gov/ohio-revised-code/chapter-159",
+     "sha256": "febfecc1e6fd1de6dcb542a2769ccc185c7f16f089c376a6f0e02628c6e581e8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0161",
+   "short": "R.C. Chapter 161",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 161: Emergency Interim Government",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-161",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250626011209/https://codes.ohio.gov/ohio-revised-code/chapter-161",
+     "sha256": "0b30d36fea0e90e5f81856f8bd9da79fce50506010c782b13f46861725061582"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0163",
+   "short": "R.C. Chapter 163",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 163: Appropriation of Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-163",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260614225852/https://codes.ohio.gov/ohio-revised-code/chapter-163",
+     "sha256": "36d1cc5cab42ef6cecb19fa241f8a57a57b8f5f4105ed0640d79a6fbd501cdf0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0164",
+   "short": "R.C. Chapter 164",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 164: Aid to Local Government Improvements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-164",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261013202343/https://codes.ohio.gov/ohio-revised-code/chapter-164",
+     "sha256": "2ee2c9727c476a15698eb844a5a10632e7bcc3ae0d463a22095a03f407e4b780"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0165",
+   "short": "R.C. Chapter 165",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 165: Industrial Development Bonds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-165",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260413025022/https://codes.ohio.gov/ohio-revised-code/chapter-165",
+     "sha256": "adb1694432bc642d55cafbb30e006115d6245b17b3a8f7101109bd0fea671897"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0166",
+   "short": "R.C. Chapter 166",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 166: Economic Development Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-166",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250626011224/https://codes.ohio.gov/ohio-revised-code/chapter-166",
+     "sha256": "6ac078cb43ada194a3b7dd781406ca8deee2e4b13a6db9b76fcacdfc6f06f3cb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0167",
+   "short": "R.C. Chapter 167",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 167: Regional Councils of Governments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-167",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260808035745/https://codes.ohio.gov/ohio-revised-code/chapter-167",
+     "sha256": "c1d505f53706f3853ccc75b8c9047eb2e6bcc4f06d0606e7fc7eadc3b1188788"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0169",
+   "short": "R.C. Chapter 169",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 169: Unclaimed Funds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-169",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260412001138/https://codes.ohio.gov/ohio-revised-code/chapter-169",
+     "sha256": "229475023ce76c04dbea396cf5c1a96532d2b6fdaf32d75188a1c43f76e705fd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0171",
+   "short": "R.C. Chapter 171",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 171: Retirement Study Council",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-171",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260520164348/https://codes.ohio.gov/ohio-revised-code/chapter-171",
+     "sha256": "7b24e9e178835f6d9513b802d92ec8dabef7c887218e6b7f917969fdbc4c9e5a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0173",
+   "short": "R.C. Chapter 173",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 173: Department of Aging",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-173",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260519224617/https://codes.ohio.gov/ohio-revised-code/chapter-173",
+     "sha256": "46c78fa3b67f65e460a5da0da3301d97c7275f88e8eb36f2570eb3f6a7470f2e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0174",
+   "short": "R.C. Chapter 174",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 174: Ohio Housing Trust Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-174",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250626011240/https://codes.ohio.gov/ohio-revised-code/chapter-174",
+     "sha256": "cde6b9788d40b95a22b052e6d2355c6f84a67755914dafcc5013a9674fb82408"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0175",
+   "short": "R.C. Chapter 175",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 175: Housing Finance Agency",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-175",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260715131537/https://codes.ohio.gov/ohio-revised-code/chapter-175",
+     "sha256": "a8bbd818ced04b204d30f9b3705db9f2ef0e42221765c561513255b898532efc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0176",
+   "short": "R.C. Chapter 176",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 176: Housing Advisory Boards",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-176",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260426180231/https://codes.ohio.gov/ohio-revised-code/chapter-176",
+     "sha256": "45ccfef3ce59ee9fc2b014aa2015b1bbb6a2bb3fc8523a319c02865b8e8e4c38"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0177",
+   "short": "R.C. Chapter 177",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 177: Investigation and Prosecution of Organized Criminal Activity",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-177",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260121005746/https://codes.ohio.gov/ohio-revised-code/chapter-177",
+     "sha256": "58e5453164fe9aad33d6e4db0c13bffc6df7f49c84c2dbe8c2d952a3218426dc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0181",
+   "short": "R.C. Chapter 181",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 181: Criminal Sentencing Commission; Criminal Justice Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-181",
+   "versions": [
+    {
+     "from": "2025-10-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251012150500/https://codes.ohio.gov/ohio-revised-code/chapter-181",
+     "sha256": "45c8283b3797b84528deba6c19ed5487e80cdf9d091d362906d676e9db48a1a7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0182",
+   "short": "R.C. Chapter 182",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 182: OneOhio Recovery Foundation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-182",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250626011252/https://codes.ohio.gov/ohio-revised-code/chapter-182",
+     "sha256": "86fc845aeea65e470ee733fbd7987e5e2a210272133430f4d23a630c6ac03cbc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0183",
+   "short": "R.C. Chapter 183",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 183: Tobacco Master Settlement Agreement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-183",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250626011254/https://codes.ohio.gov/ohio-revised-code/chapter-183",
+     "sha256": "d1cc48226436512052c8ce970f3f380823e358a935b1114e6ac13da2a88735d0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0184",
+   "short": "R.C. Chapter 184",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 184: Third Frontier Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-184",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20251113182756/https://codes.ohio.gov/ohio-revised-code/chapter-184",
+     "sha256": "52021badaa86f9b7c79a9b2889881c0a92ce53d9afaa5b84732afd6eb0db9b2e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0187",
+   "short": "R.C. Chapter 187",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 187: JobsOhio Corporation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-187",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260710234734/https://codes.ohio.gov/ohio-revised-code/chapter-187",
+     "sha256": "67aae17396720ac791e42c10b125f4a490b821443d32b9c8afed0db9b6393f17"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0188",
+   "short": "R.C. Chapter 188",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 188: Electric Cooperative Easement Use for Broadband",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-188",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260608043717/https://codes.ohio.gov/ohio-revised-code/chapter-188",
+     "sha256": "fe4758908011d0ed6716b62a0f0d7c4edcd5d5443a5e561f954b521335594c87"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0189",
+   "short": "R.C. Chapter 189",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 189: Local Government Innovation Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-189",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250626011304/https://codes.ohio.gov/ohio-revised-code/chapter-189",
+     "sha256": "ceaa615caabb94396912125938b29ef442f977206cd8fef5d327ad842c8eddb9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0191",
+   "short": "R.C. Chapter 191",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 191: Broadband Pole Replacement and Undergrounding",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-191",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260510012955/https://codes.ohio.gov/ohio-revised-code/chapter-191",
+     "sha256": "40484fd2c580960fab04e3e6c1ad7a60a30ac72b44e302049da43c630e4f4c83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0195",
+   "short": "R.C. Chapter 195",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 195: Internet Crimes Against Children Task Force",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-195",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250626011310/https://codes.ohio.gov/ohio-revised-code/chapter-195",
+     "sha256": "018b70207de5a58af09674679dc859d6ed987516f2eb8492ebcb4ed903b3c9d3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0197",
+   "short": "R.C. Chapter 197",
+   "title": "Ohio Revised Code, Title 1: State Government, Chapter 197: Holocaust and Genocide Memorial and Education Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-197",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260509193243/https://codes.ohio.gov/ohio-revised-code/chapter-197",
+     "sha256": "62bf8e8f2117d53232b1d0054fd645e3f7ab9fbd8f721093d996541aa66d3024"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0301",
+   "short": "R.C. Chapter 301",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 301: Organization",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-301",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260710232100/https://codes.ohio.gov/ohio-revised-code/chapter-301",
+     "sha256": "abd23ddecd18b8a9b6fb77ac756189a5ff5d3424c70c05b03ed4a6df5c88f4fd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0302",
+   "short": "R.C. Chapter 302",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 302: Alternative Form of County Government",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-302",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260520191547/https://codes.ohio.gov/ohio-revised-code/chapter-302",
+     "sha256": "d8d92a89964fdfaa7b7a255fd5a0f3e9d073235bf1587755f0cd02e32f66c5dd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0303",
+   "short": "R.C. Chapter 303",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 303: County Zoning; Renewal; Wind and Solar Generation Restrictions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-303",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260716052651/https://codes.ohio.gov/ohio-revised-code/chapter-303",
+     "sha256": "357df79dfaa68c496133cc0bbb1f54c1adb465296a6cb95dafe5484028070a27"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0304",
+   "short": "R.C. Chapter 304",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 304: Electronic Records and Signatures",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-304",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250626011324/https://codes.ohio.gov/ohio-revised-code/chapter-304",
+     "sha256": "93c023c57a39c6432ef7aa6e552f62a46189fb771582d6f79c2b80e91773c9f2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0305",
+   "short": "R.C. Chapter 305",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 305: Board of County Commissioners - Generally",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-305",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260606103241/https://codes.ohio.gov/ohio-revised-code/chapter-305",
+     "sha256": "aab91c7297bebc684caa78ab41a8c13f62f125afdc993a2e9f042a510e5910f2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0306",
+   "short": "R.C. Chapter 306",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 306: County Transit System; Regional Transit Authority; Regional Transit Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-306",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20260518032022/https://codes.ohio.gov/ohio-revised-code/chapter-306",
+     "sha256": "123d0bcdb7377710923154978b59714d62f8f3fa07d3ddb24f1bd3861f9a856d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0307",
+   "short": "R.C. Chapter 307",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 307: Board of County Commissioners - Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-307",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 229,
+     "source_url": "https://web.archive.org/web/20260716141240/https://codes.ohio.gov/ohio-revised-code/chapter-307",
+     "sha256": "16cfa99c3b4be13578db3e7df450accd7fe60a1e6c70543f3e85fec02d604576"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0308",
+   "short": "R.C. Chapter 308",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 308: Airport Authorities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-308",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260416084417/https://codes.ohio.gov/ohio-revised-code/chapter-308",
+     "sha256": "d5f7c36ae386073f54f8a94c38e0a454a7f3fa402b27efc21798151ffa61a901"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0309",
+   "short": "R.C. Chapter 309",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 309: Prosecuting Attorney",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-309",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261029083548/https://codes.ohio.gov/ohio-revised-code/chapter-309",
+     "sha256": "62febb581eefded8f535ae71e89763a3ddd538c1f3b25d4fa8e720b1b2d6dbd9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0311",
+   "short": "R.C. Chapter 311",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 311: Sheriff",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-311",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260512192726/https://codes.ohio.gov/ohio-revised-code/chapter-311",
+     "sha256": "2e583be0078a1a76dee9069aad5a737a9fd9ad7a9555b52f33153b9bf1b7edf7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0313",
+   "short": "R.C. Chapter 313",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 313: Coroner",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-313",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260410165702/https://codes.ohio.gov/ohio-revised-code/chapter-313",
+     "sha256": "7df9d1bf27694f0b021151b6f33d1748e4e555cda2f299d7a58d377436b20bf1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0315",
+   "short": "R.C. Chapter 315",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 315: Engineer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-315",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260422145049/https://codes.ohio.gov/ohio-revised-code/chapter-315",
+     "sha256": "c06f50e39acf37ff55fa09e9b78ed0586252af8cbff0ba4d0d2216861d587061"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0317",
+   "short": "R.C. Chapter 317",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 317: Recorder",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-317",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20261009141834/https://codes.ohio.gov/ohio-revised-code/chapter-317",
+     "sha256": "263cf118042cfb4676d455fc650cbb3914b1f49be9a6a4aeb39c2e5c097fa24e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0319",
+   "short": "R.C. Chapter 319",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 319: Auditor",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-319",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260202003733/https://codes.ohio.gov/ohio-revised-code/chapter-319",
+     "sha256": "a529780d38749e4edfc6828cba2ff58b79c0eef7f03b9a80b901eef1ead8e3d3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0321",
+   "short": "R.C. Chapter 321",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 321: Treasurer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-321",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260313224606/https://codes.ohio.gov/ohio-revised-code/chapter-321",
+     "sha256": "2207ad6d41d34e0c6d6ca55de909a3a641f5cbe8f1b3d06b9b15e70d7f475da5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0322",
+   "short": "R.C. Chapter 322",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 322: Real Property and Manufactured Home Transfer Taxes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-322",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260617033651/https://codes.ohio.gov/ohio-revised-code/chapter-322",
+     "sha256": "4368679932725c0b4f5a088bb3b6222aa471f1bffae3569ed13632c73ba90dc7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0323",
+   "short": "R.C. Chapter 323",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 323: Collection of Taxes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-323",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20261008180950/https://codes.ohio.gov/ohio-revised-code/chapter-323",
+     "sha256": "0b34acbd74e30993b77601344b2aac6b1200f96919ae2f142aabdb20483a19dc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0325",
+   "short": "R.C. Chapter 325",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 325: Compensation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-325",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260713191406/https://codes.ohio.gov/ohio-revised-code/chapter-325",
+     "sha256": "7ed39b6b9d017d489e60c4ad98ae841c1f9874f1efc6ba40c30fd30f9a4d3378"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0327",
+   "short": "R.C. Chapter 327",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 327: County Board of Trustees of Sinking Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-327",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250627081544/https://codes.ohio.gov/ohio-revised-code/chapter-327",
+     "sha256": "5f1509bd469319d6d872045694aacd2b3e0c8cb7c969ab6bff295987a34df1e3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0329",
+   "short": "R.C. Chapter 329",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 329: County Department of Job and Family Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-329",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20251118193911/https://codes.ohio.gov/ohio-revised-code/chapter-329",
+     "sha256": "2c8b3ee8376382e5860a95941c666bf01a2ebd312a952e75b8e55da2859f4609"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0331",
+   "short": "R.C. Chapter 331",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 331: County Facilities Review Board",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-331",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260613060401/https://codes.ohio.gov/ohio-revised-code/chapter-331",
+     "sha256": "63a922e38f2fb0b7f029aef3d76f4c892c23fda30bcd52e3932726b611dff18d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0333",
+   "short": "R.C. Chapter 333",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 333: Impact Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-333",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250627081603/https://codes.ohio.gov/ohio-revised-code/chapter-333",
+     "sha256": "e6acc0e304832786282106d37b65f10ec93b8ca4d88f4c25d1dc9af834e780df"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0339",
+   "short": "R.C. Chapter 339",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 339: Hospitals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-339",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20251120003333/https://codes.ohio.gov/ohio-revised-code/chapter-339",
+     "sha256": "a54d611906dd5412ba9e36e5458328f81d032fd4ab7686d68e70051d260bef02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0340",
+   "short": "R.C. Chapter 340",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 340: Alcohol, Drug Addiction, and Mental Health Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-340",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260613121613/https://codes.ohio.gov/ohio-revised-code/chapter-340",
+     "sha256": "c58c6c33e7ba1c96dde8b89ae55578b061aec60a812e2b8d2734bc4e62394888"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0341",
+   "short": "R.C. Chapter 341",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 341: Jails",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-341",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20251212104352/https://codes.ohio.gov/ohio-revised-code/chapter-341",
+     "sha256": "b7a1b3c7834212a3290da6295c446e47ab6d1cbe4824db92818a55fcc8e3248e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0343",
+   "short": "R.C. Chapter 343",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 343: Solid Waste Management Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-343",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260711152120/https://codes.ohio.gov/ohio-revised-code/chapter-343",
+     "sha256": "2f03557974d7da4ae4bd188ba909fece1559840dcdfda9c69605b2c2fe5f082f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0345",
+   "short": "R.C. Chapter 345",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 345: Memorial Buildings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-345",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260516015859/https://codes.ohio.gov/ohio-revised-code/chapter-345",
+     "sha256": "e7b78cd942586daa9991563c1c3de6d242f78a31ba0010e016a6f6e2ffa36ad6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0347",
+   "short": "R.C. Chapter 347",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 347: County Centennial Celebration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-347",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250715072313/https://codes.ohio.gov/ohio-revised-code/chapter-347",
+     "sha256": "357393a02473ae7e32b97c01fd6b7558629d3b0754b2b0ee8006604dab6309ff"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0349",
+   "short": "R.C. Chapter 349",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 349: New Community Organization",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-349",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260711200752/https://codes.ohio.gov/ohio-revised-code/chapter-349",
+     "sha256": "20a0e56441302d02454bb2d059341fc0e0d967ec773f3b89bb2897ba66b0e1e8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0351",
+   "short": "R.C. Chapter 351",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 351: Convention Facilities Authorities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-351",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20250628071409/https://codes.ohio.gov/ohio-revised-code/chapter-351",
+     "sha256": "f439546517ebb0704346a49f4b64e951ebc0cf1fdfd1301322a5001ef2388151"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0353",
+   "short": "R.C. Chapter 353",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 353: Lake Facilities Authorities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-353",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260613055211/https://codes.ohio.gov/ohio-revised-code/chapter-353",
+     "sha256": "ada02e7342f5cb0317fc2ef1998683cbc00928376a34d8abf61f1987a90f1771"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0355",
+   "short": "R.C. Chapter 355",
+   "title": "Ohio Revised Code, Title 3: Counties, Chapter 355: County Healthier Buckeye Councils",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-355",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250909201100/https://codes.ohio.gov/ohio-revised-code/chapter-355",
+     "sha256": "52e47912b8573759503039de788b72ac5d2c7f1a36bfc899deeb76b22758a9c6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0501",
+   "short": "R.C. Chapter 501",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 501: Original Surveyed Townships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-501",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260827164326/https://codes.ohio.gov/ohio-revised-code/chapter-501",
+     "sha256": "c2b49612e3dbf9311f519fc483b6c695957d50a32cdf6693c45b4e98c797b0cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0503",
+   "short": "R.C. Chapter 503",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 503: General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-503",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260510202308/https://codes.ohio.gov/ohio-revised-code/chapter-503",
+     "sha256": "50a724f81eb1f65944c603fa1360fff08d698ab84f7e831355156969e1c2442b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0504",
+   "short": "R.C. Chapter 504",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 504: Limited Home Rule Government",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-504",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260309094609/https://codes.ohio.gov/ohio-revised-code/chapter-504",
+     "sha256": "40c7d0713f1e444ba1a343e40b7ebc4d182edb80d06028df601833c4f8113982"
+    }
+   ]
   }
  ]
 }
