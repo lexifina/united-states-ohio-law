@@ -5152,6 +5152,2470 @@
      "sha256": "b84bd27cd0fd827f2fea62c9b1dad1d6faf832afb7075480a41168f95509bc20"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-2303",
+   "short": "R.C. Chapter 2303",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2303: Clerk of the Court of Common Pleas",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2303",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260717025114/https://codes.ohio.gov/ohio-revised-code/chapter-2303",
+     "sha256": "4f2702bc78109473fd5c5a2a0de3db19fcd0dc59264827fd862ecf1be03c08f8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2305",
+   "short": "R.C. Chapter 2305",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2305: Jurisdiction; Limitation Of Actions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2305",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20260509161203/https://codes.ohio.gov/ohio-revised-code/chapter-2305",
+     "sha256": "da560426cd0bf64c7934011b61207228e0bdf21cdc1d1f485b623f6cc1c27ccd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2307",
+   "short": "R.C. Chapter 2307",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2307: Civil Actions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2307",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260707160219/https://codes.ohio.gov/ohio-revised-code/chapter-2307",
+     "sha256": "34a180474a36ebc677d3a34a8591699417e891314919189ade30dc48a5d5f097"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2308",
+   "short": "R.C. Chapter 2308",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2308: Expedited Foreclosure On Vacant And Abandoned Properties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2308",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260513193852/https://codes.ohio.gov/ohio-revised-code/chapter-2308",
+     "sha256": "f9b5a825a170ab8eed486b96cc54656bc1e21b9156f52a6f4475da7960ba5911"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2309",
+   "short": "R.C. Chapter 2309",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2309: Pleadings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2309",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260807105042/https://codes.ohio.gov/ohio-revised-code/chapter-2309",
+     "sha256": "1ac6570cb4657b3a2367979ecd138f013e7eeb1b540a075c7396656a34c5ae0c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2311",
+   "short": "R.C. Chapter 2311",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2311: Trial-related Matters",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2311",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250702030949/https://codes.ohio.gov/ohio-revised-code/chapter-2311",
+     "sha256": "0d5d7eef88ac8e04fca3ba07430766aac7543cefb29d867798287afc49e5c4ba"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2313",
+   "short": "R.C. Chapter 2313",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2313: Commissioners Of Jurors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2313",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260614221115/https://codes.ohio.gov/ohio-revised-code/chapter-2313",
+     "sha256": "076b207246618d18454651fad60ce39e2681ead4abedf853e3d2e9ae01dca8d1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2315",
+   "short": "R.C. Chapter 2315",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2315: Trial Procedure",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2315",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260714094635/https://codes.ohio.gov/ohio-revised-code/chapter-2315",
+     "sha256": "ce9d9796ff1d6b59e32cefd519632433378dc56228c63faadf3caae164945531"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2317",
+   "short": "R.C. Chapter 2317",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2317: Evidence",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2317",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260413014456/https://codes.ohio.gov/ohio-revised-code/chapter-2317",
+     "sha256": "d11f4d5f91e69c14cd36d3c9537add3703a2d517cf505b83bdfc25dd7b7aaed0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2319",
+   "short": "R.C. Chapter 2319",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2319: Affidavits; Depositions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2319",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250702031007/https://codes.ohio.gov/ohio-revised-code/chapter-2319",
+     "sha256": "91568a10d57948361ba32f690f8a748567b54459b119fd8f2a74ea38d3a77c10"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2321",
+   "short": "R.C. Chapter 2321",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2321: New Trial",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2321",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260215074013/https://codes.ohio.gov/ohio-revised-code/chapter-2321",
+     "sha256": "bf393825122c217b41fb04cddfe0918c13afbf9151eb15ff98658766e72fcaea"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2323",
+   "short": "R.C. Chapter 2323",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2323: Judgment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2323",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260219033350/https://codes.ohio.gov/ohio-revised-code/chapter-2323",
+     "sha256": "a2a4164240f18c0e2e8665bb12dc7b00a5bba3a996f65211e7fb51d7d9e58f22"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2325",
+   "short": "R.C. Chapter 2325",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2325: Relief After Judgment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2325",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250806180109/https://codes.ohio.gov/ohio-revised-code/chapter-2325",
+     "sha256": "cc4f44eee4570745d2501a6792c58e04ba7f7731ced7c438862f264cb2894da9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2327",
+   "short": "R.C. Chapter 2327",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2327: Execution Generally",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2327",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260215081552/https://codes.ohio.gov/ohio-revised-code/chapter-2327",
+     "sha256": "4d6448c5660cd503757eabbe18bdb7e01d47d0a65568b02d4e77c808daaff6f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2329",
+   "short": "R.C. Chapter 2329",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2329: Execution Against Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2329",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 101,
+     "source_url": "https://web.archive.org/web/20250702031026/https://codes.ohio.gov/ohio-revised-code/chapter-2329",
+     "sha256": "5d39796aabee9b737beb66c4e4370a2bb44cd8e73ba84830a5044f118f93183b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2331",
+   "short": "R.C. Chapter 2331",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2331: Execution Against The Person",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2331",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260210024136/https://codes.ohio.gov/ohio-revised-code/chapter-2331",
+     "sha256": "d0bd0755eb6180865eff1f1fe13aff83001c7eb4b84dc2bcb6cb0f7fd9d4aa59"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2333",
+   "short": "R.C. Chapter 2333",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2333: Proceedings In Aid Of Execution",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2333",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260712120355/https://codes.ohio.gov/ohio-revised-code/chapter-2333",
+     "sha256": "def9179abb64b4e6f21389d15595d35157c3be58daf8e322bda78cdb118341bb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2335",
+   "short": "R.C. Chapter 2335",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2335: Fees; Costs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2335",
+   "versions": [
+    {
+     "from": "2025-10-05",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20251005130245/https://codes.ohio.gov/ohio-revised-code/chapter-2335",
+     "sha256": "a43eb2ca1db4754a5dc1c4c7d1f7f3dd1d2ea4b5b102fa7f471c036846dcdd21"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2337",
+   "short": "R.C. Chapter 2337",
+   "title": "Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2337: Uniform Foreign-money Claims Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2337",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260215082924/https://codes.ohio.gov/ohio-revised-code/chapter-2337",
+     "sha256": "d62862cc8b20ecbae28fbb4879bc5bb0740de2f625d00755b9f0f42e11d97792"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2501",
+   "short": "R.C. Chapter 2501",
+   "title": "Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2501: Court Of Appeals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2501",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260515225323/https://codes.ohio.gov/ohio-revised-code/chapter-2501",
+     "sha256": "d00bbed4af21538fa22b0ecd449d5d31f8464ac109f2b7969ac62682a2603b7c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2503",
+   "short": "R.C. Chapter 2503",
+   "title": "Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2503: Supreme Court",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2503",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260414070102/https://codes.ohio.gov/ohio-revised-code/chapter-2503",
+     "sha256": "6549ff7be1ac3d27658dd924f215f3fb7c790549ecaf6b01a30d6355a3b86878"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2505",
+   "short": "R.C. Chapter 2505",
+   "title": "Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2505: Procedure On Appeal",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2505",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250702031055/https://codes.ohio.gov/ohio-revised-code/chapter-2505",
+     "sha256": "138518bb9c88058b84390bf229e52d4efb126765fbb17ea9d2c93785f728c1c8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2506",
+   "short": "R.C. Chapter 2506",
+   "title": "Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2506: Appeals From Orders Of Administrative Officers And Agencies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2506",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260713120122/https://codes.ohio.gov/ohio-revised-code/chapter-2506",
+     "sha256": "ffe3a36802d5433d88362ab30321dbb9bfc58a386506908163e3dbdf1758baa4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2701",
+   "short": "R.C. Chapter 2701",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2701: Courts Of Record - General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2701",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260807115141/https://codes.ohio.gov/ohio-revised-code/chapter-2701",
+     "sha256": "6fbdde079d8c39b3f55c8f13db6c8f6a2f716347af671f9e686cffdc7f36cdf0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2703",
+   "short": "R.C. Chapter 2703",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2703: Service Of Summons",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2703",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250702031105/https://codes.ohio.gov/ohio-revised-code/chapter-2703",
+     "sha256": "8f6b2ec77423bae89df07b95f2a26c64142b210318b0b956a09af19e10886962"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2705",
+   "short": "R.C. Chapter 2705",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2705: Contempt Of Court",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2705",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260514040841/https://codes.ohio.gov/ohio-revised-code/chapter-2705",
+     "sha256": "c9dfd6ba291094d54e5ab4b9221bd68a9e259d2b1183ae1fa19e588e412bdb24"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2707",
+   "short": "R.C. Chapter 2707",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2707: Amercement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2707",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260518182336/https://codes.ohio.gov/ohio-revised-code/chapter-2707",
+     "sha256": "c09f3d9d37c1a01aa6233b6fca8a3741d2b59b8644d197c96d72180ecf8fb648"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2710",
+   "short": "R.C. Chapter 2710",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2710: Uniform Mediation Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2710",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260508085102/https://codes.ohio.gov/ohio-revised-code/chapter-2710",
+     "sha256": "9006ab485cf2754fe5e4f183e68e592775f19924f1f1c648707de2c725b4f824"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2711",
+   "short": "R.C. Chapter 2711",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2711: Arbitration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2711",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260807103131/https://codes.ohio.gov/ohio-revised-code/chapter-2711",
+     "sha256": "4ddc1e86af1327125de3dfd96c54349da3574e4a751d62c5fec22e51686b6e09"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2712",
+   "short": "R.C. Chapter 2712",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2712: International Commercial Arbitration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2712",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 91,
+     "source_url": "https://web.archive.org/web/20250714220515/https://codes.ohio.gov/ohio-revised-code/chapter-2712",
+     "sha256": "a58246faa8dd51f3026a374de2156f02423784afb1fa9ef737c67b77877009d3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2713",
+   "short": "R.C. Chapter 2713",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2713: Arrest And Bail",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2713",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260420055615/https://codes.ohio.gov/ohio-revised-code/chapter-2713",
+     "sha256": "0a82bf2731f230dc2c3b38094f5238a5a5d5fb514a8071aac911e3a1e5dacea6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2715",
+   "short": "R.C. Chapter 2715",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2715: Attachment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2715",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20250702031132/https://codes.ohio.gov/ohio-revised-code/chapter-2715",
+     "sha256": "062444091e1d10000154a9bf772dc3f1e473d6ad4a62f5ea9b89e8297494cfec"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2716",
+   "short": "R.C. Chapter 2716",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2716: Garnishment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2716",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261009120711/https://codes.ohio.gov/ohio-revised-code/chapter-2716",
+     "sha256": "507246b4fe973da2bfe8a4f7a926f711e0efffb253f6b1fb67e7f08308ba39aa"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2717",
+   "short": "R.C. Chapter 2717",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2717: Change Of Name",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2717",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20251215203849/https://codes.ohio.gov/ohio-revised-code/chapter-2717",
+     "sha256": "6f778330e90b12c3f8a6aadb9b1f1c569c4ba5782ef8ae48243c4e87ba34a3af"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2719",
+   "short": "R.C. Chapter 2719",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2719: Correction Of Defects In Instruments Or Proceedings",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2719",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260208142324/https://codes.ohio.gov/ohio-revised-code/chapter-2719",
+     "sha256": "64350bc7f2bd4b5c0a6d4b4f321a24fcc2f0bc098834893e1928aa3bc24d264a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2721",
+   "short": "R.C. Chapter 2721",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2721: Declaratory Judgments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2721",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250702031146/https://codes.ohio.gov/ohio-revised-code/chapter-2721",
+     "sha256": "98bb1b779c4e91e458e0e566f8623ee775ecec93edd12fb4d82c8f1957f0a2f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2723",
+   "short": "R.C. Chapter 2723",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2723: Enjoining And Recovering Illegal Taxes And Assessments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2723",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251208070731/https://codes.ohio.gov/ohio-revised-code/chapter-2723",
+     "sha256": "f3bf0fe3fc61e50dd17dfc1de1579b413bf7bf3f148ce205248245a8e6db7a02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2725",
+   "short": "R.C. Chapter 2725",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2725: Habeas Corpus",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2725",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260712055503/https://codes.ohio.gov/ohio-revised-code/chapter-2725",
+     "sha256": "1eac1a9c4fbe2d1874974eb566ebce2468449a2cd41b8fd708aca7f0f9c8f365"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2727",
+   "short": "R.C. Chapter 2727",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2727: Injunctions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2727",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250803085750/https://codes.ohio.gov/ohio-revised-code/chapter-2727",
+     "sha256": "21e0ef4993ac6d10bd1b2242431e51849f9856b7f898dbbd7862aa4d9649a353"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2729",
+   "short": "R.C. Chapter 2729",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2729: Lost And Destroyed Records",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2729",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260518191410/https://codes.ohio.gov/ohio-revised-code/chapter-2729",
+     "sha256": "0f69f78ac7935bac893fe57135214f7ceb8f6798e4b623fcfd6a07893a6a2c30"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2731",
+   "short": "R.C. Chapter 2731",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2731: Mandamus",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2731",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260606074428/https://codes.ohio.gov/ohio-revised-code/chapter-2731",
+     "sha256": "3895339d330d070e5a98f3a9e24373c40b330cc034cc99633c49551b420becd3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2733",
+   "short": "R.C. Chapter 2733",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2733: Quo Warranto",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2733",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20251116032344/https://codes.ohio.gov/ohio-revised-code/chapter-2733",
+     "sha256": "61d05ad76c22fd808fb7e7243a6f41f348e3c2aa442e97ea59c480c9488175ae"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2735",
+   "short": "R.C. Chapter 2735",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2735: Receivership",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2735",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260612174836/https://codes.ohio.gov/ohio-revised-code/chapter-2735",
+     "sha256": "d8c89d3972e0f06bacf4e50220df8416fc3f0feaf977705d3409bc3c7b5cab12"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2737",
+   "short": "R.C. Chapter 2737",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2737: Replevin",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2737",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261011101542/https://codes.ohio.gov/ohio-revised-code/chapter-2737",
+     "sha256": "69e34de77afe9818172e5284c7fc9b549ddb763149b9ae88206d4c4e7c705ec6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2739",
+   "short": "R.C. Chapter 2739",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2739: Slander; Libel",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2739",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260418013038/https://codes.ohio.gov/ohio-revised-code/chapter-2739",
+     "sha256": "2f14a21df59f9326576b059f9f05832f7918cf7525599d770f40b6aa102074a4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2741",
+   "short": "R.C. Chapter 2741",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2741: Right Of Publicity In Individual's Persona",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2741",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260614041558/https://codes.ohio.gov/ohio-revised-code/chapter-2741",
+     "sha256": "f1fc3f0623909452e0d46f463d41ee395c2bf26143506e96399f5e45d873ec2e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2743",
+   "short": "R.C. Chapter 2743",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2743: Court Of Claims",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2743",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260820093435/https://codes.ohio.gov/ohio-revised-code/chapter-2743",
+     "sha256": "ad0c0020573a63af39e03aaaed30d259ad2a939bf1d4dc8d1e1da0c21bd8c7e0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2744",
+   "short": "R.C. Chapter 2744",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2744: Political Subdivision Tort Liability",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2744",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260717110512/https://codes.ohio.gov/ohio-revised-code/chapter-2744",
+     "sha256": "45c0f2d218174a24d350b567e4a7d4f30443949043251e32a6e202c468674813"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2745",
+   "short": "R.C. Chapter 2745",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2745: Employment Intentional Tort",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2745",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250702031232/https://codes.ohio.gov/ohio-revised-code/chapter-2745",
+     "sha256": "8574d263b18f10ede1be4aed221c3d38e0c2ee730541ae16c0225c597a9217cf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2746",
+   "short": "R.C. Chapter 2746",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2746: Court Costs And Fees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2746",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250717184110/https://codes.ohio.gov/ohio-revised-code/chapter-2746",
+     "sha256": "38fee8b8c1349af1c85a8c81d4044be0b982283d0cba9cb7d38396b7464f0f93"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2747",
+   "short": "R.C. Chapter 2747",
+   "title": "Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2747: Uniform Public Expression Protection Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2747",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251116040107/https://codes.ohio.gov/ohio-revised-code/chapter-2747",
+     "sha256": "0f09b99028a6ccdebc963f10cfffa9b237771057d5e2dcc879179f6abb4072ed"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2901",
+   "short": "R.C. Chapter 2901",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2901: General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2901",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261102155439/https://codes.ohio.gov/ohio-revised-code/chapter-2901",
+     "sha256": "bf944bb2058982618dada79bcd38cab046e6ce46dc68512f1bae4e75f553ad22"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2903",
+   "short": "R.C. Chapter 2903",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2903: Homicide and Assault",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2903",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260710231550/https://codes.ohio.gov/ohio-revised-code/chapter-2903",
+     "sha256": "7d6073763885e5db7aa5fe40209730c3cde4b995e870f0ca648f9ff340a38848"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2905",
+   "short": "R.C. Chapter 2905",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2905: Kidnapping and Extortion",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2905",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260824165218/https://codes.ohio.gov/ohio-revised-code/chapter-2905",
+     "sha256": "c48ef4de21408f111451eaeef3db207d05fc8b7d8a208d14c4a23c666be00e97"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2907",
+   "short": "R.C. Chapter 2907",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2907: Sex Offenses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2907",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260921022418/https://codes.ohio.gov/ohio-revised-code/chapter-2907",
+     "sha256": "e3eaadf83d2b94d2ec93e8be2b3e51f4b62b04bd4eeaed5dce5e05f383c9274c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2909",
+   "short": "R.C. Chapter 2909",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2909: Arson and Related Offenses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2909",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260717120310/https://codes.ohio.gov/ohio-revised-code/chapter-2909",
+     "sha256": "8eb724a984229348b35d77a83c01aca88b83bde440fefe3a105adbff030d7bf7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2911",
+   "short": "R.C. Chapter 2911",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2911: Robbery, Burglary, Trespass, and Safecracking",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2911",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260509131702/https://codes.ohio.gov/ohio-revised-code/chapter-2911",
+     "sha256": "062825fd8f45fca62a1d86ed33932f7880e7cc5be9d5fca1c34726dce856ade2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2913",
+   "short": "R.C. Chapter 2913",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2913: Theft and Fraud",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2913",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260530001726/https://codes.ohio.gov/ohio-revised-code/chapter-2913",
+     "sha256": "612ccccd80dee5c71d22d6a935d02eca73ca9a676f3342b337b7955c0e3b79e7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2915",
+   "short": "R.C. Chapter 2915",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2915: Gambling",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2915",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260921001526/https://codes.ohio.gov/ohio-revised-code/chapter-2915",
+     "sha256": "f2a4359f37137bfc4aa3aa682ca8fb1c8097f526d5e237b53407201dff76a9cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2917",
+   "short": "R.C. Chapter 2917",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2917: Offenses Against the Public Peace",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2917",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260614201639/https://codes.ohio.gov/ohio-revised-code/chapter-2917",
+     "sha256": "4b92014b81ab5f0830c91391c381c9423003d898780e3adec91fcf1264c01511"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2919",
+   "short": "R.C. Chapter 2919",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2919: Offenses Against the Family",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2919",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260823193120/https://codes.ohio.gov/ohio-revised-code/chapter-2919",
+     "sha256": "a8641f26c7e709487c56e45f4948de3d92b9cbf619741765912878bd8ff84d45"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2921",
+   "short": "R.C. Chapter 2921",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2921: Offenses Against Justice and Public Administration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2921",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260715140351/https://codes.ohio.gov/ohio-revised-code/chapter-2921",
+     "sha256": "81e619c16846da829098f09ab1a7f6d32e3b7a4c2f29f681d32be3a84b109ae8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2923",
+   "short": "R.C. Chapter 2923",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2923: Conspiracy, Attempt, and Complicity; Weapons Control; Corrupt Activity",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2923",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260824164610/https://codes.ohio.gov/ohio-revised-code/chapter-2923",
+     "sha256": "58359f4f24f3cbee61ec27324d49c67a5bbe5e3beae60a0d93a6e33bff402eb9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2925",
+   "short": "R.C. Chapter 2925",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2925: Drug Offenses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2925",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261001014700/https://codes.ohio.gov/ohio-revised-code/chapter-2925",
+     "sha256": "ef938cddf2ddfe7dab4c9d02a7aed27e86cee6d0e28de67a8e544e3c1498842b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2927",
+   "short": "R.C. Chapter 2927",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2927: Miscellaneous Offenses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2927",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260921003847/https://codes.ohio.gov/ohio-revised-code/chapter-2927",
+     "sha256": "edc863326405ed7754eabc31dd8ffc703e476c32985d57c35d9e1cd0d20b696c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2929",
+   "short": "R.C. Chapter 2929",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2929: Penalties and Sentencing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2929",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20261011034716/https://codes.ohio.gov/ohio-revised-code/chapter-2929",
+     "sha256": "5c6b1cb1217118ff5c1603833d214f9530654d326330be7ee9379d0d9dff8fee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2930",
+   "short": "R.C. Chapter 2930",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2930: Victim's Rights",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2930",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260713123132/https://codes.ohio.gov/ohio-revised-code/chapter-2930",
+     "sha256": "2c89d10c65a76a3d495cdadf76b031b608a2cf4fb7260f2ea318b40074ff4e29"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2931",
+   "short": "R.C. Chapter 2931",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2931: Jurisdiction; Venue",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2931",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260413115902/https://codes.ohio.gov/ohio-revised-code/chapter-2931",
+     "sha256": "ce218804aa63a6ffc0f7121dc1743daa820049dd1fce17d867660d108a80053e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2933",
+   "short": "R.C. Chapter 2933",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2933: Peace Warrants; Search Warrants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2933",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260716040405/https://codes.ohio.gov/ohio-revised-code/chapter-2933",
+     "sha256": "a2ffd3f7e20ae0dcc98080eeaeda066483fb12578aa8635db4c7da642a4bf893"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2935",
+   "short": "R.C. Chapter 2935",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2935: Arrest, Citation, and Disposition Alternatives",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2935",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260823132913/https://codes.ohio.gov/ohio-revised-code/chapter-2935",
+     "sha256": "a64867a15d11cd089f78aa1783ea7673217323ec62365ac36b73a763b226557a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2937",
+   "short": "R.C. Chapter 2937",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2937: Preliminary Examination; Bail",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2937",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260509194619/https://codes.ohio.gov/ohio-revised-code/chapter-2937",
+     "sha256": "3c2bcf69a62190113ea15cb6d430707778a7b952861699a8de9bedd54f280207"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2938",
+   "short": "R.C. Chapter 2938",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2938: Trial - Magistrate Courts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2938",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250930134029/https://codes.ohio.gov/ohio-revised-code/chapter-2938",
+     "sha256": "81398d37ada0d4f8bbaa5eaaf2fb0c4255361ff6e6c632814d38dd5c536c3b8f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2939",
+   "short": "R.C. Chapter 2939",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2939: Grand Juries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2939",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20251118082344/https://codes.ohio.gov/ohio-revised-code/chapter-2939",
+     "sha256": "365dd0220123593038e671b3ceab0d46a4387019678b2a3b320e8cf71774f226"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2941",
+   "short": "R.C. Chapter 2941",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2941: Indictment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2941",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20250930134026/https://codes.ohio.gov/ohio-revised-code/chapter-2941",
+     "sha256": "70e1e1b11bc77f2461069c46f8caa5aba198496940a662004caa0ca7bd188726"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2943",
+   "short": "R.C. Chapter 2943",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2943: Arraignment; Pleas",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2943",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260613151255/https://codes.ohio.gov/ohio-revised-code/chapter-2943",
+     "sha256": "d8eec99ccfd5fc27d39eb8a8fa0bb47f34de0dad4effc51ae865cb9260f9f860"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2945",
+   "short": "R.C. Chapter 2945",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2945: Trial",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2945",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20261013183807/https://codes.ohio.gov/ohio-revised-code/chapter-2945",
+     "sha256": "bfa822c045fbfe7137bb4ad408cda6d3b75f5fc5d9f320083e06f152c4a4f9a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2947",
+   "short": "R.C. Chapter 2947",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2947: Judgment; Sentence",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2947",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250702031442/https://codes.ohio.gov/ohio-revised-code/chapter-2947",
+     "sha256": "b768415667263ce9c3c03b18132d0f2e21f5d85f0e715122d01abb442eeb85dd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2949",
+   "short": "R.C. Chapter 2949",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2949: Execution of Sentence",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2949",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260807185601/https://codes.ohio.gov/ohio-revised-code/chapter-2949",
+     "sha256": "b6033f0461404745908a5c00dbfed8d5a3c75cad4d542a14231c1cff74f7fce5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2950",
+   "short": "R.C. Chapter 2950",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2950: Sexual Predators, Habitual Sex Offenders, Sexually Oriented Offenders",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2950",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260526104150/https://codes.ohio.gov/ohio-revised-code/chapter-2950",
+     "sha256": "bd2e5033f27dd3e02eea748687647b67509abccaf199a4e6d2e29f9655a66e51"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2951",
+   "short": "R.C. Chapter 2951",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2951: Probation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2951",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260521164904/https://codes.ohio.gov/ohio-revised-code/chapter-2951",
+     "sha256": "bdf1f25c96311a87f97c63ca1b3c380bc284b33674e9e81454c32477e2f1a18a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2953",
+   "short": "R.C. Chapter 2953",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2953: Appeals; Other Postconviction Remedies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2953",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20250708220730/https://codes.ohio.gov/ohio-revised-code/chapter-2953",
+     "sha256": "ffa8e06d8b25694c1da33242de19145e6ac701c6ddff0d653be764975d5eb8cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2961",
+   "short": "R.C. Chapter 2961",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2961: Disfranchised Convicts; Habitual Criminals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2961",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251113141950/https://codes.ohio.gov/ohio-revised-code/chapter-2961",
+     "sha256": "61b554f4f9c7b49c479c761712e867ed1673ad78b045208d8f0f09d611e8f53b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2963",
+   "short": "R.C. Chapter 2963",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2963: Extradition",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2963",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250702031513/https://codes.ohio.gov/ohio-revised-code/chapter-2963",
+     "sha256": "90b6ba0226f0d68b41eda78c48b03583211e47e6b261ca672d53dc9b768a2ec3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2967",
+   "short": "R.C. Chapter 2967",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2967: Pardon; Parole; Probation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2967",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260513194925/https://codes.ohio.gov/ohio-revised-code/chapter-2967",
+     "sha256": "b95d5b34ebee3b8a2ca73e239d65e4fcdaf5613b04e40f20075ea06221e1446d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2969",
+   "short": "R.C. Chapter 2969",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2969: Recovery of Offender's Profits Fund; Crime Victims Recovery Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2969",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260518193131/https://codes.ohio.gov/ohio-revised-code/chapter-2969",
+     "sha256": "53f7f3792cb744b394a7b159c4b9647a357bff0f886abb6a5d99d58efc02036c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2971",
+   "short": "R.C. Chapter 2971",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2971: Sentencing of Sexually Violent Predators",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2971",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261001122756/https://codes.ohio.gov/ohio-revised-code/chapter-2971",
+     "sha256": "47c0e5c51a8e8c1288027c815ee55df6eaf240932832925e6f2d8b4f88ac5de7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2981",
+   "short": "R.C. Chapter 2981",
+   "title": "Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2981: Forfeiture",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2981",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260309092904/https://codes.ohio.gov/ohio-revised-code/chapter-2981",
+     "sha256": "b45cba9f943cc77dd0b9c25b7859de40266577043cbabd0b36d31806fba319bc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3101",
+   "short": "R.C. Chapter 3101",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3101: Marriage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3101",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261009172521/https://codes.ohio.gov/ohio-revised-code/chapter-3101",
+     "sha256": "581c6091dbf090a7668d66007aff4afd0ebacf7fe7c82b5c986e8a8287a9a0e8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3103",
+   "short": "R.C. Chapter 3103",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3103: Husband And Wife",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3103",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260714095448/https://codes.ohio.gov/ohio-revised-code/chapter-3103",
+     "sha256": "8c1bef54d75e07bee440e4bb0c31d75a82918d27ca7b026c48d7f3bf460a56c1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3105",
+   "short": "R.C. Chapter 3105",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3105: Divorce, Alimony, Annulment, Dissolution Of Marriage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3105",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261008184204/https://codes.ohio.gov/ohio-revised-code/chapter-3105",
+     "sha256": "8483e39b50937c0c09d3a6e8615173f93552e68534ba23efd7395517f8c62b40"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3107",
+   "short": "R.C. Chapter 3107",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3107: Adoption",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3107",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 81,
+     "source_url": "https://web.archive.org/web/20260613092542/https://codes.ohio.gov/ohio-revised-code/chapter-3107",
+     "sha256": "f37a7bea98af4f132949d3b3a166a4fc24552a47af5aa212db8702b8e71a2104"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3109",
+   "short": "R.C. Chapter 3109",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3109: Children",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3109",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 81,
+     "source_url": "https://web.archive.org/web/20261013103854/https://codes.ohio.gov/ohio-revised-code/chapter-3109",
+     "sha256": "ec24bc1bb594689909960a2d3757c66f767f0886400dce81cee6a8c88a790130"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3111",
+   "short": "R.C. Chapter 3111",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3111: Parentage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3111",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 90,
+     "source_url": "https://web.archive.org/web/20260615110501/https://codes.ohio.gov/ohio-revised-code/chapter-3111",
+     "sha256": "79d95beb711a85a03b4dfd16498b5f4af3267ea4cc131fdadd4ee0a25510c31f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3113",
+   "short": "R.C. Chapter 3113",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3113: Neglect, Abandonment, Or Domestic Violence",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3113",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260516144520/https://codes.ohio.gov/ohio-revised-code/chapter-3113",
+     "sha256": "2f1dcfa4ac9967cd16f5f4a85fce750f1ed959b4142a5f0443a4677dc7d0841e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3115",
+   "short": "R.C. Chapter 3115",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3115: Uniform Interstate Family Support Act of 2008",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3115",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20260614195541/https://codes.ohio.gov/ohio-revised-code/chapter-3115",
+     "sha256": "82cc8807392a0574c1b42528c50e45dcbc0bc730f6826eeff0a4425864010f0f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3117",
+   "short": "R.C. Chapter 3117",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3117: Conciliation Of Marital Controversies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3117",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260511122845/https://codes.ohio.gov/ohio-revised-code/chapter-3117",
+     "sha256": "7561c907dac2005dfabadad2120dc9d8bdfed9056dae6d104e13b21cbcdc7fa4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3119",
+   "short": "R.C. Chapter 3119",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3119: Calculation Of Child Support Obligation - Health Insurance Coverage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3119",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20261028233404/https://codes.ohio.gov/ohio-revised-code/chapter-3119",
+     "sha256": "c5066fecacdf2ef87f848d6dfbf16381e6130f0b7dae590c4cf89815240d8bee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3121",
+   "short": "R.C. Chapter 3121",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3121: Collection and Disbursement of Child Support",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3121",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 95,
+     "source_url": "https://web.archive.org/web/20260601220428/https://codes.ohio.gov/ohio-revised-code/chapter-3121",
+     "sha256": "1caafb7d1fb3d0173250024e060284fc54ba9dcaebc159de46cd03d81cd9d8a1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3123",
+   "short": "R.C. Chapter 3123",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3123: Defaults Under Child Support Orders",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3123",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20260418012110/https://codes.ohio.gov/ohio-revised-code/chapter-3123",
+     "sha256": "8531bf59c04e95955ba524ea322868af3e5ab8ee617733a39a224671b9898815"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3125",
+   "short": "R.C. Chapter 3125",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3125: Title IV-D Child Support Cases",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3125",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20261015172105/https://codes.ohio.gov/ohio-revised-code/chapter-3125",
+     "sha256": "bee256c113b002b25649b4fda27d097b362de4a4c53a7dca5820bdb33f181269"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3127",
+   "short": "R.C. Chapter 3127",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3127: Uniform Child Custody Jurisdiction And Enforcement Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3127",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261009164643/https://codes.ohio.gov/ohio-revised-code/chapter-3127",
+     "sha256": "662077099816f779375002df51e89734961e3783d28eda49169edb71f8aff5c5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3129",
+   "short": "R.C. Chapter 3129",
+   "title": "Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3129: Gender Transition Services for Minors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3129",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260517063838/https://codes.ohio.gov/ohio-revised-code/chapter-3129",
+     "sha256": "738b988fbdaaeb9265c9e41f1cab62a44a9f99cb591680b86172d8ca7e9bd914"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3301",
+   "short": "R.C. Chapter 3301",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3301: Department of Education and Workforce",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3301",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 109,
+     "source_url": "https://web.archive.org/web/20260514171013/https://codes.ohio.gov/ohio-revised-code/chapter-3301",
+     "sha256": "621f66929bf5f6321135d3e802aeaed153f8b6030c49f623370188bf96bb3925"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3302",
+   "short": "R.C. Chapter 3302",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3302: Performance Standards",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3302",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260606163952/https://codes.ohio.gov/ohio-revised-code/chapter-3302",
+     "sha256": "8b6098648f7549f5ed921e5c255e992c214d6532f8bef15554accc847d2c2520"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3303",
+   "short": "R.C. Chapter 3303",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3303: Vocational Education",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3303",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250702031740/https://codes.ohio.gov/ohio-revised-code/chapter-3303",
+     "sha256": "71aab8dee2ebaa9bad8611a40b9c7fb8da96e2a63279590c26021513454e554c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3304",
+   "short": "R.C. Chapter 3304",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3304: Worker Retraining",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3304",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261007072631/https://codes.ohio.gov/ohio-revised-code/chapter-3304",
+     "sha256": "0c69c8473cfe83b153139892124be84e107c95b4fd0f406fdb4950d393fba9dd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3305",
+   "short": "R.C. Chapter 3305",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3305: Alternative Retirement Plans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3305",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260613162124/https://codes.ohio.gov/ohio-revised-code/chapter-3305",
+     "sha256": "f1ee8a5103866953c1314419fb750804bb8e9257152bd5ea4184fd103bb3541b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3307",
+   "short": "R.C. Chapter 3307",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3307: State Teachers Retirement System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3307",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 152,
+     "source_url": "https://web.archive.org/web/20260613145343/https://codes.ohio.gov/ohio-revised-code/chapter-3307",
+     "sha256": "fcaf94e3b5460ca265631f83995e3706054348997a995b610cdda781d3ba9a03"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3309",
+   "short": "R.C. Chapter 3309",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3309: Public School Employees Retirement System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3309",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 157,
+     "source_url": "https://web.archive.org/web/20250702031758/https://codes.ohio.gov/ohio-revised-code/chapter-3309",
+     "sha256": "c6abfcec8b79c274541a9d6aeac66f4960bbe0db00c8430b64a23391a86a7889"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3310",
+   "short": "R.C. Chapter 3310",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3310: Elementary and Secondary Scholarship Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3310",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20261009130738/https://codes.ohio.gov/ohio-revised-code/chapter-3310",
+     "sha256": "47b9e9eb929d6f6ba8ddf2e0d6dbdc68f30b86e2979ff9e3a2a234a83fb6d4ab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3311",
+   "short": "R.C. Chapter 3311",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3311: School Districts; County Planning",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3311",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20260710235405/https://codes.ohio.gov/ohio-revised-code/chapter-3311",
+     "sha256": "9b8334511fb27df6907d80c19c284970e495bfd507e4549024e78109224a5df0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3312",
+   "short": "R.C. Chapter 3312",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3312: Educational Regional Service System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3312",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260823055759/https://codes.ohio.gov/ohio-revised-code/chapter-3312",
+     "sha256": "a2e246585fa45ec8b67508186ba150e0c3b798e5991f8f7787b8799ac5d98b19"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3313",
+   "short": "R.C. Chapter 3313",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3313: Boards of Education",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3313",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 299,
+     "source_url": "https://web.archive.org/web/20260509191638/https://codes.ohio.gov/ohio-revised-code/chapter-3313",
+     "sha256": "883b630b0fcdcc3826e4cf5f183725707c98e5b281e7153a9bd3e2354c3ac88f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3314",
+   "short": "R.C. Chapter 3314",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3314: Community Schools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3314",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 115,
+     "source_url": "https://web.archive.org/web/20260412230442/https://codes.ohio.gov/ohio-revised-code/chapter-3314",
+     "sha256": "65ad79df09100b45d69dfb0c84daf98a73eb8eb732403e848cb4a4fd431532d0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3315",
+   "short": "R.C. Chapter 3315",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3315: School Funds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3315",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20251001154139/https://codes.ohio.gov/ohio-revised-code/chapter-3315",
+     "sha256": "48eb43e6d6cf2c9a6ca827d3cada95d1816aea702f63cc27077cefed7a0fc043"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3316",
+   "short": "R.C. Chapter 3316",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3316: Fiscal Watches, Emergencies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3316",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260610063455/https://codes.ohio.gov/ohio-revised-code/chapter-3316",
+     "sha256": "bb0add8687b0eb423dea3a5b4d2ffbaea6d1138aad52d8acb2899c37a821bc11"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3317",
+   "short": "R.C. Chapter 3317",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3317: Foundation Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3317",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 72,
+     "source_url": "https://web.archive.org/web/20260714094900/https://codes.ohio.gov/ohio-revised-code/chapter-3317",
+     "sha256": "694a4824394f322173fbf3d514504f697175a527b1e0a1e19068f3b1b9476d13"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3318",
+   "short": "R.C. Chapter 3318",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3318: School Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3318",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20260615114628/https://codes.ohio.gov/ohio-revised-code/chapter-3318",
+     "sha256": "ce9fd0f1fdfb40b22608f46885c6cb93f1e79b40683006bc2466e6f082dc112d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3319",
+   "short": "R.C. Chapter 3319",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3319: Schools - Superintendent; Teachers; Employees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3319",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 149,
+     "source_url": "https://web.archive.org/web/20260613025235/https://codes.ohio.gov/ohio-revised-code/chapter-3319",
+     "sha256": "b6b3210e88bc9c0a1ff6925a83c5301313c601a4630b90f638d732ed265937c8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3320",
+   "short": "R.C. Chapter 3320",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3320: Students liberties and antidiscrimination",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3320",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250702031905/https://codes.ohio.gov/ohio-revised-code/chapter-3320",
+     "sha256": "ccafc13124ab450c64d2bbfd705d22718dddfc48731f9829419fd6f205aa5e3c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3321",
+   "short": "R.C. Chapter 3321",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3321: School Attendance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3321",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260520064325/https://codes.ohio.gov/ohio-revised-code/chapter-3321",
+     "sha256": "72894a72e32a6f0cc5c28dd3a4ed0803ef9bde13bd2a4ca7980c0a54dbdd5dff"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3322",
+   "short": "R.C. Chapter 3322",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3322: Computer Science",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3322",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250916141258/https://codes.ohio.gov/ohio-revised-code/chapter-3322",
+     "sha256": "3e142687b3b13291c6bad46eb1882704b4022e17c71b466506275d358f37033f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3323",
+   "short": "R.C. Chapter 3323",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3323: Education of Children with Disabilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3323",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260516014851/https://codes.ohio.gov/ohio-revised-code/chapter-3323",
+     "sha256": "79da5387fc6b6f9e6c1d9fe5d0c48b8dc9233221c7d2056dc84019c4da76c4fa"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3324",
+   "short": "R.C. Chapter 3324",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3324: Gifted Students",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3324",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260713131221/https://codes.ohio.gov/ohio-revised-code/chapter-3324",
+     "sha256": "a11aac22f9b75a581a5d61cd78183211615be59da2d3f7baf32c31f672aff05f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3325",
+   "short": "R.C. Chapter 3325",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3325: Ohio Deaf and Blind Education Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3325",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260410224143/https://codes.ohio.gov/ohio-revised-code/chapter-3325",
+     "sha256": "f86a663490b1400382573e07d8cef7d9af99620fdb9fce8d140add8fad3a9380"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3326",
+   "short": "R.C. Chapter 3326",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3326: Science, Technology, Engineering, Arts and Mathematics Schools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3326",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20260714164041/https://codes.ohio.gov/ohio-revised-code/chapter-3326",
+     "sha256": "548c9001c8a02a6e8ad26136ba6f13f2a58676e3a854ca27faab296e143957d0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3327",
+   "short": "R.C. Chapter 3327",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3327: Transportation; Tuition",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3327",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260126110955/https://codes.ohio.gov/ohio-revised-code/chapter-3327",
+     "sha256": "3c1ec13b2897902d74849678845a3b6190060b864b10b811c0175d1fe4710e45"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3328",
+   "short": "R.C. Chapter 3328",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3328: College-preparatory Boarding Schools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3328",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20250805084626/https://codes.ohio.gov/ohio-revised-code/chapter-3328",
+     "sha256": "bd2d3fe116be9d5860b885a715edef5adb458a9c705bd6b52ca32e4f564ae356"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3329",
+   "short": "R.C. Chapter 3329",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3329: Textbooks, Electronic Textbooks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3329",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260607081619/https://codes.ohio.gov/ohio-revised-code/chapter-3329",
+     "sha256": "710b4ede60320b99b31e4878735467ae61d04a64e0203e4f5434b65d8a5326bf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3331",
+   "short": "R.C. Chapter 3331",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3331: Age and Schooling Certificates",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3331",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260516050011/https://codes.ohio.gov/ohio-revised-code/chapter-3331",
+     "sha256": "1c94f7bf0a9c5db783e3172b363b6d3c7044c3fe1eafa995f9aa3ef3a8273642"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3332",
+   "short": "R.C. Chapter 3332",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3332: Career Colleges and Schools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3332",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250702031946/https://codes.ohio.gov/ohio-revised-code/chapter-3332",
+     "sha256": "4e64dc7102b726b01775af3dc2a4c4a1db7afd563260d14893ca2ed0e9c37c87"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3333",
+   "short": "R.C. Chapter 3333",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3333: Department of Higher Education",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3333",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 153,
+     "source_url": "https://web.archive.org/web/20260510021036/https://codes.ohio.gov/ohio-revised-code/chapter-3333",
+     "sha256": "c2b514757542c5f7e0ea38b7640ab2309b557828eac2c0182416ff9e41b3ab5f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3334",
+   "short": "R.C. Chapter 3334",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3334: College Savings Program; Variable College Savings Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3334",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260713192752/https://codes.ohio.gov/ohio-revised-code/chapter-3334",
+     "sha256": "5cc72b5fe2df660e3a1ac888da4563622fc30ae16a63a0637560686132304f64"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3335",
+   "short": "R.C. Chapter 3335",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3335: Ohio State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3335",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260714160903/https://codes.ohio.gov/ohio-revised-code/chapter-3335",
+     "sha256": "34dba635175b382ed84976aaa26053223d166592c8af08556e338cc377b8ad54"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3337",
+   "short": "R.C. Chapter 3337",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3337: Ohio University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3337",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260515231934/https://codes.ohio.gov/ohio-revised-code/chapter-3337",
+     "sha256": "988587911e01d657f7504a03c5228f058a2cb562af06733e17920d54b8c55543"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3339",
+   "short": "R.C. Chapter 3339",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3339: Miami University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3339",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250702032030/https://codes.ohio.gov/ohio-revised-code/chapter-3339",
+     "sha256": "4f31e819d44c4bbc525006fc09c215acb75735aa06b70535d56570b2840af0bf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3341",
+   "short": "R.C. Chapter 3341",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3341: Bowling Green State University; Kent State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3341",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260613121950/https://codes.ohio.gov/ohio-revised-code/chapter-3341",
+     "sha256": "5cdc18c630da79c204b08e9e38920602e7c972320dddabbd58870513174d8a5f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3343",
+   "short": "R.C. Chapter 3343",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3343: Central State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3343",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260823005328/https://codes.ohio.gov/ohio-revised-code/chapter-3343",
+     "sha256": "fe72e7c175ff5700f90acd50b32abf7546b5b5bfbcf2872cb809962997a7e6db"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3344",
+   "short": "R.C. Chapter 3344",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3344: Cleveland State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3344",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260511113411/https://codes.ohio.gov/ohio-revised-code/chapter-3344",
+     "sha256": "b4fdf807dd1e1a4926e1ba47ada1b009422b142d4e7433849b092286ec9d308a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3345",
+   "short": "R.C. Chapter 3345",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3345: State Universities - General Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3345",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20261009183659/https://codes.ohio.gov/ohio-revised-code/chapter-3345",
+     "sha256": "8eaeaf56ef2197560fd48de01f1260e745b4dc68d3ae835d2f0dd98844cfeff2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3347",
+   "short": "R.C. Chapter 3347",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3347: University Housing Commissions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3347",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260908203139/https://codes.ohio.gov/ohio-revised-code/chapter-3347",
+     "sha256": "8898f5597163f03c98f5e929df2b31e75b7bfbbe921b446926f747809d6007a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3349",
+   "short": "R.C. Chapter 3349",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3349: Municipal Educational Institutions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3349",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260511125302/https://codes.ohio.gov/ohio-revised-code/chapter-3349",
+     "sha256": "c7c8a0f02f9f6ff815176f9b1667c5b793ee5637eac0062485ec0530f79065d4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3350",
+   "short": "R.C. Chapter 3350",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3350: Northeast Ohio Medical University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3350",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260711014626/https://codes.ohio.gov/ohio-revised-code/chapter-3350",
+     "sha256": "75d81b09e58d5cdd36eb416bf08672a29f2ed9620215e2e065697abd761469a0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3351",
+   "short": "R.C. Chapter 3351",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3351: Student Assistance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3351",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260518034941/https://codes.ohio.gov/ohio-revised-code/chapter-3351",
+     "sha256": "d48fd3c341705f2b8d5afb5bd49b30335baab5afd15fd3410237b2bed4820759"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3352",
+   "short": "R.C. Chapter 3352",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3352: Wright State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3352",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260607164753/https://codes.ohio.gov/ohio-revised-code/chapter-3352",
+     "sha256": "83ef51fa610100f2d18d9be5aab6c7c3b2916bc84d02095f096660931cfb0100"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3353",
+   "short": "R.C. Chapter 3353",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3353: Broadcast Educational Media Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3353",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260615052633/https://codes.ohio.gov/ohio-revised-code/chapter-3353",
+     "sha256": "cfe6ebfac29aad5713cd70db354892690520401735821475d0de15e9afbdc3ab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3354",
+   "short": "R.C. Chapter 3354",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3354: Community Colleges",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3354",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250702032119/https://codes.ohio.gov/ohio-revised-code/chapter-3354",
+     "sha256": "79338a75ccf50b637746cef27d50e1a0e36b87a876ddd26d1048cc1411a85ee7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3355",
+   "short": "R.C. Chapter 3355",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3355: University Branch Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3355",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260615115043/https://codes.ohio.gov/ohio-revised-code/chapter-3355",
+     "sha256": "edc35f5a1772f89a03e7696c79101ace3c31af6c2109fc0bdb1a5c775749f0f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3356",
+   "short": "R.C. Chapter 3356",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3356: Youngstown State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3356",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260516051247/https://codes.ohio.gov/ohio-revised-code/chapter-3356",
+     "sha256": "9cda0a8cec04a3f26d642fa55272cdbfd223d453f77566046e178d05b79de0be"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3357",
+   "short": "R.C. Chapter 3357",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3357: Technical Colleges",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3357",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260516025927/https://codes.ohio.gov/ohio-revised-code/chapter-3357",
+     "sha256": "bea8e72c3fee7b85652d511df2268e732bb0003b93a36397ee4596ff7bb36857"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3358",
+   "short": "R.C. Chapter 3358",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3358: State Community Colleges",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3358",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250702032139/https://codes.ohio.gov/ohio-revised-code/chapter-3358",
+     "sha256": "740cc4d2d4fb157ef1b879a6408676377686f5d01e71162641e37bcbd5af6e81"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3359",
+   "short": "R.C. Chapter 3359",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3359: University of Akron",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3359",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512024354/https://codes.ohio.gov/ohio-revised-code/chapter-3359",
+     "sha256": "4c84d7d855e7b5e00adaf96fdc924e4caa94593cf3db36360333dc27e232bca0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3361",
+   "short": "R.C. Chapter 3361",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3361: University of Cincinnati",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3361",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260509205140/https://codes.ohio.gov/ohio-revised-code/chapter-3361",
+     "sha256": "f165513cfcc11374f94af4c2211063aa772751358c0b839c93cf23e245800c3d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3362",
+   "short": "R.C. Chapter 3362",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3362: Shawnee State University",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3362",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260713183557/https://codes.ohio.gov/ohio-revised-code/chapter-3362",
+     "sha256": "3d1b2be4be742ebda666124d19e1e0891211768bf69b49be010eed271f9dff52"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3364",
+   "short": "R.C. Chapter 3364",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3364: University of Toledo",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3364",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260511121024/https://codes.ohio.gov/ohio-revised-code/chapter-3364",
+     "sha256": "4796678917bea688259a51b2e470c65a5f0e2e19ceb0c24ba1b53d631fd310c6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3365",
+   "short": "R.C. Chapter 3365",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3365: College Credit Plus Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3365",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260610144322/https://codes.ohio.gov/ohio-revised-code/chapter-3365",
+     "sha256": "4880660c97e7ce140095e244e4b8f6b7bc83922be58151f53e4e44a9084633a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3366",
+   "short": "R.C. Chapter 3366",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3366: State Purchase of Education Loans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3366",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260607051158/https://codes.ohio.gov/ohio-revised-code/chapter-3366",
+     "sha256": "7191f40704a44836c618c3cb7005f26db49c39903534b01dcfbb65f90a6242a5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3375",
+   "short": "R.C. Chapter 3375",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3375: Libraries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3375",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 80,
+     "source_url": "https://web.archive.org/web/20251113024424/https://codes.ohio.gov/ohio-revised-code/chapter-3375",
+     "sha256": "a5a966d7bb707192290794014dd42380190869b01e927562826c703c837d9df9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3376",
+   "short": "R.C. Chapter 3376",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3376: Collegiate Student Athletes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3376",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260717115816/https://codes.ohio.gov/ohio-revised-code/chapter-3376",
+     "sha256": "a46921cf7f9b57f468bef00a486796eddbe00b7a17507e6daba6d4685d1f6648"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3377",
+   "short": "R.C. Chapter 3377",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3377: Ohio Higher Educational Facility Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3377",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250716235206/https://codes.ohio.gov/ohio-revised-code/chapter-3377",
+     "sha256": "3be4c2dc2b82bd4d6882f6f00338e369ee692eb014db426c4eca89c0db162fbd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3379",
+   "short": "R.C. Chapter 3379",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3379: Ohio Arts Council",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3379",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260211093435/https://codes.ohio.gov/ohio-revised-code/chapter-3379",
+     "sha256": "5aa10b2e5e8dd15185407ac2ea3e8dd70a034d84967309844305ad84e68ea3ca"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3381",
+   "short": "R.C. Chapter 3381",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3381: Arts and Cultural Affairs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3381",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260514162012/https://codes.ohio.gov/ohio-revised-code/chapter-3381",
+     "sha256": "b40ecd1c3ea63bf4cadc2f7079a99e0a45853c67892e782067a7a214bf9bcf9d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3385",
+   "short": "R.C. Chapter 3385",
+   "title": "Ohio Revised Code, Title 33: Education-Libraries, Chapter 3385: Property on Loan to Museum",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3385",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260609084604/https://codes.ohio.gov/ohio-revised-code/chapter-3385",
+     "sha256": "f559d2570454093d428d9368181b33a9ad73de1d5892776861c845c73c243015"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3501",
+   "short": "R.C. Chapter 3501",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3501: Election Procedure; Election Officials",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3501",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20250703052332/https://codes.ohio.gov/ohio-revised-code/chapter-3501",
+     "sha256": "f6c95885ff84bc4a191a09c8547d49b47d14928057c3732e028724be151bc10a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3503",
+   "short": "R.C. Chapter 3503",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3503: Voters - Qualifications; Registration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3503",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260606232807/https://codes.ohio.gov/ohio-revised-code/chapter-3503",
+     "sha256": "c3e200a1f4d394d2cbc60b09cce3a59d847994bd7e13a77cfb6fd23f9e5c5689"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3504",
+   "short": "R.C. Chapter 3504",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3504: Presidential Ballots - Former Residents",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3504",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251114132731/https://codes.ohio.gov/ohio-revised-code/chapter-3504",
+     "sha256": "5b34ec321545b4a11cb0cfcd313b36ec54d9d8ca973d7a425e11c0ca48b540dd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3505",
+   "short": "R.C. Chapter 3505",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3505: General And Special Election Ballots",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3505",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260607050302/https://codes.ohio.gov/ohio-revised-code/chapter-3505",
+     "sha256": "624edf53b8590bceb6837fd139f5c9deb7cab906a35204fa6473c7b5f9890f7b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3506",
+   "short": "R.C. Chapter 3506",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3506: Voting And Tabulating Equipment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3506",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260122062654/https://codes.ohio.gov/ohio-revised-code/chapter-3506",
+     "sha256": "ec5cba49943b81071b6c1111a74de9aa982ecc6af764ecfc57fa9e0cc50467a9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3509",
+   "short": "R.C. Chapter 3509",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3509: Absent Voter's Ballots",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3509",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261030030557/https://codes.ohio.gov/ohio-revised-code/chapter-3509",
+     "sha256": "6bc20a00242588697043e64ac735b1ea454c2e19c669f5f6158a99ac629f64c2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3511",
+   "short": "R.C. Chapter 3511",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3511: Armed Services Absent Voter's Ballots",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3511",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261030030557/https://codes.ohio.gov/ohio-revised-code/chapter-3511",
+     "sha256": "1d8c7c2d34616f22248a03fcf2fabd0dc85206c0d437e0dc9de81be21bebcaf0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3513",
+   "short": "R.C. Chapter 3513",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3513: Primaries; Nominations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3513",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260611133307/https://codes.ohio.gov/ohio-revised-code/chapter-3513",
+     "sha256": "1612a6a62402a899536804bdd7c586ebbe7a29f3b1018f9528d1c139cbd4c75c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3515",
+   "short": "R.C. Chapter 3515",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3515: Recount; Contest Of Elections",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3515",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260607205102/https://codes.ohio.gov/ohio-revised-code/chapter-3515",
+     "sha256": "fd89ce625faad8e357ad0a96d7186b4f5f62965f532f449c4bf7519606955a5f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3517",
+   "short": "R.C. Chapter 3517",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3517: Campaigns; Political Parties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3517",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260717024103/https://codes.ohio.gov/ohio-revised-code/chapter-3517",
+     "sha256": "0d81fce134932e0389b33ecb9728a49dcef5a0f074448d4ca91404bcba936266"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3519",
+   "short": "R.C. Chapter 3519",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3519: Initiative; Referendum",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3519",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261009123323/https://codes.ohio.gov/ohio-revised-code/chapter-3519",
+     "sha256": "c289f495dc0ca367fb05969e87ec76879f1215e3114c0988c80d2dc9655e9b23"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3521",
+   "short": "R.C. Chapter 3521",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3521: Congressional Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3521",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250703052416/https://codes.ohio.gov/ohio-revised-code/chapter-3521",
+     "sha256": "3569a468aa36cf124d19e7606176e5e23c9e458f8352a702212ea54c423bde69"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3523",
+   "short": "R.C. Chapter 3523",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3523: Amendments To United States Constitution",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3523",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251114114626/https://codes.ohio.gov/ohio-revised-code/chapter-3523",
+     "sha256": "3695e2f54d776947061a34a09115c1d1af1db594ee64a72b7623cc8f6ee34941"
+    }
+   ]
   }
  ]
 }

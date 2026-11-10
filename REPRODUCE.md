@@ -383,12 +383,188 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-2152` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2152: Delinquent Children; Juvenile Traffic Offenders | 1 | 2026-06-11 to 2026-06-11 |
 | `orc-chapter-2153` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2153: Cuyahoga County Juvenile Court | 1 | 2025-12-07 to 2025-12-07 |
 | `orc-chapter-2301` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2301: Organization | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-2303` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2303: Clerk of the Court of Common Pleas | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-2305` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2305: Jurisdiction; Limitation Of Actions | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-2307` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2307: Civil Actions | 1 | 2026-07-07 to 2026-07-07 |
+| `orc-chapter-2308` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2308: Expedited Foreclosure On Vacant And Abandoned Properties | 1 | 2026-05-13 to 2026-05-13 |
+| `orc-chapter-2309` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2309: Pleadings | 1 | 2026-08-07 to 2026-08-07 |
+| `orc-chapter-2311` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2311: Trial-related Matters | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2313` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2313: Commissioners Of Jurors | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-2315` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2315: Trial Procedure | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-2317` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2317: Evidence | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-2319` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2319: Affidavits; Depositions | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2321` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2321: New Trial | 1 | 2026-02-15 to 2026-02-15 |
+| `orc-chapter-2323` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2323: Judgment | 1 | 2026-02-19 to 2026-02-19 |
+| `orc-chapter-2325` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2325: Relief After Judgment | 1 | 2025-08-06 to 2025-08-06 |
+| `orc-chapter-2327` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2327: Execution Generally | 1 | 2026-02-15 to 2026-02-15 |
+| `orc-chapter-2329` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2329: Execution Against Property | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2331` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2331: Execution Against The Person | 1 | 2026-02-10 to 2026-02-10 |
+| `orc-chapter-2333` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2333: Proceedings In Aid Of Execution | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-2335` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2335: Fees; Costs | 1 | 2025-10-05 to 2025-10-05 |
+| `orc-chapter-2337` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2337: Uniform Foreign-money Claims Act | 1 | 2026-02-15 to 2026-02-15 |
+| `orc-chapter-2501` | Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2501: Court Of Appeals | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-2503` | Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2503: Supreme Court | 1 | 2026-04-14 to 2026-04-14 |
+| `orc-chapter-2505` | Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2505: Procedure On Appeal | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2506` | Ohio Revised Code, Title 25: Courts-Appellate, Chapter 2506: Appeals From Orders Of Administrative Officers And Agencies | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-2701` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2701: Courts Of Record - General Provisions | 1 | 2026-08-07 to 2026-08-07 |
+| `orc-chapter-2703` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2703: Service Of Summons | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2705` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2705: Contempt Of Court | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-2707` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2707: Amercement | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-2710` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2710: Uniform Mediation Act | 1 | 2026-05-08 to 2026-05-08 |
+| `orc-chapter-2711` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2711: Arbitration | 1 | 2026-08-07 to 2026-08-07 |
+| `orc-chapter-2712` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2712: International Commercial Arbitration | 1 | 2025-07-14 to 2025-07-14 |
+| `orc-chapter-2713` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2713: Arrest And Bail | 1 | 2026-04-20 to 2026-04-20 |
+| `orc-chapter-2715` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2715: Attachment | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2716` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2716: Garnishment | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-2717` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2717: Change Of Name | 1 | 2025-12-15 to 2025-12-15 |
+| `orc-chapter-2719` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2719: Correction Of Defects In Instruments Or Proceedings | 1 | 2026-02-08 to 2026-02-08 |
+| `orc-chapter-2721` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2721: Declaratory Judgments | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2723` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2723: Enjoining And Recovering Illegal Taxes And Assessments | 1 | 2025-12-08 to 2025-12-08 |
+| `orc-chapter-2725` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2725: Habeas Corpus | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-2727` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2727: Injunctions | 1 | 2025-08-03 to 2025-08-03 |
+| `orc-chapter-2729` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2729: Lost And Destroyed Records | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-2731` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2731: Mandamus | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-2733` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2733: Quo Warranto | 1 | 2025-11-16 to 2025-11-16 |
+| `orc-chapter-2735` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2735: Receivership | 1 | 2026-06-12 to 2026-06-12 |
+| `orc-chapter-2737` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2737: Replevin | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-2739` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2739: Slander; Libel | 1 | 2026-04-18 to 2026-04-18 |
+| `orc-chapter-2741` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2741: Right Of Publicity In Individual's Persona | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-2743` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2743: Court Of Claims | 1 | 2026-08-20 to 2026-08-20 |
+| `orc-chapter-2744` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2744: Political Subdivision Tort Liability | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-2745` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2745: Employment Intentional Tort | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2746` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2746: Court Costs And Fees | 1 | 2025-07-17 to 2025-07-17 |
+| `orc-chapter-2747` | Ohio Revised Code, Title 27: Courts-General Provisions-Special Remedies, Chapter 2747: Uniform Public Expression Protection Act | 1 | 2025-11-16 to 2025-11-16 |
+| `orc-chapter-2901` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2901: General Provisions | 1 | 2026-11-02 to 2026-11-02 |
+| `orc-chapter-2903` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2903: Homicide and Assault | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-2905` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2905: Kidnapping and Extortion | 1 | 2026-08-24 to 2026-08-24 |
+| `orc-chapter-2907` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2907: Sex Offenses | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-2909` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2909: Arson and Related Offenses | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-2911` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2911: Robbery, Burglary, Trespass, and Safecracking | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-2913` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2913: Theft and Fraud | 1 | 2026-05-30 to 2026-05-30 |
+| `orc-chapter-2915` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2915: Gambling | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-2917` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2917: Offenses Against the Public Peace | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-2919` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2919: Offenses Against the Family | 1 | 2026-08-23 to 2026-08-23 |
+| `orc-chapter-2921` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2921: Offenses Against Justice and Public Administration | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-2923` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2923: Conspiracy, Attempt, and Complicity; Weapons Control; Corrupt Activity | 1 | 2026-08-24 to 2026-08-24 |
+| `orc-chapter-2925` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2925: Drug Offenses | 1 | 2026-10-01 to 2026-10-01 |
+| `orc-chapter-2927` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2927: Miscellaneous Offenses | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-2929` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2929: Penalties and Sentencing | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-2930` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2930: Victim's Rights | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-2931` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2931: Jurisdiction; Venue | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-2933` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2933: Peace Warrants; Search Warrants | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-2935` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2935: Arrest, Citation, and Disposition Alternatives | 1 | 2026-08-23 to 2026-08-23 |
+| `orc-chapter-2937` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2937: Preliminary Examination; Bail | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-2938` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2938: Trial - Magistrate Courts | 1 | 2025-09-30 to 2025-09-30 |
+| `orc-chapter-2939` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2939: Grand Juries | 1 | 2025-11-18 to 2025-11-18 |
+| `orc-chapter-2941` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2941: Indictment | 1 | 2025-09-30 to 2025-09-30 |
+| `orc-chapter-2943` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2943: Arraignment; Pleas | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-2945` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2945: Trial | 1 | 2026-10-13 to 2026-10-13 |
+| `orc-chapter-2947` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2947: Judgment; Sentence | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2949` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2949: Execution of Sentence | 1 | 2026-08-07 to 2026-08-07 |
+| `orc-chapter-2950` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2950: Sexual Predators, Habitual Sex Offenders, Sexually Oriented Offenders | 1 | 2026-05-26 to 2026-05-26 |
+| `orc-chapter-2951` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2951: Probation | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-2953` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2953: Appeals; Other Postconviction Remedies | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-2961` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2961: Disfranchised Convicts; Habitual Criminals | 1 | 2025-11-13 to 2025-11-13 |
+| `orc-chapter-2963` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2963: Extradition | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-2967` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2967: Pardon; Parole; Probation | 1 | 2026-05-13 to 2026-05-13 |
+| `orc-chapter-2969` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2969: Recovery of Offender's Profits Fund; Crime Victims Recovery Fund | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-2971` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2971: Sentencing of Sexually Violent Predators | 1 | 2026-10-01 to 2026-10-01 |
+| `orc-chapter-2981` | Ohio Revised Code, Title 29: Crimes-Procedure, Chapter 2981: Forfeiture | 1 | 2026-03-09 to 2026-03-09 |
+| `orc-chapter-3101` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3101: Marriage | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3103` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3103: Husband And Wife | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-3105` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3105: Divorce, Alimony, Annulment, Dissolution Of Marriage | 1 | 2026-10-08 to 2026-10-08 |
+| `orc-chapter-3107` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3107: Adoption | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3109` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3109: Children | 1 | 2026-10-13 to 2026-10-13 |
+| `orc-chapter-3111` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3111: Parentage | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-3113` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3113: Neglect, Abandonment, Or Domestic Violence | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-3115` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3115: Uniform Interstate Family Support Act of 2008 | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-3117` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3117: Conciliation Of Marital Controversies | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-3119` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3119: Calculation Of Child Support Obligation - Health Insurance Coverage | 1 | 2026-10-28 to 2026-10-28 |
+| `orc-chapter-3121` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3121: Collection and Disbursement of Child Support | 1 | 2026-06-01 to 2026-06-01 |
+| `orc-chapter-3123` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3123: Defaults Under Child Support Orders | 1 | 2026-04-18 to 2026-04-18 |
+| `orc-chapter-3125` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3125: Title IV-D Child Support Cases | 1 | 2026-10-15 to 2026-10-15 |
+| `orc-chapter-3127` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3127: Uniform Child Custody Jurisdiction And Enforcement Act | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3129` | Ohio Revised Code, Title 31: Domestic Relations-Children, Chapter 3129: Gender Transition Services for Minors | 1 | 2026-05-17 to 2026-05-17 |
+| `orc-chapter-3301` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3301: Department of Education and Workforce | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-3302` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3302: Performance Standards | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-3303` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3303: Vocational Education | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3304` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3304: Worker Retraining | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-3305` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3305: Alternative Retirement Plans | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3307` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3307: State Teachers Retirement System | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3309` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3309: Public School Employees Retirement System | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3310` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3310: Elementary and Secondary Scholarship Programs | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3311` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3311: School Districts; County Planning | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-3312` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3312: Educational Regional Service System | 1 | 2026-08-23 to 2026-08-23 |
+| `orc-chapter-3313` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3313: Boards of Education | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-3314` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3314: Community Schools | 1 | 2026-04-12 to 2026-04-12 |
+| `orc-chapter-3315` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3315: School Funds | 1 | 2025-10-01 to 2025-10-01 |
+| `orc-chapter-3316` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3316: Fiscal Watches, Emergencies | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-3317` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3317: Foundation Program | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-3318` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3318: School Facilities | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-3319` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3319: Schools - Superintendent; Teachers; Employees | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3320` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3320: Students liberties and antidiscrimination | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3321` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3321: School Attendance | 1 | 2026-05-20 to 2026-05-20 |
+| `orc-chapter-3322` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3322: Computer Science | 1 | 2025-09-16 to 2025-09-16 |
+| `orc-chapter-3323` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3323: Education of Children with Disabilities | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-3324` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3324: Gifted Students | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3325` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3325: Ohio Deaf and Blind Education Services | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-3326` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3326: Science, Technology, Engineering, Arts and Mathematics Schools | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-3327` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3327: Transportation; Tuition | 1 | 2026-01-26 to 2026-01-26 |
+| `orc-chapter-3328` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3328: College-preparatory Boarding Schools | 1 | 2025-08-05 to 2025-08-05 |
+| `orc-chapter-3329` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3329: Textbooks, Electronic Textbooks | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3331` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3331: Age and Schooling Certificates | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-3332` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3332: Career Colleges and Schools | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3333` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3333: Department of Higher Education | 1 | 2026-05-10 to 2026-05-10 |
+| `orc-chapter-3334` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3334: College Savings Program; Variable College Savings Program | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3335` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3335: Ohio State University | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-3337` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3337: Ohio University | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-3339` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3339: Miami University | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3341` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3341: Bowling Green State University; Kent State University | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3343` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3343: Central State University | 1 | 2026-08-23 to 2026-08-23 |
+| `orc-chapter-3344` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3344: Cleveland State University | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-3345` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3345: State Universities - General Powers | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3347` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3347: University Housing Commissions | 1 | 2026-09-08 to 2026-09-08 |
+| `orc-chapter-3349` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3349: Municipal Educational Institutions | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-3350` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3350: Northeast Ohio Medical University | 1 | 2026-07-11 to 2026-07-11 |
+| `orc-chapter-3351` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3351: Student Assistance | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-3352` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3352: Wright State University | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3353` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3353: Broadcast Educational Media Commission | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-3354` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3354: Community Colleges | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3355` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3355: University Branch Districts | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-3356` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3356: Youngstown State University | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-3357` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3357: Technical Colleges | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-3358` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3358: State Community Colleges | 1 | 2025-07-02 to 2025-07-02 |
+| `orc-chapter-3359` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3359: University of Akron | 1 | 2026-05-12 to 2026-05-12 |
+| `orc-chapter-3361` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3361: University of Cincinnati | 1 | 2026-05-09 to 2026-05-09 |
+| `orc-chapter-3362` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3362: Shawnee State University | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3364` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3364: University of Toledo | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-3365` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3365: College Credit Plus Program | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-3366` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3366: State Purchase of Education Loans | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3375` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3375: Libraries | 1 | 2025-11-13 to 2025-11-13 |
+| `orc-chapter-3376` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3376: Collegiate Student Athletes | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-3377` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3377: Ohio Higher Educational Facility Commission | 1 | 2025-07-16 to 2025-07-16 |
+| `orc-chapter-3379` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3379: Ohio Arts Council | 1 | 2026-02-11 to 2026-02-11 |
+| `orc-chapter-3381` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3381: Arts and Cultural Affairs | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-3385` | Ohio Revised Code, Title 33: Education-Libraries, Chapter 3385: Property on Loan to Museum | 1 | 2026-06-09 to 2026-06-09 |
+| `orc-chapter-3501` | Ohio Revised Code, Title 35: Elections, Chapter 3501: Election Procedure; Election Officials | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3503` | Ohio Revised Code, Title 35: Elections, Chapter 3503: Voters - Qualifications; Registration | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-3504` | Ohio Revised Code, Title 35: Elections, Chapter 3504: Presidential Ballots - Former Residents | 1 | 2025-11-14 to 2025-11-14 |
+| `orc-chapter-3505` | Ohio Revised Code, Title 35: Elections, Chapter 3505: General And Special Election Ballots | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3506` | Ohio Revised Code, Title 35: Elections, Chapter 3506: Voting And Tabulating Equipment | 1 | 2026-01-22 to 2026-01-22 |
+| `orc-chapter-3509` | Ohio Revised Code, Title 35: Elections, Chapter 3509: Absent Voter's Ballots | 1 | 2026-10-30 to 2026-10-30 |
+| `orc-chapter-3511` | Ohio Revised Code, Title 35: Elections, Chapter 3511: Armed Services Absent Voter's Ballots | 1 | 2026-10-30 to 2026-10-30 |
+| `orc-chapter-3513` | Ohio Revised Code, Title 35: Elections, Chapter 3513: Primaries; Nominations | 1 | 2026-06-11 to 2026-06-11 |
+| `orc-chapter-3515` | Ohio Revised Code, Title 35: Elections, Chapter 3515: Recount; Contest Of Elections | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3517` | Ohio Revised Code, Title 35: Elections, Chapter 3517: Campaigns; Political Parties | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-3519` | Ohio Revised Code, Title 35: Elections, Chapter 3519: Initiative; Referendum | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3521` | Ohio Revised Code, Title 35: Elections, Chapter 3521: Congressional Districts | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3523` | Ohio Revised Code, Title 35: Elections, Chapter 3523: Amendments To United States Constitution | 1 | 2025-11-14 to 2025-11-14 |
 
-The build made 368 commits:
+The build made 544 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 368 | first version of an act |
+| 544 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -396,7 +572,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 368 tags.
+- 544 tags.
 
 ## Dates
 
@@ -408,7 +584,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `408a353fc3ad898bddbf2ca1282bb596121c92c947dc2858a411af7cfec2e12d` (28180502 bytes).
+- Corpus: sha256 `586771c1d16dee1052145312bc4bb0bfacb1d33684e0b9d19e6bda62e5be0c0f` (45759216 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
