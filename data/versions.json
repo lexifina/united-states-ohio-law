@@ -1694,6 +1694,3296 @@
      "sha256": "40c7d0713f1e444ba1a343e40b7ebc4d182edb80d06028df601833c4f8113982"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-0505",
+   "short": "R.C. Chapter 505",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 505: Trustees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-505",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20260827163833/https://codes.ohio.gov/ohio-revised-code/chapter-505",
+     "sha256": "b3f3c42cedfae052459813ab3405b13e356952c73ca8b861b25911acc350316e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0507",
+   "short": "R.C. Chapter 507",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 507: Clerk",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-507",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260410230419/https://codes.ohio.gov/ohio-revised-code/chapter-507",
+     "sha256": "2f62022579c1634e19e66cdb6bcfbd624b40e68afaf8bec816d4379f23fd2d03"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0509",
+   "short": "R.C. Chapter 509",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 509: Constables",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-509",
+   "versions": [
+    {
+     "from": "2026-08-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260816134508/https://codes.ohio.gov/ohio-revised-code/chapter-509",
+     "sha256": "e8d826d133ad799c3478f994e8ecdc33c33847e9793e88be6315043b42faa464"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0511",
+   "short": "R.C. Chapter 511",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 511: Memorial Buildings; Halls; Parks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-511",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20250628071620/https://codes.ohio.gov/ohio-revised-code/chapter-511",
+     "sha256": "045c1852205c418f0c2487ab9c9b45fbe16ffb05ced58fe573d5af8470582776"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0513",
+   "short": "R.C. Chapter 513",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 513: Hospitals; Joint Hospital Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-513",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260713024946/https://codes.ohio.gov/ohio-revised-code/chapter-513",
+     "sha256": "68f8698f2702cb5544e0f0daeb2932302604c0be713f9da4be447e9390581580"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0515",
+   "short": "R.C. Chapter 515",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 515: Lighting",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-515",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20251213005129/https://codes.ohio.gov/ohio-revised-code/chapter-515",
+     "sha256": "b258ddbbe5737e288d4cf4e7c31aa54456f4eb806ae7ca4a45d7d796016833ae"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0517",
+   "short": "R.C. Chapter 517",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 517: Cemeteries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-517",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260707225050/https://codes.ohio.gov/ohio-revised-code/chapter-517",
+     "sha256": "e79c23e871e4e084ec74ff141b3b271e1e63413c08bbac22b6684fdbb76e68e0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0519",
+   "short": "R.C. Chapter 519",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 519: Township Zoning",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-519",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260826235619/https://codes.ohio.gov/ohio-revised-code/chapter-519",
+     "sha256": "da6ab9d9aa2d8ef1330a5ab5279fd9e923ddc693de535af6994158ff203955be"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0521",
+   "short": "R.C. Chapter 521",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 521: Private Sewage Collection Tiles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-521",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251115225642/https://codes.ohio.gov/ohio-revised-code/chapter-521",
+     "sha256": "7b20e0f89be2a316afb8b5599026b506078083ea4f5c0456f715e6b044371721"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0523",
+   "short": "R.C. Chapter 523",
+   "title": "Ohio Revised Code, Title 5: Townships, Chapter 523: Merged Townships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-523",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251115083854/https://codes.ohio.gov/ohio-revised-code/chapter-523",
+     "sha256": "64847cae5cc1d4fe1af07f7e35625b69adf06a4066c12903c4fea2b621375af9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0701",
+   "short": "R.C. Chapter 701",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 701: General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-701",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260616120707/https://codes.ohio.gov/ohio-revised-code/chapter-701",
+     "sha256": "f43e76f118311ad5914b0e77b104f4c355360ad1010867886820a34bff565f2e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0703",
+   "short": "R.C. Chapter 703",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 703: Classification",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-703",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260715140012/https://codes.ohio.gov/ohio-revised-code/chapter-703",
+     "sha256": "54ef9d20daff772a020a35281871a7f7ea4c830b4443db63a991b9260a271565"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0705",
+   "short": "R.C. Chapter 705",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 705: Plans Of Government",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-705",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20260623195900/https://codes.ohio.gov/ohio-revised-code/chapter-705?utm_source=chatgpt.com",
+     "sha256": "1957d55991c3f6e1f8f82ac09d1d6aa00f32f40da5e93dc32db66d2989a24c32"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0707",
+   "short": "R.C. Chapter 707",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 707: Incorporation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-707",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20251113163656/https://codes.ohio.gov/ohio-revised-code/chapter-707",
+     "sha256": "20228d73b64c66782a55ad7e416715b247c6913351d259f2766e29179c72d46c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0709",
+   "short": "R.C. Chapter 709",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 709: Annexation; Detachment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-709",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260131174623/https://codes.ohio.gov/ohio-revised-code/chapter-709",
+     "sha256": "21c14be0aa18ca4d021a0222ac83a029eb390150a838de8a0a565aa544dbaafe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0711",
+   "short": "R.C. Chapter 711",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 711: Plats",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-711",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20251114030426/https://codes.ohio.gov/ohio-revised-code/chapter-711",
+     "sha256": "5cfa8934b4de7d7debe70ea8c88652cf39c02822b422703486de4b65293a9ef3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0713",
+   "short": "R.C. Chapter 713",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 713: Planning Commissions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-713",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260422080717/https://codes.ohio.gov/ohio-revised-code/chapter-713",
+     "sha256": "3e277178b1effaf91b75dd00a7897a2fc92e849bc18b31f6943daed17cee70f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0715",
+   "short": "R.C. Chapter 715",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 715: General Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-715",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 84,
+     "source_url": "https://web.archive.org/web/20260713183133/https://codes.ohio.gov/ohio-revised-code/chapter-715",
+     "sha256": "0d57ac2151bc79622e87279f5ad69e3029314062f6aa263f7d5c4f9ba9815aba"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0717",
+   "short": "R.C. Chapter 717",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 717: Specific Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-717",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20251113160438/https://codes.ohio.gov/ohio-revised-code/chapter-717",
+     "sha256": "3e007b2b342925cb336d3b11ae3014879a2513ae30b2aad843d41cc1a31326cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0718",
+   "short": "R.C. Chapter 718",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 718: Municipal Income Taxes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-718",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20260610221542/https://codes.ohio.gov/ohio-revised-code/chapter-718",
+     "sha256": "0521688c023268ea180f908e0020de5642ca79dbb300efe4f497a7452edd6c7d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0719",
+   "short": "R.C. Chapter 719",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 719: Appropriation Of Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-719",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260528161602/https://codes.ohio.gov/ohio-revised-code/chapter-719",
+     "sha256": "7d7ee68aa9fde76ff6708e7bfbc056853e50e562369fc94e37c2e3c980d1d72c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0721",
+   "short": "R.C. Chapter 721",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 721: Sale Or Lease Of Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-721",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260520201510/https://codes.ohio.gov/ohio-revised-code/chapter-721",
+     "sha256": "b6db3f6b7ada7ed749cd931a962ae53aeb5a6005613d28cfff944be49d72d856"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0723",
+   "short": "R.C. Chapter 723",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 723: Streets; Public Grounds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-723",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260517174630/https://codes.ohio.gov/ohio-revised-code/chapter-723",
+     "sha256": "c404662703718929b667afed6dbef9c26bcf69125770a890c60f3120b675f1cb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0725",
+   "short": "R.C. Chapter 725",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 725: Urban Renewal Debt Retirement Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-725",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260520194855/https://codes.ohio.gov/ohio-revised-code/chapter-725",
+     "sha256": "d935fdc3f4039b8ae1c449fb63585fe8eb6f98aac04b60b80bb25ceb849c9d02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0727",
+   "short": "R.C. Chapter 727",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 727: Assessments - Generally",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-727",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20251116125837/https://codes.ohio.gov/ohio-revised-code/chapter-727",
+     "sha256": "16ced6d3419ce3c1ab631ddc50ef359c367e7ebd8c155e20fbec22c919155ce7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0729",
+   "short": "R.C. Chapter 729",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 729: Assessments - Sidewalks; Sewers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-729",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260520191925/https://codes.ohio.gov/ohio-revised-code/chapter-729",
+     "sha256": "15a43e58c506d4d8be7daebe3517af234312d5902c7702ea64c3766ee3530868"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0731",
+   "short": "R.C. Chapter 731",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 731: Organization",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-731",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20260608205144/https://codes.ohio.gov/ohio-revised-code/chapter-731",
+     "sha256": "27a95c6143b5f9dab49ba6b6d7c6fa9b51a37350c1219eb9008c9a395a23a1b7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0733",
+   "short": "R.C. Chapter 733",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 733: Officers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-733",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20261021213054/https://codes.ohio.gov/ohio-revised-code/chapter-733",
+     "sha256": "0445a858b85ec77c226b82ed83383175a0d954b2d1f4491a98151d7d421da5a8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0735",
+   "short": "R.C. Chapter 735",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 735: Public Service",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-735",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260608181205/https://codes.ohio.gov/ohio-revised-code/chapter-735",
+     "sha256": "96e627bd4c82813f12277cc5c2b660a5158c9c7b4f0be066b253cb8e88ee7784"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0737",
+   "short": "R.C. Chapter 737",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 737: Public Safety",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-737",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260823132847/https://codes.ohio.gov/ohio-revised-code/chapter-737",
+     "sha256": "0c9a40507cb5929d23316ca8e5dad32e28f82b83b4de3a987d9ffa8e4d5e3ebe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0738",
+   "short": "R.C. Chapter 738",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 738: Sanitary Police Pension Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-738",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260520192835/https://codes.ohio.gov/ohio-revised-code/chapter-738",
+     "sha256": "cc7d33b886d2baaebf1678a470746aa518c9986ce197e37aad1d10c69ba344d5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0739",
+   "short": "R.C. Chapter 739",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 739: Trustees Of Sinking Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-739",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260520194621/https://codes.ohio.gov/ohio-revised-code/chapter-739",
+     "sha256": "4c997934ae9e41806b31b41e62a8eb260095f5babc76c409ce46f084bfb4b006"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0742",
+   "short": "R.C. Chapter 742",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 742: Police And Fire Pension Fund",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-742",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 132,
+     "source_url": "https://web.archive.org/web/20260520165618/https://codes.ohio.gov/ohio-revised-code/chapter-742",
+     "sha256": "31a82d8a674ceb316fdc01ab6993698425ef87d9f929c026ae059235a43033f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0743",
+   "short": "R.C. Chapter 743",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 743: Utilities - Electric; Gas; Water",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-743",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20250629034956/https://codes.ohio.gov/ohio-revised-code/chapter-743",
+     "sha256": "c0e6e6cb02297fcc6306240596489e89e0476f30ec56824510aafd534341e732"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0745",
+   "short": "R.C. Chapter 745",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 745: Street Railways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-745",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260520185841/https://codes.ohio.gov/ohio-revised-code/chapter-745",
+     "sha256": "409223b5f15265b5ad12d06a5edaafd3f52d1226da49fc22c590187d7af718af"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0746",
+   "short": "R.C. Chapter 746",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 746: Railway board of trustees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-746",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260509194852/https://codes.ohio.gov/ohio-revised-code/chapter-746",
+     "sha256": "681c0db3e11f39f044bbaeef67b3570d28c3c307557aab77f347168f69adab38"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0747",
+   "short": "R.C. Chapter 747",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 747: Rapid Transit Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-747",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260421072808/https://codes.ohio.gov/ohio-revised-code/chapter-747",
+     "sha256": "b986a29c37d5db532de199b36343671f548930e878af97e5624ee235c5e6aa51"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0749",
+   "short": "R.C. Chapter 749",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 749: Hospitals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-749",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260422152307/https://codes.ohio.gov/ohio-revised-code/chapter-749",
+     "sha256": "b3f6fc335e540b40e50eea82db0e0a4163876472a586314b35a4258cd5ec1f13"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0751",
+   "short": "R.C. Chapter 751",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 751: Care Of Indigents And Orphans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-751",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260520195934/https://codes.ohio.gov/ohio-revised-code/chapter-751",
+     "sha256": "a9945efbc714a137a07dc5a45868e822fc071ce0d85064dde039799ef66b57e1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0753",
+   "short": "R.C. Chapter 753",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 753: Reformatory Institutions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-753",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260518023052/https://codes.ohio.gov/ohio-revised-code/chapter-753",
+     "sha256": "f75a2c48eef9ba21bc92d7bebe2e3150e6596845285f77d9648e2d90b7d07130"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0755",
+   "short": "R.C. Chapter 755",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 755: Parks; Recreation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-755",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260516050851/https://codes.ohio.gov/ohio-revised-code/chapter-755",
+     "sha256": "a53b74e29ea1e4055fd426920492056b4af8c82d9b880d0a7d2068ea2d6f1a00"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0757",
+   "short": "R.C. Chapter 757",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 757: Music; Museums",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-757",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260520200530/https://codes.ohio.gov/ohio-revised-code/chapter-757",
+     "sha256": "f730fb94d4d9b0a30d2f4292d83a070b30088c26a6ebdba993757ed7bd3abd3f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0759",
+   "short": "R.C. Chapter 759",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 759: Cemeteries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-759",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260707225048/https://codes.ohio.gov/ohio-revised-code/chapter-759",
+     "sha256": "ba97e5c4d02e58ac299a9701fd02f24ec71ac5b188ffd46277f4b92eb3a5bc36"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0761",
+   "short": "R.C. Chapter 761",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 761: Industrial And Economic Development",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-761",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260520201959/https://codes.ohio.gov/ohio-revised-code/chapter-761",
+     "sha256": "b2bd71cc7ca1118b500d02d72214b0b5c3ca5e5f3c8a196c2bd956b662538e8e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0763",
+   "short": "R.C. Chapter 763",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 763: Municipal Workforce Development System",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-763",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260520191605/https://codes.ohio.gov/ohio-revised-code/chapter-763",
+     "sha256": "9e06d6e619d78f1eb534480f9da06266218e9a6416b590934f0d142d3d195a72"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0765",
+   "short": "R.C. Chapter 765",
+   "title": "Ohio Revised Code, Title 7: Municipal Corporations, Chapter 765: Noncriminal Land Use Infractions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-765",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251207100734/https://codes.ohio.gov/ohio-revised-code/chapter-765",
+     "sha256": "86e0dcae28801383ddcde88451a396a037b692ec8e93654fb41a0c17df79b612"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0901",
+   "short": "R.C. Chapter 901",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 901: Department Of Agriculture",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-901",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260514162256/https://codes.ohio.gov/ohio-revised-code/chapter-901",
+     "sha256": "74bd55c1c9cc810167866a354c8fdbb6e671e6f90ef8d65a7e735de76e6bca30"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0902",
+   "short": "R.C. Chapter 902",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 902: Agricultural Financing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-902",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251017044213/https://codes.ohio.gov/ohio-revised-code/chapter-902",
+     "sha256": "73e7be8f519e2f2dc017f53a6ab047d0acc1558444cf657553b1c919de3cd6a4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0903",
+   "short": "R.C. Chapter 903",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 903: Concentrated Animal Feeding Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-903",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261024233221/https://codes.ohio.gov/ohio-revised-code/chapter-903",
+     "sha256": "f027d1dace13c38e27fb7eaa47f8a1799b3234b1b21dd6dbbc0135b2b121f7e2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0904",
+   "short": "R.C. Chapter 904",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 904: Ohio Livestock Care Standards Board",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-904",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260315211347/https://codes.ohio.gov/ohio-revised-code/chapter-904",
+     "sha256": "2545ef0bbbde6fcdeac1dedc98ff6d054100725f5810fee98ace5cc4ae43f9e4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0905",
+   "short": "R.C. Chapter 905",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 905: Agricultural Additives And Lime; Fertilizer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-905",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260613065651/https://codes.ohio.gov/ohio-revised-code/chapter-905",
+     "sha256": "3db8d5fe65149c8a2c85485744fd8efa074d36f28d0587805f81a9d2734b12fc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0907",
+   "short": "R.C. Chapter 907",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 907: Agricultural Seed",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-907",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260422225811/https://codes.ohio.gov/ohio-revised-code/chapter-907",
+     "sha256": "67e34fbe5adf50f3e2a1167fa7c75a77936d05e52dc185c477581e8f13bd9613"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0909",
+   "short": "R.C. Chapter 909",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 909: Apiaries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-909",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260516053958/https://codes.ohio.gov/ohio-revised-code/chapter-909",
+     "sha256": "648b1de379d33b208a8a860fc7ecc235ed3e350917c681c5bc4a1cde9adc260a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0911",
+   "short": "R.C. Chapter 911",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 911: Bakeries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-911",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260615050421/https://codes.ohio.gov/ohio-revised-code/chapter-911",
+     "sha256": "46093c0880e86a36de7fd90c533c37b2961564da0e7014c7e27e1179158f8fed"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0913",
+   "short": "R.C. Chapter 913",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 913: Canneries; Soft Drink Bottling",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-913",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260614201213/https://codes.ohio.gov/ohio-revised-code/chapter-913",
+     "sha256": "ec4a29fa4beca09d69e626dab9fb2244d99e842f5b56bf605d293c4c09cc3547"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0915",
+   "short": "R.C. Chapter 915",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 915: Cold Storage; Individual Lockers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-915",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260712053302/https://codes.ohio.gov/ohio-revised-code/chapter-915",
+     "sha256": "68c85ccde0d886b2588deba9c72a4c24e469c7b991342ced6fab066774b8a4c5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0917",
+   "short": "R.C. Chapter 917",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 917: Dairy Products",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-917",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260506142152/https://codes.ohio.gov/ohio-revised-code/chapter-917",
+     "sha256": "b3d803cb9e35536a55a6dd23aff8d3e6f0b231d95efca2bc7af37b53a47759f4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0918",
+   "short": "R.C. Chapter 918",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 918: Meat Inspection",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-918",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260210052428/https://codes.ohio.gov/ohio-revised-code/chapter-918",
+     "sha256": "1386bb5d1acba0a4111acf745004c53055a5d11642fcd7b6623554459ce0d44c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0919",
+   "short": "R.C. Chapter 919",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 919: Horse Meat",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-919",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250918065235/https://codes.ohio.gov/ohio-revised-code/chapter-919",
+     "sha256": "adba6b64cb54ab05dd806702d59bd2632342e107cb6fd0f46f35617d16679cbb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0921",
+   "short": "R.C. Chapter 921",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 921: Pesticides",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-921",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260422211955/https://codes.ohio.gov/ohio-revised-code/chapter-921",
+     "sha256": "432bbca29a14713b5e8fb8124f5e08ab2bcebdc2df496641ad55bea23d89fd22"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0923",
+   "short": "R.C. Chapter 923",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 923: Livestock Feeds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-923",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250629035156/https://codes.ohio.gov/ohio-revised-code/chapter-923",
+     "sha256": "4327745b25fe381533744353e6daab235cdfa1d4068c51a1061834dc66dfeeb1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0924",
+   "short": "R.C. Chapter 924",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 924: Agricultural Commodity Marketing Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-924",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260715132301/https://codes.ohio.gov/ohio-revised-code/chapter-924",
+     "sha256": "f1abd08a753649800990bc1d073f71bba6ff40a0de54208f8d14aad674bf9451"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0925",
+   "short": "R.C. Chapter 925",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 925: Marketing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-925",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260518185613/https://codes.ohio.gov/ohio-revised-code/chapter-925",
+     "sha256": "b05522ed45e3d0900e0d018323d4fe9761688c826fffbb82df5ab9cff20d7962"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0926",
+   "short": "R.C. Chapter 926",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 926: Agricultural Commodity Handlers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-926",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260522213951/https://codes.ohio.gov/ohio-revised-code/chapter-926",
+     "sha256": "bd70834c3433521980403475841d7c2c4d9083ed8acdd24fae7411b7cd8095e9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0927",
+   "short": "R.C. Chapter 927",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 927: Nursery Stock; Plant Pests",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-927",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260714163647/https://codes.ohio.gov/ohio-revised-code/chapter-927",
+     "sha256": "fe2539adada8c60ba6d892c3aa55a78779d045a53d7793546b8d50660211664e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0928",
+   "short": "R.C. Chapter 928",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 928: Hemp and Hemp Products",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-928",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261007102234/https://codes.ohio.gov/ohio-revised-code/chapter-928",
+     "sha256": "99a54dd85f67faddcc92329e7126f7567ee6a67e7799deec766a3e6ba42533b3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0929",
+   "short": "R.C. Chapter 929",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 929: Agricultural Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-929",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260902030258/https://codes.ohio.gov/ohio-revised-code/chapter-929",
+     "sha256": "64d8a6b4be057ce75f38dd6bcbc6cf88058d7163949a5c4dd37ece5a27ee1d44"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0931",
+   "short": "R.C. Chapter 931",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 931: Agricultural Security Areas",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-931",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260613082729/https://codes.ohio.gov/ohio-revised-code/chapter-931",
+     "sha256": "58176659399eb05fe62beaf4bb9d1f6053a3f40301d0f52aea6bb6f563ac27c0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0935",
+   "short": "R.C. Chapter 935",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 935: Possession Of Wild Animals And Snakes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-935",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260808043025/https://codes.ohio.gov/ohio-revised-code/chapter-935",
+     "sha256": "b176f56d665961ccbd4b147053f064f06301f66c15b5a079aea4b7a9f46637ab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0936",
+   "short": "R.C. Chapter 936",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 936: Propane Council",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-936",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250629035233/https://codes.ohio.gov/ohio-revised-code/chapter-936",
+     "sha256": "b6a1270b0738fdea798574cf3e61c98365006816e78fd2fed7b7afde63717bc2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0939",
+   "short": "R.C. Chapter 939",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 939: Soil And Water Conservation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-939",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260403111655/https://codes.ohio.gov/ohio-revised-code/chapter-939",
+     "sha256": "78a7039496bb9f524be1d25385e3ffb3bfedbfb23344e99ea19dc0c32d4bc47b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0940",
+   "short": "R.C. Chapter 940",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 940: Soil And Water Conservation Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-940",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260611160517/https://codes.ohio.gov/ohio-revised-code/chapter-940",
+     "sha256": "8761d295f9a55613c2294a32b6e402692713e916e10676b46fdf0f650b916ae7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0941",
+   "short": "R.C. Chapter 941",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 941: Animal Diseases",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-941",
+   "versions": [
+    {
+     "from": "2025-08-10",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250810032919/https://codes.ohio.gov/ohio-revised-code/chapter-941",
+     "sha256": "fa655cb61677a9541cfe8bd9732d3c711749dbc06d618311037d2d872a316b5f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0942",
+   "short": "R.C. Chapter 942",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 942: Garbage-fed Swine and Poultry",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-942",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251016034450/https://codes.ohio.gov/ohio-revised-code/chapter-942",
+     "sha256": "c527c8b41ad5d9f1ae2549fd671731c4c0b93466f4fe7bf90816b138823f2310"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0943",
+   "short": "R.C. Chapter 943",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 943: Livestock Dealers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-943",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250629035251/https://codes.ohio.gov/ohio-revised-code/chapter-943",
+     "sha256": "4df459105dbf9754b062a603b6d08578e76d8c72c71d19cf1088914f49e3804e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0945",
+   "short": "R.C. Chapter 945",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 945: Humane Slaughter Of Livestock",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-945",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250805022338/https://codes.ohio.gov/ohio-revised-code/chapter-945",
+     "sha256": "a6b2cdea3e30e2bf80b6127d22f9df16f513687f2422a24951d951a334ca1eeb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0947",
+   "short": "R.C. Chapter 947",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 947: Property Identification",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-947",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260502091940/https://codes.ohio.gov/ohio-revised-code/chapter-947",
+     "sha256": "ac4edfef9605ddf47fc238abccb7646ed884188fe09dba2a0af042b8c4f1e47c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0951",
+   "short": "R.C. Chapter 951",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 951: Animals Running At Large; Strays",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-951",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250629035259/https://codes.ohio.gov/ohio-revised-code/chapter-951",
+     "sha256": "6b6e0cc383a1cfb8ffb536c82ad39dd73cf35d68cb889251b20f40de5d1bed94"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0953",
+   "short": "R.C. Chapter 953",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 953: Rendering Plants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-953",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250629035302/https://codes.ohio.gov/ohio-revised-code/chapter-953",
+     "sha256": "3ffcf8b82b5d72da5a4d6c3b8d08d4d2ba6e8f3f7410aae198c1db4fae833202"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0955",
+   "short": "R.C. Chapter 955",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 955: Dogs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-955",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20261011114951/https://codes.ohio.gov/ohio-revised-code/chapter-955",
+     "sha256": "1eaef021ec1b435dfbd50bdc0c812b04e0e65d48d620eae46b2fa042f37dfb75"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0956",
+   "short": "R.C. Chapter 956",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 956: Regulation And Licensing Of Dog Kennels",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-956",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260519041726/https://codes.ohio.gov/ohio-revised-code/chapter-956?",
+     "sha256": "528575b0e5fd64ed9f6721997bc4fcbd6e7f3bf5797b5bee2a3fe88ad779eec1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0957",
+   "short": "R.C. Chapter 957",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 957: Farm Pests",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-957",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20251107064430/https://codes.ohio.gov/ohio-revised-code/chapter-957",
+     "sha256": "6d69ac295473bbdd17f25c484734d8a93d9daefbba9c3d7e063a69a55de35ebd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0959",
+   "short": "R.C. Chapter 959",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 959: Offenses Relating To Domestic Animals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-959",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260820135901/https://codes.ohio.gov/ohio-revised-code/chapter-959",
+     "sha256": "da7c09521ae287f2a990b5590103a0309cc6b5455f4e5048c718c71a542a49d4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0961",
+   "short": "R.C. Chapter 961",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 961: Pet Cemeteries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-961",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250630163046/https://codes.ohio.gov/ohio-revised-code/chapter-961",
+     "sha256": "bfc8647028b9570b748a4d2ab9843758a8bf496eec7f32d2c2713e86df74a81b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0971",
+   "short": "R.C. Chapter 971",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 971: Fences",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-971",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260309082411/https://codes.ohio.gov/ohio-revised-code/chapter-971",
+     "sha256": "24837c1ef10633807150cce6bffc0de4fab7ed262153fa8150d8e52ce97eac85"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0981",
+   "short": "R.C. Chapter 981",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 981: Timber",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-981",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260331001352/https://codes.ohio.gov/ohio-revised-code/chapter-981",
+     "sha256": "56726de5c85eccacd621ae9eecc028b62768e5387b37d60b0259766d35e8d038"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0991",
+   "short": "R.C. Chapter 991",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 991: State Expositions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-991",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250630163056/https://codes.ohio.gov/ohio-revised-code/chapter-991",
+     "sha256": "36b1e0ff29bb31f58c50441dfe19a8bfa5a872a62c1733bebb6b96e1862146f9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-0993",
+   "short": "R.C. Chapter 993",
+   "title": "Ohio Revised Code, Title 9: Agriculture-Animals-Fences, Chapter 993: Amusement Ride Safety",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-993",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260711030559/https://codes.ohio.gov/ohio-revised-code/chapter-993",
+     "sha256": "d8ef1456e749ac0cfb544c26dc8040f839c61219276ddf9c36f1d7478b9eb024"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1101",
+   "short": "R.C. Chapter 1101",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1101: Banks - General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1101",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260512054817/https://codes.ohio.gov/ohio-revised-code/chapter-1101",
+     "sha256": "869414493006641af84c67937d22a4768d20f246e48af6835e655d08abf34390"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1103",
+   "short": "R.C. Chapter 1103",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1103: State Banks - Corporate Governance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1103",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250803084427/https://codes.ohio.gov/ohio-revised-code/chapter-1103",
+     "sha256": "5bfec62794443c069fa4f5c1bb1a5ee10d1c086286e2a88f90cad17771cf6cd3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1105",
+   "short": "R.C. Chapter 1105",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1105: Banks - Board Of Directors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1105",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260914105401/https://codes.ohio.gov/ohio-revised-code/chapter-1105",
+     "sha256": "9bac2f29845a628743a6c55b1cf54167d36c06585d30ee20e1e3fee52aae0bbf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1107",
+   "short": "R.C. Chapter 1107",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1107: State Banks - Capital And Securities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1107",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260418122203/https://codes.ohio.gov/ohio-revised-code/chapter-1107",
+     "sha256": "bd3c86826a24048319b4906d2d5d5acb1e1229c08dfb365210558a89ac312df9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1109",
+   "short": "R.C. Chapter 1109",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1109: State Banks - Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1109",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20251011073913/https://codes.ohio.gov/ohio-revised-code/chapter-1109",
+     "sha256": "1c233914a9f35c6b0fd8aec641e482a5416e8ba28b95979f626222a7678653d6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1111",
+   "short": "R.C. Chapter 1111",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1111: Trust Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1111",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250630163143/https://codes.ohio.gov/ohio-revised-code/chapter-1111",
+     "sha256": "d07db7cccd1c9188425cea221ade8b3e4b0242e0a765ae357d5ace82e737547c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1112",
+   "short": "R.C. Chapter 1112",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1112: Ohio Family Trust Company Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1112",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260810075948/https://codes.ohio.gov/ohio-revised-code/chapter-1112",
+     "sha256": "0d4473b27978c5fd25f57c50b3a1cee0d607b0cd76b99afe6052153e320fb288"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1113",
+   "short": "R.C. Chapter 1113",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1113: Stock State Banks - Formation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1113",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260916174445/https://codes.ohio.gov/ohio-revised-code/chapter-1113",
+     "sha256": "a54038e0a51b67d252bc5fae6b58fad84e24caa980daa0170e5d3b9b78a3f708"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1114",
+   "short": "R.C. Chapter 1114",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1114: Mutual State Banks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1114",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250630163202/https://codes.ohio.gov/ohio-revised-code/chapter-1114",
+     "sha256": "56b32dc5f9b89eccecd83e19ab90ca97d923f1c8bbadb3af06f81a306e63f9c8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1115",
+   "short": "R.C. Chapter 1115",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1115: Banks - Acquisitions And Reorganizations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1115",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260728194320/https://codes.ohio.gov/ohio-revised-code/chapter-1115",
+     "sha256": "b4f80f997b1bf6069f59d1c65e956c4b30da37bf5f54a0e38f829bdd66368d33"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1116",
+   "short": "R.C. Chapter 1116",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1116: Mutual Holding Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1116",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260310054635/https://codes.ohio.gov/ohio-revised-code/chapter-1116",
+     "sha256": "a075c9f203610d29f15d163d47e32ae34339983c3a701156aec7815ff0821a84"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1117",
+   "short": "R.C. Chapter 1117",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1117: Banks - Offices",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1117",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260926035429/https://codes.ohio.gov/ohio-revised-code/chapter-1117",
+     "sha256": "690eb73cc73ff4fdd9a748cbf6298939fe6ab173072b7cf179f31afe0416e00b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1119",
+   "short": "R.C. Chapter 1119",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1119: Foreign Banks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1119",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250630163215/https://codes.ohio.gov/ohio-revised-code/chapter-1119",
+     "sha256": "61c4a60af31827597d370cf1daf35374b31ffbe7865c79ff7b3c40f3057a021f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1121",
+   "short": "R.C. Chapter 1121",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1121: Banks - Superintendent's Powers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1121",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20261028041611/https://codes.ohio.gov/ohio-revised-code/chapter-1121",
+     "sha256": "a4cbd86635ee743c88d12ba5bf0d9ab0d1fce8e17da2cf3133fc5453b11d0dd6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1123",
+   "short": "R.C. Chapter 1123",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1123: Banking Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1123",
+   "versions": [
+    {
+     "from": "2026-02-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260221105256/https://codes.ohio.gov/ohio-revised-code/chapter-1123",
+     "sha256": "21df353596203302402c652366729ce92f0ca42f6fb72d24f193767ed444bca8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1125",
+   "short": "R.C. Chapter 1125",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1125: Banks - Liquidations And Conservatorships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1125",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260611171848/https://codes.ohio.gov/ohio-revised-code/chapter-1125",
+     "sha256": "d954c5fcd0104eb658c26b3569d29e5cf296a2363ae1c1b9849bec4b0699e3d1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1127",
+   "short": "R.C. Chapter 1127",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1127: Banks - Crimes And Prohibited Activities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1127",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251222121019/https://codes.ohio.gov/ohio-revised-code/chapter-1127",
+     "sha256": "fd96cfbca5de0410f892ef550d60a6f1fdeae565919f0368ee3fec424aa4188c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1181",
+   "short": "R.C. Chapter 1181",
+   "title": "Ohio Revised Code, Title 11: Banks-Savings and Loan Associations, Chapter 1181: Division Of Financial Institutions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1181",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260610064229/https://codes.ohio.gov/ohio-revised-code/chapter-1181",
+     "sha256": "e278b5a431ecae4ce3101f2a70401bd0478f694c0208f0f0a3d7ec4f79a5138a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1301",
+   "short": "R.C. Chapter 1301",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1301: General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1301",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260208150036/https://codes.ohio.gov/ohio-revised-code/chapter-1301",
+     "sha256": "e6e7d92f1b6f469259bbdd9851654113f3dc7e4500fe949648c4e56efee86c29"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1302",
+   "short": "R.C. Chapter 1302",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1302: Sales",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1302",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20250710072759/https://codes.ohio.gov/ohio-revised-code/chapter-1302",
+     "sha256": "1279ef3ed7bcaa0a9658dddfb5c7524816a19578b184ec69081e0af1fa098653"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1303",
+   "short": "R.C. Chapter 1303",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1303: Commercial Paper",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1303",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260711213154/https://codes.ohio.gov/ohio-revised-code/chapter-1303",
+     "sha256": "8bbb50097759fa7fa69098c6286cf9c4493a91d9922c51aabccb90cc6d481933"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1304",
+   "short": "R.C. Chapter 1304",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1304: Bank Deposits And Collections",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1304",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20260716045122/https://codes.ohio.gov/ohio-revised-code/chapter-1304",
+     "sha256": "398cca238e765843c740984acccff47dce8b8d7d7f5caa2043ebf60f88eda84b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1305",
+   "short": "R.C. Chapter 1305",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1305: Letters Of Credit",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1305",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260609081523/https://codes.ohio.gov/ohio-revised-code/chapter-1305",
+     "sha256": "53286484d6c0edc1ce301753ad4509fd624d54b827086e0dd600e5b377e487a8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1306",
+   "short": "R.C. Chapter 1306",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1306: Uniform Electronic Transactions Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1306",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260203034657/https://codes.ohio.gov/ohio-revised-code/chapter-1306",
+     "sha256": "7ab154150491bd36d670a3355e1de9b7f336d6ac4be6f52398b1b1d83cece151"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1307",
+   "short": "R.C. Chapter 1307",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1307: Documents Of Title",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1307",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260518120403/https://codes.ohio.gov/ohio-revised-code/chapter-1307",
+     "sha256": "a9d6578481e7849d7d27ef0c00c42e5a408fba0f675278c9ef4dea4e350d13c7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1308",
+   "short": "R.C. Chapter 1308",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1308: Investment Securities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1308",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260514063432/https://codes.ohio.gov/ohio-revised-code/chapter-1308",
+     "sha256": "abad02127d4c48ad2f1add8e0c598c6ea86f9995187c48987ac5ad65d3da2337"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1309",
+   "short": "R.C. Chapter 1309",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1309: Secured Transactions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1309",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 136,
+     "source_url": "https://web.archive.org/web/20260317030207/https://codes.ohio.gov/ohio-revised-code/chapter-1309",
+     "sha256": "9ef105a2bfc6e61d2cfb65f4d23945e9c893c8b2c717610863268558dd15f940"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1310",
+   "short": "R.C. Chapter 1310",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1310: Leases",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1310",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20250630163356/https://codes.ohio.gov/ohio-revised-code/chapter-1310",
+     "sha256": "2443f02a3fa7bb3496b2ab47f4c1fd633dee2bc2e4c9f0cd4d2267bfb36dcf5a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1311",
+   "short": "R.C. Chapter 1311",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1311: Liens",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1311",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20261011061104/https://codes.ohio.gov/ohio-revised-code/chapter-1311",
+     "sha256": "2616e8891e57a1976c934a3640cce1f7be20d9f2e10368de921b83028ae9f81b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1312",
+   "short": "R.C. Chapter 1312",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1312: Residential Contractor Right to Cure",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1312",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250630163403/https://codes.ohio.gov/ohio-revised-code/chapter-1312",
+     "sha256": "08d1763019138be78d3cf77c6d1f52626b6ed1d673beb8e32c06e8d9b88bde16"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1313",
+   "short": "R.C. Chapter 1313",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1313: Voluntary Assignments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1313",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20250630163409/https://codes.ohio.gov/ohio-revised-code/chapter-1313",
+     "sha256": "432e1461db3e41050f9ce9d84e008a188e4cbe63cc4680138b7aea910a135b6d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1315",
+   "short": "R.C. Chapter 1315",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1315: Transmitters Of Money; Check-cashing Businesses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1315",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260610212329/https://codes.ohio.gov/ohio-revised-code/chapter-1315",
+     "sha256": "e4ab48733633368e0e636cec621af640826927787f923db3525706f1503fec33"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1317",
+   "short": "R.C. Chapter 1317",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1317: Retail Installment Sales",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1317",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260611130856/https://codes.ohio.gov/ohio-revised-code/chapter-1317",
+     "sha256": "594f7ad31549d23c098a0b693a8a30c0e96edf3660067068ef5e488de984c360"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1319",
+   "short": "R.C. Chapter 1319",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1319: Miscellaneous Credit Transactions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1319",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20251007024758/https://codes.ohio.gov/ohio-revised-code/chapter-1319",
+     "sha256": "420461cc219c30fe21da29ef5585a881ade29daf30c11545e061dd1e9b580aa8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1321",
+   "short": "R.C. Chapter 1321",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1321: Various Loans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1321",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 109,
+     "source_url": "https://web.archive.org/web/20260422141658/https://codes.ohio.gov/ohio-revised-code/chapter-1321",
+     "sha256": "650cef7dfde8777c2fd4ee13965558db0ef70c731155d9b74c499eb28c7f36d9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1322",
+   "short": "R.C. Chapter 1322",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1322: Ohio Residential Mortgage Lending Act (RMLA)",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1322",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261003075046/https://codes.ohio.gov/ohio-revised-code/chapter-1322",
+     "sha256": "78ea165994922bac13a69670e6e6ec6a5c8c318a3e4f8da6ca248a33140f844f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1327",
+   "short": "R.C. Chapter 1327",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1327: Weights And Measures",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1327",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260606045414/https://codes.ohio.gov/ohio-revised-code/chapter-1327",
+     "sha256": "a880afb928377b9bb92cb49b0cae5edc31d588c6275ec5116d21e23459990263"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1329",
+   "short": "R.C. Chapter 1329",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1329: Labels And Marks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1329",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260514170032/https://codes.ohio.gov/ohio-revised-code/chapter-1329",
+     "sha256": "834c05abadba343d57277529a9dd892f07814225de25acc67c9526c9f92b866a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1331",
+   "short": "R.C. Chapter 1331",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1331: Monopolies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1331",
+   "versions": [
+    {
+     "from": "2025-09-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250913105337/https://codes.ohio.gov/ohio-revised-code/chapter-1331",
+     "sha256": "248ad785fc0a8aa91be734453ebeb31d9f9045c8da65974e0df4f6cc04ddb092"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1332",
+   "short": "R.C. Chapter 1332",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1332: Fair Competition In Cable Operations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1332",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260416072844/https://codes.ohio.gov/ohio-revised-code/chapter-1332",
+     "sha256": "ad872012aa7beb2b40b1d8bc599cb2f25bb49ebe98a102e155bed3c939ad8528"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1333",
+   "short": "R.C. Chapter 1333",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1333: Trade Practices",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1333",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20260711022424/https://codes.ohio.gov/ohio-revised-code/chapter-1333",
+     "sha256": "e6aadf17eb2fad2313c5669cb510c77b29be135296a3f9b192b7c5a8cb8ff42c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1334",
+   "short": "R.C. Chapter 1334",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1334: Business Opportunity Plans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1334",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250630163517/https://codes.ohio.gov/ohio-revised-code/chapter-1334",
+     "sha256": "9ca8afb0c7703d09ec10cc372018a84735e0b1e1f6233bb9bc3e9d3bdd063345"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1335",
+   "short": "R.C. Chapter 1335",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1335: Statute Of Frauds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1335",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250802232609/https://codes.ohio.gov/ohio-revised-code/chapter-1335",
+     "sha256": "17645160cc6c56bde7e0250e2d56533f7c6d76780b729a8b649488bc595edc6f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1336",
+   "short": "R.C. Chapter 1336",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1336: Ohio Uniform Fraudulent Transfer Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1336",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260411231816/https://codes.ohio.gov/ohio-revised-code/chapter-1336",
+     "sha256": "6091cb6a9dd75742a33d9c42eb0beb803444b83a00e7e72be774e2472dc59286"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1337",
+   "short": "R.C. Chapter 1337",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1337: Power Of Attorney",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1337",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20261009174756/https://codes.ohio.gov/ohio-revised-code/chapter-1337",
+     "sha256": "af80dd3d2a05ea4bd5284a0df21ba0011d183e334adf4b3b2dc7bbe8832d733f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1341",
+   "short": "R.C. Chapter 1341",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1341: Sureties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1341",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250630163533/https://codes.ohio.gov/ohio-revised-code/chapter-1341",
+     "sha256": "aca0d1cb3f432b63b60aa25f316ccf3c93ecb9cb17ecd2f8364a393ec61af695"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1343",
+   "short": "R.C. Chapter 1343",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1343: Interest",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1343",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250803024810/https://codes.ohio.gov/ohio-revised-code/chapter-1343",
+     "sha256": "6212e689c1ddee4cdd70edb81be7e29c7503fafd3cce5d57ada55b9097429369"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1345",
+   "short": "R.C. Chapter 1345",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1345: Consumer Sales Practices",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1345",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260506180940/https://codes.ohio.gov/ohio-revised-code/chapter-1345",
+     "sha256": "06fcd0d1570afe45d10366b086018dda97511b63a5d189bf885b995fc171e347"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1346",
+   "short": "R.C. Chapter 1346",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1346: Tobacco Product Manufacturer Escrow Accounts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1346",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250630163549/https://codes.ohio.gov/ohio-revised-code/chapter-1346",
+     "sha256": "0093b71c1ff536bbab2b6b096c02acbcb4b4cd3aa4abe464c7c3e08442c8be52"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1347",
+   "short": "R.C. Chapter 1347",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1347: Personal Information Systems",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1347",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251031043056/https://codes.ohio.gov/ohio-revised-code/chapter-1347",
+     "sha256": "4f32376ae2f0a81c333e7e2f5c222fa07245910c620aa835c1ac32ec8d75bbec"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1349",
+   "short": "R.C. Chapter 1349",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1349: Consumer Protection",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1349",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260520080319/https://codes.ohio.gov/ohio-revised-code/chapter-1349",
+     "sha256": "dbac4a233861b2ab0cfeeb8dc3601d98614b9f99fa6d7ce62163a88121053bb4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1351",
+   "short": "R.C. Chapter 1351",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1351: Lease-purchase Agreements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1351",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250630163604/https://codes.ohio.gov/ohio-revised-code/chapter-1351",
+     "sha256": "97ca39c27ea7282ac13fd15228688ff5a37d57f32bc5953584af7afe7ab56743"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1353",
+   "short": "R.C. Chapter 1353",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1353: Farm Machinery Or Construction Equipment Dealers And Suppliers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1353",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250630163608/https://codes.ohio.gov/ohio-revised-code/chapter-1353",
+     "sha256": "dc66d175fa3af9a8b05d9425675948dbe2f747e5d65eb5ae34a573f5ba33b609"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1354",
+   "short": "R.C. Chapter 1354",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1354: Businesses Maintaining Recognized Cybersecurity Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1354",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260510021244/https://codes.ohio.gov/ohio-revised-code/chapter-1354",
+     "sha256": "b0d1dd9f2111aaab7dfabc22a623dd18ba23b5e5e76efcacd3624a977619bd67"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1355",
+   "short": "R.C. Chapter 1355",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1355: Regulatory Sandbox Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1355",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250630163616/https://codes.ohio.gov/ohio-revised-code/chapter-1355",
+     "sha256": "fe85a4ded52c6100167a91f47e364f954f3dc2d1a1b3d31968f6d3699b58328f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1501",
+   "short": "R.C. Chapter 1501",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1501: Department Of Natural Resources - General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1501",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260417221454/https://codes.ohio.gov/ohio-revised-code/chapter-1501",
+     "sha256": "6c25e526db57e3db27492d3c408c88626a951f2b2b1c8c86fd8a54db6d218ac3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1503",
+   "short": "R.C. Chapter 1503",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1503: Division Of Forestry",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1503",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261001190045/https://codes.ohio.gov/ohio-revised-code/chapter-1503",
+     "sha256": "5a282bf2d1636b63da21c91983707e52cdb063a9dd622db79150c06e1483cf7f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1504",
+   "short": "R.C. Chapter 1504",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1504: Office Of Real Estate And Land Management",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1504",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260422201658/https://codes.ohio.gov/ohio-revised-code/chapter-1504",
+     "sha256": "b9cb09ed98695f73272c99a5fc9a54aafb329534b397054e0321351fcc27a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1505",
+   "short": "R.C. Chapter 1505",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1505: Division Of Geological Survey",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1505",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250630163637/https://codes.ohio.gov/ohio-revised-code/chapter-1505",
+     "sha256": "738e00291d6332fa1562686d3500a62dd406f51f7b326d197bcedb560b0ef35b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1506",
+   "short": "R.C. Chapter 1506",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1506: Coastal Management",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1506",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260709040954/https://codes.ohio.gov/ohio-revised-code/chapter-1506",
+     "sha256": "ebc681c66e1de7d62d59f7bf0f9bb72b873e65c9cda955bd6084d860f47a89a8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1507",
+   "short": "R.C. Chapter 1507",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1507: Division Of Engineering",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1507",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260208205425/https://codes.ohio.gov/ohio-revised-code/chapter-1507",
+     "sha256": "d832225acf138c8e8e3927e330d21ff5acebbc3ecc31b6352cb4b131055875c1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1509",
+   "short": "R.C. Chapter 1509",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1509: Division Of Oil And Gas Resources Management - Oil And Gas",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1509",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20260812062606/https://codes.ohio.gov/ohio-revised-code/chapter-1509",
+     "sha256": "75f917d71df362d607a910b9bd11b36b565f74f8b72546e6848b791cad5a88cf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1510",
+   "short": "R.C. Chapter 1510",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1510: Oil And Natural Gas Marketing Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1510",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250809142105/https://codes.ohio.gov/ohio-revised-code/chapter-1510",
+     "sha256": "87a465d8629f715223bd5d826d8abfe4e3ebe1dbd855ba28707dd938960c8a65"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1511",
+   "short": "R.C. Chapter 1511",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1511: Division Of Soil And Water Resources",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1511",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260106081135/https://codes.ohio.gov/ohio-revised-code/chapter-1511",
+     "sha256": "21336ad4f2fea5725d45a687ee14041af5d80e2d94ed46a9270d25595efe68fe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1513",
+   "short": "R.C. Chapter 1513",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1513: Coal Surface Mining",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1513",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20250630163718/https://codes.ohio.gov/ohio-revised-code/chapter-1513",
+     "sha256": "5449b8e9575d4455fbe2464693ba682453215fe155d90b800e72f37ee581b838"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1514",
+   "short": "R.C. Chapter 1514",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1514: Other Surface Mining",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1514",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260607074930/https://codes.ohio.gov/ohio-revised-code/chapter-1514",
+     "sha256": "4a52433299d1b532f0835b7474afd198488ae52afc573d53461083d91db66d67"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1517",
+   "short": "R.C. Chapter 1517",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1517: Division Of Natural Areas And Preserves",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1517",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250630163734/https://codes.ohio.gov/ohio-revised-code/chapter-1517",
+     "sha256": "c085a8ebc3ea2fb7839bca9c3cfebf54f40821fa72bb7e9efb1fdf32350ef30d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1518",
+   "short": "R.C. Chapter 1518",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1518: Endangered Species",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1518",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261001194634/https://codes.ohio.gov/ohio-revised-code/chapter-1518",
+     "sha256": "fe3c5cc91cf3575d89b6a6bcf1231b7840cbd009ec8d41b22db90048abfc49da"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1519",
+   "short": "R.C. Chapter 1519",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1519: Recreational Trails",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1519",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260710074009/https://codes.ohio.gov/ohio-revised-code/chapter-1519",
+     "sha256": "e67e2fe5f22a62681d1e92388202e4f362dff1807e1b1088590322bef3a4c788"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1520",
+   "short": "R.C. Chapter 1520",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1520: Canal Lands",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1520",
+   "versions": [
+    {
+     "from": "2026-01-18",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260118181759/https://codes.ohio.gov/ohio-revised-code/chapter-1520",
+     "sha256": "70854c814e1194b8400511bfed9131d94cacab3dcee2334f45b615654266542a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1521",
+   "short": "R.C. Chapter 1521",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1521: Division Of Water Resources",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1521",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20250630163750/https://codes.ohio.gov/ohio-revised-code/chapter-1521",
+     "sha256": "e7f7278cc7fa79ab9e8e3f6446208a4c69e5bcb883c31fd88e366bfcba52a03a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1522",
+   "short": "R.C. Chapter 1522",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1522: Great Lakes-St. Lawrence River Basin Water Resources Compact",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1522",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260712115129/https://codes.ohio.gov/ohio-revised-code/chapter-1522",
+     "sha256": "1a22f8c56ec7a866bbc58ad0be3a403552ff6508637a1ed04c1bd4c683715f1e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1531",
+   "short": "R.C. Chapter 1531",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1531: Division Of Wildlife",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1531",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260419143208/https://codes.ohio.gov/ohio-revised-code/chapter-1531",
+     "sha256": "613fbc824cb850ff2494458668cbd4fa96a5835ef84126b9ef970bb6c0cf8347"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1533",
+   "short": "R.C. Chapter 1533",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1533: Hunting; Fishing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1533",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20260512115148/https://codes.ohio.gov/ohio-revised-code/chapter-1533",
+     "sha256": "5e0744badd2e4a8dd0a86b57524055ee4b67454a08bb0d9128b41c79fec2f0df"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1545",
+   "short": "R.C. Chapter 1545",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1545: Park Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1545",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20251015235935/https://codes.ohio.gov/ohio-revised-code/chapter-1545",
+     "sha256": "bf210cb1dc7b2ada5ea40bf0d3f126d10384ade3434ab68909d222b8ad78624a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1546",
+   "short": "R.C. Chapter 1546",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1546: Division Of Parks And Watercraft",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1546",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250630163824/https://codes.ohio.gov/ohio-revised-code/chapter-1546",
+     "sha256": "8f99db4384112ed3ecf48bd2b8f26d389092542f64323e37ba79e6c6ae6c85d5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1547",
+   "short": "R.C. Chapter 1547",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1547: Watercraft And Waterways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1547",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20250630163829/https://codes.ohio.gov/ohio-revised-code/chapter-1547",
+     "sha256": "def9beaa149f0269e3ef42505de29cb0e491baf166a9ed28ed50a99a73a93f22"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1548",
+   "short": "R.C. Chapter 1548",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1548: Watercraft Certificates Of Title",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1548",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260713193005/https://codes.ohio.gov/ohio-revised-code/chapter-1548",
+     "sha256": "03d0e9f67a3fdbe274697b4ac15e627ec6b9ac9beed6d76dfbab228987008308"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1551",
+   "short": "R.C. Chapter 1551",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1551: Energy",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1551",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260415094641/https://codes.ohio.gov/ohio-revised-code/chapter-1551",
+     "sha256": "93b0fd9622a53248e4d92f4c24051295470f0278674e2a1e5cd0de4a65735b13"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1555",
+   "short": "R.C. Chapter 1555",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1555: Coal Research And Development",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1555",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260606105259/https://codes.ohio.gov/ohio-revised-code/chapter-1555",
+     "sha256": "f0a963be63bb82ddbfd459378cfa9f6ccdd71e69ee6942c6fc3c3674c01d024f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1557",
+   "short": "R.C. Chapter 1557",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1557: Parks And Natural Resources Projects",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1557",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250630163849/https://codes.ohio.gov/ohio-revised-code/chapter-1557",
+     "sha256": "8066ffd0b5d44da1cf599042e27792c04fe6c07e000da9f2c90def421e8ca80a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1561",
+   "short": "R.C. Chapter 1561",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1561: Division Of Mineral Resources Management - Mines And Quarries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1561",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260426180019/https://codes.ohio.gov/ohio-revised-code/chapter-1561",
+     "sha256": "58f32f66f82a63bf46848db3b2f58bb2d09bb38837bb6d8888b01c29445fac0d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1563",
+   "short": "R.C. Chapter 1563",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1563: Mine Construction, Maintenance, Abandonment",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1563",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250630163905/https://codes.ohio.gov/ohio-revised-code/chapter-1563",
+     "sha256": "8790041b9c5fabc1d3a8a3c2ad4230acb71162d1333f4962a3dc238d758d921f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1565",
+   "short": "R.C. Chapter 1565",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1565: Mine Employees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1565",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250630163910/https://codes.ohio.gov/ohio-revised-code/chapter-1565",
+     "sha256": "13e5109ffec28f6c5eca76b77ced691d3cd5d5cd70ecac22393d750e295e4e7d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1567",
+   "short": "R.C. Chapter 1567",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1567: Mine Equipment; Safety Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1567",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20250630163912/https://codes.ohio.gov/ohio-revised-code/chapter-1567",
+     "sha256": "77675811175459ec6cdb06604048b57dccee5cb803bedd5b79f16517d4c048e3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1571",
+   "short": "R.C. Chapter 1571",
+   "title": "Ohio Revised Code, Title 15: Conservation of Natural Resources, Chapter 1571: Underground Storage Of Gas",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1571",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250630163922/https://codes.ohio.gov/ohio-revised-code/chapter-1571",
+     "sha256": "37f5426648d8130de97f62ad9f6f80d00b918569227c7b81367a68d1b97a5180"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1701",
+   "short": "R.C. Chapter 1701",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1701: General Corporation Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1701",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20250630163924/https://codes.ohio.gov/ohio-revised-code/chapter-1701",
+     "sha256": "5985fdfc56deb2e6b6c0664098edf290375856b87226518bd6996c49fd598a9e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1702",
+   "short": "R.C. Chapter 1702",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1702: Nonprofit Corporation Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1702",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20260808072450/https://codes.ohio.gov/ohio-revised-code/chapter-1702?ref=hoaweekly.com",
+     "sha256": "6deabd08072443e210327548ea0d67d984282e8bf6dfb06423d3de9e8d1824a6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1703",
+   "short": "R.C. Chapter 1703",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1703: Foreign Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1703",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260613021737/https://codes.ohio.gov/ohio-revised-code/chapter-1703",
+     "sha256": "b173db79ac3cd33dba2344ca29bb2728475b20876e2238927a19c58bf64263dc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1704",
+   "short": "R.C. Chapter 1704",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1704: Transactions Involving Interested Shareholders",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1704",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250630163942/https://codes.ohio.gov/ohio-revised-code/chapter-1704",
+     "sha256": "05fe576b7c1a801b24816d16348903068ecaa9dd8bd954b3ac325549ab3bb1f9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1705",
+   "short": "R.C. Chapter 1705",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1705: Limited Liability Companies [Repealed Effective 2/11/2022 - See R.C. 1706.83]",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1705",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260508080709/https://codes.ohio.gov/ohio-revised-code/chapter-1705",
+     "sha256": "e042f8299c6cb91c437e0a5d04bd1b31879704fb2dda508f3a42da7b10ac11c4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1706",
+   "short": "R.C. Chapter 1706",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1706: Ohio Revised Limited Liability Company Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1706",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 92,
+     "source_url": "https://web.archive.org/web/20261009175342/https://codes.ohio.gov/ohio-revised-code/chapter-1706",
+     "sha256": "759a10d9b43a4ab71587b7e25df6973b4c98fb932f44909126bc9b52824b406f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1707",
+   "short": "R.C. Chapter 1707",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1707: Securities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1707",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260607165051/https://codes.ohio.gov/ohio-revised-code/chapter-1707",
+     "sha256": "5fde8e27fb48096dd9201cd05c9f222d13d73ae581276824c2f52ca80d2f2f2b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1709",
+   "short": "R.C. Chapter 1709",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1709: Uniform Transfer-on-death Security Registration Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1709",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260317124959/https://codes.ohio.gov/ohio-revised-code/chapter-1709",
+     "sha256": "3228660b824fbbb34fe9cfe6e5a7f4b814c3197bf178699efe7b4d16ce3a3cc1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1710",
+   "short": "R.C. Chapter 1710",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1710: Special Improvement Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1710",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260611165228/https://codes.ohio.gov/ohio-revised-code/chapter-1710",
+     "sha256": "519ecd42f8573375913b4bc8766a2c6882d530bd5de202a9b0b95da70365cd9a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1711",
+   "short": "R.C. Chapter 1711",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1711: Agricultural Societies and Fairgrounds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1711",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260422231227/https://codes.ohio.gov/ohio-revised-code/chapter-1711",
+     "sha256": "d351178febb1a10d7cb4eace4dcbabc72ba41ead406841da0d4b5253c4ca3b26"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1713",
+   "short": "R.C. Chapter 1713",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1713: Educational Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1713",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260124111731/https://codes.ohio.gov/ohio-revised-code/chapter-1713",
+     "sha256": "e63c5d7c9710643bea9ca6b220efddadbb1600b90b02ab881ed0b51912bf2617"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1715",
+   "short": "R.C. Chapter 1715",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1715: Religious And Benevolent Organizations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1715",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260424173400/https://codes.ohio.gov/ohio-revised-code/chapter-1715",
+     "sha256": "fd55c8b12dea41f05a67d91b5d9ea2ab731f5c6a661fb1115085c5075402c03d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1716",
+   "short": "R.C. Chapter 1716",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1716: Charitable Organizations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1716",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260116091156/https://codes.ohio.gov/ohio-revised-code/chapter-1716",
+     "sha256": "24cfb34eab733e3968cded6d1a491e8eb6dc8abda9f29d4bb8e9573632236076"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1717",
+   "short": "R.C. Chapter 1717",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1717: Humane Societies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1717",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260715160510/https://codes.ohio.gov/ohio-revised-code/chapter-1717",
+     "sha256": "79ebbd14f15ee8fb87a079d705cd024cf024e315cb2f268e771f36e8f4d3ef91"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1719",
+   "short": "R.C. Chapter 1719",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1719: Charitable Trusts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1719",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261011070544/https://codes.ohio.gov/ohio-revised-code/chapter-1719",
+     "sha256": "8f41b581ace0768b80a026be9233d5d09256fe11028a1a3af747a2bf57c7cb02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1721",
+   "short": "R.C. Chapter 1721",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1721: Cemetery Associations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1721",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260707225051/https://codes.ohio.gov/ohio-revised-code/chapter-1721",
+     "sha256": "93eccb8c6e808e7ba0118f4dd9eb43538d6dcc16128de70a575c1bb24aeecf93"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1723",
+   "short": "R.C. Chapter 1723",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1723: Appropriation Of Property By Certain Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1723",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260808065828/https://codes.ohio.gov/ohio-revised-code/chapter-1723",
+     "sha256": "aa61a20c1db37d1ba73e4ee4306c8c9f18394f588c1b3cdee7a4e7b9ce6cbdc7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1724",
+   "short": "R.C. Chapter 1724",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1724: Community Improvement Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1724",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250702030513/https://codes.ohio.gov/ohio-revised-code/chapter-1724",
+     "sha256": "4434db954335bd42646ef45f8aa3e6a6d669286fff7dc8a1f824f012511407a6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1725",
+   "short": "R.C. Chapter 1725",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1725: Trade Associations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1725",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260808070655/https://codes.ohio.gov/ohio-revised-code/chapter-1725",
+     "sha256": "5226d8d5781ab86e0848c2ef9c22bb9d80162884fb3057c1f13b3a91226b2958"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1726",
+   "short": "R.C. Chapter 1726",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1726: Development Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1726",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260521161605/https://codes.ohio.gov/ohio-revised-code/chapter-1726",
+     "sha256": "0f61587775f956e26efa8749989bdfa3206f61d6b36254f665db7955dd375bab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1727",
+   "short": "R.C. Chapter 1727",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1727: Farm Laborers' Associations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1727",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250702030519/https://codes.ohio.gov/ohio-revised-code/chapter-1727",
+     "sha256": "2539bf768d6200d76093596235f4088f58b1c626e1ef9a2b52e5cc1645a1ca70"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1728",
+   "short": "R.C. Chapter 1728",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1728: Community Redevelopment Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1728",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260511113538/https://codes.ohio.gov/ohio-revised-code/chapter-1728",
+     "sha256": "df43e04861d059cd9b7aa269cb0a8fa00ee4bf7ac17d59a8e14d4e557a6f49a2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1729",
+   "short": "R.C. Chapter 1729",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1729: Ohio Cooperative Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1729",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260720023557/https://codes.ohio.gov/ohio-revised-code/chapter-1729",
+     "sha256": "2a8e51ba7ea2d174e4a5f430171a5a46e02b83a22c1ccfc6c357621b0cc84275"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1731",
+   "short": "R.C. Chapter 1731",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1731: Small Employer Health Care Alliances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1731",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260116062643/https://codes.ohio.gov/ohio-revised-code/chapter-1731",
+     "sha256": "77f363d41857d0be520628e38805f641da20b4c4fe0c5b211ac2920d61fea4bc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1733",
+   "short": "R.C. Chapter 1733",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1733: Credit Unions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1733",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260810203106/https://codes.ohio.gov/ohio-revised-code/chapter-1733",
+     "sha256": "cad994c0d453012ecb63e6be09ca5e08b30584f8753bec1955afff3257a4112d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1735",
+   "short": "R.C. Chapter 1735",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1735: Title Guarantee And Trust Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1735",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250702030536/https://codes.ohio.gov/ohio-revised-code/chapter-1735",
+     "sha256": "afa72177989afd601f319c608d9413410e55f1887041aa13252fed5c835c8b7b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1739",
+   "short": "R.C. Chapter 1739",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1739: Multiple Employer Welfare Arrangements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1739",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260808042909/https://codes.ohio.gov/ohio-revised-code/chapter-1739",
+     "sha256": "403baf8d187e31edc302d56545229b72750972f3baf1fe05ca13bcd22056764c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1743",
+   "short": "R.C. Chapter 1743",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1743: Miscellaneous Provisions And Types Of Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1743",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250702030542/https://codes.ohio.gov/ohio-revised-code/chapter-1743",
+     "sha256": "366349403e295c43fd0270ac1bb8f2248a45c626a3e062137ec5cde05df853c7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1745",
+   "short": "R.C. Chapter 1745",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1745: Uniform Unincorporated Nonprofit Association Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1745",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261009131833/https://codes.ohio.gov/ohio-revised-code/chapter-1745",
+     "sha256": "94d09a6df28686ab29f8e00cd0ab72b7d3ba6fc51a9f4e2b3b8e60a63a4388de"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1746",
+   "short": "R.C. Chapter 1746",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1746: Business Trusts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1746",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250702030554/https://codes.ohio.gov/ohio-revised-code/chapter-1746",
+     "sha256": "231d67efb425f599d1418d031871095ab6ea9982a7b144e3ff790dda7404fb86"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1747",
+   "short": "R.C. Chapter 1747",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1747: Real Estate Investment Trusts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1747",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260714164843/https://codes.ohio.gov/ohio-revised-code/chapter-1747",
+     "sha256": "dc20cfa91a06ba49f21c002be096f7569987f041d7e18d122d4f40b758cd5d4d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1751",
+   "short": "R.C. Chapter 1751",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1751: Health Insuring Corporation Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1751",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20251115064741/https://codes.ohio.gov/ohio-revised-code/chapter-1751",
+     "sha256": "5719bb6ef80d927ee2648f50523cc00926771c06d99a9f4f371584202130f805"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1753",
+   "short": "R.C. Chapter 1753",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1753: Physician-health Plan Partnership Act; Risk-based Capital For Insurers Model Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1753",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260807115656/https://codes.ohio.gov/ohio-revised-code/chapter-1753",
+     "sha256": "87efcf2de163c96969434378f8a38bbe8ad92b687a78403f67adab7761b671ee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1761",
+   "short": "R.C. Chapter 1761",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1761: Credit Union Guaranty Corporations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1761",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260821123830/https://codes.ohio.gov/ohio-revised-code/chapter-1761",
+     "sha256": "e5041fd5169a02cbe77946d632e145c85103663b5423ae735c49aa8ebed940d4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1775",
+   "short": "R.C. Chapter 1775",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1775: Uniform Partnership Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1775",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260219165341/https://codes.ohio.gov/ohio-revised-code/chapter-1775",
+     "sha256": "a9c441b6ed5519398f863fa8c1aab66afcf3d4a08bfa0544e955e9ec156a1d53"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1776",
+   "short": "R.C. Chapter 1776",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1776: Ohio Uniform Partnership Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1776",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20260608025649/https://codes.ohio.gov/ohio-revised-code/chapter-1776",
+     "sha256": "55eb46a2a9210a2234d6fcdd2c588b65a92289a3fe408dbbac23dd22be15cc81"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1777",
+   "short": "R.C. Chapter 1777",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1777: Partnerships - Frauds; Fictitious Names",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1777",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260808070624/https://codes.ohio.gov/ohio-revised-code/chapter-1777",
+     "sha256": "b7f79417972ad1123e502912b8b5d465b9e6fa26e717c97c6529f0c313474dc5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1779",
+   "short": "R.C. Chapter 1779",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1779: Surviving Partners; Joint Debtors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1779",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260808071734/https://codes.ohio.gov/ohio-revised-code/chapter-1779",
+     "sha256": "2926bfa3c7cd251f043cfd1e90757ccc0c4088bf00c78f2483115eac73b642ef"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1782",
+   "short": "R.C. Chapter 1782",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1782: Limited Partnerships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1782",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20250702030637/https://codes.ohio.gov/ohio-revised-code/chapter-1782",
+     "sha256": "5a6c1d5fe14db6b5a1e33eb86290455e1adb62dee149cd8a872ce0a088aeb107"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1783",
+   "short": "R.C. Chapter 1783",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1783: Limited Partnership Associations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1783",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260517092026/https://codes.ohio.gov/ohio-revised-code/chapter-1783",
+     "sha256": "bcaed89c191c357900428fcd61d6cdd4af3365364d160c5813d2be7f15b2ccd1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1785",
+   "short": "R.C. Chapter 1785",
+   "title": "Ohio Revised Code, Title 17: Corporations-Partnerships, Chapter 1785: Professional Associations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1785",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260518213541/https://codes.ohio.gov/ohio-revised-code/chapter-1785",
+     "sha256": "fc0d8f40c905b404ad6f27bf443685c3a1fbe95a3b9792454658bbc5dbdf175c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1901",
+   "short": "R.C. Chapter 1901",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1901: Municipal Court",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1901",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20261015215448/https://codes.ohio.gov/ohio-revised-code/chapter-1901",
+     "sha256": "098b9fddba3c369d6e7336205246e63a08d701f9a35adf2f22e006a57e04e80a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1905",
+   "short": "R.C. Chapter 1905",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1905: Mayor's Court",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1905",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261023082858/https://codes.ohio.gov/ohio-revised-code/chapter-1905",
+     "sha256": "6a1d791a226e9c30876477b1926e6b111be15d294a3c6bfe895f52d8fd09743f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1907",
+   "short": "R.C. Chapter 1907",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1907: County Court - General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1907",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20261009133552/https://codes.ohio.gov/ohio-revised-code/chapter-1907",
+     "sha256": "c4354e8738f85966ce32f94b2286dfa324e4fbbd79f7daa0a4262c6defe4d96f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1909",
+   "short": "R.C. Chapter 1909",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1909: County Court - Jurisdiction",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1909",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260711151127/https://codes.ohio.gov/ohio-revised-code/chapter-1909",
+     "sha256": "565d12450924eb4f94656a9c9c8428d1347f856427caef5e4427ccfe0d07ea1d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1923",
+   "short": "R.C. Chapter 1923",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1923: Forcible Entry And Detainer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1923",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261008232927/https://codes.ohio.gov/ohio-revised-code/chapter-1923",
+     "sha256": "5dc3c8a1e2cec672f01027e85d257cb8d12878918292c8171e522bd8c1577450"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1925",
+   "short": "R.C. Chapter 1925",
+   "title": "Ohio Revised Code, Title 19: Courts-Municipal-Mayor's-County, Chapter 1925: Small Claims Divisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1925",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260716193821/https://codes.ohio.gov/ohio-revised-code/chapter-1925",
+     "sha256": "e52dd6ba122a5b7c53fa42f47163eed1c47ce6d29524a13d15b28730a1e8acce"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2101",
+   "short": "R.C. Chapter 2101",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2101: Probate Court - Jurisdiction; Procedure",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2101",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261020150847/https://codes.ohio.gov/ohio-revised-code/chapter-2101",
+     "sha256": "44551bb8420fdc809b800aa7db0a3e8d7bcfc475f317a0cf3c4f656199649e02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2103",
+   "short": "R.C. Chapter 2103",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2103: Dower",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2103",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250702030716/https://codes.ohio.gov/ohio-revised-code/chapter-2103",
+     "sha256": "bdcd5f994ee706e6b3621ad9b693421e6fb854cdf3879eb4593d785e037b7203"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2105",
+   "short": "R.C. Chapter 2105",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2105: Descent And Distribution",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2105",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260610153219/https://codes.ohio.gov/ohio-revised-code/chapter-2105",
+     "sha256": "f5f52e2c0a51c9d9504d420270a1a4995fd10ecd2875442730b0eb7a32d96862"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2106",
+   "short": "R.C. Chapter 2106",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2106: Rights Of Surviving Spouses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2106",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260515192001/https://codes.ohio.gov/ohio-revised-code/chapter-2106",
+     "sha256": "f11f26dffed8ef49f08849d40e514f208cf4b1e1e676d118b5ba1bd3a500ba26"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2107",
+   "short": "R.C. Chapter 2107",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2107: Wills",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2107",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20261009093719/https://codes.ohio.gov/ohio-revised-code/chapter-2107",
+     "sha256": "9a890b7ee8fead15d60c2ac36ea5d89e1231870c90d753ee7e09b6db3fc89fa6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2108",
+   "short": "R.C. Chapter 2108",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2108: Human Bodies Or Parts Thereof",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2108",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 80,
+     "source_url": "https://web.archive.org/web/20260717113949/https://codes.ohio.gov/ohio-revised-code/chapter-2108",
+     "sha256": "1972829f712d741fa535ca4c06a3f1a28c4066d13b1c1b64d5895f91aaf35ad5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2109",
+   "short": "R.C. Chapter 2109",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2109: Fiduciaries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2109",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20251116034058/https://codes.ohio.gov/ohio-revised-code/chapter-2109",
+     "sha256": "92a44aa519e2c8a96ce624ae0884401c5281e98fd46dea044daac2f957d9906e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2111",
+   "short": "R.C. Chapter 2111",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2111: Guardians; Conservatorships",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2111",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20261009071813/https://codes.ohio.gov/ohio-revised-code/chapter-2111",
+     "sha256": "371d99f961bc3823af8a3e6ed3e79ae096d722c6870ab866195382ee6a606a22"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2112",
+   "short": "R.C. Chapter 2112",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2112: Adult Guardianship And Protective Proceedings Jurisdiction Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2112",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260413102308/https://codes.ohio.gov/ohio-revised-code/chapter-2112",
+     "sha256": "0ee844aa12bcb12f0a30e4b9395f7098747746e5d6f0159bd86640c6287776d1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2113",
+   "short": "R.C. Chapter 2113",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2113: Executors And Administrators - Appointment; Powers; Duties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2113",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20261008220256/https://codes.ohio.gov/ohio-revised-code/chapter-2113",
+     "sha256": "a6150ddc1f2d4e8e9fbcfc4334438cab351af1fac16ee11707ebe87debe190a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2115",
+   "short": "R.C. Chapter 2115",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2115: Executors And Administrators - Inventory",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2115",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260614230228/https://codes.ohio.gov/ohio-revised-code/chapter-2115",
+     "sha256": "e93ad2d73322ba6877d6436e45d784671a7a189670f7b8d4fadb3a2fd6b9799e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2117",
+   "short": "R.C. Chapter 2117",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2117: Presentment Of Claims Against Estate",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2117",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20261011005901/https://codes.ohio.gov/ohio-revised-code/chapter-2117",
+     "sha256": "fdcd00f2ac05fd2fbd956558501cf1c2cbc27ff9c0a5732520206caafec951f0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2119",
+   "short": "R.C. Chapter 2119",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2119: Trustee For Absentee",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2119",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260808044127/https://codes.ohio.gov/ohio-revised-code/chapter-2119",
+     "sha256": "5a76398921c7116838d4f2cd881c190ebf1262ce3d345bcd4fb3f75d9c8c4d7b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-2121",
+   "short": "R.C. Chapter 2121",
+   "title": "Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2121: Presumed Decedents' Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-2121",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20251210085652/https://codes.ohio.gov/ohio-revised-code/chapter-2121",
+     "sha256": "3cfa4ef8b085653ee457947ff7e372978ce1326d35826062e5f14d75dc595860"
+    }
+   ]
   }
  ]
 }
