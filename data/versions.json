@@ -7616,6 +7616,3142 @@
      "sha256": "3695e2f54d776947061a34a09115c1d1af1db594ee64a72b7623cc8f6ee34941"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-3599",
+   "short": "R.C. Chapter 3599",
+   "title": "Ohio Revised Code, Title 35: Elections, Chapter 3599: Offenses And Penalties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3599",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260614034711/https://codes.ohio.gov/ohio-revised-code/chapter-3599",
+     "sha256": "c2c4f210d5650513fe5c64ef941e5faa78e19430a2a31d205d46b821d6fd3fb4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3701",
+   "short": "R.C. Chapter 3701",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3701: Department of Health",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3701",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20260916042830/https://codes.ohio.gov/ohio-revised-code/chapter-3701",
+     "sha256": "52c4a06605e4b37d2c8d6738612a30ee7b395f1543adf509e72d94b6e5a14c2b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3702",
+   "short": "R.C. Chapter 3702",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3702: Health Care Facilities and Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3702",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20260916042916/https://codes.ohio.gov/ohio-revised-code/chapter-3702",
+     "sha256": "7d70b9b191e107dbe30544c4e381af46982269bf2d3f4a20f5f1847706faa0f7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3703",
+   "short": "R.C. Chapter 3703",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3703: Plumbing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3703",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250715074202/https://codes.ohio.gov/ohio-revised-code/chapter-3703",
+     "sha256": "45793b68cadf0a847fab94bbf1f7dba44a8d563d897e2a323ea23493d996d124"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3704",
+   "short": "R.C. Chapter 3704",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3704: Air Pollution Control",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3704",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260716044515/https://codes.ohio.gov/ohio-revised-code/chapter-3704",
+     "sha256": "2f1e4f8d273a9e713456c39cf1236e53c54cd38715e246ef0fa40fe45d01d723"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3705",
+   "short": "R.C. Chapter 3705",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3705: Vital Statistics",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3705",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260715131928/https://codes.ohio.gov/ohio-revised-code/chapter-3705",
+     "sha256": "ff7c6faff0a78763cb1cb3a79e93272aa791a04b2ffc587bce96df5bfb397d84"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3706",
+   "short": "R.C. Chapter 3706",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3706: Air Quality Development Authority",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3706",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260209054037/https://codes.ohio.gov/ohio-revised-code/chapter-3706",
+     "sha256": "f3b846f0f68833084f831c2748cfe40a7e9f7d6ce1c4fc575f4e0dd8538f0ab8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3707",
+   "short": "R.C. Chapter 3707",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3707: Board of Health",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3707",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260713120545/https://codes.ohio.gov/ohio-revised-code/chapter-3707",
+     "sha256": "21d4eb908d3938331686516c221b6b71ac1943ace5b19c0b2516f7199345ac29"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3709",
+   "short": "R.C. Chapter 3709",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3709: Health Districts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3709",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260508081420/https://codes.ohio.gov/ohio-revised-code/chapter-3709",
+     "sha256": "44eeffb29e9381ea10f1c0f4c7a74143e168a2a1f823c49700034f9f049ed2c8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3710",
+   "short": "R.C. Chapter 3710",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3710: Asbestos Abatement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3710",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260213065154/https://codes.ohio.gov/ohio-revised-code/chapter-3710?utm_source=chatgpt.com",
+     "sha256": "fc2961d48c162ca24b696874fd76c027949f5351348eb689e52d18260e90a7eb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3711",
+   "short": "R.C. Chapter 3711",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3711: Maternity and Newborn Care Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3711",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250703052507/https://codes.ohio.gov/ohio-revised-code/chapter-3711",
+     "sha256": "db185d67a2823465327c5388e2ba6c8383fc3b7d7ddcd6eddf8628c8a8c71930"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3712",
+   "short": "R.C. Chapter 3712",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3712: Hospice Care",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3712",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261009230048/https://codes.ohio.gov/ohio-revised-code/chapter-3712",
+     "sha256": "001831b04f1fc3cfc176b0a90f2a98b21a4e126a928bc8a5d0b5d7ed3b6024c5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3713",
+   "short": "R.C. Chapter 3713",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3713: Bedding and Stuffed Toys",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3713",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260418175929/https://codes.ohio.gov/ohio-revised-code/chapter-3713",
+     "sha256": "91a9121a6ee9e54ca841be45171adf9fa60ccb1db603ccaefc9f42586dae01ac"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3714",
+   "short": "R.C. Chapter 3714",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3714: Construction and Demolition Debris",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3714",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20251212130513/https://codes.ohio.gov/ohio-revised-code/chapter-3714",
+     "sha256": "b6cde525abeb0730d35c0fe862408c3948000e44bf04b6b19744e34d969544e8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3715",
+   "short": "R.C. Chapter 3715",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3715: Pure Food and Drug Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3715",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20261007095754/https://codes.ohio.gov/ohio-revised-code/chapter-3715",
+     "sha256": "22d2ae080457082fd10b44c0590823ff6b97cc1d2087bcf0f8c0f48e9b2770b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3716",
+   "short": "R.C. Chapter 3716",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3716: Labeling of Hazardous Substances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3716",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261007103005/https://codes.ohio.gov/ohio-revised-code/chapter-3716",
+     "sha256": "f5a82ef561f0bd75e61d84db0c35cf109f9d9b316bfd694eb0db5439c8de7868"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3717",
+   "short": "R.C. Chapter 3717",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3717: Retail Food Establishments; Food Service Operations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3717",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260717110845/https://codes.ohio.gov/ohio-revised-code/chapter-3717",
+     "sha256": "f6bb656b9bf9425048ef471b200dbb0e2994b5d735c195349c0f6032668223f2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3718",
+   "short": "R.C. Chapter 3718",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3718: Sewage Treatment Systems",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3718",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260606112608/https://codes.ohio.gov/ohio-revised-code/chapter-3718",
+     "sha256": "b3e2ff1125fb04353f6bd95f3e32a2bea06ea157feaad555d5fa8c0d985a919a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3719",
+   "short": "R.C. Chapter 3719",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3719: Controlled Substances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3719",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260517175952/https://codes.ohio.gov/ohio-revised-code/chapter-3719",
+     "sha256": "aeb3ba83bf628af1df1fa8b889af9aaa177fa9459df3941c49138e0e41f53710"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3721",
+   "short": "R.C. Chapter 3721",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3721: Nursing Homes; Residential Care Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3721",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20260417223202/https://codes.ohio.gov/ohio-revised-code/chapter-3721",
+     "sha256": "7cbce9c05bd3399f7075adf77796736c16b0f2ac9ab5e0b0e8ea2cecf6a12c49"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3722",
+   "short": "R.C. Chapter 3722",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3722: Hospitals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3722",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250703052550/https://codes.ohio.gov/ohio-revised-code/chapter-3722",
+     "sha256": "5f34a8028d987742807ab955f282391a92178630c031ba20508745880f6a954c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3723",
+   "short": "R.C. Chapter 3723",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3723: Radon",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3723",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250703052553/https://codes.ohio.gov/ohio-revised-code/chapter-3723",
+     "sha256": "e766ebcdcc53ad36a8b565fd3a46fc3fd92c4f08a47172aa12ec5ddf36ccf04f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3725",
+   "short": "R.C. Chapter 3725",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3725: Plasmapheresis Centers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3725",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251213004848/https://codes.ohio.gov/ohio-revised-code/chapter-3725",
+     "sha256": "4a4298ef54372fd5d5ccc50cbeba320038de6d1d8dde6ade2debfe33c6c7ae0b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3726",
+   "short": "R.C. Chapter 3726",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3726: Disposition of Fetal Remains from Surgical Abortion",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3726",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250703052559/https://codes.ohio.gov/ohio-revised-code/chapter-3726",
+     "sha256": "be1a60ecef8380164bb95c4f91416f7dd89a4436d4fc170f32747b7d0f8d788c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3727",
+   "short": "R.C. Chapter 3727",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3727: Hospitals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3727",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20260607081203/https://codes.ohio.gov/ohio-revised-code/chapter-3727",
+     "sha256": "a8009100a674afa91759b12bffc8dd56b3a7a70afda0f2b3829a05636430ac6e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3728",
+   "short": "R.C. Chapter 3728",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3728: Epinephrine Autoinjectors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3728",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260613144450/https://codes.ohio.gov/ohio-revised-code/chapter-3728",
+     "sha256": "5b42458b6549adf970a9c51d2e46b44e62c91cdd67ba90d36ebff270b3ebe724"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3729",
+   "short": "R.C. Chapter 3729",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3729: Recreational Vehicle Parks, Recreation Camps, Combined and Temporary Park-camps",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3729",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260518213634/https://codes.ohio.gov/ohio-revised-code/chapter-3729",
+     "sha256": "7e94c255d0ebb02840b4fc1b1711d436bcf49b6c1d81ef3623393ecd94c87330"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3730",
+   "short": "R.C. Chapter 3730",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3730: Tattooing or Body Piercing Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3730",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260716082354/https://codes.ohio.gov/ohio-revised-code/chapter-3730",
+     "sha256": "e13beafeb8742074ff2a569480b404aa8c68d329ac10d60f64e884004eec107d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3731",
+   "short": "R.C. Chapter 3731",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3731: Hotels",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3731",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260608172842/https://codes.ohio.gov/ohio-revised-code/chapter-3731",
+     "sha256": "29e02b678911a9db019efe8c4e8c24dd04c053419c65fca809cc03dc9381e8cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3733",
+   "short": "R.C. Chapter 3733",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3733: Agricultural Labor Camps",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3733",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250703052619/https://codes.ohio.gov/ohio-revised-code/chapter-3733",
+     "sha256": "73224f5b3ff8d342ee584cd18f1c2876a5ddcf5c70e2142ba6eb56f61a0a9b7c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3734",
+   "short": "R.C. Chapter 3734",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3734: Solid and Hazardous Wastes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3734",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 131,
+     "source_url": "https://web.archive.org/web/20260515205331/https://codes.ohio.gov/ohio-revised-code/chapter-3734",
+     "sha256": "79fb06e3b49102e95f81cb3aaef67f0e48c1daa64f3f7499371a7b3e349a7579"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3735",
+   "short": "R.C. Chapter 3735",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3735: Metropolitan Housing Authority",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3735",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250703052629/https://codes.ohio.gov/ohio-revised-code/chapter-3735",
+     "sha256": "398bb414e8b540f807eace3c4ab7db754e56ec5aefddf9d1de9ab9e16138bb90"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3736",
+   "short": "R.C. Chapter 3736",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3736: Recycling, Waste Reduction, Litter Prevention",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3736",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261007104014/https://codes.ohio.gov/ohio-revised-code/chapter-3736",
+     "sha256": "09915f6362f4d56ee7f9b6309ff26bbb4a27bde080202d5d77746104b96d945c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3737",
+   "short": "R.C. Chapter 3737",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3737: Fire Marshal; Fire Safety",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3737",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20260823132540/https://codes.ohio.gov/ohio-revised-code/chapter-3737",
+     "sha256": "2c072862087659c33e0f8401142c341d570e9c6c17f69062809f8283ca5226d9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3739",
+   "short": "R.C. Chapter 3739",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3739: Reduced Ignition Propensity Standards for Cigarettes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3739",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250703052643/https://codes.ohio.gov/ohio-revised-code/chapter-3739",
+     "sha256": "ac398dedc05ebd05a788fb9e439bfde73a883efd87907befa9d32b0547c28e4e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3740",
+   "short": "R.C. Chapter 3740",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3740: Home Health Service Providers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3740",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260808044601/https://codes.ohio.gov/ohio-revised-code/chapter-3740",
+     "sha256": "3666e81872d4b548269244a3d45d3819072214b17962d3b3824cbd556651eadd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3741",
+   "short": "R.C. Chapter 3741",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3741: Gasoline; Oils; Paints",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3741",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250703052649/https://codes.ohio.gov/ohio-revised-code/chapter-3741",
+     "sha256": "32fbe5e7ab8875ef2e64d44a7680312e2be8b8326abf19a9847da0afaac52032"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3742",
+   "short": "R.C. Chapter 3742",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3742: Lead Abatement",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3742",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20250703052653/https://codes.ohio.gov/ohio-revised-code/chapter-3742",
+     "sha256": "bdc29d8f14e19249d1d31e4fa952dd0de0266955721416e45b11dd254ed4a26c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3743",
+   "short": "R.C. Chapter 3743",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3743: Fireworks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3743",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260713125603/https://codes.ohio.gov/ohio-revised-code/chapter-3743",
+     "sha256": "3d482cb5605f4826e9d03976e07871da3f8c63f9710dc726261eb6e91bbdf76f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3745",
+   "short": "R.C. Chapter 3745",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3745: Environmental Protection Agency",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3745",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20250703052701/https://codes.ohio.gov/ohio-revised-code/chapter-3745",
+     "sha256": "f72176f5700b28cec0e758399cc07dcf15c00e6053b46142cb34edad672806aa"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3746",
+   "short": "R.C. Chapter 3746",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3746: Voluntary Action Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3746",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260613151816/https://codes.ohio.gov/ohio-revised-code/chapter-3746",
+     "sha256": "f4ccc39585bd5b13c877ddb0db2c7c7ad104a0f14c9d94260b120a6f8b988575"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3747",
+   "short": "R.C. Chapter 3747",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3747: Low-level Radioactive Waste Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3747",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260518192704/https://codes.ohio.gov/ohio-revised-code/chapter-3747",
+     "sha256": "1b2d49fa0ab0d0763e5ea53a88f2fef204fd665c42a3a288d524f6bf51622dbd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3748",
+   "short": "R.C. Chapter 3748",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3748: Radiation Control Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3748",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260711204044/https://codes.ohio.gov/ohio-revised-code/chapter-3748",
+     "sha256": "d57f30d6c01bb8ade2049fdcb9ee57c60e5fc05cde02a4aca6cd8e79a94410f9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3749",
+   "short": "R.C. Chapter 3749",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3749: Swimming Pools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3749",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260716111551/https://codes.ohio.gov/ohio-revised-code/chapter-3749",
+     "sha256": "9aa3f81cbfe81bc417b4519bdb7b584dbdec96ab48e909ec6ecddea50d62d392"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3750",
+   "short": "R.C. Chapter 3750",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3750: Emergency Planning",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3750",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250703052719/https://codes.ohio.gov/ohio-revised-code/chapter-3750",
+     "sha256": "f786fdeba2c73ec4ea5369c99f1a76efb7c6bcd26cc953cc68fdd596147a7524"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3751",
+   "short": "R.C. Chapter 3751",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3751: Hazardous Substances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3751",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260713130439/https://codes.ohio.gov/ohio-revised-code/chapter-3751",
+     "sha256": "b568ac4a667a56f1507aaf34ec1d24918ca64bbf7f91aee35f86fb2e71fe76ca"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3752",
+   "short": "R.C. Chapter 3752",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3752: Cessation of Regulated Operations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3752",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250703052731/https://codes.ohio.gov/ohio-revised-code/chapter-3752",
+     "sha256": "56411a17d71154f57e309729ce6604c44d1de8dd2fa0ee458869d9e784f87709"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3753",
+   "short": "R.C. Chapter 3753",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3753: Risk Management Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3753",
+   "versions": [
+    {
+     "from": "2025-08-10",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250810041916/https://codes.ohio.gov/ohio-revised-code/chapter-3753",
+     "sha256": "23db1e0f80b548129bb448a05d1bde888a6832a63e23dbd0a9ff23ccd52497dc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3761",
+   "short": "R.C. Chapter 3761",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3761: Assemblies; Mobs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3761",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260418175230/https://codes.ohio.gov/ohio-revised-code/chapter-3761",
+     "sha256": "67bdc13b38abb0449045e48c237ad209417c3934228736febd45d9dce073336d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3763",
+   "short": "R.C. Chapter 3763",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3763: Gaming",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3763",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250703052741/https://codes.ohio.gov/ohio-revised-code/chapter-3763",
+     "sha256": "898af7ad52655c74dadf3c73dd302d1ed38c81753f6ebf8f16fb87b2ee29b3a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3767",
+   "short": "R.C. Chapter 3767",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3767: Nuisances",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3767",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20250703052744/https://codes.ohio.gov/ohio-revised-code/chapter-3767",
+     "sha256": "479c142f394aedd97c2e1d3411c527758d5f08aad552b5d83302a67db6ba6212"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3769",
+   "short": "R.C. Chapter 3769",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3769: Horse Racing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3769",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260312194034/https://codes.ohio.gov/ohio-revised-code/chapter-3769",
+     "sha256": "da6f4e21333360d88b1ea19f48fa7023fb4f9f078c92bc791e2221b4ce99cc52"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3770",
+   "short": "R.C. Chapter 3770",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3770: State Lottery",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3770",
+   "versions": [
+    {
+     "from": "2025-08-30",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250830210934/https://codes.ohio.gov/ohio-revised-code/chapter-3770",
+     "sha256": "4d0047d3171daf1e4b97b5c49a1ac5da5006171a66f6d1ddada209846a60ab0c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3772",
+   "short": "R.C. Chapter 3772",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3772: Casino Gaming",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3772",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260521161353/https://codes.ohio.gov/ohio-revised-code/chapter-3772",
+     "sha256": "446e7fc23589bbb09b4d51f195812111d209c1a10c91dbd7ae533fbd768d26bd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3773",
+   "short": "R.C. Chapter 3773",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3773: Ohio Athletic Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3773",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250703052801/https://codes.ohio.gov/ohio-revised-code/chapter-3773",
+     "sha256": "adb5cc3c335752c21325d78138ef964317d4908c45717b98ca6162a9ede93790"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3774",
+   "short": "R.C. Chapter 3774",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3774: Regulation of Fantasy Contests",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3774",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250703052804/https://codes.ohio.gov/ohio-revised-code/chapter-3774",
+     "sha256": "d48774fb3329f18a8e175f572df0d957c5f86acfcdf7404661ebc22e7ce7e99b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3775",
+   "short": "R.C. Chapter 3775",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3775: Sports Gaming",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3775",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260715132041/https://codes.ohio.gov/ohio-revised-code/chapter-3775",
+     "sha256": "f2195ecf98fd99506a413d597dd4a0ba6061dd632eb754853c155bff7de5d2cc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3776",
+   "short": "R.C. Chapter 3776",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3776: Environmental Health Specialists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3776",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260716142656/https://codes.ohio.gov/ohio-revised-code/chapter-3776",
+     "sha256": "9432fba495d300c7b78a1b738af6e4d7d7d721f6897b6065507ae9d15ff8ea8f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3781",
+   "short": "R.C. Chapter 3781",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3781: Building Standards - General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3781",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260515224135/https://codes.ohio.gov/ohio-revised-code/chapter-3781",
+     "sha256": "9fb08bd8c1f526303f36230a4527516fb32e921aa10eb75ddd9587a65db2696f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3783",
+   "short": "R.C. Chapter 3783",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3783: Building Standards - Electrical Safety Standards",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3783",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250703052816/https://codes.ohio.gov/ohio-revised-code/chapter-3783",
+     "sha256": "f31505b02540bc5a9c736aa6b6fc4fda039fe6078bdb6206591467b1ef2287da"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3791",
+   "short": "R.C. Chapter 3791",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3791: Building Standards - Offenses And Penalties",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3791",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250703052819/https://codes.ohio.gov/ohio-revised-code/chapter-3791",
+     "sha256": "45e98e5b4f2d2587a9eb5cf8f6ac39f1d2423f55b62015215c8d17360e6317a2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3792",
+   "short": "R.C. Chapter 3792",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3792: Patient Rights and Consent",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3792",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250916113213/https://codes.ohio.gov/ohio-revised-code/chapter-3792",
+     "sha256": "3b8883d2ec3a4e9237b7c86fd1b486b3ee06d3b11e9edaf15b48c05a6874d712"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3794",
+   "short": "R.C. Chapter 3794",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3794: Smoking Ban",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3794",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261011212315/https://codes.ohio.gov/ohio-revised-code/chapter-3794",
+     "sha256": "e4655b311184c4744a216a5a4b935cfab1388181ef32827c02914574ada7caa7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3795",
+   "short": "R.C. Chapter 3795",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3795: Assisted Suicide",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3795",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260415222435/https://codes.ohio.gov/ohio-revised-code/chapter-3795",
+     "sha256": "89546b7c40f0f160cc4bd97d27c1f662e7471190efe48d5b6ab2545218324f73"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3796",
+   "short": "R.C. Chapter 3796",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3796: Medical Marijuana Control Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3796",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20251020095351/https://codes.ohio.gov/ohio-revised-code/chapter-3796",
+     "sha256": "7094789b9cd6a49ea09d60f15d3c2296548913fc4847b94640ff44d3c07dd39b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3797",
+   "short": "R.C. Chapter 3797",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3797: Childhood Sexual Abuse Registration and Community Notification",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3797",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260613124216/https://codes.ohio.gov/ohio-revised-code/chapter-3797",
+     "sha256": "1100f8394633c8c3a905d60f862dc3a3c19cad4fad8a2a8ee2f4ebc603e5be94"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3798",
+   "short": "R.C. Chapter 3798",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3798: Protected Health Information",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3798",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260715110545/https://codes.ohio.gov/ohio-revised-code/chapter-3798",
+     "sha256": "6ef686bea60a3594bab3cab94cecb9721de185b920a3a748f9346018058ef400"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3799",
+   "short": "R.C. Chapter 3799",
+   "title": "Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3799: Solemn Covenant of the States",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3799",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250703052840/https://codes.ohio.gov/ohio-revised-code/chapter-3799",
+     "sha256": "392a9348ddee731ae01ad8fafe3b3c18615247cea85dbe85dc096d9a8bd9163d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3901",
+   "short": "R.C. Chapter 3901",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3901: Superintendent Of Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3901",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20250703052843/https://codes.ohio.gov/ohio-revised-code/chapter-3901",
+     "sha256": "b9c027fd10f8e6148c56539eeb81a5b79d2642d53ab8f60db5fa72221218dfd7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3902",
+   "short": "R.C. Chapter 3902",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3902: Insurance Policies And Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3902",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20251201055311/https://codes.ohio.gov/ohio-revised-code/chapter-3902",
+     "sha256": "4f0205f81dd7d0fc01f00cf61384d24f201b35c2372c9552834c96a7eacf1437"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3903",
+   "short": "R.C. Chapter 3903",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3903: Reserve Valuation; Rehabilitation And Liquidation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3903",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 92,
+     "source_url": "https://web.archive.org/web/20260510021430/https://codes.ohio.gov/ohio-revised-code/chapter-3903",
+     "sha256": "cd764cba92db1e0aa5d5bbb5239734e42ad807bfc7e8bb9213188aaa3a7c8747"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3904",
+   "short": "R.C. Chapter 3904",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3904: Insurance Information Practices",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3904",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250917060708/https://codes.ohio.gov/ohio-revised-code/chapter-3904",
+     "sha256": "004ce5b6f6b29e39fa866896df49835c03c1db85ccaab9ccfa344ee3e9a10efb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3905",
+   "short": "R.C. Chapter 3905",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3905: Insurance Producers Licensing Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3905",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 123,
+     "source_url": "https://web.archive.org/web/20250703052907/https://codes.ohio.gov/ohio-revised-code/chapter-3905",
+     "sha256": "34f5d2b84b443c398ac2886a3dc82b9b0c13522071373729887830e90eb62256"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3906",
+   "short": "R.C. Chapter 3906",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3906: Alternate Investment Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3906",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250703052915/https://codes.ohio.gov/ohio-revised-code/chapter-3906",
+     "sha256": "9e1afd44fc071e77db36e5287c5ef86738b111922a1945c61499099aca23d2cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3907",
+   "short": "R.C. Chapter 3907",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3907: Domestic Legal Reserve Life Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3907",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260514044239/https://codes.ohio.gov/ohio-revised-code/chapter-3907",
+     "sha256": "5356d58a21c941d2ae36ca1c6e05702c28c0e5c957658b35933656e30c4d1928"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3909",
+   "short": "R.C. Chapter 3909",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3909: Foreign Life Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3909",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250703052920/https://codes.ohio.gov/ohio-revised-code/chapter-3909",
+     "sha256": "f26b13819729dffbdda79f94ecf66f94038121e85958c95eb356fcfb76835cb4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3911",
+   "short": "R.C. Chapter 3911",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3911: Domestic And Foreign Life Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3911",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260711143906/https://codes.ohio.gov/ohio-revised-code/chapter-3911",
+     "sha256": "3a5f43056be51e24da3533109979dc34fb9bad40a1386d87ba0d5722ec3089f3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3913",
+   "short": "R.C. Chapter 3913",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3913: Changes In Corporate Organization Or Status",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3913",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260515232129/https://codes.ohio.gov/ohio-revised-code/chapter-3913",
+     "sha256": "119ac5cbfccb9e362fe51b9020d6d1607f57de79b1d34e1fa2e3eacaad50c8f8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3915",
+   "short": "R.C. Chapter 3915",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3915: Life Insurance Policy Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3915",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260716141851/https://codes.ohio.gov/ohio-revised-code/chapter-3915",
+     "sha256": "3252f9e4876c556985983e48a99c2b799c1467f33927216c787a6a5ff1e2c3f5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3916",
+   "short": "R.C. Chapter 3916",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3916: Viatical Settlements Model Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3916",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261009114816/https://codes.ohio.gov/ohio-revised-code/chapter-3916",
+     "sha256": "685dc065ca523a9b0e923cfd2f4b16ed7b5d6dd00291baa6ce959ce614c27327"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3917",
+   "short": "R.C. Chapter 3917",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3917: Group Life Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3917",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250703052939/https://codes.ohio.gov/ohio-revised-code/chapter-3917",
+     "sha256": "cb8fa11833f3128f9438e2344ab103ddfd3854b3ca7bc9329f4ccb01fc1bd5b6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3918",
+   "short": "R.C. Chapter 3918",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3918: Credit Life And Accident And Health Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3918",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250703052942/https://codes.ohio.gov/ohio-revised-code/chapter-3918",
+     "sha256": "19349afac2b79a1bdc0bb66c96e4fe5136cee7facf602eb7647f3ca55a1480b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3919",
+   "short": "R.C. Chapter 3919",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3919: Mutual Protective Insurance Upon Persons",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3919",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260304171629/https://codes.ohio.gov/ohio-revised-code/chapter-3919",
+     "sha256": "102f0600680ef2a5a63d66e8d4db42b51a31c129b6f516538872afe8f26fa1b5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3921",
+   "short": "R.C. Chapter 3921",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3921: Fraternal Benefit Societies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3921",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20250707145912/https://codes.ohio.gov/ohio-revised-code/chapter-3921",
+     "sha256": "6d99fcc35fbd9bacc1e626dece8b26c35e85a1379b6196398f018f61332640a1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3922",
+   "short": "R.C. Chapter 3922",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3922: External Review",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3922",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260315000232/https://codes.ohio.gov/ohio-revised-code/chapter-3922",
+     "sha256": "7df6c1e4134fae2f0efab9be2f9d878aca16f2881b87707d716791d135ff49b6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3923",
+   "short": "R.C. Chapter 3923",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3923: Sickness And Accident Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3923",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 109,
+     "source_url": "https://web.archive.org/web/20260607174009/https://codes.ohio.gov/ohio-revised-code/chapter-3923",
+     "sha256": "b983677a9cadb400c979bbbb554a00c9af469a4f8daf5dba5eadffac05da19a6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3924",
+   "short": "R.C. Chapter 3924",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3924: Small Employer Health Benefit Plans; Provision Of Health Care Coverage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3924",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260612172833/https://codes.ohio.gov/ohio-revised-code/chapter-3924",
+     "sha256": "4b50f52d5002277738824562656ca6cf649c19295814552e9ac6bf3f45db91be"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3925",
+   "short": "R.C. Chapter 3925",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3925: Domestic Insurance Companies Other Than Life",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3925",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260710113743/https://codes.ohio.gov/ohio-revised-code/chapter-3925",
+     "sha256": "bf737e4c1cb5b89a95e6f4e8d253c72c6c8b45e076e3e19c8bd0ac7aa855d3cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3927",
+   "short": "R.C. Chapter 3927",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3927: Foreign Insurance Companies Other Than Life",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3927",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260711152507/https://codes.ohio.gov/ohio-revised-code/chapter-3927",
+     "sha256": "205aa6b2373d9a799b3aa86270b91290b2ef274303310d6e53a2e4767b89c9b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3929",
+   "short": "R.C. Chapter 3929",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3929: Domestic And Foreign Insurance Companies Other Than Life",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3929",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20250703053014/https://codes.ohio.gov/ohio-revised-code/chapter-3929",
+     "sha256": "69f370e5b237c927d8bf65c7f56b35aea3ee93cb883bbb82b99068c7f5c05ef9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3930",
+   "short": "R.C. Chapter 3930",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3930: Commercial Market Assistance Plan; Commercial Insurance Joint Underwriting Association",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3930",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250703053020/https://codes.ohio.gov/ohio-revised-code/chapter-3930",
+     "sha256": "11e2fcb99146fb58fbc54b87f14da913252eb9c38124bfb5de78d67efb0f3cce"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3931",
+   "short": "R.C. Chapter 3931",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3931: Reciprocal Or Interinsurance Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3931",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250703053023/https://codes.ohio.gov/ohio-revised-code/chapter-3931",
+     "sha256": "4f8759b26eaa7f2d71237fc95e2d23939104db6b037653f874fe10e76c760803"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3933",
+   "short": "R.C. Chapter 3933",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3933: Rebates And Special Advantages",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3933",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260301045802/https://codes.ohio.gov/ohio-revised-code/chapter-3933",
+     "sha256": "1b2e9f41028defead2189824b81ce3e08376cfb67edc87864128319912841b36"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3935",
+   "short": "R.C. Chapter 3935",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3935: Rating Bureaus",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3935",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261031160558/https://codes.ohio.gov/ohio-revised-code/chapter-3935",
+     "sha256": "9537c4371ff841696825c7942344d00708580d62b55c84a5281247916e80d256"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3937",
+   "short": "R.C. Chapter 3937",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3937: Casualty Insurance; Motor Vehicle Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3937",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260512025732/https://codes.ohio.gov/ohio-revised-code/chapter-3937",
+     "sha256": "ed7d2fb973f8b496337c9f09a802777d5e0e1b6c1d1872e0b1765cbd8d9f0be9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3938",
+   "short": "R.C. Chapter 3938",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3938: Certificates Of Insurance Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3938",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250703053037/https://codes.ohio.gov/ohio-revised-code/chapter-3938",
+     "sha256": "49f2d09178e83991a83f07058112dfd70c19e7a18a0c9c78227542fe6f53d0ae"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3939",
+   "short": "R.C. Chapter 3939",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3939: Mutual Protective Insurance Upon Property",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3939",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260214031801/https://codes.ohio.gov/ohio-revised-code/chapter-3939",
+     "sha256": "8f18171222b08dd437f48a69f171f229109d59debf412b4d9013c293c746cfcd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3941",
+   "short": "R.C. Chapter 3941",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3941: Operation Of Mutual Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3941",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20250703053041/https://codes.ohio.gov/ohio-revised-code/chapter-3941",
+     "sha256": "dc10733f058d98b14ad12c2dc4bfe1ac7532bc96da4860a4e1e9bf21fdde0d83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3942",
+   "short": "R.C. Chapter 3942",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3942: Transportation Network Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3942",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260419013234/https://codes.ohio.gov/ohio-revised-code/chapter-3942",
+     "sha256": "7ae27f57d38ba958188a4f187a7647ac1086667bd640065f97a30a33d01cabad"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3951",
+   "short": "R.C. Chapter 3951",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3951: Public Insurance Adjusters",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3951",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260607043819/https://codes.ohio.gov/ohio-revised-code/chapter-3951",
+     "sha256": "19080b132c51f4ed1aa3e84fef64daec1647f25c1d40169610a7bec232003852"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3953",
+   "short": "R.C. Chapter 3953",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3953: Title Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3953",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260310185838/https://codes.ohio.gov/ohio-revised-code/chapter-3953",
+     "sha256": "eefa4ac8d72f7f0c0ee94a2b1e0f18a18049bce24bd081a5fcd2d72300df1131"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3955",
+   "short": "R.C. Chapter 3955",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3955: Ohio Insurance Guaranty Association",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3955",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260907083139/https://codes.ohio.gov/ohio-revised-code/chapter-3955",
+     "sha256": "63f6a938a081f618b40eab84226f6ccb331c4d0e91c360fcc96e14c8a713b003"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3956",
+   "short": "R.C. Chapter 3956",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3956: Life and Health Insurance Guaranty Association",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3956",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260518040933/https://codes.ohio.gov/ohio-revised-code/chapter-3956",
+     "sha256": "a1d86cd925676ddc84ce2bcc381d20a3c7037f64fb93e5fd0ac16b7d914f2070"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3959",
+   "short": "R.C. Chapter 3959",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3959: Third-party Administrators",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3959",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250703053104/https://codes.ohio.gov/ohio-revised-code/chapter-3959",
+     "sha256": "d065e6cfee614614cfbacd98907b3a96411dd8951f784ee70b52e86d06967fcc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3960",
+   "short": "R.C. Chapter 3960",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3960: Risk Retention",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3960",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260326125441/https://codes.ohio.gov/ohio-revised-code/chapter-3960",
+     "sha256": "94e921af5601735e6d994ddaf3f1a9ca40bb153a63fa984c594f750a6749bab2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3961",
+   "short": "R.C. Chapter 3961",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3961: Discount Medical Plans",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3961",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260930224820/https://codes.ohio.gov/ohio-revised-code/chapter-3961",
+     "sha256": "8f81cdb209f9ea88c6414b8d58c1e93be2b0418af7a9fb26a0a857dc8d418acd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3963",
+   "short": "R.C. Chapter 3963",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3963: Health Care Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3963",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20251226215127/https://codes.ohio.gov/ohio-revised-code/chapter-3963",
+     "sha256": "303193f6748172d396e536c6beafaaf4dd05c232251048e3f637346ea5cda5bb"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3964",
+   "short": "R.C. Chapter 3964",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3964: Captive Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3964",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260530045654/https://codes.ohio.gov/ohio-revised-code/chapter-3964",
+     "sha256": "8585166d6353df7885970a52e73e476b48ed5be52c7304253cc110044a9b87cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3965",
+   "short": "R.C. Chapter 3965",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3965: Cybersecurity Requirements For Insurance Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3965",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260608023007/https://codes.ohio.gov/ohio-revised-code/chapter-3965",
+     "sha256": "3f8760d5aa0db97a02ce9764b563d40239823055fecdff20b5854998ad98b117"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3970",
+   "short": "R.C. Chapter 3970",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3970: Pet insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3970",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250911234443/https://codes.ohio.gov/ohio-revised-code/chapter-3970",
+     "sha256": "a1745fb7e1721869c65dd638f637133db72fc0de315b626465225ad01335bcd3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3999",
+   "short": "R.C. Chapter 3999",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3999: Crimes Relating To Insurance",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3999",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250703053124/https://codes.ohio.gov/ohio-revised-code/chapter-3999",
+     "sha256": "0356cfc91c74ab625e89f78eddfd562ad057e2d0a544c5f80d1fbf5d2678bfaa"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4101",
+   "short": "R.C. Chapter 4101",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4101: Safety In The Workplace",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4101",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260515042159/https://codes.ohio.gov/ohio-revised-code/chapter-4101",
+     "sha256": "13b0f011006e29eb69beb3d3753b3243e03c02b359e20f8eb0fb9ca6aa4794ab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4104",
+   "short": "R.C. Chapter 4104",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4104: Boilers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4104",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251215200119/https://codes.ohio.gov/ohio-revised-code/chapter-4104",
+     "sha256": "f86ae5e27a5c79865d4def6d4f45ef024ce874b80ccd93c2b3a06e7ef5ac3b3f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4105",
+   "short": "R.C. Chapter 4105",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4105: Elevators",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4105",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260717111637/https://codes.ohio.gov/ohio-revised-code/chapter-4105",
+     "sha256": "b653600587d10d9adcd4c40b6c32fc5cd0c78c77fdf1a048ea81b85d1a473b26"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4109",
+   "short": "R.C. Chapter 4109",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4109: Employment Of Minors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4109",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260730060108/https://codes.ohio.gov/ohio-revised-code/chapter-4109",
+     "sha256": "befed9a066841401fe9274f9a3801b53d2c5516621e3f2876adf390859958c52"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4111",
+   "short": "R.C. Chapter 4111",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4111: Minimum Fair Wage Standards",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4111",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250703053137/https://codes.ohio.gov/ohio-revised-code/chapter-4111",
+     "sha256": "763e8a12ade07ae5f22e17810d1eadf97218cd29ec17517e7f84b6228a1a8f83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4112",
+   "short": "R.C. Chapter 4112",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4112: Civil Rights Commission",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4112",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260716193501/https://codes.ohio.gov/ohio-revised-code/chapter-4112",
+     "sha256": "63e8f9c4a3ee07bd4b1b593bfbcf0432452b1114038f07f56e7880e64347160d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4113",
+   "short": "R.C. Chapter 4113",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4113: Miscellaneous Labor Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4113",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261014195651/https://codes.ohio.gov/ohio-revised-code/chapter-4113",
+     "sha256": "3a0b20d90646cb334cc00a75a4d85a0762c0bef6636f6562c0161602845fb52f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4115",
+   "short": "R.C. Chapter 4115",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4115: Wages And Hours On Public Works",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4115",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260608022445/https://codes.ohio.gov/ohio-revised-code/chapter-4115",
+     "sha256": "e6c0156271126e1d8a957ac08f584f2d33ec1c4c5832ba70f6d9a17bdf71683d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4116",
+   "short": "R.C. Chapter 4116",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4116: Unlawful Labor Requirements In Public Improvement Contracts",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4116",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250703053150/https://codes.ohio.gov/ohio-revised-code/chapter-4116",
+     "sha256": "4f8efbc474920316796fbfd22729813adfbb04f33109fa83ec782ea8f29cfb8c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4117",
+   "short": "R.C. Chapter 4117",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4117: Public Employees' Collective Bargaining",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4117",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260410231518/https://codes.ohio.gov/ohio-revised-code/chapter-4117",
+     "sha256": "acd18bc81091e941e7e610b28e984c8c1b24535c4c3752421c3f2ff5f0d1faab"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4121",
+   "short": "R.C. Chapter 4121",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4121: Industrial Commission; Bureau Of Workers' Compensation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4121",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20260808040721/https://codes.ohio.gov/ohio-revised-code/chapter-4121",
+     "sha256": "4896916b4297539618dbc87861ecc24bf4ddc077ffc6a59bafd8c2821f62a0cd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4123",
+   "short": "R.C. Chapter 4123",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4123: Workers' Compensation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4123",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 158,
+     "source_url": "https://web.archive.org/web/20261009111828/https://codes.ohio.gov/ohio-revised-code/chapter-4123",
+     "sha256": "65d49eddf2c091e92621a17f583cbc2faf7ff7a07e9b57473894940a8c48cd0f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4125",
+   "short": "R.C. Chapter 4125",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4125: Professional Employer Organizations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4125",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260710104618/https://codes.ohio.gov/ohio-revised-code/chapter-4125",
+     "sha256": "358d1ee160d19b5104b1e6258964b0d2aaad525828a2f2130620389bd5b0d8a3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4127",
+   "short": "R.C. Chapter 4127",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4127: Public Works Relief Compensation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4127",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250703053215/https://codes.ohio.gov/ohio-revised-code/chapter-4127",
+     "sha256": "8861f9b823b755d31cca3e3b1b7d0211dc64924eccb448cb5325ec189a31c1f1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4131",
+   "short": "R.C. Chapter 4131",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4131: Separate Compensation Funds",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4131",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260426065825/https://codes.ohio.gov/ohio-revised-code/chapter-4131",
+     "sha256": "a33e3b8ec239d0324a4464c7746bdac9f44a303446972d2b7a5074d0c230c4b0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4133",
+   "short": "R.C. Chapter 4133",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4133: Alternate Employer Organizations",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4133",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250703053219/https://codes.ohio.gov/ohio-revised-code/chapter-4133",
+     "sha256": "821bfcc607f22522877f5b398c72be2c6256f0a984dd854d85e2e57b1c523ab0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4139",
+   "short": "R.C. Chapter 4139",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4139: Apprenticeship Council",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4139",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250711204620/https://codes.ohio.gov/ohio-revised-code/chapter-4139",
+     "sha256": "13901f1d9b7d3894a867d1e0c82cfd4a267a178adfac523e39c7054e24b1ff3e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4141",
+   "short": "R.C. Chapter 4141",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4141: Unemployment Compensation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4141",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20260422154255/https://codes.ohio.gov/ohio-revised-code/chapter-4141",
+     "sha256": "ed3ee13b5688cd2f08dec61960297bd97375cf1123004296e47965a743ba8f83"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4163",
+   "short": "R.C. Chapter 4163",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4163: Atomic Energy",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4163",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250703053231/https://codes.ohio.gov/ohio-revised-code/chapter-4163",
+     "sha256": "1141786fe3d5d3a550f9d58fdc442ad1191ecad8ae925490f85e5c15c9cf47e7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4164",
+   "short": "R.C. Chapter 4164",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4164: Ohio Nuclear Development Authority",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4164",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250703053233/https://codes.ohio.gov/ohio-revised-code/chapter-4164",
+     "sha256": "61ab8ef680b926bdf8062d3c17fe768adb62d0b8b6fa60139b97d14091370e20"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4165",
+   "short": "R.C. Chapter 4165",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4165: Deceptive Trade Practices",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4165",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261007102605/https://codes.ohio.gov/ohio-revised-code/chapter-4165",
+     "sha256": "75a5e0c576b3c85f47bfeeeaa61a75576888f1a56d1c8b30d8e043f0581948a9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4167",
+   "short": "R.C. Chapter 4167",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4167: Public Employment Risk Reduction Program",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4167",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261011053336/https://codes.ohio.gov/ohio-revised-code/chapter-4167",
+     "sha256": "53eed49749f50ab34684c087f6e4dd38e9cb1850ed0d74d636df682bc4cf8d82"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4169",
+   "short": "R.C. Chapter 4169",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4169: Ski Tramways",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4169",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260328195713/https://codes.ohio.gov/ohio-revised-code/chapter-4169",
+     "sha256": "fe9915c67abd2e84d80c0de57a530edcaf8d7860e1f29c04512f8ae388c0c4b1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4171",
+   "short": "R.C. Chapter 4171",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4171: Roller Skating Rinks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4171",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260423083527/https://codes.ohio.gov/ohio-revised-code/chapter-4171",
+     "sha256": "b5dd216c5bea1f64acdb91a3e6ae8334a3eb1f8df3eab5e4ee07f3cc3cca3c97"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4173",
+   "short": "R.C. Chapter 4173",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4173: Retail Establishment Restrooms",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4173",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260502035121/https://codes.ohio.gov/ohio-revised-code/chapter-4173",
+     "sha256": "1b938dc665d5e2cc6c6e2f79ae1d019498527a278ce928cfb8410e6a7ccd6d39"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4175",
+   "short": "R.C. Chapter 4175",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4175: Climbing Facilities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4175",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250703053249/https://codes.ohio.gov/ohio-revised-code/chapter-4175",
+     "sha256": "2c6f8b01bf43d40018b5fe40ca997eb9a4736ecfc6e93da0f3967e8d6c6b4319"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4301",
+   "short": "R.C. Chapter 4301",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4301: Liquor Control Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4301",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 138,
+     "source_url": "https://web.archive.org/web/20260921020353/https://codes.ohio.gov/ohio-revised-code/chapter-4301",
+     "sha256": "2d468901285f63fd918880553bad218085c0026f9cfec0cbf523bf950761ce37"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4303",
+   "short": "R.C. Chapter 4303",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4303: Liquor Permits",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4303",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20250720002009/https://codes.ohio.gov/ohio-revised-code/chapter-4303",
+     "sha256": "24ae94d5523699f892b66557babe554e1923a0d4f3d0451db6d7fe2d383d0186"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4305",
+   "short": "R.C. Chapter 4305",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4305: Tax On Bulk Sales Of Beer",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4305",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260105051227/https://codes.ohio.gov/ohio-revised-code/chapter-4305",
+     "sha256": "54c7bdb9077d2d34b23f36ebaa880e6ca7c857a44032a7328b2fa0fb7bcc46bd"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4307",
+   "short": "R.C. Chapter 4307",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4307: Tax On Bottled Beverages",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4307",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260921015936/https://codes.ohio.gov/ohio-revised-code/chapter-4307",
+     "sha256": "dea8b53126fea7f6c49f287e69da75b13035575c9c4bd6729892d4beed60fed2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4313",
+   "short": "R.C. Chapter 4313",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4313: Transfer Of Enterprise Acquisition Project To Jobsohio",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4313",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260311033445/https://codes.ohio.gov/ohio-revised-code/chapter-4313",
+     "sha256": "61f5445a127a06df9fb324dc983a1d9244c98a1e359d80e8987a9acaa5146996"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4399",
+   "short": "R.C. Chapter 4399",
+   "title": "Ohio Revised Code, Title 43: Liquor, Chapter 4399: Prohibitory Provisions And Crimes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4399",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260921015834/https://codes.ohio.gov/ohio-revised-code/chapter-4399",
+     "sha256": "f891b5eb21ceba5d57cd7730c2e49e101def5ba9c7a6986cf19f19e9a029430a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4501",
+   "short": "R.C. Chapter 4501",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4501: Motor Vehicles - Definitions; General Provisions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4501",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260819234149/https://codes.ohio.gov/ohio-revised-code/chapter-4501",
+     "sha256": "6630b75213e4e4f6092ac55f0394170c75f1f4875a6ca262e749128d11cc53fe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4503",
+   "short": "R.C. Chapter 4503",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4503: Licensing Of Motor Vehicles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4503",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 350,
+     "source_url": "https://web.archive.org/web/20260918120724/https://codes.ohio.gov/ohio-revised-code/chapter-4503",
+     "sha256": "0cb31057930b2a46548c6d070b2cec92ad283a49f747c15c9ac2d0733fd18262"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4504",
+   "short": "R.C. Chapter 4504",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4504: Local Motor Vehicle License Tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4504",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260215053035/https://codes.ohio.gov/ohio-revised-code/chapter-4504",
+     "sha256": "b0fc45e04eb0e93eecbe0c552de88603943fc0368ab2337822a0fe5a581d3305"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4505",
+   "short": "R.C. Chapter 4505",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4505: Certificate Of Motor Vehicle Title Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4505",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261014093348/https://codes.ohio.gov/ohio-revised-code/chapter-4505",
+     "sha256": "35bb25bda12ff2e64aad1e66e7917ec800d663568af6718d2f61f79fd39079a7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4506",
+   "short": "R.C. Chapter 4506",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4506: Commercial Driver's Licensing",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4506",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260710235829/https://codes.ohio.gov/ohio-revised-code/chapter-4506",
+     "sha256": "51d1d12857abe051edaf066df6be717d81e0540931a8a5a9244beabdd9282fb9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4507",
+   "short": "R.C. Chapter 4507",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4507: Driver's License Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4507",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20260918120722/https://codes.ohio.gov/ohio-revised-code/chapter-4507",
+     "sha256": "cbe5ca1a7d00995b4a56951b3c7936e6c101ed2464d0c6a06aeb34ffcd155a86"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4508",
+   "short": "R.C. Chapter 4508",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4508: Driver Training Schools",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4508",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260715160037/https://codes.ohio.gov/ohio-revised-code/chapter-4508",
+     "sha256": "43f017e1676f62b2cc7c863e730564272885b98b6af6ec41785d6df8132bb6f6"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4509",
+   "short": "R.C. Chapter 4509",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4509: Financial Responsibility",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4509",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 81,
+     "source_url": "https://web.archive.org/web/20260420002536/https://codes.ohio.gov/ohio-revised-code/chapter-4509",
+     "sha256": "88cd81293af77f9e5a05413ad0ef90793f868e7f95875e2de134b7bcec15ab96"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4510",
+   "short": "R.C. Chapter 4510",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4510: Driver's License Suspension, Cancellation, Revocation",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4510",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261008194753/https://codes.ohio.gov/ohio-revised-code/chapter-4510",
+     "sha256": "5b6aea44c0e2aa155122f2142d08605adec9f290c9c56c243d3060ee10e0d18f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4511",
+   "short": "R.C. Chapter 4511",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4511: Traffic Laws - Operation Of Motor Vehicles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4511",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20260804165705/https://codes.ohio.gov/ohio-revised-code/chapter-4511",
+     "sha256": "26301daa9f7fa103ece96851027ac175b7fe47f03d80dcd5cbd3603f178e0ee2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4513",
+   "short": "R.C. Chapter 4513",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4513: Traffic Laws - Equipment; Loads",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4513",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20260809122241/https://codes.ohio.gov/ohio-revised-code/chapter-4513",
+     "sha256": "7f22df159c36f69b38b72f235d1f653d4f75d3e19195a21fbbf5f0c1b471a7e2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4515",
+   "short": "R.C. Chapter 4515",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4515: Venue; Guest Statute",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4515",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250703053430/https://codes.ohio.gov/ohio-revised-code/chapter-4515",
+     "sha256": "b21220d96ea482f7810147dcc0c3da50aafb60a6097ccad0b57003c6ada5585a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4516",
+   "short": "R.C. Chapter 4516",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4516: Peer-To-Peer Car Sharing Programs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4516",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251207000728/https://codes.ohio.gov/ohio-revised-code/chapter-4516",
+     "sha256": "fd4126950a335eb415d60886d6bec95a6de71e69d1d05c3d04bcbc3c5a152764"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4517",
+   "short": "R.C. Chapter 4517",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4517: Motor Vehicle Dealers, Auction Owners, and Salespersons",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4517",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20260710205244/https://codes.ohio.gov/ohio-revised-code/chapter-4517",
+     "sha256": "238a2842202225081a17ffe80a0558d109d443c7c0a6403f75b0bc9d77cfbc4b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4519",
+   "short": "R.C. Chapter 4519",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4519: Special Vehicles",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4519",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260712155841/https://codes.ohio.gov/ohio-revised-code/chapter-4519",
+     "sha256": "ab164b2b1912a8b9b1a2699ec2d24a9c60f0c26eab4e1edfc866a444a00cd344"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4521",
+   "short": "R.C. Chapter 4521",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4521: Local, Noncriminal Parking Infractions",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4521",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260626001229/https://codes.ohio.gov/ohio-revised-code/chapter-4521",
+     "sha256": "78247ba8d541e8128c9f21f93c564d4b4d3dea917e6807f38903537cbff4ad9d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4549",
+   "short": "R.C. Chapter 4549",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4549: Motor Vehicle Crimes",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4549",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260809122310/https://codes.ohio.gov/ohio-revised-code/chapter-4549",
+     "sha256": "a6eaeca05efee69ed506850e762e0a70b4fbb230d9bc3774813496bfc3e7dc88"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4551",
+   "short": "R.C. Chapter 4551",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4551: Transportation Of Christmas Trees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4551",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250703053457/https://codes.ohio.gov/ohio-revised-code/chapter-4551",
+     "sha256": "c15c6e3a14abb542cbe3c6115e2514450b7be9ed42ca3a896240541bdc5bb869"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4561",
+   "short": "R.C. Chapter 4561",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4561: Aeronautics",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4561",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260316235318/https://codes.ohio.gov/ohio-revised-code/chapter-4561",
+     "sha256": "a54eb42c186495e944eba98c1e779ac5f5dea010415d4d787581419b428ebe0d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4563",
+   "short": "R.C. Chapter 4563",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4563: Airports",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4563",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250703053504/https://codes.ohio.gov/ohio-revised-code/chapter-4563",
+     "sha256": "5d6d3355f2579b5bf8d9e71a9f8f78bbc9457a638a007bd0676157c211f02d40"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4582",
+   "short": "R.C. Chapter 4582",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4582: Port Authorities",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4582",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 72,
+     "source_url": "https://web.archive.org/web/20260717134722/https://codes.ohio.gov/ohio-revised-code/chapter-4582",
+     "sha256": "75ddb9d0cb368ed2622e2b2368e616fb105f8705472a2ea3ca8d80ccc5d0160a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4583",
+   "short": "R.C. Chapter 4583",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4583: Ferries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4583",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260610022533/https://codes.ohio.gov/ohio-revised-code/chapter-4583",
+     "sha256": "3881e55f9c9bca191a3df7c644f58621b70bd26262b5ad64e1258a74259f9b9f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4585",
+   "short": "R.C. Chapter 4585",
+   "title": "Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4585: Actions Relating To Watercraft",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4585",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260525131221/https://codes.ohio.gov/ohio-revised-code/chapter-4585",
+     "sha256": "b886ad837b7859130a8c61ee623b7fbdbc16e8a338a1aa85157dd11498735061"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4701",
+   "short": "R.C. Chapter 4701",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4701: Accountancy Board Law",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4701",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260513124547/https://codes.ohio.gov/ohio-revised-code/chapter-4701",
+     "sha256": "3ae90fffd011ba55e4bafd88394326ce7ad3720cf69fa6a1e2976ac48ad15e61"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4703",
+   "short": "R.C. Chapter 4703",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4703: Architects",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4703",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260815012457/https://codes.ohio.gov/ohio-revised-code/chapter-4703",
+     "sha256": "168a47b56a97320e55b9fd20412cd6e628977a5f57c167e6a2448b76968bc8fc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4705",
+   "short": "R.C. Chapter 4705",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4705: Attorneys",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4705",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260806043909/https://codes.ohio.gov/ohio-revised-code/chapter-4705",
+     "sha256": "98f8a00bf1b512ea5d032a9eed73550575e7033e6b5d20a6342e680ae73a40e9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4707",
+   "short": "R.C. Chapter 4707",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4707: Auctioneers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4707",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260613152532/https://codes.ohio.gov/ohio-revised-code/chapter-4707",
+     "sha256": "a22900ff809db65b01d2e0516f877ddaa0e1b5377c5797973eb8698d9e638c76"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4709",
+   "short": "R.C. Chapter 4709",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4709: Barbers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4709",
+   "versions": [
+    {
+     "from": "2026-04-05",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260405054501/https://codes.ohio.gov/ohio-revised-code/chapter-4709",
+     "sha256": "7a7ead7978fb25dcacc84486945e52378c9af5576bcc12b49dc00f6c80277ea9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4710",
+   "short": "R.C. Chapter 4710",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4710: Debt Pooling Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4710",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260710230332/https://codes.ohio.gov/ohio-revised-code/chapter-4710",
+     "sha256": "b260a909c7175aad345cfa93294c9eb3f84c56005c2a48ff81f794b71e2f68d8"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4711",
+   "short": "R.C. Chapter 4711",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4711: Commission Merchants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4711",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260917153509/https://codes.ohio.gov/ohio-revised-code/chapter-4711",
+     "sha256": "bc1e6dc768f214094d79c8327fae5910da09b1c663b4366d4c79eaa12817ad5b"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4712",
+   "short": "R.C. Chapter 4712",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4712: Ohio Credit Services Organization Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4712",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261011023254/https://codes.ohio.gov/ohio-revised-code/chapter-4712",
+     "sha256": "d77886260d4250ee8572b8698f1eb97ba2c28e1e14a88f584909b31edcadcb40"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4713",
+   "short": "R.C. Chapter 4713",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4713: Cosmetologists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4713",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20261009075136/https://codes.ohio.gov/ohio-revised-code/chapter-4713",
+     "sha256": "f7a8c46895a33fbde9446c9bc5bdfac79f1effb85d75dbcf2f31c927c10e9a34"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4715",
+   "short": "R.C. Chapter 4715",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4715: Dentists; Dental Hygienists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4715",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 99,
+     "source_url": "https://web.archive.org/web/20261013222716/https://codes.ohio.gov/ohio-revised-code/chapter-4715",
+     "sha256": "f665200b56d722b54f20e7ef1bf57b94d266ed42e86b2a1f1ce697136145f399"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4717",
+   "short": "R.C. Chapter 4717",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4717: Embalmers, Funeral Directors, Crematories",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4717",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260317025815/https://codes.ohio.gov/ohio-revised-code/chapter-4717",
+     "sha256": "db233bbce46bec0c85bc6d5b484523bfd1c011ec0a8f9a2045f361120cbf95a2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4719",
+   "short": "R.C. Chapter 4719",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4719: Telephone Solicitors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4719",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260808040602/https://codes.ohio.gov/ohio-revised-code/chapter-4719",
+     "sha256": "0563f108695812cc3688244cb36e8266332246d4bbf968b2fe5fd684d3030bdf"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4721",
+   "short": "R.C. Chapter 4721",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4721: Innkeepers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4721",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260410161347/https://codes.ohio.gov/ohio-revised-code/chapter-4721",
+     "sha256": "2bc2f6d5176b6adfc546e2340838c6ab51da6f0f440250273a1b4bb9c9925159"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4722",
+   "short": "R.C. Chapter 4722",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4722: Home Construction Service Suppliers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4722",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260606171212/https://codes.ohio.gov/ohio-revised-code/chapter-4722",
+     "sha256": "231368761f93f5cdcc032fb43b3a2ad7b5b1eb83b4c748bb139227965a8142b9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4723",
+   "short": "R.C. Chapter 4723",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4723: Nurses",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4723",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 110,
+     "source_url": "https://web.archive.org/web/20260615043742/https://codes.ohio.gov/ohio-revised-code/chapter-4723",
+     "sha256": "c45808b811d0e57c65eb6d5d6504cc2b7f559e0365c5493b1ca01c2960557133"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4725",
+   "short": "R.C. Chapter 4725",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4725: Optometrists; Dispensing Opticians",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4725",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260521163934/https://codes.ohio.gov/ohio-revised-code/chapter-4725",
+     "sha256": "1c26468a88eb2d3c7e8b57f1792466cfe3fa006f1e747fd05ea4ba6f4201ec50"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4727",
+   "short": "R.C. Chapter 4727",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4727: Pawnbrokers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4727",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260811070329/https://codes.ohio.gov/ohio-revised-code/chapter-4727",
+     "sha256": "9f58a7a19ba57b017e40bee2a583166286858c47390b8d22f65087199e11f37e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4728",
+   "short": "R.C. Chapter 4728",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4728: Precious Metals Dealers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4728",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260328150447/https://codes.ohio.gov/ohio-revised-code/chapter-4728",
+     "sha256": "af4f0f6a6de50073612766b8bf9647484c7024a481b3b05b036a99452e9a78bc"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4729",
+   "short": "R.C. Chapter 4729",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4729: Pharmacists; Dangerous Drugs",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4729",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260614164437/https://codes.ohio.gov/ohio-revised-code/chapter-4729",
+     "sha256": "bc815b04972fb66c67436914f8ab59abe6c15f953fde8107f1eec978c272a787"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4730",
+   "short": "R.C. Chapter 4730",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4730: Physician Assistants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4730",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260929093609/https://codes.ohio.gov/ohio-revised-code/chapter-4730",
+     "sha256": "b7c2fe0938a2de773df2fc8901a74491c683a80b7239fad9168e032a06662906"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4731",
+   "short": "R.C. Chapter 4731",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4731: Physicians; Limited Practitioners",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4731",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 143,
+     "source_url": "https://web.archive.org/web/20260714152829/https://codes.ohio.gov/ohio-revised-code/chapter-4731",
+     "sha256": "52b1eac14629a68a688a61b4abef90f979b75ebcc30a2db823dee13d316f1f31"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4732",
+   "short": "R.C. Chapter 4732",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4732: Psychologists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4732",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260801050855/https://codes.ohio.gov/ohio-revised-code/chapter-4732",
+     "sha256": "7e3844d565a2a6e3a6c6966f5837a97cd87c292866941f27e0ba0f7522f21dde"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4733",
+   "short": "R.C. Chapter 4733",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4733: Professional Engineers and Professional Surveyors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4733",
+   "versions": [
+    {
+     "from": "2025-11-02",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20251102160154/https://codes.ohio.gov/ohio-revised-code/chapter-4733",
+     "sha256": "5fa44d04c7b0d55a2995a4f9382eceef12459afb56f9869add51614dfe6ae397"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4734",
+   "short": "R.C. Chapter 4734",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4734: Chiropractors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4734",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260707173021/https://codes.ohio.gov/ohio-revised-code/chapter-4734",
+     "sha256": "fdfa61fda99d653f815c0bfbf6660dd1a53e8bc806d4820019f394ca40e54979"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4735",
+   "short": "R.C. Chapter 4735",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4735: Real Estate Brokers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4735",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20261011024631/https://codes.ohio.gov/ohio-revised-code/chapter-4735",
+     "sha256": "4cf4eb544542717e3bec3b2203ccaa123145ec6b3d08b4e9ddc88b26f144cba2"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4737",
+   "short": "R.C. Chapter 4737",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4737: Secondhand Dealers; Junk Yards",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4737",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250909102753/https://codes.ohio.gov/ohio-revised-code/chapter-4737",
+     "sha256": "a44e86f5ec75bfdd21ade3e12d041ced67979626216c3578bf1b9a61a0dad051"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4738",
+   "short": "R.C. Chapter 4738",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4738: Motor Vehicle Salvage",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4738",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260715160439/https://codes.ohio.gov/ohio-revised-code/chapter-4738",
+     "sha256": "2c8e75bc5c11c57db3716f598375d5f2329f6501688eeaedccf2f0ce19cdcb41"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4740",
+   "short": "R.C. Chapter 4740",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4740: Construction Industry Licensing Board",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4740",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260413115753/https://codes.ohio.gov/ohio-revised-code/chapter-4740",
+     "sha256": "cfe214e8b1428c0277f3059691ac25b22f106c6a00ebab28fd10df8166286d90"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4741",
+   "short": "R.C. Chapter 4741",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4741: Veterinarians",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4741",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260415224115/https://codes.ohio.gov/ohio-revised-code/chapter-4741",
+     "sha256": "a268be8c83053788176f6783d1e62a7711acf1d9a93aa7eed41ef5bbe4ed8dd0"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4743",
+   "short": "R.C. Chapter 4743",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4743: Occupational Licensing Boards, Commissions, and Agencies Generally",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4743",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260413112918/https://codes.ohio.gov/ohio-revised-code/chapter-4743",
+     "sha256": "92f3c8f583866b29b3fa65f72524c89ee39f959226a60dfcaed14f4e98db9413"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4744",
+   "short": "R.C. Chapter 4744",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4744: Speech And Hearing Professionals Board",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4744",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260506112609/https://codes.ohio.gov/ohio-revised-code/chapter-4744",
+     "sha256": "e9e321f0b47b8655b04d595105d18eaa2ea9bd7899e5e36e9d6ea7c6a9cbfb24"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4745",
+   "short": "R.C. Chapter 4745",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4745: Standard License Renewal Procedure",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4745",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260607051914/https://codes.ohio.gov/ohio-revised-code/chapter-4745",
+     "sha256": "2a8caa20b9dc878d164e5986903cd1b55bff73915e30151dbc14d90774c434ac"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4747",
+   "short": "R.C. Chapter 4747",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4747: Hearing Aid Dealers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4747",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260809213738/https://codes.ohio.gov/ohio-revised-code/chapter-4747",
+     "sha256": "e0b7afc16c27b2ec9849d272fbe321f5475d89657f9aa74e205202d36a252467"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4749",
+   "short": "R.C. Chapter 4749",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4749: Private Investigators; Security Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4749",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20251204194402/https://codes.ohio.gov/ohio-revised-code/chapter-4749",
+     "sha256": "4f2903fbaa4913aae0f8f31c39c247873a34b671f8def4b00dce3e68c335e69c"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4751",
+   "short": "R.C. Chapter 4751",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4751: Nursing Home Administrators",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4751",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260809061541/https://codes.ohio.gov/ohio-revised-code/chapter-4751",
+     "sha256": "756ae9690cca2afc5a0b5076650a16205b6b7162275ac94181355629c27402ee"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4752",
+   "short": "R.C. Chapter 4752",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4752: Home Medical Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4752",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260425053417/https://codes.ohio.gov/ohio-revised-code/chapter-4752",
+     "sha256": "8265966bedc63c9d34c2299d5b55ddb1403170471575fa00d4820975721faebe"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4753",
+   "short": "R.C. Chapter 4753",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4753: Speech-language Pathologists and Audiologists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4753",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20261007015325/https://codes.ohio.gov/ohio-revised-code/chapter-4753",
+     "sha256": "bc389a607a9732be9f3977be68eb24b865ad59d88659cd55504281a5c2ca2021"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4755",
+   "short": "R.C. Chapter 4755",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4755: Occupational Therapists; Physical Therapists; Athletic Trainers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4755",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260607053551/https://codes.ohio.gov/ohio-revised-code/chapter-4755",
+     "sha256": "48210fe4a2f9750009daca67dd917cdc92659f523b7c7d3ac61d6f797b85fce5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4757",
+   "short": "R.C. Chapter 4757",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4757: Counselors, Social Workers, Marriage and Family Therapists",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4757",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260421232828/https://codes.ohio.gov/ohio-revised-code/chapter-4757?utm_source=openai",
+     "sha256": "effca913f99c5bee7fe24a3ae8fe9b8955d1b44edacb5689fe84e6f414008bd3"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4758",
+   "short": "R.C. Chapter 4758",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4758: Chemical Dependency Professionals",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4758",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260907092445/https://codes.ohio.gov/ohio-revised-code/chapter-4758",
+     "sha256": "abd874a0ec1c382ca8a96d8ae95a3390a2349366914bbb50c4d7292d3a5b5041"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4759",
+   "short": "R.C. Chapter 4759",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4759: Dietetics",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4759",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260521171357/https://codes.ohio.gov/ohio-revised-code/chapter-4759",
+     "sha256": "5f086b5945de1ba99fa543818d0a51bafafee40835f1f16f8471e406127a1c02"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4760",
+   "short": "R.C. Chapter 4760",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4760: Anesthesiologist Assistants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4760",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260904101607/https://codes.ohio.gov/ohio-revised-code/chapter-4760",
+     "sha256": "2672ea47472f31c2491a18fa68a9b0e5c6946583e3ad63fdab2c534bb138e66f"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4761",
+   "short": "R.C. Chapter 4761",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4761: Respiratory Care",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4761",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260808043841/https://codes.ohio.gov/ohio-revised-code/chapter-4761",
+     "sha256": "c82f04f2328cdc284597ed0473c90c909f1fabe442c2211b01ac2dfeba148a6d"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4762",
+   "short": "R.C. Chapter 4762",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4762: Acupuncturists and Oriental Medicine Practitioners",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4762",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260411015914/https://codes.ohio.gov/ohio-revised-code/chapter-4762",
+     "sha256": "aece12ef56ccf62da22d692b1e2017e639b6f2457931d0bba44454363b66cb30"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4763",
+   "short": "R.C. Chapter 4763",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4763: Real Estate Appraisers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4763",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261008053249/https://codes.ohio.gov/ohio-revised-code/chapter-4763",
+     "sha256": "f60d643b5ef8107b1bb3526ff76d3f45649267510097446d29f0a505e504aade"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4764",
+   "short": "R.C. Chapter 4764",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4764: Home Inspectors",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4764",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260625204540/https://codes.ohio.gov/ohio-revised-code/chapter-4764",
+     "sha256": "27de31fa86982282d7ff72794543a1a57a6724f76214ca468884fe2faa0d8b3e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4765",
+   "short": "R.C. Chapter 4765",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4765: First Responders, Emergency Medical Technicians",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4765",
+   "versions": [
+    {
+     "from": "2026-08-16",
+     "units": 64,
+     "source_url": "https://web.archive.org/web/20260816133939/https://codes.ohio.gov/ohio-revised-code/chapter-4765",
+     "sha256": "52a0400769d7d930f39102af8ee69967fa81b0087d2ad35434e113d9c6b0268e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4766",
+   "short": "R.C. Chapter 4766",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4766: State Board of Emergency Medical, Fire, and Transportation Services",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4766",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260612174634/https://codes.ohio.gov/ohio-revised-code/chapter-4766",
+     "sha256": "30ff6f5e218cf7006a067d1cdd56f00cd8ef6049545e9aae7f0302392ed464ae"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4767",
+   "short": "R.C. Chapter 4767",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4767: Cemetery Registration",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4767",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260607042655/https://codes.ohio.gov/ohio-revised-code/chapter-4767",
+     "sha256": "693b515081dbc6b57e3a02f5514865763b94e3e856328878a27d6db7ed879887"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4768",
+   "short": "R.C. Chapter 4768",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4768: Appraisal Management Companies",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4768",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250708181137/https://codes.ohio.gov/ohio-revised-code/chapter-4768",
+     "sha256": "ccc671e76c7438d63b2c9eef45a3c2eb8c2c658414d6bce196c7d136b8339e0e"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4769",
+   "short": "R.C. Chapter 4769",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4769: Balance Billing of Medicare Beneficiaries",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4769",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260712053941/https://codes.ohio.gov/ohio-revised-code/chapter-4769",
+     "sha256": "eea7b19ff916055999e37d63737bd9badca157a2c055d04b3e889f51ffe9a0c4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4771",
+   "short": "R.C. Chapter 4771",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4771: Athlete Agents",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4771",
+   "versions": [
+    {
+     "from": "2026-03-29",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260329074411/https://codes.ohio.gov/ohio-revised-code/chapter-4771",
+     "sha256": "4bb207a4e747931b641792510140406b3d843b7414bc7ceee6f578b3b416ce1a"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4772",
+   "short": "R.C. Chapter 4772",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4772: Certified Mental Health Assistants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4772",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260610092643/https://codes.ohio.gov/ohio-revised-code/chapter-4772",
+     "sha256": "3bda131ed0259203792b06cfc30ad42e436e0b38f597966fb9a1e5ab72c5b8c7"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4773",
+   "short": "R.C. Chapter 4773",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4773: Radiation Technicians",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4773",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250708181152/https://codes.ohio.gov/ohio-revised-code/chapter-4773",
+     "sha256": "f0de673a0086436562dd0a439bd918f1f3288ab50ae3556b68bb848faad664f4"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4774",
+   "short": "R.C. Chapter 4774",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4774: Radiologist Assistants",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4774",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260511142652/https://codes.ohio.gov/ohio-revised-code/chapter-4774",
+     "sha256": "770db4889c59eb47a4aca10872512d7a32ae8d90024f6a1019950e20031a9fe1"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4775",
+   "short": "R.C. Chapter 4775",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4775: Motor Vehicle Repair and Window Tint Operators",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4775",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261014212655/https://codes.ohio.gov/ohio-revised-code/chapter-4775",
+     "sha256": "f07307d7753793d07b76659c406fdeeea0f969e590cb8f197f7146c5717060a9"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4776",
+   "short": "R.C. Chapter 4776",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4776: Criminal Records Checks",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4776",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251207102049/https://codes.ohio.gov/ohio-revised-code/chapter-4776",
+     "sha256": "3ebc3fff1f7ecbd1238b09eb675f4170ca40a4d772c18fca917bfde50ae774ca"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4777",
+   "short": "R.C. Chapter 4777",
+   "title": "Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4777: Practice of Occupational Safety or Industrial Hygiene",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4777",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260906082132/https://codes.ohio.gov/ohio-revised-code/chapter-4777",
+     "sha256": "99260a677af58d46fb5aa6f808eef0f71323221039764d714c4545f76084ad13"
+    }
+   ]
   }
  ]
 }

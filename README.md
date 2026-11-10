@@ -10,7 +10,7 @@ The law of Ohio as a git history: one file per provision, with `git blame` and `
 | --- | --- | ---: | --- |
 | `legal-system/` | Ohio legal system: open facts (4 entries, Wikidata) | 1 | One version, 2026-10-29 (first build) |
 | `constitution-article-NN/` | Constitution of the State of Ohio: 19 articles | 1 | 226 sections; each article dated by the day of the capture read (2025-07-15 to 2026-07-16) |
-| `orc-chapter-NNNN/` | Ohio Revised Code: 524 of the 968 chapters listed on the title pages | 1 | 17662 sections; each chapter dated by the day of the capture read (2025-06-26 to 2026-11-02) |
+| `orc-chapter-NNNN/` | Ohio Revised Code: 748 of the 968 chapters listed on the title pages | 1 | 25377 sections; each chapter dated by the day of the capture read (2025-06-26 to 2026-11-02) |
 
 Each chapter page prints every section's full text with its "Effective" date and "Latest Legislation"; both are kept as the section's last line. The four Wikidata facts of the first build (`legal-system/`) are kept.
 
@@ -28,4 +28,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-524 of the 968 Revised Code chapters listed on the title pages are included; complete titles: Title 1, Title 3, Title 5, Title 7, Title 9, Title 11, Title 13, Title 15, Title 17, Title 19, Title 21, Title 23, Title 25, Title 27, Title 29, Title 31, Title 33; partly covered: Title 35 (13 of 14). A chapter is included only when its capture holds the text of every section it lists. Left out: no capture (444). The Constitution's preamble and schedules, session laws and the Administrative Code are not included. There is no history before the dates above.
+748 of the 968 Revised Code chapters listed on the title pages are included; complete titles: Title 1, Title 3, Title 5, Title 7, Title 9, Title 11, Title 13, Title 15, Title 17, Title 19, Title 21, Title 23, Title 25, Title 27, Title 29, Title 31, Title 33, Title 35, Title 37, Title 39, Title 41, Title 43, Title 45; partly covered: Title 47 (58 of 66). A chapter is included only when its capture holds the text of every section it lists. Left out: no capture (220). The Constitution's preamble and schedules, session laws and the Administrative Code are not included. There is no history before the dates above.

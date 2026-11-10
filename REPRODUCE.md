@@ -559,12 +559,236 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-3519` | Ohio Revised Code, Title 35: Elections, Chapter 3519: Initiative; Referendum | 1 | 2026-10-09 to 2026-10-09 |
 | `orc-chapter-3521` | Ohio Revised Code, Title 35: Elections, Chapter 3521: Congressional Districts | 1 | 2025-07-03 to 2025-07-03 |
 | `orc-chapter-3523` | Ohio Revised Code, Title 35: Elections, Chapter 3523: Amendments To United States Constitution | 1 | 2025-11-14 to 2025-11-14 |
+| `orc-chapter-3599` | Ohio Revised Code, Title 35: Elections, Chapter 3599: Offenses And Penalties | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-3701` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3701: Department of Health | 1 | 2026-09-16 to 2026-09-16 |
+| `orc-chapter-3702` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3702: Health Care Facilities and Services | 1 | 2026-09-16 to 2026-09-16 |
+| `orc-chapter-3703` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3703: Plumbing | 1 | 2025-07-15 to 2025-07-15 |
+| `orc-chapter-3704` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3704: Air Pollution Control | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-3705` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3705: Vital Statistics | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-3706` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3706: Air Quality Development Authority | 1 | 2026-02-09 to 2026-02-09 |
+| `orc-chapter-3707` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3707: Board of Health | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3709` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3709: Health Districts | 1 | 2026-05-08 to 2026-05-08 |
+| `orc-chapter-3710` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3710: Asbestos Abatement | 1 | 2026-02-13 to 2026-02-13 |
+| `orc-chapter-3711` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3711: Maternity and Newborn Care Facilities | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3712` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3712: Hospice Care | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3713` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3713: Bedding and Stuffed Toys | 1 | 2026-04-18 to 2026-04-18 |
+| `orc-chapter-3714` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3714: Construction and Demolition Debris | 1 | 2025-12-12 to 2025-12-12 |
+| `orc-chapter-3715` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3715: Pure Food and Drug Law | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-3716` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3716: Labeling of Hazardous Substances | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-3717` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3717: Retail Food Establishments; Food Service Operations | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-3718` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3718: Sewage Treatment Systems | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-3719` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3719: Controlled Substances | 1 | 2026-05-17 to 2026-05-17 |
+| `orc-chapter-3721` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3721: Nursing Homes; Residential Care Facilities | 1 | 2026-04-17 to 2026-04-17 |
+| `orc-chapter-3722` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3722: Hospitals | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3723` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3723: Radon | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3725` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3725: Plasmapheresis Centers | 1 | 2025-12-13 to 2025-12-13 |
+| `orc-chapter-3726` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3726: Disposition of Fetal Remains from Surgical Abortion | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3727` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3727: Hospitals | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3728` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3728: Epinephrine Autoinjectors | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3729` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3729: Recreational Vehicle Parks, Recreation Camps, Combined and Temporary Park-camps | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-3730` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3730: Tattooing or Body Piercing Services | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-3731` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3731: Hotels | 1 | 2026-06-08 to 2026-06-08 |
+| `orc-chapter-3733` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3733: Agricultural Labor Camps | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3734` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3734: Solid and Hazardous Wastes | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-3735` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3735: Metropolitan Housing Authority | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3736` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3736: Recycling, Waste Reduction, Litter Prevention | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-3737` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3737: Fire Marshal; Fire Safety | 1 | 2026-08-23 to 2026-08-23 |
+| `orc-chapter-3739` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3739: Reduced Ignition Propensity Standards for Cigarettes | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3740` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3740: Home Health Service Providers | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-3741` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3741: Gasoline; Oils; Paints | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3742` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3742: Lead Abatement | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3743` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3743: Fireworks | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3745` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3745: Environmental Protection Agency | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3746` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3746: Voluntary Action Program | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3747` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3747: Low-level Radioactive Waste Act | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-3748` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3748: Radiation Control Program | 1 | 2026-07-11 to 2026-07-11 |
+| `orc-chapter-3749` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3749: Swimming Pools | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-3750` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3750: Emergency Planning | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3751` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3751: Hazardous Substances | 1 | 2026-07-13 to 2026-07-13 |
+| `orc-chapter-3752` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3752: Cessation of Regulated Operations | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3753` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3753: Risk Management Program | 1 | 2025-08-10 to 2025-08-10 |
+| `orc-chapter-3761` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3761: Assemblies; Mobs | 1 | 2026-04-18 to 2026-04-18 |
+| `orc-chapter-3763` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3763: Gaming | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3767` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3767: Nuisances | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3769` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3769: Horse Racing | 1 | 2026-03-12 to 2026-03-12 |
+| `orc-chapter-3770` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3770: State Lottery | 1 | 2025-08-30 to 2025-08-30 |
+| `orc-chapter-3772` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3772: Casino Gaming | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-3773` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3773: Ohio Athletic Commission | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3774` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3774: Regulation of Fantasy Contests | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3775` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3775: Sports Gaming | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-3776` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3776: Environmental Health Specialists | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-3781` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3781: Building Standards - General Provisions | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-3783` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3783: Building Standards - Electrical Safety Standards | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3791` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3791: Building Standards - Offenses And Penalties | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3792` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3792: Patient Rights and Consent | 1 | 2025-09-16 to 2025-09-16 |
+| `orc-chapter-3794` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3794: Smoking Ban | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-3795` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3795: Assisted Suicide | 1 | 2026-04-15 to 2026-04-15 |
+| `orc-chapter-3796` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3796: Medical Marijuana Control Program | 1 | 2025-10-20 to 2025-10-20 |
+| `orc-chapter-3797` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3797: Childhood Sexual Abuse Registration and Community Notification | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-3798` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3798: Protected Health Information | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-3799` | Ohio Revised Code, Title 37: Health-Safety-Morals, Chapter 3799: Solemn Covenant of the States | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3901` | Ohio Revised Code, Title 39: Insurance, Chapter 3901: Superintendent Of Insurance | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3902` | Ohio Revised Code, Title 39: Insurance, Chapter 3902: Insurance Policies And Contracts | 1 | 2025-12-01 to 2025-12-01 |
+| `orc-chapter-3903` | Ohio Revised Code, Title 39: Insurance, Chapter 3903: Reserve Valuation; Rehabilitation And Liquidation | 1 | 2026-05-10 to 2026-05-10 |
+| `orc-chapter-3904` | Ohio Revised Code, Title 39: Insurance, Chapter 3904: Insurance Information Practices | 1 | 2025-09-17 to 2025-09-17 |
+| `orc-chapter-3905` | Ohio Revised Code, Title 39: Insurance, Chapter 3905: Insurance Producers Licensing Act | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3906` | Ohio Revised Code, Title 39: Insurance, Chapter 3906: Alternate Investment Law | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3907` | Ohio Revised Code, Title 39: Insurance, Chapter 3907: Domestic Legal Reserve Life Insurance Companies | 1 | 2026-05-14 to 2026-05-14 |
+| `orc-chapter-3909` | Ohio Revised Code, Title 39: Insurance, Chapter 3909: Foreign Life Insurance Companies | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3911` | Ohio Revised Code, Title 39: Insurance, Chapter 3911: Domestic And Foreign Life Insurance Companies | 1 | 2026-07-11 to 2026-07-11 |
+| `orc-chapter-3913` | Ohio Revised Code, Title 39: Insurance, Chapter 3913: Changes In Corporate Organization Or Status | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-3915` | Ohio Revised Code, Title 39: Insurance, Chapter 3915: Life Insurance Policy Provisions | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-3916` | Ohio Revised Code, Title 39: Insurance, Chapter 3916: Viatical Settlements Model Act | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-3917` | Ohio Revised Code, Title 39: Insurance, Chapter 3917: Group Life Insurance | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3918` | Ohio Revised Code, Title 39: Insurance, Chapter 3918: Credit Life And Accident And Health Insurance | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3919` | Ohio Revised Code, Title 39: Insurance, Chapter 3919: Mutual Protective Insurance Upon Persons | 1 | 2026-03-04 to 2026-03-04 |
+| `orc-chapter-3921` | Ohio Revised Code, Title 39: Insurance, Chapter 3921: Fraternal Benefit Societies | 1 | 2025-07-07 to 2025-07-07 |
+| `orc-chapter-3922` | Ohio Revised Code, Title 39: Insurance, Chapter 3922: External Review | 1 | 2026-03-15 to 2026-03-15 |
+| `orc-chapter-3923` | Ohio Revised Code, Title 39: Insurance, Chapter 3923: Sickness And Accident Insurance | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3924` | Ohio Revised Code, Title 39: Insurance, Chapter 3924: Small Employer Health Benefit Plans; Provision Of Health Care Coverage | 1 | 2026-06-12 to 2026-06-12 |
+| `orc-chapter-3925` | Ohio Revised Code, Title 39: Insurance, Chapter 3925: Domestic Insurance Companies Other Than Life | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-3927` | Ohio Revised Code, Title 39: Insurance, Chapter 3927: Foreign Insurance Companies Other Than Life | 1 | 2026-07-11 to 2026-07-11 |
+| `orc-chapter-3929` | Ohio Revised Code, Title 39: Insurance, Chapter 3929: Domestic And Foreign Insurance Companies Other Than Life | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3930` | Ohio Revised Code, Title 39: Insurance, Chapter 3930: Commercial Market Assistance Plan; Commercial Insurance Joint Underwriting Association | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3931` | Ohio Revised Code, Title 39: Insurance, Chapter 3931: Reciprocal Or Interinsurance Contracts | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3933` | Ohio Revised Code, Title 39: Insurance, Chapter 3933: Rebates And Special Advantages | 1 | 2026-03-01 to 2026-03-01 |
+| `orc-chapter-3935` | Ohio Revised Code, Title 39: Insurance, Chapter 3935: Rating Bureaus | 1 | 2026-10-31 to 2026-10-31 |
+| `orc-chapter-3937` | Ohio Revised Code, Title 39: Insurance, Chapter 3937: Casualty Insurance; Motor Vehicle Insurance | 1 | 2026-05-12 to 2026-05-12 |
+| `orc-chapter-3938` | Ohio Revised Code, Title 39: Insurance, Chapter 3938: Certificates Of Insurance Act | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3939` | Ohio Revised Code, Title 39: Insurance, Chapter 3939: Mutual Protective Insurance Upon Property | 1 | 2026-02-14 to 2026-02-14 |
+| `orc-chapter-3941` | Ohio Revised Code, Title 39: Insurance, Chapter 3941: Operation Of Mutual Insurance Companies | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3942` | Ohio Revised Code, Title 39: Insurance, Chapter 3942: Transportation Network Companies | 1 | 2026-04-19 to 2026-04-19 |
+| `orc-chapter-3951` | Ohio Revised Code, Title 39: Insurance, Chapter 3951: Public Insurance Adjusters | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-3953` | Ohio Revised Code, Title 39: Insurance, Chapter 3953: Title Insurance | 1 | 2026-03-10 to 2026-03-10 |
+| `orc-chapter-3955` | Ohio Revised Code, Title 39: Insurance, Chapter 3955: Ohio Insurance Guaranty Association | 1 | 2026-09-07 to 2026-09-07 |
+| `orc-chapter-3956` | Ohio Revised Code, Title 39: Insurance, Chapter 3956: Life and Health Insurance Guaranty Association | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-3959` | Ohio Revised Code, Title 39: Insurance, Chapter 3959: Third-party Administrators | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-3960` | Ohio Revised Code, Title 39: Insurance, Chapter 3960: Risk Retention | 1 | 2026-03-26 to 2026-03-26 |
+| `orc-chapter-3961` | Ohio Revised Code, Title 39: Insurance, Chapter 3961: Discount Medical Plans | 1 | 2026-09-30 to 2026-09-30 |
+| `orc-chapter-3963` | Ohio Revised Code, Title 39: Insurance, Chapter 3963: Health Care Contracts | 1 | 2025-12-26 to 2025-12-26 |
+| `orc-chapter-3964` | Ohio Revised Code, Title 39: Insurance, Chapter 3964: Captive Insurance Companies | 1 | 2026-05-30 to 2026-05-30 |
+| `orc-chapter-3965` | Ohio Revised Code, Title 39: Insurance, Chapter 3965: Cybersecurity Requirements For Insurance Companies | 1 | 2026-06-08 to 2026-06-08 |
+| `orc-chapter-3970` | Ohio Revised Code, Title 39: Insurance, Chapter 3970: Pet insurance | 1 | 2025-09-11 to 2025-09-11 |
+| `orc-chapter-3999` | Ohio Revised Code, Title 39: Insurance, Chapter 3999: Crimes Relating To Insurance | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4101` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4101: Safety In The Workplace | 1 | 2026-05-15 to 2026-05-15 |
+| `orc-chapter-4104` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4104: Boilers | 1 | 2025-12-15 to 2025-12-15 |
+| `orc-chapter-4105` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4105: Elevators | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-4109` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4109: Employment Of Minors | 1 | 2026-07-30 to 2026-07-30 |
+| `orc-chapter-4111` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4111: Minimum Fair Wage Standards | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4112` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4112: Civil Rights Commission | 1 | 2026-07-16 to 2026-07-16 |
+| `orc-chapter-4113` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4113: Miscellaneous Labor Provisions | 1 | 2026-10-14 to 2026-10-14 |
+| `orc-chapter-4115` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4115: Wages And Hours On Public Works | 1 | 2026-06-08 to 2026-06-08 |
+| `orc-chapter-4116` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4116: Unlawful Labor Requirements In Public Improvement Contracts | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4117` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4117: Public Employees' Collective Bargaining | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-4121` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4121: Industrial Commission; Bureau Of Workers' Compensation | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-4123` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4123: Workers' Compensation | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-4125` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4125: Professional Employer Organizations | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-4127` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4127: Public Works Relief Compensation | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4131` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4131: Separate Compensation Funds | 1 | 2026-04-26 to 2026-04-26 |
+| `orc-chapter-4133` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4133: Alternate Employer Organizations | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4139` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4139: Apprenticeship Council | 1 | 2025-07-11 to 2025-07-11 |
+| `orc-chapter-4141` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4141: Unemployment Compensation | 1 | 2026-04-22 to 2026-04-22 |
+| `orc-chapter-4163` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4163: Atomic Energy | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4164` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4164: Ohio Nuclear Development Authority | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4165` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4165: Deceptive Trade Practices | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-4167` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4167: Public Employment Risk Reduction Program | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-4169` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4169: Ski Tramways | 1 | 2026-03-28 to 2026-03-28 |
+| `orc-chapter-4171` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4171: Roller Skating Rinks | 1 | 2026-04-23 to 2026-04-23 |
+| `orc-chapter-4173` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4173: Retail Establishment Restrooms | 1 | 2026-05-02 to 2026-05-02 |
+| `orc-chapter-4175` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4175: Climbing Facilities | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4301` | Ohio Revised Code, Title 43: Liquor, Chapter 4301: Liquor Control Law | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-4303` | Ohio Revised Code, Title 43: Liquor, Chapter 4303: Liquor Permits | 1 | 2025-07-20 to 2025-07-20 |
+| `orc-chapter-4305` | Ohio Revised Code, Title 43: Liquor, Chapter 4305: Tax On Bulk Sales Of Beer | 1 | 2026-01-05 to 2026-01-05 |
+| `orc-chapter-4307` | Ohio Revised Code, Title 43: Liquor, Chapter 4307: Tax On Bottled Beverages | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-4313` | Ohio Revised Code, Title 43: Liquor, Chapter 4313: Transfer Of Enterprise Acquisition Project To Jobsohio | 1 | 2026-03-11 to 2026-03-11 |
+| `orc-chapter-4399` | Ohio Revised Code, Title 43: Liquor, Chapter 4399: Prohibitory Provisions And Crimes | 1 | 2026-09-21 to 2026-09-21 |
+| `orc-chapter-4501` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4501: Motor Vehicles - Definitions; General Provisions | 1 | 2026-08-19 to 2026-08-19 |
+| `orc-chapter-4503` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4503: Licensing Of Motor Vehicles | 1 | 2026-09-18 to 2026-09-18 |
+| `orc-chapter-4504` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4504: Local Motor Vehicle License Tax | 1 | 2026-02-15 to 2026-02-15 |
+| `orc-chapter-4505` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4505: Certificate Of Motor Vehicle Title Law | 1 | 2026-10-14 to 2026-10-14 |
+| `orc-chapter-4506` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4506: Commercial Driver's Licensing | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-4507` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4507: Driver's License Law | 1 | 2026-09-18 to 2026-09-18 |
+| `orc-chapter-4508` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4508: Driver Training Schools | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-4509` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4509: Financial Responsibility | 1 | 2026-04-20 to 2026-04-20 |
+| `orc-chapter-4510` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4510: Driver's License Suspension, Cancellation, Revocation | 1 | 2026-10-08 to 2026-10-08 |
+| `orc-chapter-4511` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4511: Traffic Laws - Operation Of Motor Vehicles | 1 | 2026-08-04 to 2026-08-04 |
+| `orc-chapter-4513` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4513: Traffic Laws - Equipment; Loads | 1 | 2026-08-09 to 2026-08-09 |
+| `orc-chapter-4515` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4515: Venue; Guest Statute | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4516` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4516: Peer-To-Peer Car Sharing Programs | 1 | 2025-12-07 to 2025-12-07 |
+| `orc-chapter-4517` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4517: Motor Vehicle Dealers, Auction Owners, and Salespersons | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-4519` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4519: Special Vehicles | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-4521` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4521: Local, Noncriminal Parking Infractions | 1 | 2026-06-26 to 2026-06-26 |
+| `orc-chapter-4549` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4549: Motor Vehicle Crimes | 1 | 2026-08-09 to 2026-08-09 |
+| `orc-chapter-4551` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4551: Transportation Of Christmas Trees | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4561` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4561: Aeronautics | 1 | 2026-03-16 to 2026-03-16 |
+| `orc-chapter-4563` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4563: Airports | 1 | 2025-07-03 to 2025-07-03 |
+| `orc-chapter-4582` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4582: Port Authorities | 1 | 2026-07-17 to 2026-07-17 |
+| `orc-chapter-4583` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4583: Ferries | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-4585` | Ohio Revised Code, Title 45: Motor Vehicles-Aeronautics-Watercraft, Chapter 4585: Actions Relating To Watercraft | 1 | 2026-05-25 to 2026-05-25 |
+| `orc-chapter-4701` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4701: Accountancy Board Law | 1 | 2026-05-13 to 2026-05-13 |
+| `orc-chapter-4703` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4703: Architects | 1 | 2026-08-15 to 2026-08-15 |
+| `orc-chapter-4705` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4705: Attorneys | 1 | 2026-08-06 to 2026-08-06 |
+| `orc-chapter-4707` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4707: Auctioneers | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-4709` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4709: Barbers | 1 | 2026-04-05 to 2026-04-05 |
+| `orc-chapter-4710` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4710: Debt Pooling Companies | 1 | 2026-07-10 to 2026-07-10 |
+| `orc-chapter-4711` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4711: Commission Merchants | 1 | 2026-09-17 to 2026-09-17 |
+| `orc-chapter-4712` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4712: Ohio Credit Services Organization Act | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-4713` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4713: Cosmetologists | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-4715` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4715: Dentists; Dental Hygienists | 1 | 2026-10-13 to 2026-10-13 |
+| `orc-chapter-4717` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4717: Embalmers, Funeral Directors, Crematories | 1 | 2026-03-17 to 2026-03-17 |
+| `orc-chapter-4719` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4719: Telephone Solicitors | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-4721` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4721: Innkeepers | 1 | 2026-04-10 to 2026-04-10 |
+| `orc-chapter-4722` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4722: Home Construction Service Suppliers | 1 | 2026-06-06 to 2026-06-06 |
+| `orc-chapter-4723` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4723: Nurses | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-4725` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4725: Optometrists; Dispensing Opticians | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-4727` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4727: Pawnbrokers | 1 | 2026-08-11 to 2026-08-11 |
+| `orc-chapter-4728` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4728: Precious Metals Dealers | 1 | 2026-03-28 to 2026-03-28 |
+| `orc-chapter-4729` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4729: Pharmacists; Dangerous Drugs | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-4730` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4730: Physician Assistants | 1 | 2026-09-29 to 2026-09-29 |
+| `orc-chapter-4731` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4731: Physicians; Limited Practitioners | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-4732` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4732: Psychologists | 1 | 2026-08-01 to 2026-08-01 |
+| `orc-chapter-4733` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4733: Professional Engineers and Professional Surveyors | 1 | 2025-11-02 to 2025-11-02 |
+| `orc-chapter-4734` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4734: Chiropractors | 1 | 2026-07-07 to 2026-07-07 |
+| `orc-chapter-4735` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4735: Real Estate Brokers | 1 | 2026-10-11 to 2026-10-11 |
+| `orc-chapter-4737` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4737: Secondhand Dealers; Junk Yards | 1 | 2025-09-09 to 2025-09-09 |
+| `orc-chapter-4738` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4738: Motor Vehicle Salvage | 1 | 2026-07-15 to 2026-07-15 |
+| `orc-chapter-4740` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4740: Construction Industry Licensing Board | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-4741` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4741: Veterinarians | 1 | 2026-04-15 to 2026-04-15 |
+| `orc-chapter-4743` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4743: Occupational Licensing Boards, Commissions, and Agencies Generally | 1 | 2026-04-13 to 2026-04-13 |
+| `orc-chapter-4744` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4744: Speech And Hearing Professionals Board | 1 | 2026-05-06 to 2026-05-06 |
+| `orc-chapter-4745` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4745: Standard License Renewal Procedure | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-4747` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4747: Hearing Aid Dealers | 1 | 2026-08-09 to 2026-08-09 |
+| `orc-chapter-4749` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4749: Private Investigators; Security Services | 1 | 2025-12-04 to 2025-12-04 |
+| `orc-chapter-4751` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4751: Nursing Home Administrators | 1 | 2026-08-09 to 2026-08-09 |
+| `orc-chapter-4752` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4752: Home Medical Services | 1 | 2026-04-25 to 2026-04-25 |
+| `orc-chapter-4753` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4753: Speech-language Pathologists and Audiologists | 1 | 2026-10-07 to 2026-10-07 |
+| `orc-chapter-4755` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4755: Occupational Therapists; Physical Therapists; Athletic Trainers | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-4757` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4757: Counselors, Social Workers, Marriage and Family Therapists | 1 | 2026-04-21 to 2026-04-21 |
+| `orc-chapter-4758` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4758: Chemical Dependency Professionals | 1 | 2026-09-07 to 2026-09-07 |
+| `orc-chapter-4759` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4759: Dietetics | 1 | 2026-05-21 to 2026-05-21 |
+| `orc-chapter-4760` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4760: Anesthesiologist Assistants | 1 | 2026-09-04 to 2026-09-04 |
+| `orc-chapter-4761` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4761: Respiratory Care | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-4762` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4762: Acupuncturists and Oriental Medicine Practitioners | 1 | 2026-04-11 to 2026-04-11 |
+| `orc-chapter-4763` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4763: Real Estate Appraisers | 1 | 2026-10-08 to 2026-10-08 |
+| `orc-chapter-4764` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4764: Home Inspectors | 1 | 2026-06-25 to 2026-06-25 |
+| `orc-chapter-4765` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4765: First Responders, Emergency Medical Technicians | 1 | 2026-08-16 to 2026-08-16 |
+| `orc-chapter-4766` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4766: State Board of Emergency Medical, Fire, and Transportation Services | 1 | 2026-06-12 to 2026-06-12 |
+| `orc-chapter-4767` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4767: Cemetery Registration | 1 | 2026-06-07 to 2026-06-07 |
+| `orc-chapter-4768` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4768: Appraisal Management Companies | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4769` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4769: Balance Billing of Medicare Beneficiaries | 1 | 2026-07-12 to 2026-07-12 |
+| `orc-chapter-4771` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4771: Athlete Agents | 1 | 2026-03-29 to 2026-03-29 |
+| `orc-chapter-4772` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4772: Certified Mental Health Assistants | 1 | 2026-06-10 to 2026-06-10 |
+| `orc-chapter-4773` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4773: Radiation Technicians | 1 | 2025-07-08 to 2025-07-08 |
+| `orc-chapter-4774` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4774: Radiologist Assistants | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-4775` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4775: Motor Vehicle Repair and Window Tint Operators | 1 | 2026-10-14 to 2026-10-14 |
+| `orc-chapter-4776` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4776: Criminal Records Checks | 1 | 2025-12-07 to 2025-12-07 |
+| `orc-chapter-4777` | Ohio Revised Code, Title 47: Occupations-Professions, Chapter 4777: Practice of Occupational Safety or Industrial Hygiene | 1 | 2026-09-06 to 2026-09-06 |
 
-The build made 544 commits:
+The build made 768 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 544 | first version of an act |
+| 768 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -572,7 +796,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 544 tags.
+- 768 tags.
 
 ## Dates
 
@@ -584,7 +808,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `586771c1d16dee1052145312bc4bb0bfacb1d33684e0b9d19e6bda62e5be0c0f` (45759216 bytes).
+- Corpus: sha256 `9b28d55035a19a6d028d867b5517fb3f7113ec3a48219ba8947a466730b8e5f1` (67620625 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
