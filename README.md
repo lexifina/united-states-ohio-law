@@ -1,37 +1,31 @@
-# Ohio: law history in git
+# United States (Ohio): law history in git
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Ohio, United States, which global-law reads at `united-states/ohio/acts/`.
 
-The statute law of Ohio as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+The law of Ohio as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **What is in it now (a first build, not complete)**
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `legal-system/` | Ohio legal system: open facts (4 entries) | 1 | One version: facts from Wikidata, retrieved 30 October 2026 |
+| `legal-system/` | Ohio legal system: open facts (4 entries, Wikidata) | 1 | One version, 2026-10-29 (first build) |
+| `constitution-article-NN/` | Constitution of the State of Ohio: 19 articles | 1 | 226 sections; each article dated by the day of the capture read (2025-07-15 to 2026-07-16) |
+| `orc-chapter-NNNN/` | Ohio Revised Code: 13 of the 968 chapters listed on the title pages | 1 | 592 sections; each chapter dated by the day of the capture read (2025-06-26 to 2026-08-16) |
 
-Nothing else of Ohio's law is in it yet.
-
-## Where the text comes from
-
-We did not work round either block. What is here are four open facts from [Wikidata](https://www.wikidata.org/wiki/Q1397) (CC0): the State of Ohio, the Constitution of Ohio, the Ohio Revised Code and the Supreme Court of Ohio, with their descriptions, classes and official websites, and Ohio's date of admission to the Union (1 March 1803, as Wikidata gives it).
+Each chapter page prints every section's full text with its "Effective" date and "Latest Legislation"; both are kept as the section's last line. The four Wikidata facts of the first build (`legal-system/`) are kept.
 
 ## Dates
 
-- The single version is dated **29 October 2026**, the last full day before retrieval, and is credited to Wikidata as "oldest version available". The only historical date in it is the admission date, given in the text.
-- The Wikidata inception date for the Supreme Court of Ohio (1841, year precision) is left out as unreliable.
-
-## What it does not show
-
-- Any law text: the Constitution of Ohio, the Revised Code, session laws and regulations.
-- Any history of change.
-- Nothing here is an official publication. This repository will be replaced by a real build if Ohio's General Assembly or the Legislative Service Commission opens a permitted way to read the Code.
+The pages carry the current text only. Each chapter and article is therefore one version, "oldest version available", dated by the day of the Internet Archive capture read (the newest capture since 1 January 2025 of each page); codes.ohio.gov prints no edition date. A section's own "Effective" line says since when its words have been in force. Later builds will add later versions on top.
 
 ## How it is checked
 
-- Every unit is read back from git on its day and compared with the corpus (`tools/check_repo.py`; results in `REPRODUCE.md`).
-- Each source file is identified by its sha256, in `data/versions.json`.
+Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match `corpus.json`; the results are in `REPRODUCE.md`.
 
 ## What "author" means
 
-Each commit is authored by the publisher (Wikidata) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
+The author of a commit is the law that made the change, with an e-mail address that cannot exist (`<law key>@codes-ohio-gov.invalid`). No dated history is available, so every commit is credited to the publisher (codes.ohio.gov, or Wikidata for `legal-system/`) as "oldest version available". The committer is always Lexifina.
+
+## Limits
+
+13 of the 968 Revised Code chapters listed on the title pages are included; partly covered: Title 1 (13 of 66). A chapter is included only when its capture holds the text of every section it lists. Left out: no capture (955). The Constitution's preamble and schedules, session laws and the Administrative Code are not included. There is no history before the dates above.

@@ -1,5 +1,9 @@
-The facts are from Wikidata, which dedicates its structured data to the public domain under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/. No Ohio law text is included.
+Source: Ohio Legislative Service Commission, https://codes.ohio.gov/ (read from Internet Archive captures; retrieved 2026-11-10).
+The legal-system facts are from Wikidata (CC0 1.0).
 
-The arrangement of this repository, its tables, commit messages and tools are by Lexifina and may be reused under the Creative
-Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/). This repository is not legal advice
-and not an official publication.
+Statute and constitution text is not copyrightable: under the government edicts doctrine, as the Supreme Court applied it in
+Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020), no one holds copyright in the laws that legislators make in their
+official capacity.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
