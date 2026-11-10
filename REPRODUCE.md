@@ -371,12 +371,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-2117` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2117: Presentment Of Claims Against Estate | 1 | 2026-10-11 to 2026-10-11 |
 | `orc-chapter-2119` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2119: Trustee For Absentee | 1 | 2026-08-08 to 2026-08-08 |
 | `orc-chapter-2121` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2121: Presumed Decedents' Law | 1 | 2025-12-10 to 2025-12-10 |
+| `orc-chapter-2123` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2123: Determination Of Heirship | 1 | 2026-08-08 to 2026-08-08 |
+| `orc-chapter-2125` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2125: Action For Wrongful Death | 1 | 2026-05-11 to 2026-05-11 |
+| `orc-chapter-2127` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2127: Sale Of Lands | 1 | 2026-06-15 to 2026-06-15 |
+| `orc-chapter-2129` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2129: Ancillary Administration | 1 | 2026-05-18 to 2026-05-18 |
+| `orc-chapter-2131` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2131: Miscellaneous | 1 | 2026-05-16 to 2026-05-16 |
+| `orc-chapter-2133` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2133: Modified Uniform Rights of the Terminally Ill Act; DNR Identification and Do-not-resuscitate Orders | 1 | 2026-10-08 to 2026-10-08 |
+| `orc-chapter-2135` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2135: Declaration For Mental Health Treatment | 1 | 2026-10-09 to 2026-10-09 |
+| `orc-chapter-2137` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2137: Uniform Fiduciary Access To Digital Assets Act | 1 | 2026-06-14 to 2026-06-14 |
+| `orc-chapter-2151` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2151: Juvenile Court | 1 | 2026-07-14 to 2026-07-14 |
+| `orc-chapter-2152` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2152: Delinquent Children; Juvenile Traffic Offenders | 1 | 2026-06-11 to 2026-06-11 |
+| `orc-chapter-2153` | Ohio Revised Code, Title 21: Courts-Probate-Juvenile, Chapter 2153: Cuyahoga County Juvenile Court | 1 | 2025-12-07 to 2025-12-07 |
+| `orc-chapter-2301` | Ohio Revised Code, Title 23: Courts-Common Pleas, Chapter 2301: Organization | 1 | 2026-07-12 to 2026-07-12 |
 
-The build made 356 commits:
+The build made 368 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 356 | first version of an act |
+| 368 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -384,7 +396,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 356 tags.
+- 368 tags.
 
 ## Dates
 
@@ -396,7 +408,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f3e583608d58351e9768634be6e573ba885390d6da66edfd2218623a21fd6496` (26666345 bytes).
+- Corpus: sha256 `408a353fc3ad898bddbf2ca1282bb596121c92c947dc2858a411af7cfec2e12d` (28180502 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

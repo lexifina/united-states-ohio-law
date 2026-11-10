@@ -10,7 +10,7 @@ The law of Ohio as a git history: one file per provision, with `git blame` and `
 | --- | --- | ---: | --- |
 | `legal-system/` | Ohio legal system: open facts (4 entries, Wikidata) | 1 | One version, 2026-10-29 (first build) |
 | `constitution-article-NN/` | Constitution of the State of Ohio: 19 articles | 1 | 226 sections; each article dated by the day of the capture read (2025-07-15 to 2026-07-16) |
-| `orc-chapter-NNNN/` | Ohio Revised Code: 336 of the 968 chapters listed on the title pages | 1 | 11081 sections; each chapter dated by the day of the capture read (2025-06-26 to 2026-10-29) |
+| `orc-chapter-NNNN/` | Ohio Revised Code: 348 of the 968 chapters listed on the title pages | 1 | 11558 sections; each chapter dated by the day of the capture read (2025-06-26 to 2026-10-29) |
 
 Each chapter page prints every section's full text with its "Effective" date and "Latest Legislation"; both are kept as the section's last line. The four Wikidata facts of the first build (`legal-system/`) are kept.
 
@@ -28,4 +28,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-336 of the 968 Revised Code chapters listed on the title pages are included; complete titles: Title 1, Title 3, Title 5, Title 7, Title 9, Title 11, Title 13, Title 15, Title 17, Title 19; partly covered: Title 21 (14 of 25). A chapter is included only when its capture holds the text of every section it lists. Left out: no capture (632). The Constitution's preamble and schedules, session laws and the Administrative Code are not included. There is no history before the dates above.
+348 of the 968 Revised Code chapters listed on the title pages are included; complete titles: Title 1, Title 3, Title 5, Title 7, Title 9, Title 11, Title 13, Title 15, Title 17, Title 19, Title 21; partly covered: Title 23 (1 of 20). A chapter is included only when its capture holds the text of every section it lists. Left out: no capture (620). The Constitution's preamble and schedules, session laws and the Administrative Code are not included. There is no history before the dates above.
