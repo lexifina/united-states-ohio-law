@@ -1,6 +1,6 @@
 # How this repository was made (United States (Ohio))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | --- | --- | --- | --- |
 | Wikidata | <https://www.wikidata.org/wiki/Q1397> | 2026-10-30 | CC0 1.0 (structured data in the main, Property and Lexeme namespaces). |
 | Ohio Revised Code and Ohio Constitution (codes.ohio.gov, Legislative Service Commission), read from Internet Archive captures | <https://codes.ohio.gov/> | 2026-11-10 | Statute and constitution text carries no copyright (Georgia v. Public.Resource.Org, 2020). |
+| Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1003,20 +1004,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-6156` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6156: County Reclamation | 1 | 2025-07-08 to 2025-07-08 |
 | `orc-chapter-6161` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6161: Great Lakes Basin Compact | 1 | 2025-07-08 to 2025-07-08 |
 | `orc-chapter-6301` | Ohio Revised Code, Title 63: Workforce Development, Chapter 6301: Workforce Development System | 1 | 2026-06-13 to 2026-06-13 |
+| `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
+| `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
+| `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
+| `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
+| `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 988 commits:
+The build made 993 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 988 | first version of an act |
+| 993 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 988 tags.
+- 993 tags.
 
 ## Dates
 
@@ -1028,7 +1034,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c32e92f4bd78564ed85b728e96df308d14806594d6e7caeb37f58efae16f5e55` (85088178 bytes).
+- Corpus: sha256 `23390763f8a7d2b28b66b64e4ee63e609e3cab0fe25abfeb75bd3c7483d4de3a` (85220677 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1047,6 +1053,7 @@ No second build of this corpus has been compared yet.
 - For each Revised Code chapter and Constitution article the newest Internet Archive capture since 2025-01-01 of its codes.ohio.gov page was read; the chapter list is the one each title page (newest capture) gives.
 - Each chapter or article is dated by the day of the capture read (codes.ohio.gov states no edition date). Each section keeps the "Effective" date and "Latest Legislation" the page prints for it, as its last line.
 - A chapter or article is published only if every section row on its page has text; incomplete captures are left out and listed in the README.
+- Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
 
@@ -1058,3 +1065,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.

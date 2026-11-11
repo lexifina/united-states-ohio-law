@@ -13832,6 +13832,76 @@
      "sha256": "b19e4f47fb7519b2b2bd48373b3c509f4186d920a3c3d80be2b3b30353e5b794"
     }
    ]
+  },
+  {
+   "slug": "orc-chapter-1314",
+   "short": "R.C. Chapter 1314",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1314",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 7,
+     "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1314",
+     "sha256": "2bcac2c28f96750e27be3fcad1d8d4aa70b40bd83ce413722f7918aad84ebff5"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1316",
+   "short": "R.C. Chapter 1316",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022)",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1316",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 9,
+     "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1316",
+     "sha256": "e7069aad6afa85c30b427ce0aa7a6cb522faa54fd2d6d26161a0684ff5a09084"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-1357",
+   "short": "R.C. Chapter 1357",
+   "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1357",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 11,
+     "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-1357",
+     "sha256": "ee32432119b67b76564f4bb743262a718cc02d33af6ece00a3f6a6e2d705d413"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-3957",
+   "short": "R.C. Chapter 3957",
+   "title": "Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3957",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 20,
+     "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-3957",
+     "sha256": "81978188cadabaffed8368a43aa1b000eb271e8dc0d1e821ae582b1525c9ad07"
+    }
+   ]
+  },
+  {
+   "slug": "orc-chapter-4151",
+   "short": "R.C. Chapter 4151",
+   "title": "Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act",
+   "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4151",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-4151",
+     "sha256": "0dba1e2ace983dc5ba186b8fd9c0f87f4b529345bc7613c36f7dfc839bf8019e"
+    }
+   ]
   }
  ]
 }
