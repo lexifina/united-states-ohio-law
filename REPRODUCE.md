@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | --- | --- | --- | --- |
 | Wikidata | <https://www.wikidata.org/wiki/Q1397> | 2026-10-30 | CC0 1.0 (structured data in the main, Property and Lexeme namespaces). |
 | Ohio Revised Code and Ohio Constitution (codes.ohio.gov, Legislative Service Commission), read from Internet Archive captures | <https://codes.ohio.gov/> | 2026-11-10 | Statute and constitution text carries no copyright (Georgia v. Public.Resource.Org, 2020). |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -1004,17 +1005,550 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `orc-chapter-6156` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6156: County Reclamation | 1 | 2025-07-08 to 2025-07-08 |
 | `orc-chapter-6161` | Ohio Revised Code, Title 61: Water Supply-Sanitation-Ditches, Chapter 6161: Great Lakes Basin Compact | 1 | 2025-07-08 to 2025-07-08 |
 | `orc-chapter-6301` | Ohio Revised Code, Title 63: Workforce Development, Chapter 6301: Workforce Development System | 1 | 2026-06-13 to 2026-06-13 |
+| `oac-rule-011-1-01` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-01: Rule to provide for notification of meeting. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-02` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-02: "Apportionment Board" defined. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-03` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-03: Open meetings. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-04` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-04: Officers; participation of members; minutes. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-05` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-05: Calling of meetings. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-06` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-06: Quorum. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-07` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-07: Records retention and public records policies. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-08` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-08: Public hearings. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-09` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-09: Apportionment plans. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-10` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-10: Consideration of apportionment plans; adoption of plan. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-11` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-11: Publication of apportionment plan. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-011-1-12` | Ohio Administrative Code, Chapter 011-1 | Meetings, Rule 011-1-12: Reconvening the apportionment board. | 1 | 2011-08-15 to 2011-08-15 |
+| `oac-rule-101-1-01` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-01: Definitions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-1-02` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-02: Committee meetings; notice of meetings. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-1-03` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-03: Advisory opinions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-1-04` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-04: Written opinions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-1-05` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-05: Financial disclosure statements. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-1-06` | Ohio Administrative Code, Chapter 101-1 | Operating Procedures, Rule 101-1-06: Personal information records. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-5-01` | Ohio Administrative Code, Chapter 101-5 | Financial Disclosure Requirements, Rule 101-5-01: Financial disclosure filing requirement - staff members and employees of the general assembly. | 1 | 2019-02-22 to 2019-02-22 |
+| `oac-rule-101-7-01` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-01: Definitions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-02` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-02: Jurisdiction. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-03` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-03: Confidentiality. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-04` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-04: Investigations. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-05` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-05: Complaints. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-06` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-06: Representatives. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-07` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-07: Motions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-08` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-08: Continuances. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-09` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-09: Subpoenas. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-10` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-10: Discovery and depositions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-11` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-11: Evidence. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-12` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-12: Hearing procedures. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-13` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-13: Briefs. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-7-14` | Ohio Administrative Code, Chapter 101-7 | Adjudication Procedures, Rule 101-7-14: Computation and extension of time. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-9-01` | Ohio Administrative Code, Chapter 101-9 | Legislative Lobbying, Rule 101-9-01: Definitions. | 1 | 1995-05-18 to 1995-05-18 |
+| `oac-rule-101-11-01` | Ohio Administrative Code, Chapter 101-11 | Executive Agency Lobbying, Rule 101-11-01: Definitions. | 1 | 1995-05-25 to 1995-05-25 |
+| `oac-rule-102-1-01` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-01: Definitions. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-1-02` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-02: Jurisdiction. | 1 | 2002-01-01 to 2002-01-01 |
+| `oac-rule-102-1-03` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-03: Commission and staff. | 1 | 2002-01-01 to 2002-01-01 |
+| `oac-rule-102-1-04` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-04: Notice procedure for rule-making. | 1 | 2002-01-01 to 2002-01-01 |
+| `oac-rule-102-1-05` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-05: Commission meetings; notice of meetings. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-1-06` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-06: Officers and committees. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-1-07` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-07: Personal information records. | 1 | 2007-11-29 to 2007-11-29 |
+| `oac-rule-102-1-08` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-08: Definitions. | 1 | 2010-09-30 to 2010-09-30 |
+| `oac-rule-102-1-09` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-09: Procedures for accessing confidential personal information. | 1 | 2010-09-30 to 2010-09-30 |
+| `oac-rule-102-1-10` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-10: Valid reasons for accessing confidential person information. | 1 | 2010-09-30 to 2010-09-30 |
+| `oac-rule-102-1-11` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-11: Confidentiality statutes. | 1 | 2010-09-30 to 2010-09-30 |
+| `oac-rule-102-1-12` | Ohio Administrative Code, Chapter 102-1 | Definitions and Operating Procedures, Rule 102-1-12: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2010-09-30 to 2010-09-30 |
+| `oac-rule-102-3-01` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-01: Advisory opinions. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-3-02` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-02: Advisory committee. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-3-03` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-03: Advisory processes; requests. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-3-04` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-04: Advisory processes; telephone and electronic mail guidance. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-3-05` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-05: Advisory processes; RC section 102.04(D) statements. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-3-06` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-06: Advisory processes; availability and distribution. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-3-07` | Ohio Administrative Code, Chapter 102-3 | Advisory Opinions, Rule 102-3-07: Advisory opinions; request for reconsideration by recipient of opinion. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-01` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-01: Definitions. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-02` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-02: Financial disclosure statements. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-03` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-03: Financial disclosure filing requirement; persons of equivalent rank to directors, assistant directors, deputy directors, or division chiefs of state administrative departments. | 1 | 2007-11-29 to 2007-11-29 |
+| `oac-rule-102-5-04` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-04: Financial disclosure filing requirement; chief administrative or executive officers of sovereign power state boards and commissions. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-05` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-05: Financial disclosure filing requirement; members of state boards and commissions. | 1 | 2026-08-28 to 2026-08-28 |
+| `oac-rule-102-5-06` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-06: Financial disclosure filing requirement; public officials subject to multiple filing requirements; voluntary filers. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-5-07` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-07: Review of filed statements to determine completeness. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-5-08` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-08: Review of filed statements kept confidential by statute. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-09` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-09: Financial disclosure statement attachments. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-10` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-10: Deadlines; receipt of financial disclosure statements. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-11` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-11: Extensions. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-12` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-12: Payment of late fees. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-13` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-13: Financial disclosure statement complaints. | 1 | 2002-01-01 to 2002-01-01 |
+| `oac-rule-102-5-14` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-14: Disposition of financial disclosure statement complaints. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-15` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-15: Waiver of late fees. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-5-16` | Ohio Administrative Code, Chapter 102-5 | Financial Disclosure Filing, Rule 102-5-16: Collection of financial disclosure statement filing and late fees. | 1 | 2017-02-11 to 2017-02-11 |
+| `oac-rule-102-7-01` | Ohio Administrative Code, Chapter 102-7 | Investigations; Complaints, Rule 102-7-01: Confidentiality. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-7-02` | Ohio Administrative Code, Chapter 102-7 | Investigations; Complaints, Rule 102-7-02: Investigation processes. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-7-03` | Ohio Administrative Code, Chapter 102-7 | Investigations; Complaints, Rule 102-7-03: Investigative committee. | 1 | 2002-01-01 to 2002-01-01 |
+| `oac-rule-102-7-04` | Ohio Administrative Code, Chapter 102-7 | Investigations; Complaints, Rule 102-7-04: Charges. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-7-05` | Ohio Administrative Code, Chapter 102-7 | Investigations; Complaints, Rule 102-7-05: Complaints. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-102-9-01` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-01: General hearing procedures. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-02` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-02: Counsel. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-03` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-03: Discovery and depositions. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-04` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-04: Motions. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-05` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-05: Continuances. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-06` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-06: Briefs. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-07` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-07: Subpoenas. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-08` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-08: Evidence. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-102-9-09` | Ohio Administrative Code, Chapter 102-9 | Hearings on Complaints, Rule 102-9-09: Hearing examiners. | 1 | 2007-11-29 to 2007-11-29 |
+| `oac-rule-102-11-01` | Ohio Administrative Code, Chapter 102-11 | Settlements, Rule 102-11-01: Settlement referral pursuant to division (G)(1) of section 102.06 of the Revised Code. | 1 | 2012-02-26 to 2012-02-26 |
+| `oac-rule-102-11-02` | Ohio Administrative Code, Chapter 102-11 | Settlements, Rule 102-11-02: Settlement negotiations. | 1 | 2024-09-03 to 2024-09-03 |
+| `oac-rule-102-11-03` | Ohio Administrative Code, Chapter 102-11 | Settlements, Rule 102-11-03: Failure of settlement. | 1 | 2017-06-29 to 2017-06-29 |
+| `oac-rule-107-2-01` | Ohio Administrative Code, Chapter 107-2 | Accessing Confidential Personal Information, Rule 107-2-01: Definitions for accessing confidential personal information. | 1 | 2014-01-06 to 2014-01-06 |
+| `oac-rule-107-2-02` | Ohio Administrative Code, Chapter 107-2 | Accessing Confidential Personal Information, Rule 107-2-02: Procedures for accessing confidential personal information. | 1 | 2013-11-14 to 2013-11-14 |
+| `oac-rule-107-2-03` | Ohio Administrative Code, Chapter 107-2 | Accessing Confidential Personal Information, Rule 107-2-03: Valid reasons for accessing confidential person information. | 1 | 2013-11-14 to 2013-11-14 |
+| `oac-rule-107-2-04` | Ohio Administrative Code, Chapter 107-2 | Accessing Confidential Personal Information, Rule 107-2-04: Confidentiality statutes and rules. | 1 | 2013-11-14 to 2013-11-14 |
+| `oac-rule-107-2-05` | Ohio Administrative Code, Chapter 107-2 | Accessing Confidential Personal Information, Rule 107-2-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2013-11-14 to 2013-11-14 |
+| `oac-rule-107-3-03` | Ohio Administrative Code, Chapter 107-3 | Procedure for Actions or Proposed Actions, Rule 107-3-03: Procedure for referral of actions or proposed actions to the common sense initiative office. | 1 | 2023-07-20 to 2023-07-20 |
+| `oac-rule-109-1-1-01` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-01: Construction and purpose of rules; severability; definitions. | 1 | 2017-02-02 to 2017-02-02 |
+| `oac-rule-109-1-1-02` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-02: Registration and exemptions. | 1 | 2023-01-07 to 2023-01-07 |
+| `oac-rule-109-1-1-03` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-03: Group or consolidated registration. | 1 | 2021-08-02 to 2021-08-02 |
+| `oac-rule-109-1-1-05` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-05: Place of filing. | 1 | 2022-05-27 to 2022-05-27 |
+| `oac-rule-109-1-1-06` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-06: Determination letters. | 1 | 2015-09-10 to 2015-09-10 |
+| `oac-rule-109-1-1-08` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-08: Notice of revocation of federal taxation exemption. | 1 | 2012-05-18 to 2012-05-18 |
+| `oac-rule-109-1-1-09` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-09: Notice of dissolution of a charitable trust. | 1 | 2015-09-10 to 2015-09-10 |
+| `oac-rule-109-1-1-10` | Ohio Administrative Code, Chapter 109:1-1 | Registration of Charitable Trusts, Rule 109:1-1-10: Charitable advisory council. | 1 | 2006-11-27 to 2006-11-27 |
+| `oac-rule-109-1-2-01` | Ohio Administrative Code, Chapter 109:1-2 | Organization Required Filings, Rule 109:1-2-01: Place of filing. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-3-01` | Ohio Administrative Code, Chapter 109:1-3 | Application for Charitable Bingo License, Rule 109:1-3-01: Definitions. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-01` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-01: Application for a charitable bingo license. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-02` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-02: Licensing generally. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-03` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-03: License applications. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-04` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-04: General grounds for resfusal to issue a license, denial of a license application or renewal, or revocation of a license. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-05` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-05: Requirements for charitable bingo license application for charitable organizations previously licensed to play bingo games. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-06` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-06: Charitable instant bingo fundraising agreements. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-109-1-4-07` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-07: Instant bingo other than at a bingo session; location. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-08` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-08: Bingo license types; who may obtain bingo license. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-09` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-09: Veterans or fraternal organizations; authorized to conduct bingo. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-10` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-10: Expenses. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-11` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-11: Bingo supplies; sale by distributor. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-12` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-12: Owner or lessor assistance in the conduct of instant bingo. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-13` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-13: Definition of "calendar year" for the distribution of net profit from the proceeds of the sale of instant bingo; veteran's, fraternal, or sporting organization. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-14` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-14: Transfer to general account; veteran's, fraternal, or sporting organization. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-15` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-15: Net profit from the proceeds of the sale of instant bingo. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-16` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-16: Instant bingo non-cash prizes. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-17` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-17: Charitable bingo license fees for bingo as defined in division (O)(1) of section 2915.01 of the Revised Code. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-18` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-18: License fees for charitable instant bingo at a bingo session. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-19` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-19: License fees for charitable instant bingo other than at a bingo session. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-4-20` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-20: Bingo game operator. | 1 | 2022-09-25 to 2022-09-25 |
+| `oac-rule-109-1-4-21` | Ohio Administrative Code, Chapter 109:1-4 | Charitable Organization Bingo, Rule 109:1-4-21: Distributing net profit from proceeds of sale of instant bingo. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-109-1-5-01` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-01: Requirements for any organization that conducts electronic instant bingo. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-02` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-02: Requirements for manufacturers to receive electronic instant bingo endorsement. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-03` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-03: Requirements for distributors to receive electronic instant bingo endorsement. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-04` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-04: Location and number of electronic instant bingo participant devices. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-05` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-05: Times when electronic instant bingo may be offered. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-06` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-06: Signage requirements. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-08` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-08: Fees for electronic instant bingo endorsement for manufacturers. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-09` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-09: Fees for electronic instant bingo endorsement for distributors. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-10` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-10: Fees for monitoring and inspecting electronic instant bingo system for distributors. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-11` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-11: Bonds. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-12` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-12: Electronic instant bingo seal. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-13` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-13: Central server reports. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-14` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-14: Quarterly report requirements for veteran and fraternal organizations conducting electronic instant bingo. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-15` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-15: Quarterly report requirements for manufacturers with electronic instant bingo endorsements. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-16` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-16: Application for electronic bingo endorsement for manufacturers and distributors. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-17` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-17: Requirements for electronic instant bingo deals. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-18` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-18: Electronic instant bingo operator. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-19` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-19: Application designee. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-20` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-20: Separate accounts. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-5-21` | Ohio Administrative Code, Chapter 109:1-5 | Reports, Rule 109:1-5-21: Internal control standards. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-6-01` | Ohio Administrative Code, Chapter 109:1-6 | Enforcement Actions, Rule 109:1-6-01: Procedures allowing the attorney general to seek a summary suspension of a license. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-6-02` | Ohio Administrative Code, Chapter 109:1-6 | Enforcement Actions, Rule 109:1-6-02: Types of sanctions. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-6-03` | Ohio Administrative Code, Chapter 109:1-6 | Enforcement Actions, Rule 109:1-6-03: Civil fines for charitable organizations, manufacturers, and distributors. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-7-01` | Ohio Administrative Code, Chapter 109:1-7 | Electronic Instant Bingo Systems, Rule 109:1-7-01: Restrictions on manufacturers and distributors. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-7-02` | Ohio Administrative Code, Chapter 109:1-7 | Electronic Instant Bingo Systems, Rule 109:1-7-02: Approval of electronic instant bingo systems. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-7-03` | Ohio Administrative Code, Chapter 109:1-7 | Electronic Instant Bingo Systems, Rule 109:1-7-03: Transportation of regulated equipment and software. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-7-04` | Ohio Administrative Code, Chapter 109:1-7 | Electronic Instant Bingo Systems, Rule 109:1-7-04: Receipt of devices, system and software in the state. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-1-8-01` | Ohio Administrative Code, Chapter 109:1-8 | Scholarship Granting Organizations, Rule 109:1-8-01: Scholarship granting organizations. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-2-1-02` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-02: Definitions. | 1 | 2016-01-16 to 2016-01-16 |
+| `oac-rule-109-2-1-03` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-03: Ohio peace officer basic training program course. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-109-2-1-04` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-04: Approval of schools. | 1 | 2015-03-02 to 2015-03-02 |
+| `oac-rule-109-2-1-05` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-05: Approval of school commanders. | 1 | 2017-07-01 to 2017-07-01 |
+| `oac-rule-109-2-1-06` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-06: Approval of instructors. | 1 | 2026-02-12 to 2026-02-12 |
+| `oac-rule-109-2-1-07` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-07: Certificate of completion. | 1 | 2006-06-09 to 2006-06-09 |
+| `oac-rule-109-2-1-08` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-08: School facilities. | 1 | 2000-01-01 to 2000-01-01 |
+| `oac-rule-109-2-1-09` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-09: Attendance. | 1 | 2014-07-01 to 2014-07-01 |
+| `oac-rule-109-2-1-10` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-10: Notebook and eligibility requirements for the state certification examination. | 1 | 2000-01-01 to 2000-01-01 |
+| `oac-rule-109-2-1-11` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-11: Examination. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-109-2-1-12` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-12: Certification before service and re-entry requirements. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-109-2-1-13` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-13: Statutorily mandated training. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-1-16` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-16: Explanation of the basic training course. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-109-2-1-17` | Ohio Administrative Code, Chapter 109:2-1 | Basic Training Program, Rule 109:2-1-17: Public notices of meetings of the Ohio peace officer training commission. | 1 | 2000-01-01 to 2000-01-01 |
+| `oac-rule-109-2-2-01` | Ohio Administrative Code, Chapter 109:2-2 | Tactical Medical Professional, Rule 109:2-2-01: Definitions. | 1 | 2018-10-28 to 2018-10-28 |
+| `oac-rule-109-2-2-02` | Ohio Administrative Code, Chapter 109:2-2 | Tactical Medical Professional, Rule 109:2-2-02: Training. | 1 | 2018-10-28 to 2018-10-28 |
+| `oac-rule-109-2-2-03` | Ohio Administrative Code, Chapter 109:2-2 | Tactical Medical Professional, Rule 109:2-2-03: Certification of students. | 1 | 2018-10-28 to 2018-10-28 |
+| `oac-rule-109-2-2-04` | Ohio Administrative Code, Chapter 109:2-2 | Tactical Medical Professional, Rule 109:2-2-04: Forms. | 1 | 2020-06-15 to 2020-06-15 |
+| `oac-rule-109-2-3-01` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-01: Definitions. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-02` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-02: Statements of purpose. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-03` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-03: Approval of training facilities. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-04` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-04: Certification of commanders. | 1 | 2017-07-01 to 2017-07-01 |
+| `oac-rule-109-2-3-05` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-05: Certification of instructors. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-3-06` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-06: Approval of courses. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-07` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-07: Attendance requirements. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-08` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-08: Notebook. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-09` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-09: Examination. | 1 | 2017-07-01 to 2017-07-01 |
+| `oac-rule-109-2-3-10` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-10: Firearms certification. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-11` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-11: Private security academic training course certificate of completion. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-12` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-12: Description of the private security academic training course. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-3-13` | Ohio Administrative Code, Chapter 109:2-3 | Private Basic Course Training Program, Rule 109:2-3-13: Adjudication hearing procedure. | 1 | 2014-07-01 to 2014-07-01 |
+| `oac-rule-109-2-5-01` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-01: Definitions. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-5-02` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-02: Basic course for court officers. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-5-03` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-03: School facilities. | 1 | 2011-02-03 to 2011-02-03 |
+| `oac-rule-109-2-5-04` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-04: Approval of school. | 1 | 2026-06-06 to 2026-06-06 |
+| `oac-rule-109-2-5-05` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-05: Approval of commanders. | 1 | 2026-06-06 to 2026-06-06 |
+| `oac-rule-109-2-5-06` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-06: Approval of instructors. | 1 | 2026-06-06 to 2026-06-06 |
+| `oac-rule-109-2-5-07` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-07: Certification of court officers. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-5-08` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-08: Attendance. | 1 | 2011-02-03 to 2011-02-03 |
+| `oac-rule-109-2-5-10` | Ohio Administrative Code, Chapter 109:2-5 | Basic Course Training Program for Bailiffs and Deputy Bailiffs, Rule 109:2-5-10: Credit for prior equivalent training. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-6-01` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-01: Definitions. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-02` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-02: Basic course training program for state public defender criminal investigators. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-03` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-03: Approval of school. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-04` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-04: Approval of instructors. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-05` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-05: Certification of state public defender criminal investigators. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-06` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-06: Attendance. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-109-2-6-07` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-07: Notebook and eligibility requirements for the final examination. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-08` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-08: Examination. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-09` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-09: Firearms. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-6-10` | Ohio Administrative Code, Chapter 109:2-6 | Basic Course Training Program for Criminal Investigators Employed by State Public Defender, Rule 109:2-6-10: Credit for prior equivalent training. | 1 | 2002-07-07 to 2002-07-07 |
+| `oac-rule-109-2-7-01` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-01: Definitions. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-7-02` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-02: Basic courses for evaluators. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-7-03` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-03: Minimum standards for certification of law enforcement canine units. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-7-04` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-04: Qualifications for evaluators. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-7-05` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-05: Certification of law enforcement canine units. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-109-2-7-06` | Ohio Administrative Code, Chapter 109:2-7 | Law Enforcement Canine Units and Evaluators, Rule 109:2-7-06: Adjudication hearing procedure. | 1 | 2001-01-01 to 2001-01-01 |
+| `oac-rule-109-2-9-01` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-01: Definitions. | 1 | 2014-07-01 to 2014-07-01 |
+| `oac-rule-109-2-9-02` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-02: Corrections training for full service jail personnel. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-03` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-03: Approval of schools. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-04` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-04: Approval of commanders. | 1 | 2017-07-01 to 2017-07-01 |
+| `oac-rule-109-2-9-05` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-05: Approval of instructors. | 1 | 2016-08-25 to 2016-08-25 |
+| `oac-rule-109-2-9-06` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-06: Certificate of completion. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-07` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-07: School facilities. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-08` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-08: Attendance. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-109-2-9-09` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-09: Notebook. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-10` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-10: Examination. | 1 | 2001-06-01 to 2001-06-01 |
+| `oac-rule-109-2-9-11` | Ohio Administrative Code, Chapter 109:2-9 | Corrections Training for Jail Personnel, Rule 109:2-9-11: Credit for prior equivalent training, and training requirements upon re-appointment. | 1 | 2026-09-14 to 2026-09-14 |
+| `oac-rule-109-2-11-01` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-01: Definitions. | 1 | 2014-07-01 to 2014-07-01 |
+| `oac-rule-109-2-11-02` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-02: Jailer training for twelve-day and twelve-hour facilities. | 1 | 2014-07-01 to 2014-07-01 |
+| `oac-rule-109-2-11-03` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-03: Approval of schools. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-11-04` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-04: Approval of school commanders. | 1 | 2017-07-01 to 2017-07-01 |
+| `oac-rule-109-2-11-05` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-05: Approval of instructors. | 1 | 2018-01-01 to 2018-01-01 |
+| `oac-rule-109-2-11-06` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-06: Certificate of completion. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-11-07` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-07: School facilities. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-11-08` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-08: Attendance. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-109-2-11-09` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-09: Notebook. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-11-10` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-10: Examination. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-11-11` | Ohio Administrative Code, Chapter 109:2-11 | Jail Training Program for Five Day Facilities, Rule 109:2-11-11: Time requirements for certification, credit for prior equivalent training, and training requirements upon re-appointment. | 1 | 2019-02-15 to 2019-02-15 |
+| `oac-rule-109-2-13-01` | Ohio Administrative Code, Chapter 109:2-13 | Firearms Re-qualifications Program, Rule 109:2-13-01: Definitions. | 1 | 2008-04-24 to 2008-04-24 |
+| `oac-rule-109-2-13-02` | Ohio Administrative Code, Chapter 109:2-13 | Firearms Re-qualifications Program, Rule 109:2-13-02: Firearms re-qualification program. | 1 | 2008-04-24 to 2008-04-24 |
+| `oac-rule-109-2-13-03` | Ohio Administrative Code, Chapter 109:2-13 | Firearms Re-qualifications Program, Rule 109:2-13-03: Approval of firearms re-qualification programs. | 1 | 2008-04-24 to 2008-04-24 |
+| `oac-rule-109-2-13-04` | Ohio Administrative Code, Chapter 109:2-13 | Firearms Re-qualifications Program, Rule 109:2-13-04: Approval of instructors. | 1 | 2014-01-19 to 2014-01-19 |
+| `oac-rule-109-2-13-05` | Ohio Administrative Code, Chapter 109:2-13 | Firearms Re-qualifications Program, Rule 109:2-13-05: Explanation of the minimum requirements for firearms re-qualification. | 1 | 2008-04-24 to 2008-04-24 |
+| `oac-rule-109-2-15-01` | Ohio Administrative Code, Chapter 109:2-15 | Humane Agent Training Course, Rule 109:2-15-01: Definitions. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-15-02` | Ohio Administrative Code, Chapter 109:2-15 | Humane Agent Training Course, Rule 109:2-15-02: Basic course for humane agents. | 1 | 2014-01-19 to 2014-01-19 |
+| `oac-rule-109-2-15-03` | Ohio Administrative Code, Chapter 109:2-15 | Humane Agent Training Course, Rule 109:2-15-03: Explanation of the basic training course. | 1 | 2014-01-19 to 2014-01-19 |
+| `oac-rule-109-2-15-04` | Ohio Administrative Code, Chapter 109:2-15 | Humane Agent Training Course, Rule 109:2-15-04: Instructors, facilities and documentation of training. | 1 | 2014-01-19 to 2014-01-19 |
+| `oac-rule-109-2-15-05` | Ohio Administrative Code, Chapter 109:2-15 | Humane Agent Training Course, Rule 109:2-15-05: Credit for prior equivalent training. | 1 | 2003-10-01 to 2003-10-01 |
+| `oac-rule-109-2-17-01` | Ohio Administrative Code, Chapter 109:2-17 | Fire Investigator Professional, Rule 109:2-17-01: Definitions. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-17-02` | Ohio Administrative Code, Chapter 109:2-17 | Fire Investigator Professional, Rule 109:2-17-02: Minimum Training. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-17-03` | Ohio Administrative Code, Chapter 109:2-17 | Fire Investigator Professional, Rule 109:2-17-03: Application and Certification. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-17-04` | Ohio Administrative Code, Chapter 109:2-17 | Fire Investigator Professional, Rule 109:2-17-04: Disciplinary Actions. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-01` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-01: Definitions. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-02` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-02: Officer training requirements. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-03` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-03: Training and instructor qualification. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-04` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-04: Reimbursement of training costs. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-05` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-05: Agency record keeping and reporting. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-2-18-06` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-06: Enforcement. | 1 | 2023-04-27 to 2023-04-27 |
+| `oac-rule-109-2-18-20` | Ohio Administrative Code, Chapter 109:2-18 | Continuing Professional Training for Peace Officers and Troopers, Rule 109:2-18-20: Training for Hospital Security Personnel. | 1 | 2026-03-30 to 2026-03-30 |
+| `oac-rule-109-4-1-01` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-01: Statutory authority for promulgation. | 1 | 1998-06-15 to 1998-06-15 |
+| `oac-rule-109-4-1-02` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-02: Purpose of the office of the Ohio attorney general, consumer protection section. | 1 | 2022-05-26 to 2022-05-26 |
+| `oac-rule-109-4-1-03` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-03: Objectives of the office of the Ohio attorney general, consumer protection section. | 1 | 2025-06-12 to 2025-06-12 |
+| `oac-rule-109-4-1-04` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-04: Amendment to this chapter. | 1 | 1998-06-15 to 1998-06-15 |
+| `oac-rule-109-4-1-05` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-05: Organization of the office of the Ohio attorney general, consumer protection section. | 1 | 2014-12-29 to 2014-12-29 |
+| `oac-rule-109-4-1-06` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-06: Submission of complaints. | 1 | 2025-06-12 to 2025-06-12 |
+| `oac-rule-109-4-1-07` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-07: Obtaining information. | 1 | 2020-01-23 to 2020-01-23 |
+| `oac-rule-109-4-1-08` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-08: Petitions requesting the adoption, amendment, or repeal of rules. | 1 | 2014-06-09 to 2014-06-09 |
+| `oac-rule-109-4-1-09` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-09: Making submissions and requests. | 1 | 2014-06-09 to 2014-06-09 |
+| `oac-rule-109-4-1-10` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-10: Description of forms. | 1 | 2025-08-19 to 2025-08-19 |
+| `oac-rule-109-4-1-12` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-12: Notice of public meetings. | 1 | 2014-06-09 to 2014-06-09 |
+| `oac-rule-109-4-1-13` | Ohio Administrative Code, Chapter 109:4-1 | General Provisions, Rule 109:4-1-13: Severability. | 1 | 2025-06-12 to 2025-06-12 |
+| `oac-rule-109-4-3-01` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-01: Construction and purpose of rules; severability; definitions. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-02` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-02: Exclusions and limitations in advertisements. | 1 | 2020-04-03 to 2020-04-03 |
+| `oac-rule-109-4-3-03` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-03: Bait advertising/unavailability of goods. | 1 | 2005-03-14 to 2005-03-14 |
+| `oac-rule-109-4-3-04` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-04: Use of word "free" etc. | 1 | 2005-03-14 to 2005-03-14 |
+| `oac-rule-109-4-3-05` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-05: Repairs or services. | 1 | 2015-06-05 to 2015-06-05 |
+| `oac-rule-109-4-3-06` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-06: Prizes. | 1 | 2025-05-15 to 2025-05-15 |
+| `oac-rule-109-4-3-07` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-07: Deposits. | 1 | 2025-05-15 to 2025-05-15 |
+| `oac-rule-109-4-3-08` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-08: New for used. | 1 | 2005-03-14 to 2005-03-14 |
+| `oac-rule-109-4-3-09` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-09: Failure to deliver; substitution of goods or services. | 1 | 2020-05-17 to 2020-05-17 |
+| `oac-rule-109-4-3-10` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-10: Substantiation of claims in advertising. | 1 | 2005-03-14 to 2005-03-14 |
+| `oac-rule-109-4-3-11` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-11: Direct solicitations. | 1 | 2026-03-21 to 2026-03-21 |
+| `oac-rule-109-4-3-12` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-12: Price comparisons. | 1 | 2020-05-17 to 2020-05-17 |
+| `oac-rule-109-4-3-13` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-13: Motor vehicle repairs or services. | 1 | 2026-03-21 to 2026-03-21 |
+| `oac-rule-109-4-3-14` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-14: Insulation. | 1 | 2025-06-12 to 2025-06-12 |
+| `oac-rule-109-4-3-15` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-15: Motor vehicle rust inhibitors. | 1 | 2015-03-23 to 2015-03-23 |
+| `oac-rule-109-4-3-16` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-16: Advertisement and sale of motor vehicles. | 1 | 2017-09-18 to 2017-09-18 |
+| `oac-rule-109-4-3-17` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-17: Distress sale. | 1 | 2005-03-14 to 2005-03-14 |
+| `oac-rule-109-4-3-18` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-18: Sale and labeling of gasoline which contains alcohol. | 1 | 2010-05-28 to 2010-05-28 |
+| `oac-rule-109-4-3-19` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-19: Determining a consumer's ability to repay a residential mortgage loan. | 1 | 2012-03-30 to 2012-03-30 |
+| `oac-rule-109-4-3-20` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-20: Refinancing a low rate mortgage. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-21` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-21: Instructing consumer to ignore information. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-22` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-22: Recommending default. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-24` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-24: Improperly influencing appraiser. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-25` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-25: Debt collection agreements. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-26` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-26: Reasonable, tangible net benefit. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-27` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-27: No reasonable probability of payment. | 1 | 2012-03-30 to 2012-03-30 |
+| `oac-rule-109-4-3-28` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-28: Unconscionable terms in home mortgage loans. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-30` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-30: Limitation on advance payments. | 1 | 2007-01-07 to 2007-01-07 |
+| `oac-rule-109-4-3-31` | Ohio Administrative Code, Chapter 109:4-3 | Deceptive Acts or Trade Practices in Connection with Consumer Transactions, Rule 109:4-3-31: Consent and solicitation of signature. | 1 | 2025-04-11 to 2025-04-11 |
+| `oac-rule-109-4-4-01` | Ohio Administrative Code, Chapter 109:4-4 | Dispute Resolution Programs for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-4-01: Authority, construction and purposes of rules; severability; and definitions. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-4-02` | Ohio Administrative Code, Chapter 109:4-4 | Dispute Resolution Programs for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-4-02: Option to establish informal dispute settlement boards. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-4-03` | Ohio Administrative Code, Chapter 109:4-4 | Dispute Resolution Programs for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-4-03: Duties of warrantor. | 1 | 2003-10-10 to 2003-10-10 |
+| `oac-rule-109-4-4-04` | Ohio Administrative Code, Chapter 109:4-4 | Dispute Resolution Programs for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-4-04: Minimum requirements of the board. | 1 | 1991-12-30 to 1991-12-30 |
+| `oac-rule-109-4-4-05` | Ohio Administrative Code, Chapter 109:4-4 | Dispute Resolution Programs for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-4-05: Repair orders for new motor vehicles services or repairs. | 1 | 1991-12-30 to 1991-12-30 |
+| `oac-rule-109-4-5-01` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-01: Authority, construction and purposes of rules severability; definitions. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-5-02` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-02: Application for qualification. | 1 | 2004-09-09 to 2004-09-09 |
+| `oac-rule-109-4-5-03` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-03: Review of application. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-5-04` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-04: Provisionally qualified boards. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-5-05` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-05: Continuing obligations of qualified boards. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-5-06` | Ohio Administrative Code, Chapter 109:4-5 | Informal Dispute Resolution Mechanisms for Settlement of New Motor Vehicle Warranty Disputes, Rule 109:4-5-06: Revocation of qualification. | 1 | 1987-11-29 to 1987-11-29 |
+| `oac-rule-109-4-6-01` | Ohio Administrative Code, Chapter 109:4-6 | Telemarketing Registration and Enforcement, Rule 109:4-6-01: Construction and purpose of rules; severability; definitions. | 1 | 1996-11-08 to 1996-11-08 |
+| `oac-rule-109-4-6-02` | Ohio Administrative Code, Chapter 109:4-6 | Telemarketing Registration and Enforcement, Rule 109:4-6-02: Telemarketing registration and enforcement unit. | 1 | 1996-11-08 to 1996-11-08 |
+| `oac-rule-109-4-6-03` | Ohio Administrative Code, Chapter 109:4-6 | Telemarketing Registration and Enforcement, Rule 109:4-6-03: Place of filing. | 1 | 2002-06-17 to 2002-06-17 |
+| `oac-rule-109-4-6-04` | Ohio Administrative Code, Chapter 109:4-6 | Telemarketing Registration and Enforcement, Rule 109:4-6-04: Registration fees. | 1 | 1996-11-08 to 1996-11-08 |
+| `oac-rule-109-4-6-05` | Ohio Administrative Code, Chapter 109:4-6 | Telemarketing Registration and Enforcement, Rule 109:4-6-05: Period of registration; renewals. | 1 | 1996-11-08 to 1996-11-08 |
+| `oac-rule-109-5-1-01` | Ohio Administrative Code, Chapter 109:5-1 | Criminal Records and Electronic Monitoring Devices, Rule 109:5-1-01: Procedure for requesting criminal records. | 1 | 2015-11-20 to 2015-11-20 |
+| `oac-rule-109-5-1-03` | Ohio Administrative Code, Chapter 109:5-1 | Criminal Records and Electronic Monitoring Devices, Rule 109:5-1-03: Procedure for requesting and processing a search of the retained applicant fingerprint database. | 1 | 2008-01-01 to 2008-01-01 |
+| `oac-rule-109-5-1-04` | Ohio Administrative Code, Chapter 109:5-1 | Criminal Records and Electronic Monitoring Devices, Rule 109:5-1-04: Operation and maintenance of the retained applicant fingerprint database. | 1 | 2008-01-01 to 2008-01-01 |
+| `oac-rule-109-5-2-01` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-01: Definitions. | 1 | 2010-08-16 to 2010-08-16 |
+| `oac-rule-109-5-2-02` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-02: Completion and transmittal of forms and information. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-109-5-2-03` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-03: Community notification. | 1 | 2010-08-16 to 2010-08-16 |
+| `oac-rule-109-5-2-04` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-04: School and child care facility's use and administration of information regarding person subject to community notification. | 1 | 2015-08-25 to 2015-08-25 |
+| `oac-rule-109-5-2-05` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-05: Victim notification. | 1 | 2015-08-25 to 2015-08-25 |
+| `oac-rule-109-5-2-06` | Ohio Administrative Code, Chapter 109:5-2 | Registration of Sex Offenders; Notifications, Rule 109:5-2-06: Lists to be compiled, maintained, and updated. | 1 | 2025-12-02 to 2025-12-02 |
+| `oac-rule-109-5-4-01` | Ohio Administrative Code, Chapter 109:5-4 | Civil Sexual Abuse Registry, Rule 109:5-4-01: Definitions. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-109-5-4-03` | Ohio Administrative Code, Chapter 109:5-4 | Civil Sexual Abuse Registry, Rule 109:5-4-03: Community notification. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-109-5-4-04` | Ohio Administrative Code, Chapter 109:5-4 | Civil Sexual Abuse Registry, Rule 109:5-4-04: School and child care facility's use and administration of information regarding person subject to community notification. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-109-5-4-05` | Ohio Administrative Code, Chapter 109:5-4 | Civil Sexual Abuse Registry, Rule 109:5-4-05: Lists to be compiled, maintained, and updated. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-109-5-5-01` | Ohio Administrative Code, Chapter 109:5-5 | DNA Database, Rule 109:5-5-01: Definitions. | 1 | 2011-10-08 to 2011-10-08 |
+| `oac-rule-109-5-5-02` | Ohio Administrative Code, Chapter 109:5-5 | DNA Database, Rule 109:5-5-02: Arrestee and convicted offender DNA collection and submission procedures. | 1 | 2011-10-08 to 2011-10-08 |
+| `oac-rule-109-5-6-01` | Ohio Administrative Code, Chapter 109:5-6 | Arson Offender Registry, Rule 109:5-6-01: Definitions. | 1 | 2013-06-27 to 2013-06-27 |
+| `oac-rule-109-5-6-02` | Ohio Administrative Code, Chapter 109:5-6 | Arson Offender Registry, Rule 109:5-6-02: Transmittal of Notices. | 1 | 2013-06-27 to 2013-06-27 |
+| `oac-rule-109-5-7-01` | Ohio Administrative Code, Chapter 109:5-7 | Confidential Address, Rule 109:5-7-01: Definitions. | 1 | 2018-05-05 to 2018-05-05 |
+| `oac-rule-109-5-7-02` | Ohio Administrative Code, Chapter 109:5-7 | Confidential Address, Rule 109:5-7-02: Confidential address program. | 1 | 2018-05-05 to 2018-05-05 |
+| `oac-rule-109-6-1-01` | Ohio Administrative Code, Chapter 109:6-1 | Background Investigation Requirements for Waste Treatment and Disposal Facilities, Rule 109:6-1-01: Definitions. | 1 | 2021-11-08 to 2021-11-08 |
+| `oac-rule-109-6-1-02` | Ohio Administrative Code, Chapter 109:6-1 | Background Investigation Requirements for Waste Treatment and Disposal Facilities, Rule 109:6-1-02: Disclosure statements. | 1 | 2021-11-08 to 2021-11-08 |
+| `oac-rule-109-6-1-03` | Ohio Administrative Code, Chapter 109:6-1 | Background Investigation Requirements for Waste Treatment and Disposal Facilities, Rule 109:6-1-03: Fingerprinting. | 1 | 2011-01-03 to 2011-01-03 |
+| `oac-rule-109-6-1-05` | Ohio Administrative Code, Chapter 109:6-1 | Background Investigation Requirements for Waste Treatment and Disposal Facilities, Rule 109:6-1-05: Waiver. | 1 | 2020-09-18 to 2020-09-18 |
+| `oac-rule-109-7-1-01` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-01: Sexual assault examination protocol. | 1 | 2022-10-21 to 2022-10-21 |
+| `oac-rule-109-7-1-02` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-02: Sexual assault examination payment amount. | 1 | 2017-07-24 to 2017-07-24 |
+| `oac-rule-109-7-1-03` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-03: Definitions. | 1 | 2020-04-03 to 2020-04-03 |
+| `oac-rule-109-7-1-04` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-04: Procedures for programs to request funding from the rape crisis trust fund program. | 1 | 2013-12-16 to 2013-12-16 |
+| `oac-rule-109-7-1-05` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-05: Food services disbursement for summit and medina county battered women's shelter. | 1 | 2023-07-21 to 2023-07-21 |
+| `oac-rule-109-7-1-06` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-06: Definitions. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-109-7-1-07` | Ohio Administrative Code, Chapter 109:7-1 | Medical Examination of Victim of Sexual Assault, Rule 109:7-1-07: Procedure for testing and tracking of sexual assault evidence kits. | 1 | 2020-04-03 to 2020-04-03 |
+| `oac-rule-109-7-2-01` | Ohio Administrative Code, Chapter 109:7-2 | Definitions and Procedures, Rule 109:7-2-01: Definitions. | 1 | 2020-04-03 to 2020-04-03 |
+| `oac-rule-109-7-2-02` | Ohio Administrative Code, Chapter 109:7-2 | Definitions and Procedures, Rule 109:7-2-02: Procedure for programs to request domestic violence program funds. | 1 | 2020-04-03 to 2020-04-03 |
+| `oac-rule-109-8-1-01` | Ohio Administrative Code, Chapter 109:8-1 | Tobacco Products Manufacturer Escrow Accounts, Rule 109:8-1-01: Definitions. | 1 | 2020-01-23 to 2020-01-23 |
+| `oac-rule-109-8-1-02` | Ohio Administrative Code, Chapter 109:8-1 | Tobacco Products Manufacturer Escrow Accounts, Rule 109:8-1-02: Tobacco product manufacturers directory. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-109-8-1-03` | Ohio Administrative Code, Chapter 109:8-1 | Tobacco Products Manufacturer Escrow Accounts, Rule 109:8-1-03: Quarterly certifications and escrow deposits. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-109-2-01` | Ohio Administrative Code, Chapter 109-2 | Net Worth, Rule 109-2-01: Definition of net worth. | 1 | 1985-07-01 to 1985-07-01 |
+| `oac-rule-109-3-01` | Ohio Administrative Code, Chapter 109-3 | Contracts for the Provision of Services Benefiting Individuals or the Public, Rule 109-3-01: Definitions and guidelines for direct and allocable non direct costs and routine business services. | 1 | 2017-01-19 to 2017-01-19 |
+| `oac-rule-109-3-02` | Ohio Administrative Code, Chapter 109-3 | Contracts for the Provision of Services Benefiting Individuals or the Public, Rule 109-3-02: Maintenance of records documenting direct costs. | 1 | 2006-01-13 to 2006-01-13 |
+| `oac-rule-109-3-03` | Ohio Administrative Code, Chapter 109-3 | Contracts for the Provision of Services Benefiting Individuals or the Public, Rule 109-3-03: Remedies in the event of a breach of contract. | 1 | 2017-01-19 to 2017-01-19 |
+| `oac-rule-109-3-04` | Ohio Administrative Code, Chapter 109-3 | Contracts for the Provision of Services Benefiting Individuals or the Public, Rule 109-3-04: Terms to be included in contracts between recipients and persons other than the governmental entity. | 1 | 2006-01-13 to 2006-01-13 |
+| `oac-rule-109-4-01` | Ohio Administrative Code, Chapter 109-4 | Accessing Confidential Personal Information, Rule 109-4-01: Definitions. | 1 | 2016-04-18 to 2016-04-18 |
+| `oac-rule-109-4-02` | Ohio Administrative Code, Chapter 109-4 | Accessing Confidential Personal Information, Rule 109-4-02: Procedures for accessing confidential personal information. | 1 | 2011-02-01 to 2011-02-01 |
+| `oac-rule-109-4-03` | Ohio Administrative Code, Chapter 109-4 | Accessing Confidential Personal Information, Rule 109-4-03: Valid reasons for accessing confidential personal information. | 1 | 2021-08-02 to 2021-08-02 |
+| `oac-rule-109-4-04` | Ohio Administrative Code, Chapter 109-4 | Accessing Confidential Personal Information, Rule 109-4-04: Confidentiality statutes. | 1 | 2021-12-23 to 2021-12-23 |
+| `oac-rule-109-4-05` | Ohio Administrative Code, Chapter 109-4 | Accessing Confidential Personal Information, Rule 109-4-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2011-02-01 to 2011-02-01 |
+| `oac-rule-111-1-1-01` | Ohio Administrative Code, Chapter 111:1-1 | Definitions, Rule 111:1-1-01: Definitions. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-2-01` | Ohio Administrative Code, Chapter 111:1-2 | Expedited Filing, Rule 111:1-2-01: Corporations expedited filing. | 1 | 2021-04-03 to 2021-04-03 |
+| `oac-rule-111-1-3-01` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-01: Definitions. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-02` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-02: Means to deliver UCC records; time of filing. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-03` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-03: Search request delivery. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-04` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-04: Forms. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-05` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-05: Fees. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-06` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-06: Expedited services. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-07` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-07: Methods of payment. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-08` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-08: Overpayment and underpayment policies. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-09` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-09: Public records services. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-10` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-10: Fees for public records services. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-11` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-11: Role of the filing office. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-12` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-12: Time for filing a continuation statement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-13` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-13: Grounds for refusal. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-14` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-14: Procedure upon refusal. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-15` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-15: Refusal errors. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-16` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-16: Notification of defects. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-17` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-17: UCC information management system-general. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-18` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-18: Primary data elements. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-19` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-19: Individual debtor names. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-20` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-20: Organization debtor names. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-21` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-21: Collateral being administered by a decedent's personal representative. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-22` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-22: Collateral held in a trust. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-23` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-23: Initial financing statement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-24` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-24: Amendments generally. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-25` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-25: Continuation statement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-26` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-26: Termination. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-27` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-27: Information statement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-28` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-28: Filing office staement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-29` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-29: Procedure upon lapse. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-30` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-30: Removal of record. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-31` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-31: Archives-general. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-32` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-32: Errors of the filing office. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-33` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-33: Data entry. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-34` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-34: Verification of data entry. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-35` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-35: Notice of bankruptcy. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-36` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-36: Redaction of certain information. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-37` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-37: General requirements. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-38` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-38: Search requests-required information. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-39` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-39: Search requests-optional information. | 1 | 2020-02-02 to 2020-02-02 |
+| `oac-rule-111-1-3-40` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-40: Search methodology. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-41` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-41: Changes in standard logic. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-3-42` | Ohio Administrative Code, Chapter 111:1-3 | UCC Filing, Rule 111:1-3-42: Search responses. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-4-01` | Ohio Administrative Code, Chapter 111:1-4 | Electronic Filing, Rule 111:1-4-01: Purpose. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-4-02` | Ohio Administrative Code, Chapter 111:1-4 | Electronic Filing, Rule 111:1-4-02: Electronic signature for business services filings. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-4-03` | Ohio Administrative Code, Chapter 111:1-4 | Electronic Filing, Rule 111:1-4-03: Acknowledgment of business serivces form filed by electronic means. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-1-4-04` | Ohio Administrative Code, Chapter 111:1-4 | Electronic Filing, Rule 111:1-4-04: Submission of additional information when filing business services forms by electronic means. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-1-01` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-01: Scope. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-1-02` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-02: Definitions. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-1-03` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-03: Loan. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-1-04` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-04: Name of the committee. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-1-05` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-05: Best efforts. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-1-06` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-06: Computation of time. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-1-07` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-07: Limitations pertaining to federal committees. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-1-08` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-08: Local candidate waiver of reporting requirements. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-1-09` | Ohio Administrative Code, Chapter 111:2-1 | Notice of Meetings, Rule 111:2-1-09: County population. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-2-01` | Ohio Administrative Code, Chapter 111:2-2 | Independent Expenditures; Personal Funds, Rule 111:2-2-01: Independent expenditures. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-2-02` | Ohio Administrative Code, Chapter 111:2-2 | Independent Expenditures; Personal Funds, Rule 111:2-2-02: Reporting independent expenditures. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-2-03` | Ohio Administrative Code, Chapter 111:2-2 | Independent Expenditures; Personal Funds, Rule 111:2-2-03: Use of the candidate's personal funds. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-2-04` | Ohio Administrative Code, Chapter 111:2-2 | Independent Expenditures; Personal Funds, Rule 111:2-2-04: Use of the funds or property of a corporation, nonprofit corporation, or labor organization to advocate the election or defeat of a candidate. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-01` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-01: Establishment of separate segregated fund. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-02` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-02: Which laws govern Ohio corporate/labor PACs and FSL PACs. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-3-03` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-03: FSL corporate/labor PAC must file statement of organization; Ohio corporate/labor PAC must disclose sponsoring corporation. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-04` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-04: Reports to be filed by FSL PACs. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-05` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-05: Reporting of establishment, administrative and solicitation costs by Ohio corporate/labor PACs and FSL corporate PACs. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-06` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-06: Social or fund-raising events; gifts, prizes, or other things of value in exchange for contributions. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-07` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-07: Solicitation of contributions for a particular candidate prohibited; administrative expenses which may and may not be paid by a connected corporation. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-08` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-08: Corporation and labor organization communications. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-09` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-09: Electioneering communication. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-3-10` | Ohio Administrative Code, Chapter 111:2-3 | Political Action Committees, Rule 111:2-3-10: Statewide "Ballot Issue Political Action Committees". | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-4-01` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-01: Payment of filing fee by candidate. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-4-02` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-02: Contributions received for debt retirement. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-03` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-03: Political action committee contributions. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-04` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-04: When campaign finance statements must be filed. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-05` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-05: Definition of cash. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-06` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-06: Contributions made by a candidate or by the candidate's campaign committee. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-4-07` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-07: Monthly statements. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-08` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-08: Two-business-day statements. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-09` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-09: Short form statements. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-10` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-10: Forms. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-11` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-11: Deposit of receipts. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-12` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-12: Checks combining contributions with other payments. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-4-13` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-13: Accounting for contributions and expenditures. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-14` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-14: Uniform reporting of contributions. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-15` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-15: Allocation of expenses between candidates. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-16` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-16: Other income. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-2-4-17` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-17: Joint fund-raising. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-4-18` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-18: Political communications. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-19` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-19: Amendments. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-4-20` | Ohio Administrative Code, Chapter 111:2-4 | Contributions; Campaign Finance Statements, Rule 111:2-4-20: Reporting contributions for partnerships. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-5-01` | Ohio Administrative Code, Chapter 111:2-5 | Electronic Filing; Paper Filing; Termination of Transition Fund, Rule 111:2-5-01: Electronic signature. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-5-02` | Ohio Administrative Code, Chapter 111:2-5 | Electronic Filing; Paper Filing; Termination of Transition Fund, Rule 111:2-5-02: Acknowledgment of statement filed by electronic means of transmission. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-5-03` | Ohio Administrative Code, Chapter 111:2-5 | Electronic Filing; Paper Filing; Termination of Transition Fund, Rule 111:2-5-03: Provision of checks and receipts when filing by electronic means of transmission. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-5-04` | Ohio Administrative Code, Chapter 111:2-5 | Electronic Filing; Paper Filing; Termination of Transition Fund, Rule 111:2-5-04: Hardship rule. | 1 | 2021-10-05 to 2021-10-05 |
+| `oac-rule-111-2-5-05` | Ohio Administrative Code, Chapter 111:2-5 | Electronic Filing; Paper Filing; Termination of Transition Fund, Rule 111:2-5-05: Termination of transition fund. | 1 | 2026-11-08 to 2026-11-08 |
+| `oac-rule-111-2-6-01` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-01: Scope, applicability and construction of rules. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-02` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-02: Request for Advisory Opinions. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-03` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-03: Service of documents commencing proceedings. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-04` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-04: Service and filing of subsequent pleadings and documents. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-05` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-05: Time. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-07` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-07: Ohio Election Integrity Commission Proceedings. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-09` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-09: Reconsideration of commission decisions. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-2-6-10` | Ohio Administrative Code, Chapter 111:2-6 | Proceedings Before the Ohio Election Integrity Commission, Rule 111:2-6-10: Definitions. | 1 | 2026-02-19 to 2026-02-19 |
+| `oac-rule-111-3-1-01` | Ohio Administrative Code, Chapter 111:3-1 | Notice of Meetings, Rule 111:3-1-01: Issuance of directives. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-2-01` | Ohio Administrative Code, Chapter 111:3-2 | Examination, Testing and Approval of Equipment, Rule 111:3-2-01: Definitions. | 1 | 2026-02-16 to 2026-02-16 |
+| `oac-rule-111-3-2-02` | Ohio Administrative Code, Chapter 111:3-2 | Examination, Testing and Approval of Equipment, Rule 111:3-2-02: Placing a board of elections under official oversight. | 1 | 2026-02-16 to 2026-02-16 |
+| `oac-rule-111-3-2-03` | Ohio Administrative Code, Chapter 111:3-2 | Examination, Testing and Approval of Equipment, Rule 111:3-2-03: Period of oversight. | 1 | 2026-02-16 to 2026-02-16 |
+| `oac-rule-111-3-2-04` | Ohio Administrative Code, Chapter 111:3-2 | Examination, Testing and Approval of Equipment, Rule 111:3-2-04: Terms of oversight. | 1 | 2026-02-16 to 2026-02-16 |
+| `oac-rule-111-3-2-05` | Ohio Administrative Code, Chapter 111:3-2 | Examination, Testing and Approval of Equipment, Rule 111:3-2-05: Transition from oversight. | 1 | 2026-02-16 to 2026-02-16 |
+| `oac-rule-111-3-3-01` | Ohio Administrative Code, Chapter 111:3-3 | Certification of Equipment, Rule 111:3-3-01: Certification; mandatory requirements. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-3-02` | Ohio Administrative Code, Chapter 111:3-3 | Certification of Equipment, Rule 111:3-3-02: Eligibility. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-3-03` | Ohio Administrative Code, Chapter 111:3-3 | Certification of Equipment, Rule 111:3-3-03: Bond. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-3-04` | Ohio Administrative Code, Chapter 111:3-3 | Certification of Equipment, Rule 111:3-3-04: Repayment of loans. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-3-05` | Ohio Administrative Code, Chapter 111:3-3 | Certification of Equipment, Rule 111:3-3-05: Remedies. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-4-01` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-01: Converting voter registration applications into electronic files. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-4-02` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-02: Entering voter registration records into the statewide voter registration database on an expedited basis. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-4-03` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-03: Removing canceled voter registration records. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-4-04` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-04: Persons authorized to update statewide voter registration database. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-4-05` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-05: Conducting annual audits of the statewide voter registration database. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-4-06` | Ohio Administrative Code, Chapter 111:3-4 | Enhancements and Significant Adjustments; Updated Manuals; Re-examination, Rule 111:3-4-06: Data sharing. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-01` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-01: Scope of rules. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-02` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-02: Submission of plan. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-03` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-03: Registration opportunities. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-04` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-04: Employees. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-05` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-05: Transmittal of forms. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-06` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-06: Registration and transmittal forms to be prescribed. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-5-07` | Ohio Administrative Code, Chapter 111:3-5 | Withdrawal of Certification, Rule 111:3-5-07: Voter registration - bureau of motor vehicles. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-01` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-01: Procedures regarding meetings, notices of meetings, and minutes. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-6-02` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-02: Definitions. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-03` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-03: Processing voter registration applications by designated agencies, other registration agencies and deputy registrars of motor vehicles. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-04` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-04: Processing voter registration applications received electronically from designated agencies, other registration agencies and deputy registrars of motor vehicles by the secretary of state. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-05` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-05: Training for agencies conducting voter registration activities. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-06` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-06: Training for boards of elections. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-07` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-07: Processing voter registration applications received from the secretary of state electronically and from designated agencies, other registration agencies and deputy registrars of motor vehicles, by boards of elections. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-6-08` | Ohio Administrative Code, Chapter 111:3-6 | Meetings, Rule 111:3-6-08: Prohibitions. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-7-01` | Ohio Administrative Code, Chapter 111:3-7 | Compensation of Precinct Officials; Change in Polling Place Location, Rule 111:3-7-01: Compensation of precinct election officials. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-7-02` | Ohio Administrative Code, Chapter 111:3-7 | Compensation of Precinct Officials; Change in Polling Place Location, Rule 111:3-7-02: Changes in locations of precinct polling places and notification to the secretary of state. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-8-01` | Ohio Administrative Code, Chapter 111:3-8 | Notice of Ballot Board Meetings, Rule 111:3-8-01: Notice of meetings of Ohio ballot board. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-9-01` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-01: Notice of meetings. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-02` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-02: Application requirements; generally. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-9-03` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-03: Application fee. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-04` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-04: Escrow procedures. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-9-06` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-06: Demonstration and approval of equipment; generally. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-07` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-07: Demonstration procedure. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-08` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-08: Certification; mandatory requirements. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-09` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-09: Certification; notification to boards. | 1 | 2016-01-25 to 2016-01-25 |
+| `oac-rule-111-3-9-10` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-10: Bond. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-9-11` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-11: Enhancements and significant adjustments; duties. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-13` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-13: Re-examination; updated manual. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-14` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-14: Re-examination; periodic. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-15` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-15: Withdrwawal of certification;gounds. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-16` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-16: Withdrawal of certification; procedure. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-17` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-17: Reconsideration hearing; procedure. | 1 | 2025-10-11 to 2025-10-11 |
+| `oac-rule-111-3-9-18` | Ohio Administrative Code, Chapter 111:3-9 | Voting Machines and Equipment, Rule 111:3-9-18: Standards for voter verified paper audit trail. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-3-10-01` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-01: Definitions. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-02` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-02: Ballot Printer Approval Required. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-03` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-03: Print Vendor Quality Control. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-04` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-04: Print Vendor Equipment. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-05` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-05: Subcontracting. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-06` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-06: Ballot Samples. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-07` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-07: Mailing of Absent Voter's Ballots. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-08` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-08: Inventory. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-09` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-09: Cybersecurity. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-10` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-10: Physical Security. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-10-11` | Ohio Administrative Code, Chapter 111:3-10 | Ballot Print Vendors, Rule 111:3-10-11: Enforcement and Revocation of Approval. | 1 | 2023-11-20 to 2023-11-20 |
+| `oac-rule-111-3-11-01` | Ohio Administrative Code, Chapter 111:3-11 | Voter Registration Database, Rule 111:3-11-01: Definitions. | 1 | 2024-06-22 to 2024-06-22 |
+| `oac-rule-111-3-11-02` | Ohio Administrative Code, Chapter 111:3-11 | Voter Registration Database, Rule 111:3-11-02: Voter Registration Date- Exclusions. | 1 | 2024-06-22 to 2024-06-22 |
+| `oac-rule-111-3-11-03` | Ohio Administrative Code, Chapter 111:3-11 | Voter Registration Database, Rule 111:3-11-03: Voting History. | 1 | 2024-06-22 to 2024-06-22 |
+| `oac-rule-111-3-11-04` | Ohio Administrative Code, Chapter 111:3-11 | Voter Registration Database, Rule 111:3-11-04: Secretary of state may require additional information. | 1 | 2024-06-22 to 2024-06-22 |
+| `oac-rule-111-6-1-01` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-01: Definitions. | 1 | 2025-06-10 to 2025-06-10 |
+| `oac-rule-111-6-1-02` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-02: Notary commission education and testing requirements. | 1 | 2025-06-10 to 2025-06-10 |
+| `oac-rule-111-6-1-03` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-03: Fee for Application, Education and Testing. | 1 | 2019-09-22 to 2019-09-22 |
+| `oac-rule-111-6-1-04` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-04: Electronic Notarial Certificate Forms. | 1 | 2019-09-22 to 2019-09-22 |
+| `oac-rule-111-6-1-05` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-05: Requirements for online notarial acts. | 1 | 2025-06-10 to 2025-06-10 |
+| `oac-rule-111-6-1-06` | Ohio Administrative Code, Chapter 111:6-1 | Notary Commission Requirements, Rule 111:6-1-06: Complaints. | 1 | 2025-06-10 to 2025-06-10 |
+| `oac-rule-111-1-01` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-01: Public notice of the adoption, amendment, or rescission of rules. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-1-02` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-02: Confidential personal information systems. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-1-05` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-05: Safe at home address confidentiality program participant certification and renewal. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-111-1-06` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-06: Service of process. | 1 | 2022-03-28 to 2022-03-28 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 993 commits:
+The build made 1526 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 993 | first version of an act |
+| 1526 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1022,7 +1556,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 993 tags.
+- 1526 tags.
 
 ## Dates
 
@@ -1034,7 +1568,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `23390763f8a7d2b28b66b64e4ee63e609e3cab0fe25abfeb75bd3c7483d4de3a` (85220677 bytes).
+- Corpus: sha256 `4249d2f141ceceaa3bce0ca4c31bc16fbc503b7f8b6ed77a2d52b9095aa7925a` (87053520 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1053,6 +1587,7 @@ No second build of this corpus has been compared yet.
 - For each Revised Code chapter and Constitution article the newest Internet Archive capture since 2025-01-01 of its codes.ohio.gov page was read; the chapter list is the one each title page (newest capture) gives.
 - Each chapter or article is dated by the day of the capture read (codes.ohio.gov states no edition date). Each section keeps the "Effective" date and "Latest Legislation" the page prints for it, as its last line.
 - A chapter or article is published only if every section row on its page has text; incomplete captures are left out and listed in the README.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -1065,4 +1600,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
