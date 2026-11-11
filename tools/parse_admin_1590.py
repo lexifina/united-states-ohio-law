@@ -29,7 +29,7 @@ def body_lines(el):
     raw=re.sub(r'<br\s*/?>', '\n', raw, flags=re.I)
     raw=re.sub(r'</(?:p|div|li|tr|h[1-6])>', '\n', raw, flags=re.I)
     raw=re.sub(r'</(?:td|th)>', '  ', raw, flags=re.I)
-    raw=re.sub(r'<[^>]+>', '', raw)
+    raw=re.sub(r'<(?!/?(?:sub|sup)\b)[^>]+>', '', raw)
     return [norm(html.unescape(x)) for x in raw.split('\n') if norm(html.unescape(x))]
 
 def parse(raw, chapter_url):
@@ -49,6 +49,10 @@ def parse(raw, chapter_url):
         entry={'rule':number,'url':url,'chapter_url':chapter_url,'source_images':len(images),
                'referenced_images':0,'omitted_images':0,'image_urls':images}
         try:
+            appendices=[a.get('href') for a in row.xpath('.//a') if 'appendix' in text(a).lower() or re.search(r'_APP\d',a.get('href',''),re.I)]
+            if appendices:
+                entry['appendix_urls']=['https://codes.ohio.gov'+u if u.startswith('/') else u for u in appendices]
+                raise ValueError('official appendix held until its complete normative content is extracted')
             if len(bodies)!=1 or not text(bodies[0]):
                 raise ValueError('missing or ambiguous normative body')
             if images or bodies[0].xpath('.//svg|.//canvas|.//object|.//iframe'):
