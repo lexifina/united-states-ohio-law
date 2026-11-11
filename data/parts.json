@@ -1,0 +1,15 @@
+{
+ "parts": {
+  "zzzzz-q1584-live-new-chapters.json": {
+   "acts": [
+    "orc-chapter-1314",
+    "orc-chapter-1316",
+    "orc-chapter-1357",
+    "orc-chapter-3957",
+    "orc-chapter-4151"
+   ],
+   "sha256": "454a76ac0c543aa5bfc689da50b4e543677204a7d7fa6b6d0f27d69b36dfeaf0"
+  }
+ },
+ "schema": 1
+}
