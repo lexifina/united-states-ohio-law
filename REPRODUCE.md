@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -3565,17 +3566,432 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-1301-7-9-15` | Ohio Administrative Code, Chapter 1301:7-9 | Underground Storage Tanks, Rule 1301:7-9-15: Delegation of authority to inspect UST systems. | 1 | 2022-09-01 to 2022-09-01 |
 | `oac-rule-1301-7-9-18` | Ohio Administrative Code, Chapter 1301:7-9 | Underground Storage Tanks, Rule 1301:7-9-18: Delivery prohibition for USTs. | 1 | 2017-09-01 to 2017-09-01 |
 | `oac-rule-1301-7-9-19` | Ohio Administrative Code, Chapter 1301:7-9 | Underground Storage Tanks, Rule 1301:7-9-19: Underground storage tank operator training. | 1 | 2017-09-01 to 2017-09-01 |
+| `oac-rule-1301-8-1-02` | Ohio Administrative Code, Chapter 1301:8-1 | General Provisions, Rule 1301:8-1-02: Reimbursement to small loan licensees and second mortgage registrants for assembling or providing financial records. | 1 | 2025-11-04 to 2025-11-04 |
+| `oac-rule-1301-8-2-01` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-01: Definitions. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-04` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-04: Recordkeeping requirements. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-05` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-05: Advertising. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-07` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-07: General provisions for small loan licensees. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-12` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-12: Prohibitions. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-16` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-16: Policy or certificate of insurance; disclosure of credit life and credit accident and health insurance cancellation rights; Ohio insurance law. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-2-20` | Ohio Administrative Code, Chapter 1301:8-2 | Small Loan Act, Rule 1301:8-2-20: Interpretation. | 1 | 2022-11-28 to 2022-11-28 |
+| `oac-rule-1301-8-3-03` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-03: Definitions. | 1 | 2022-12-20 to 2022-12-20 |
+| `oac-rule-1301-8-3-04` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-04: Recordkeeping requirements. | 1 | 2022-12-20 to 2022-12-20 |
+| `oac-rule-1301-8-3-05` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-05: Advertising. | 1 | 2008-07-01 to 2008-07-01 |
+| `oac-rule-1301-8-3-07` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-07: General provisions for registrants. | 1 | 2022-12-20 to 2022-12-20 |
+| `oac-rule-1301-8-3-12` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-12: Prohibitions. | 1 | 2022-12-20 to 2022-12-20 |
+| `oac-rule-1301-8-3-13` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-13: Cancellation and return of original loan documents; receipt upon payment. | 1 | 2008-07-01 to 2008-07-01 |
+| `oac-rule-1301-8-3-17` | Ohio Administrative Code, Chapter 1301:8-3 | General Loan Law, Rule 1301:8-3-17: Policy or certificate of insurance; disclosure of credit life, credit accident and health, and unemployment insurance cancellation rights; Ohio insurance law. | 1 | 2008-07-01 to 2008-07-01 |
+| `oac-rule-1301-8-4-01` | Ohio Administrative Code, Chapter 1301:8-4 | Insurance Premium Finance Companies, Rule 1301:8-4-01: Definitions and general provisions. | 1 | 2015-02-13 to 2015-02-13 |
+| `oac-rule-1301-8-4-02` | Ohio Administrative Code, Chapter 1301:8-4 | Insurance Premium Finance Companies, Rule 1301:8-4-02: Licensing. | 1 | 2015-02-13 to 2015-02-13 |
+| `oac-rule-1301-8-4-03` | Ohio Administrative Code, Chapter 1301:8-4 | Insurance Premium Finance Companies, Rule 1301:8-4-03: Record keeping requirements. | 1 | 2015-02-13 to 2015-02-13 |
+| `oac-rule-1301-8-4-04` | Ohio Administrative Code, Chapter 1301:8-4 | Insurance Premium Finance Companies, Rule 1301:8-4-04: Advertising. | 1 | 2015-02-13 to 2015-02-13 |
+| `oac-rule-1301-8-5-01` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-01: Definitions. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-02` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-02: Advertising. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-03` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-03: Notifications. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-04` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-04: Obstruction of inspection; statement to pledgor; authorized fees. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-05` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-05: Unlicensed pawnbrokers. | 1 | 2005-06-16 to 2005-06-16 |
+| `oac-rule-1301-8-5-06` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-06: Purchases; list of property held for sale. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-07` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-07: Payments on a pawn loan. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-5-08` | Ohio Administrative Code, Chapter 1301:8-5 | Pawnbrokers, Rule 1301:8-5-08: Continuing education. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-1301-8-6-01` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-01: Definitions. | 1 | 2007-02-02 to 2007-02-02 |
+| `oac-rule-1301-8-6-02` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-02: Licenses. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-6-03` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-03: Books and records. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-6-04` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-04: Stolen property. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-6-05` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-05: Posting business hours. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-6-06` | Ohio Administrative Code, Chapter 1301:8-6 | Precious Metals Dealers, Rule 1301:8-6-06: Temporary permit. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-7-01` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-01: Definitions. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-02` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-02: Registration, letters of exemption for qualified exempt entities, office requirements and restrictions. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-03` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-03: Standards for applications, certificates of registration, letters of exemption, and licenses. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-06` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-06: Recordkeeping. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-07` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-07: Advertising. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-12` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-12: Operations manager. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-13` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-13: Division examinations and investigations. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-14` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-14: Surety bonds. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-15` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-15: Disclosures. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-16` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-16: Prohibited practices. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-18` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-18: Continuing education. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-19` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-19: Notification requirements. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-20` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-20: Compensation. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-21` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-21: Character, general fitness, and financial responsibility. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-22` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-22: Trade names, fictitious names and change of names. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-23` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-23: Mortgage broker appraisal misconduct. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-26` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-26: Challenge to information maintained in the NMLS. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-31` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-31: Nonprofit organizations exemption. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-32` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-32: Loan processors and underwriters. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-1301-8-7-35` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-35: Mortgage servicing definitions. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-36` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-36: Mortgage servicing transfers. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-37` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-37: Timely escrow payments and treatment of escrow account balances. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-38` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-38: Error resolution procedures. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-39` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-39: Requests for information. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-7-40` | Ohio Administrative Code, Chapter 1301:8-7 | Residential Mortgage Lending Act, Rule 1301:8-7-40: Mortgage servicer obligations upon loss of license. | 1 | 2025-09-19 to 2025-09-19 |
+| `oac-rule-1301-8-8-01` | Ohio Administrative Code, Chapter 1301:8-8 | Check-Cashing Businesses, Rule 1301:8-8-01: Definitions. | 1 | 2016-09-19 to 2016-09-19 |
+| `oac-rule-1301-8-8-02` | Ohio Administrative Code, Chapter 1301:8-8 | Check-Cashing Businesses, Rule 1301:8-8-02: Licenses. | 1 | 2016-09-19 to 2016-09-19 |
+| `oac-rule-1301-8-8-03` | Ohio Administrative Code, Chapter 1301:8-8 | Check-Cashing Businesses, Rule 1301:8-8-03: Recordkeeping. | 1 | 2016-09-19 to 2016-09-19 |
+| `oac-rule-1301-8-8-04` | Ohio Administrative Code, Chapter 1301:8-8 | Check-Cashing Businesses, Rule 1301:8-8-04: Business practices. | 1 | 2016-09-19 to 2016-09-19 |
+| `oac-rule-1301-8-8-06` | Ohio Administrative Code, Chapter 1301:8-8 | Check-Cashing Businesses, Rule 1301:8-8-06: Advertising. | 1 | 2016-09-19 to 2016-09-19 |
+| `oac-rule-1301-8-10-01` | Ohio Administrative Code, Chapter 1301:8-10 | Credit Counseling Services, Rule 1301:8-10-01: Criteria for qualifying to provide counseling services. | 1 | 2014-06-09 to 2014-06-09 |
+| `oac-rule-1301-8-11-01` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-01: Definitions and general provisions. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-11-02` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-02: Recordkeeping requirements. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-11-03` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-03: Advertising. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-11-04` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-04: Licensing. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-11-05` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-05: Short-term loan license renewal application; issuance of renewal license; expiration. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-8-11-06` | Ohio Administrative Code, Chapter 1301:8-11 | Short-Term Loan Act, Rule 1301:8-11-06: Surety bond. | 1 | 2024-10-14 to 2024-10-14 |
+| `oac-rule-1301-9-1-01` | Ohio Administrative Code, Chapter 1301:9-1 | Supervision and Examination, Rule 1301:9-1-01: Definitions. | 1 | 2012-03-22 to 2012-03-22 |
+| `oac-rule-1301-9-1-03` | Ohio Administrative Code, Chapter 1301:9-1 | Supervision and Examination, Rule 1301:9-1-03: Supervision, examination and annual financial report. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-1-04` | Ohio Administrative Code, Chapter 1301:9-1 | Supervision and Examination, Rule 1301:9-1-04: Supervisory fee. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-01` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-01: Service facilities. | 1 | 2019-11-24 to 2019-11-24 |
+| `oac-rule-1301-9-2-02` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-02: Voting by the membership. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-04` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-04: Charge-off of uncollectible loans and other losses and reserves. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-05` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-05: Financial statements. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-06` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-06: Preservation/retention of records. | 1 | 2018-11-26 to 2018-11-26 |
+| `oac-rule-1301-9-2-07` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-07: Investments. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-07-1` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-07.1: Derivatives authority. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-08` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-08: Liquidity. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-09` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-09: Dividends. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-10` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-10: Impairment. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-11` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-11: Independent audit. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-12` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-12: Reimbursement to credit unions for assembling or providing financial records. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-13` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-13: Compensation. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-15` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-15: Depreciation and amortization. | 1 | 2018-11-26 to 2018-11-26 |
+| `oac-rule-1301-9-2-16` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-16: Field of membership. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-18` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-18: Disaffiliation or dual membership. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-19` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-19: Criteria for charter approval. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-20` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-20: Loan authority. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-21` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-21: First mortgage purchase money real estate loans and refinancing. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-22` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-22: Real estate construction loans. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-23` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-23: Home equity and second mortgage loans. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-24` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-24: Member business loans. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-25` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-25: Purchase of fixed assets or purchase of real estate and/or construction of an office building. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-26` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-26: Service fees. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-27` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-27: Interest rebate. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-28` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-28: Credit card programs. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-30` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-30: Shares and share drafts. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-31` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-31: Credit union service contracts. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-32` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-32: Credit union service organizations. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-33` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-33: Sale and leaseback. | 1 | 2012-03-22 to 2012-03-22 |
+| `oac-rule-1301-9-2-34` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-34: Other real estate owned. | 1 | 2025-04-03 to 2025-04-03 |
+| `oac-rule-1301-9-2-36` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-36: Voluntary dissolution. | 1 | 2018-11-26 to 2018-11-26 |
+| `oac-rule-1301-9-2-37` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-37: Suspicious activity reports. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-38` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-38: Powers and duties of liquidating agents. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-39` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-39: Charter conversion. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-40` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-40: Trustee or custodian. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-41` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-41: Merger. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-2-42` | Ohio Administrative Code, Chapter 1301:9-2 | General Provisions, Rule 1301:9-2-42: Conducting business out of state. | 1 | 2024-07-08 to 2024-07-08 |
+| `oac-rule-1301-9-3-01` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-01: Advancement and withdrawal of capital contribution by participating credit unions. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-02` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-02: Documents filed with the superintendent of insurance. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-03` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-03: Issuance and renewal of certificate of compliance. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-04` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-04: Credit union share guaranty corporation activity. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-05` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-05: Necessity of reinsurance or line of credit. | 1 | 2016-03-24 to 2016-03-24 |
+| `oac-rule-1301-9-3-06` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-06: Notice of termination, nonrenewal or any other lapse of reinsurance or line of credit. | 1 | 2016-03-24 to 2016-03-24 |
+| `oac-rule-1301-9-3-07` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-07: Communication with regulatory significance. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-08` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-08: Public representation of credit union share guaranty corporation's status or legal existence. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-09` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-09: Participating credit union financial information. | 1 | 2016-03-24 to 2016-03-24 |
+| `oac-rule-1301-9-3-10` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-10: Qualified audit report of a participating credit union. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-11` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-11: Normal operating level of guarantee fund. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-12` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-12: Credit union share guaranty corporation payout on shares. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-13` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-13: Approval of investments. | 1 | 2016-03-24 to 2016-03-24 |
+| `oac-rule-1301-9-3-14` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-14: Credit union share guaranty corporation annual report. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-9-3-15` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-15: Actuarial study of capital adequacy and disclosure of examination reports. | 1 | 2016-03-24 to 2016-03-24 |
+| `oac-rule-1301-9-3-16` | Ohio Administrative Code, Chapter 1301:9-3 | Credit Union Share Guaranty Corporation, Rule 1301:9-3-16: Quarterly reporting. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-1301-10-1-01` | Ohio Administrative Code, Chapter 1301:10-1 | Definitions, Rule 1301:10-1-01: Definitions. | 1 | 2023-07-10 to 2023-07-10 |
+| `oac-rule-1301-10-2-02` | Ohio Administrative Code, Chapter 1301:10-2 | Notice of Rules; Appeal, Rule 1301:10-2-02: Adjudication hearing; decision of director. | 1 | 2024-01-02 to 2024-01-02 |
+| `oac-rule-1301-10-2-03` | Ohio Administrative Code, Chapter 1301:10-2 | Notice of Rules; Appeal, Rule 1301:10-2-03: Public notice procedures. | 1 | 2002-09-05 to 2002-09-05 |
+| `oac-rule-1301-10-3-01` | Ohio Administrative Code, Chapter 1301:10-3 | General Provisions, Rule 1301:10-3-01: Search of records. | 1 | 2002-07-29 to 2002-07-29 |
+| `oac-rule-1301-10-3-03` | Ohio Administrative Code, Chapter 1301:10-3 | General Provisions, Rule 1301:10-3-03: Holder reports; enforcement. | 1 | 2008-01-15 to 2008-01-15 |
+| `oac-rule-1301-10-3-04` | Ohio Administrative Code, Chapter 1301:10-3 | General Provisions, Rule 1301:10-3-04: Examination of accounts. | 1 | 2023-07-10 to 2023-07-10 |
+| `oac-rule-1301-10-3-07` | Ohio Administrative Code, Chapter 1301:10-3 | General Provisions, Rule 1301:10-3-07: Lawful claims or charges by holder. | 1 | 2014-07-25 to 2014-07-25 |
+| `oac-rule-1301-10-3-08` | Ohio Administrative Code, Chapter 1301:10-3 | General Provisions, Rule 1301:10-3-08: Instruments representing ownership interest. | 1 | 2014-09-01 to 2014-09-01 |
+| `oac-rule-1301-10-4-01` | Ohio Administrative Code, Chapter 1301:10-4 | Claims, Rule 1301:10-4-01: Claim. | 1 | 2024-01-02 to 2024-01-02 |
+| `oac-rule-1301-10-4-02` | Ohio Administrative Code, Chapter 1301:10-4 | Claims, Rule 1301:10-4-02: Authority to present claims. | 1 | 2020-08-01 to 2020-08-01 |
+| `oac-rule-1301-10-5-02` | Ohio Administrative Code, Chapter 1301:10-5 | Disposition of Unclaimed Funds, Rule 1301:10-5-02: Sale of property. | 1 | 2002-07-29 to 2002-07-29 |
+| `oac-rule-1301-10-5-03` | Ohio Administrative Code, Chapter 1301:10-5 | Disposition of Unclaimed Funds, Rule 1301:10-5-03: Safe deposit box contents. | 1 | 2026-02-10 to 2026-02-10 |
+| `oac-rule-1301-11-1-01` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-01: Public notice of intention to consider adopting, amending or rescinding rules. | 1 | 2009-01-01 to 2009-01-01 |
+| `oac-rule-1301-11-1-02` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-02: Open public meeting. | 1 | 2026-11-12 to 2026-11-12 |
+| `oac-rule-1301-11-1-03` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-03: Fees. | 1 | 2026-11-12 to 2026-11-12 |
+| `oac-rule-1301-11-1-08` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-08: Licensed or certified appraisers from other states. | 1 | 2021-09-01 to 2021-09-01 |
+| `oac-rule-1301-11-1-09` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-09: Stenographic record. | 1 | 2012-01-01 to 2012-01-01 |
+| `oac-rule-1301-11-1-10` | Ohio Administrative Code, Chapter 1301:11-1 | Real Estate Appraisers Board, Rule 1301:11-1-10: Settlement agreements. | 1 | 2021-09-01 to 2021-09-01 |
+| `oac-rule-1301-11-3-01` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-01: Definition. | 1 | 2009-01-01 to 2009-01-01 |
+| `oac-rule-1301-11-3-03` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-03: Education requirements for applicants for licensing and certification. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-3-04` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-04: Experience requirement. | 1 | 2026-11-12 to 2026-11-12 |
+| `oac-rule-1301-11-3-05` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-05: Examination requirements for licensing and certification applicants. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-3-06` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-06: Temporary practice registration. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1301-11-3-08` | Ohio Administrative Code, Chapter 1301:11-3 | Certification/Licensing of Appraisers, Rule 1301:11-3-08: Criminal records checks. | 1 | 2026-11-12 to 2026-11-12 |
+| `oac-rule-1301-11-4-02` | Ohio Administrative Code, Chapter 1301:11-4 | Registration of Appraiser Assistants, Rule 1301:11-4-02: Education requirements for registration as a state-registered real estate appraiser assistant. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-7-01` | Ohio Administrative Code, Chapter 1301:11-7 | Continuing Education, Rule 1301:11-7-01: Continuing education requirement. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-7-02` | Ohio Administrative Code, Chapter 1301:11-7 | Continuing Education, Rule 1301:11-7-02: Continuing education course approvals. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-7-03` | Ohio Administrative Code, Chapter 1301:11-7 | Continuing Education, Rule 1301:11-7-03: Distance education. | 1 | 2025-09-08 to 2025-09-08 |
+| `oac-rule-1301-11-7-04` | Ohio Administrative Code, Chapter 1301:11-7 | Continuing Education, Rule 1301:11-7-04: Medical exception. | 1 | 2026-11-12 to 2026-11-12 |
+| `oac-rule-1301-13-1-01` | Ohio Administrative Code, Chapter 1301:13-1 | General Provisions, Rule 1301:13-1-01: Public notice of intention to consider adopting, amending or rescinding rules. | 1 | 2017-09-07 to 2017-09-07 |
+| `oac-rule-1301-13-1-02` | Ohio Administrative Code, Chapter 1301:13-1 | General Provisions, Rule 1301:13-1-02: Public meetings. | 1 | 2017-09-07 to 2017-09-07 |
+| `oac-rule-1301-13-1-03` | Ohio Administrative Code, Chapter 1301:13-1 | General Provisions, Rule 1301:13-1-03: Definitions. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-3-01` | Ohio Administrative Code, Chapter 1301:13-3 | Complaint Procedure, Rule 1301:13-3-01: Complaint procedure. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-3-03` | Ohio Administrative Code, Chapter 1301:13-3 | Complaint Procedure, Rule 1301:13-3-03: Reports. | 1 | 2017-09-07 to 2017-09-07 |
+| `oac-rule-1301-13-5-01` | Ohio Administrative Code, Chapter 1301:13-5 | Cemetery Registration, Rule 1301:13-5-01: Sale or transfer of cemetery assets. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-5-02` | Ohio Administrative Code, Chapter 1301:13-5 | Cemetery Registration, Rule 1301:13-5-02: Revocation of registration. | 1 | 2013-02-04 to 2013-02-04 |
+| `oac-rule-1301-13-5-03` | Ohio Administrative Code, Chapter 1301:13-5 | Cemetery Registration, Rule 1301:13-5-03: Compliance. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-7-01` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-01: Criteria for eligibility. | 1 | 2022-05-26 to 2022-05-26 |
+| `oac-rule-1301-13-7-02` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-02: General provisions. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-7-03` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-03: Grant applications. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-1301-13-7-04` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-04: Grant restrictions and requirements. | 1 | 2022-05-26 to 2022-05-26 |
+| `oac-rule-1301-13-7-05` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-05: Cemetery grant advisory committee. | 1 | 2022-05-26 to 2022-05-26 |
+| `oac-rule-1301-13-7-06` | Ohio Administrative Code, Chapter 1301:13-7 | Eligibility for Grants, Rule 1301:13-7-06: Distribution of grant funds. | 1 | 2022-05-26 to 2022-05-26 |
+| `oac-rule-1301-15-1-01` | Ohio Administrative Code, Chapter 1301:15-1 | Mass Appraisal Education, Rule 1301:15-1-01: Form and manner by which persons may apply to the Superintendent to offer a thirty hour course in mass appraisal. | 1 | 2015-06-01 to 2015-06-01 |
+| `oac-rule-1301-15-1-02` | Ohio Administrative Code, Chapter 1301:15-1 | Mass Appraisal Education, Rule 1301:15-1-02: Form and manner by which persons may apply to the Superintendent to offer a continuing education course in mass appraisal. | 1 | 2015-06-01 to 2015-06-01 |
+| `oac-rule-1301-15-1-03` | Ohio Administrative Code, Chapter 1301:15-1 | Mass Appraisal Education, Rule 1301:15-1-03: Instructor qualifications to offer the thirty hour course or a continuing education course in mass appraisal. | 1 | 2015-06-01 to 2015-06-01 |
+| `oac-rule-1301-15-1-04` | Ohio Administrative Code, Chapter 1301:15-1 | Mass Appraisal Education, Rule 1301:15-1-04: Record keeping requirements. | 1 | 2015-06-01 to 2015-06-01 |
+| `oac-rule-1301-16-1-01` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-01: Public notice of intention to consider adopting, amending or rescinding rules. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-16-1-02` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-02: Open public meeting. | 1 | 2024-06-21 to 2024-06-21 |
+| `oac-rule-1301-16-1-03` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-03: Criminal records checks. | 1 | 2024-06-21 to 2024-06-21 |
+| `oac-rule-1301-16-1-04` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-04: Fees. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-16-1-05` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-05: Stenographic record. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-16-1-06` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-06: Applications for appraisal management company license. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-16-1-07` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-07: Failure to comply with a subpoena. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-16-1-08` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-08: Settlement agreements. | 1 | 2024-06-21 to 2024-06-21 |
+| `oac-rule-1301-16-1-09` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-09: Informal mediation meeting accommodations. | 1 | 2024-06-21 to 2024-06-21 |
+| `oac-rule-1301-16-1-10` | Ohio Administrative Code, Chapter 1301:16-1 | Meetings and Notifications, Rule 1301:16-1-10: Presumptions of compliance rule. | 1 | 2019-02-01 to 2019-02-01 |
+| `oac-rule-1301-17-1-01` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-01: Public notice. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-02` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-02: Open public meeting. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-03` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-03: Fees. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-04` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-04: Out of state applicants. | 1 | 2021-04-08 to 2021-04-08 |
+| `oac-rule-1301-17-1-05` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-05: Applications. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-06` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-06: Criminal records check. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-07` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-07: Home inspector qualifying education. | 1 | 2024-06-24 to 2024-06-24 |
+| `oac-rule-1301-17-1-10` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-10: Continuing education for licensees. | 1 | 2023-05-31 to 2023-05-31 |
+| `oac-rule-1301-17-1-11` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-11: Continuing education approvals for education providers. | 1 | 2024-06-24 to 2024-06-24 |
+| `oac-rule-1301-17-1-13` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-13: Curriculum of experience. | 1 | 2021-04-08 to 2021-04-08 |
+| `oac-rule-1301-17-1-14` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-14: Parallel inspection. | 1 | 2021-04-08 to 2021-04-08 |
+| `oac-rule-1301-17-1-15` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-15: Peer review. | 1 | 2024-06-24 to 2024-06-24 |
+| `oac-rule-1301-17-1-16` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-16: Canons of ethics. | 1 | 2024-06-24 to 2024-06-24 |
+| `oac-rule-1301-17-1-17` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-17: Standards of practice. | 1 | 2024-06-24 to 2024-06-24 |
+| `oac-rule-1301-17-1-18` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-18: Lending license. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-19` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-19: Stenographic record. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-20` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-20: Informal mediation. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-21` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-21: Disciplinary sanctions. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-17-1-22` | Ohio Administrative Code, Chapter 1301:17-1 | Procedures and Practices, Rule 1301:17-1-22: Settlement agreement. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1301-18-1-01` | Ohio Administrative Code, Chapter 1301:18-1 | Non-Medical Cannabis Licensing, Rule 1301:18-1-01: Definitions. | 1 | 2026-11-02 to 2026-11-02 |
+| `oac-rule-1301-18-2-01` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-01: Applications Generally. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-02` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-02: Authorized Initial Application Periods. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-03` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-03: Cannabis Social Equity and Jobs Program. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-04` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-04: Additional Cannabis Operator Licenses. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-05` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-05: Application to Convert Chapter 3796 license to dual-use cannabis license. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-06` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-06: 10(B) Dispensaries. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-1301-18-2-07` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-07: Cannabis Entity Provisional Licenses. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-2-08` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-08: Cannabis Entity License Renewals. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-2-09` | Ohio Administrative Code, Chapter 1301:18-2 | License Application Requirements, Rule 1301:18-2-09: Fee schedule. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-1301-18-3-01` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-01: Cannabis Entity Distance from Prohibited Facilities. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-3-02` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-02: Change of Location. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-3-03` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-03: Ownership, Financial Interest, and Control. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-1301-18-3-04` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-04: Disclosure of Ownership, Financial Interest, and Control. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-1301-18-3-05` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-05: Notice of Intent. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-1301-18-3-06` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-06: Change of Ownership. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-1301-18-3-07` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-07: Change of Entity Name or Registered Trade Name. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-1301-18-3-08` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-08: Financial Responsibility. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-3-09` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-09: Employee Badges. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-3-10` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-10: Employee Training and Qualification Requirements. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1301-18-3-11` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-11: Facility Visitors. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-3-12` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-12: Waste Disposal. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-3-13` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-13: Transportation of Cannabis to Another Licensed Entity. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-3-14` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-14: Cannabis Entity Record Keeping. | 1 | 2025-10-09 to 2025-10-09 |
+| `oac-rule-1301-18-3-15` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-15: Discontinuing Business. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-3-16` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-16: Business to Business Transfers Generally. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-3-18` | Ohio Administrative Code, Chapter 1301:18-3 | Cannabis Entity Ownership, Rule 1301:18-3-18: Business to Business Transfers - cannabis packaged for direct customer sale. | 1 | 2026-11-02 to 2026-11-02 |
+| `oac-rule-1301-18-4-01` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-01: Cultivator and Processor Good Manufacturing Processes. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1301-18-4-02` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-02: Authorized cannabis forms and methods of administration. | 1 | 2026-03-24 to 2026-03-24 |
+| `oac-rule-1301-18-4-03` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-03: Petition for Additional Forms and Methods. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-4-04` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-04: Requirements for Universal THC Symbol. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-4-06` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-06: Limitations on packages of cannabis intended for direct customer sale. | 1 | 2026-10-05 to 2026-10-05 |
+| `oac-rule-1301-18-4-07` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-07: Limitations on cannabis strain names. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-4-08` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-08: Limitations on Cannabis Products. | 1 | 2025-12-26 to 2025-12-26 |
+| `oac-rule-1301-18-4-09` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-09: Pre-Approval Requirement for Product Registration. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-4-12` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-12: Transfer Manifests for Test Samples. | 1 | 2025-10-09 to 2025-10-09 |
+| `oac-rule-1301-18-4-16` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-16: Certificates of Analysis. | 1 | 2025-11-03 to 2025-11-03 |
+| `oac-rule-1301-18-4-18` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-18: Research by Testing Laboratory Licensed by Chapter 4729:5-16 of the Administrative Code. | 1 | 2025-10-09 to 2025-10-09 |
+| `oac-rule-1301-18-4-19` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-19: Pre-approval requirements for packaging and labeling intended for direct customer sale. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-4-20` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-20: Packaging and labeling requirements for cannabis intended for direct customer sale. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-4-21` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-21: Additional limitations on packaging and labeling intended for direct customer sale. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-4-22` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-22: Advertising. | 1 | 2026-10-05 to 2026-10-05 |
+| `oac-rule-1301-18-4-23` | Ohio Administrative Code, Chapter 1301:18-4 | Manufacturing Practices, Administration, Testing, and Customer Sales of Cannabis, Rule 1301:18-4-23: Requirements for Single Serving Units. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-1301-18-5-01` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-01: Cultivator Certificate of Operation. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-5-02` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-02: Cultivator Uninterrupted Supply of Cannabis. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-5-03` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-03: Cultivator Operating Procedures and Quality Assurance. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-5-04` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-04: Cultivation Area Expansion. | 1 | 2025-10-09 to 2025-10-09 |
+| `oac-rule-1301-18-5-05` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-05: Cultivator Minimum Security and Surveillance Requirements. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-5-06` | Ohio Administrative Code, Chapter 1301:18-5 | Cultivator Certification and Requirements, Rule 1301:18-5-06: Cultivator Inventory Control and Storage. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-6-01` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-01: Processor Certificate of Operation. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-6-02` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-02: Processor Uninterrupted Supply of Cannabis. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-6-03` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-03: Processor Operating Procedures and Quality Assurance. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-6-04` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-04: Processor Minimum Security and Surveillance Requirements. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-6-05` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-05: Processor Inventory Control and Storage. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-6-06` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-06: Manufacturing cannabis products. | 1 | 2026-11-02 to 2026-11-02 |
+| `oac-rule-1301-18-6-07` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-07: Non-Marijuana Ingredients. | 1 | 2026-10-05 to 2026-10-05 |
+| `oac-rule-1301-18-6-08` | Ohio Administrative Code, Chapter 1301:18-6 | Processor Certification and Requirements, Rule 1301:18-6-08: Packaged Cannabis for Direct Customer Sale. | 1 | 2026-11-02 to 2026-11-02 |
+| `oac-rule-1301-18-7-01` | Ohio Administrative Code, Chapter 1301:18-7 | Testing Laboratory Certification, Rule 1301:18-7-01: Testing Laboratory Certificate of Operation. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-7-04` | Ohio Administrative Code, Chapter 1301:18-7 | Testing Laboratory Certification, Rule 1301:18-7-04: Testing Laboratory Accreditation. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-7-05` | Ohio Administrative Code, Chapter 1301:18-7 | Testing Laboratory Certification, Rule 1301:18-7-05: Proficiency Testing Program. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-7-06` | Ohio Administrative Code, Chapter 1301:18-7 | Testing Laboratory Certification, Rule 1301:18-7-06: Testing Laboratory Minimum Security and Surveillance Requirements. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-8-01` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-01: Dispensary Certificate of Operation. | 1 | 2024-11-08 to 2024-11-08 |
+| `oac-rule-1301-18-8-02` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-02: Dispensary Operating Procedures and Quality Assurance. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-8-03` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-03: Dispensary Designated Responsible Party. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-8-04` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-04: Dispensary General Sanitary Requirements. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1301-18-8-05` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-05: Minimum Security and Surveillance Requirements. | 1 | 2024-10-31 to 2024-10-31 |
+| `oac-rule-1301-18-8-06` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-06: Dispensary Inventory Control and Storage. | 1 | 2025-10-09 to 2025-10-09 |
+| `oac-rule-1301-18-8-07` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-07: Dispensary Patient Confidentiality. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-8-08` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-08: Dispensing Adult-Use Cannabis. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-8-09` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-09: Dispensing Medical Cannabis. | 1 | 2026-03-24 to 2026-03-24 |
+| `oac-rule-1301-18-8-10` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-10: Dispensing Errors. | 1 | 2025-11-03 to 2025-11-03 |
+| `oac-rule-1301-18-8-11` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-11: Dispensary Discounts. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-8-12` | Ohio Administrative Code, Chapter 1301:18-8 | Dispensary Patient Confidentiality, Rule 1301:18-8-12: Dispensary Returns. | 1 | 2025-11-03 to 2025-11-03 |
+| `oac-rule-1301-18-9-01` | Ohio Administrative Code, Chapter 1301:18-9 | Cannabis Facility Inspections, Rule 1301:18-9-01: Cannabis Facility Inspections. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-9-04` | Ohio Administrative Code, Chapter 1301:18-9 | Cannabis Facility Inspections, Rule 1301:18-9-04: Product Alerts and Recalls. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-9-05` | Ohio Administrative Code, Chapter 1301:18-9 | Cannabis Facility Inspections, Rule 1301:18-9-05: Ohio Division of Cannabis Control Enforcement Authority. | 1 | 2025-08-28 to 2025-08-28 |
+| `oac-rule-1301-18-9-06` | Ohio Administrative Code, Chapter 1301:18-9 | Cannabis Facility Inspections, Rule 1301:18-9-06: Variances. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-01` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-01: Procedure for Patient Registration. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-02` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-02: Procedure for Caregiver Registration. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-03` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-03: Patient and Caregiver General Requirements. | 1 | 2026-03-24 to 2026-03-24 |
+| `oac-rule-1301-18-10-04` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-04: Patient and Caregiver Notification Requirements. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-06` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-06: Patient and Caregiver Enforcement. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-07` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-07: Patient Confidentiality at Adjudication Hearings. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-08` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-08: Release of Patient Information. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-10-09` | Ohio Administrative Code, Chapter 1301:18-10 | Patients and Caregivers, Rule 1301:18-10-09: Suspension of Access to Patient Information. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-1301-18-11-01` | Ohio Administrative Code, Chapter 1301:18-11 | Cannabinoids, Rule 1301:18-11-01: Ohio Revised Code 928.031 Cannabinoids. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-1501-1-01` | Ohio Administrative Code, Chapter 1501-1 | Notice of Public Hearing, Rule 1501-1-01: Notice of a public hearing. | 1 | 2016-01-24 to 2016-01-24 |
+| `oac-rule-1501-2-01` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-01: Applicability. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-02` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-02: Definitions. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-03` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-03: Severability. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-04` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-04: Lake erie and ohio river drainage basin. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-05` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-05: Water diversion permit applications. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-06` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-06: Criteria for permit review. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-07` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-07: Timetables for action on water diversion permit applications. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-08` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-08: Transfer of permits. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-09` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-09: Reporting requirements. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-10` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-10: Appeal procedures. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-2-11` | Ohio Administrative Code, Chapter 1501-2 | Water Diversion, Rule 1501-2-11: Public participation. | 1 | 2026-11-06 to 2026-11-06 |
+| `oac-rule-1501-3-01` | Ohio Administrative Code, Chapter 1501-3 | Professional Design Services, Rule 1501-3-01: Definitions. | 1 | 1992-07-24 to 1992-07-24 |
+| `oac-rule-1501-3-03` | Ohio Administrative Code, Chapter 1501-3 | Professional Design Services, Rule 1501-3-03: Pre-design and announcement. | 1 | 2011-05-22 to 2011-05-22 |
+| `oac-rule-1501-3-04` | Ohio Administrative Code, Chapter 1501-3 | Professional Design Services, Rule 1501-3-04: Statement of qualifications. | 1 | 2011-05-22 to 2011-05-22 |
+| `oac-rule-1501-3-05` | Ohio Administrative Code, Chapter 1501-3 | Professional Design Services, Rule 1501-3-05: Selection process. | 1 | 2011-05-22 to 2011-05-22 |
+| `oac-rule-1501-3-06` | Ohio Administrative Code, Chapter 1501-3 | Professional Design Services, Rule 1501-3-06: Exceptions. | 1 | 2011-05-22 to 2011-05-22 |
+| `oac-rule-1501-4-01` | Ohio Administrative Code, Chapter 1501-4 | Acceptance of Donations; Licensing of Trademarks and Copyrights, Rule 1501-4-01: Donations. | 1 | 2000-05-04 to 2000-05-04 |
+| `oac-rule-1501-4-02` | Ohio Administrative Code, Chapter 1501-4 | Acceptance of Donations; Licensing of Trademarks and Copyrights, Rule 1501-4-02: Sponsorships. | 1 | 2000-05-04 to 2000-05-04 |
+| `oac-rule-1501-4-03` | Ohio Administrative Code, Chapter 1501-4 | Acceptance of Donations; Licensing of Trademarks and Copyrights, Rule 1501-4-03: Advertising. | 1 | 2000-05-04 to 2000-05-04 |
+| `oac-rule-1501-4-04` | Ohio Administrative Code, Chapter 1501-4 | Acceptance of Donations; Licensing of Trademarks and Copyrights, Rule 1501-4-04: Licensing. | 1 | 2000-05-04 to 2000-05-04 |
+| `oac-rule-1501-6-01` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-01: Definition of terms. | 1 | 1999-07-04 to 1999-07-04 |
+| `oac-rule-1501-6-02` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-02: Application. | 1 | 1992-04-30 to 1992-04-30 |
+| `oac-rule-1501-6-03` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-03: Director's recommendations. | 1 | 1992-04-30 to 1992-04-30 |
+| `oac-rule-1501-6-04` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-04: Public hearing/public meeting. | 1 | 1992-04-30 to 1992-04-30 |
+| `oac-rule-1501-6-05` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-05: Lease. | 1 | 1999-07-04 to 1999-07-04 |
+| `oac-rule-1501-6-10` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-10: Definitions. | 1 | 1996-06-14 to 1996-06-14 |
+| `oac-rule-1501-6-11` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-11: Determination of annual recession rates. | 1 | 1996-06-14 to 1996-06-14 |
+| `oac-rule-1501-6-12` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-12: Determination of anticipated recession distances. | 1 | 1996-06-14 to 1996-06-14 |
+| `oac-rule-1501-6-13` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-13: Preparation of coastal erosion area maps. | 1 | 1996-06-14 to 1996-06-14 |
+| `oac-rule-1501-6-21` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-21: Definitions. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-22` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-22: Applicability of the permit requirements for construction of a permanent structure. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-23` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-23: Permit application procedure. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-24` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-24: Review of permit application. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-25` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-25: The permit to erect, construct, or redevelop a permanent structure. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-26` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-26: Inspection procedures. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-27` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-27: Review of administrative and enforcement activities of counties or municipal corporations which have adopted lake Erie coastal erosion area resolutions or ordinances. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-6-28` | Ohio Administrative Code, Chapter 1501-6 | Lease of Lake Erie Submerged Lands, Rule 1501-6-28: Severability. | 1 | 1997-08-01 to 1997-08-01 |
+| `oac-rule-1501-7-01` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-01: Definition of terms. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-02` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-02: Severability. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-03` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-03: General provisions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-04` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-04: Classes of water use. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-05` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-05: Lease and sale agreements. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-06` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-06: Emergency water use. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-7-07` | Ohio Administrative Code, Chapter 1501-7 | Waters from Canal or Canal Reservoir, Rule 1501-7-07: Actions of the director. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-8-01` | Ohio Administrative Code, Chapter 1501-8 | Accessing Confidential Personal Information, Rule 1501-8-01: Definitions. | 1 | 2019-04-15 to 2019-04-15 |
+| `oac-rule-1501-8-02` | Ohio Administrative Code, Chapter 1501-8 | Accessing Confidential Personal Information, Rule 1501-8-02: Procedures for accessing confidential personal information. | 1 | 2010-09-17 to 2010-09-17 |
+| `oac-rule-1501-8-03` | Ohio Administrative Code, Chapter 1501-8 | Accessing Confidential Personal Information, Rule 1501-8-03: Valid reasons for accessing confidential personal information. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-8-04` | Ohio Administrative Code, Chapter 1501-8 | Accessing Confidential Personal Information, Rule 1501-8-04: Confidentiality statutes. | 1 | 2010-09-17 to 2010-09-17 |
+| `oac-rule-1501-8-05` | Ohio Administrative Code, Chapter 1501-8 | Accessing Confidential Personal Information, Rule 1501-8-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2010-09-17 to 2010-09-17 |
+| `oac-rule-1501-1-1-01` | Ohio Administrative Code, Chapter 1501:1-1 | Grand Wild and Scenic River Advisory Council, Rule 1501:1-1-01: Scenic river advisory councils. | 1 | 2024-12-26 to 2024-12-26 |
+| `oac-rule-1501-1-1-02` | Ohio Administrative Code, Chapter 1501:1-1 | Grand Wild and Scenic River Advisory Council, Rule 1501:1-1-02: Notice of public meetings. | 1 | 2024-12-26 to 2024-12-26 |
+| `oac-rule-1501-1-1-03` | Ohio Administrative Code, Chapter 1501:1-1 | Grand Wild and Scenic River Advisory Council, Rule 1501:1-1-03: Minutes. | 1 | 2024-12-26 to 2024-12-26 |
+| `oac-rule-1501-1-19-02` | Ohio Administrative Code, Chapter 1501:1-19 | Forestry Advisory Council, Rule 1501:1-19-02: Notice of public meetings (sunshine rule). | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-1-19-03` | Ohio Administrative Code, Chapter 1501:1-19 | Forestry Advisory Council, Rule 1501:1-19-03: Minutes. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-1-27-01` | Ohio Administrative Code, Chapter 1501:1-27 | Technical Advisory Council on Oil and Gas, Rule 1501:1-27-01: Notice of public meetings. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-1-31-01` | Ohio Administrative Code, Chapter 1501:1-31 | Wildlife Council, Rule 1501:1-31-01: Notice of public rules hearing. | 1 | 2018-06-11 to 2018-06-11 |
+| `oac-rule-1501-1-31-02` | Ohio Administrative Code, Chapter 1501:1-31 | Wildlife Council, Rule 1501:1-31-02: Notice of public meetings (sunshine rule). | 1 | 1976-03-19 to 1976-03-19 |
+| `oac-rule-1501-1-31-03` | Ohio Administrative Code, Chapter 1501:1-31 | Wildlife Council, Rule 1501:1-31-03: Minutes. | 1 | 1976-03-19 to 1976-03-19 |
+| `oac-rule-1501-3-1-01` | Ohio Administrative Code, Chapter 1501:3-1 | General Provisions, Rule 1501:3-1-01: Definitions. | 1 | 2026-08-28 to 2026-08-28 |
+| `oac-rule-1501-3-1-02` | Ohio Administrative Code, Chapter 1501:3-1 | General Provisions, Rule 1501:3-1-02: Notice of public hearing to adopt, amend or rescind rules. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-1-03` | Ohio Administrative Code, Chapter 1501:3-1 | General Provisions, Rule 1501:3-1-03: Severability. | 1 | 1977-09-28 to 1977-09-28 |
+| `oac-rule-1501-3-1-04` | Ohio Administrative Code, Chapter 1501:3-1 | General Provisions, Rule 1501:3-1-04: Successor division. | 1 | 1977-09-28 to 1977-09-28 |
+| `oac-rule-1501-3-2-01` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-01: Hours closed. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-02` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-02: Exception to hours closed. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-03` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-03: Swimming prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-04` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-04: Disposition of refuse or debris. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-2-05` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-05: Removal or disturbance of state property prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-06` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-06: Exceptions to removal of state property. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-2-08` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-08: Kindling a fire prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-10` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-10: Use of fireworks prohibited. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-2-11` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-11: Use or possession of intoxicating beverages. | 1 | 2009-05-11 to 2009-05-11 |
+| `oac-rule-1501-3-2-13` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-13: Permission required for public meetings, events and special activities. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-2-14` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-14: Construction of structures prohibited. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-2-15` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-15: Rock-climbing and rappelling permitted in designated areas only. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-16` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-16: Aviation. | 1 | 2019-05-03 to 2019-05-03 |
+| `oac-rule-1501-3-2-17` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-17: Releasing of animals and plants prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-18` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-18: Animals and pets in state forests. | 1 | 2026-08-28 to 2026-08-28 |
+| `oac-rule-1501-3-2-19` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-19: Paleontological, archaeological, historical and geological features. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-20` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-20: Metal detectors prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-2-21` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-21: Paintball, AirSoft activity prohibited. | 1 | 2009-05-11 to 2009-05-11 |
+| `oac-rule-1501-3-2-22` | Ohio Administrative Code, Chapter 1501:3-2 | Rules for Visitation, Rule 1501:3-2-22: Unattended cameras; geocaches prohibited. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-3-01` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-01: Camping permitted in designated areas. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-3-02` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-02: Camp registration. | 1 | 2025-08-10 to 2025-08-10 |
+| `oac-rule-1501-3-3-03` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-03: Removal of camp on expiration of permit. | 1 | 1974-09-16 to 1974-09-16 |
+| `oac-rule-1501-3-3-04` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-04: Trailer plumbing requirements. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-3-05` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-05: Use of campground facilities; permit required; visitors. | 1 | 1995-07-16 to 1995-07-16 |
+| `oac-rule-1501-3-3-06` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-06: Camp occupancy. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-3-08` | Ohio Administrative Code, Chapter 1501:3-3 | Camping, Rule 1501:3-3-08: Animals in campgrounds. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-4-01` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-01: Vehicle speed limits. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-02` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-02: Obstructing vehicular or pedestrian traffic. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-03` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-03: Parked vehicles; exception. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-04` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-04: Vehicles, snowmobiles, bicycles, dog sleds, horses required to stay on roads or trails; negligent operation, accessibility. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-05` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-05: Boats and watercraft with motors prohibited; exception. | 1 | 1974-09-16 to 1974-09-16 |
+| `oac-rule-1501-3-4-08` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-08: One way trails. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-10` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-10: Passengers. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-12` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-12: Vehicles permitted in the all purpose vehicle area; vehicle exhaust requirements; vehicle size limits in all purpose vehicle area. | 1 | 2026-08-28 to 2026-08-28 |
+| `oac-rule-1501-3-4-13` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-13: Removal of vehicles, bicycles or snowmobiles. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-4-14` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-14: Helmets and eye protection in state forests. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-4-15` | Ohio Administrative Code, Chapter 1501:3-4 | Motor Vehicles, Rule 1501:3-4-15: Seasonal closure of all-purpose vehicle area. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-5-01` | Ohio Administrative Code, Chapter 1501:3-5 | Concessions and Signs, Rule 1501:3-5-01: Permit required to sell or rent items. | 1 | 2009-05-11 to 2009-05-11 |
+| `oac-rule-1501-3-5-02` | Ohio Administrative Code, Chapter 1501:3-5 | Concessions and Signs, Rule 1501:3-5-02: Signs, posters prohibited. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-5-03` | Ohio Administrative Code, Chapter 1501:3-5 | Concessions and Signs, Rule 1501:3-5-03: Mineral exploration prohibited, exceptions, fee. | 1 | 2019-04-04 to 2019-04-04 |
+| `oac-rule-1501-3-6-02` | Ohio Administrative Code, Chapter 1501:3-6 | Firearms; Hunting and Fishing, Rule 1501:3-6-02: Prohibited use of firearms. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-6-03` | Ohio Administrative Code, Chapter 1501:3-6 | Firearms; Hunting and Fishing, Rule 1501:3-6-03: Hunting, fishing, trapping prohibited; public hunting, fishing, trapping areas. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-6-04` | Ohio Administrative Code, Chapter 1501:3-6 | Firearms; Hunting and Fishing, Rule 1501:3-6-04: Use of target ranges. | 1 | 2015-08-13 to 2015-08-13 |
+| `oac-rule-1501-3-6-05` | Ohio Administrative Code, Chapter 1501:3-6 | Firearms; Hunting and Fishing, Rule 1501:3-6-05: Exception to use of target ranges. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-6-07` | Ohio Administrative Code, Chapter 1501:3-6 | Firearms; Hunting and Fishing, Rule 1501:3-6-07: Use of bait and taking of an animal using bait. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-1501-3-7-01` | Ohio Administrative Code, Chapter 1501:3-7 | Forest Officer Authority, Rule 1501:3-7-01: Authority of forest officer. | 1 | 2004-01-09 to 2004-01-09 |
+| `oac-rule-1501-3-8-01` | Ohio Administrative Code, Chapter 1501:3-8 | Nature Preserves, Rule 1501:3-8-01: Nature preserves. | 1 | 1977-09-28 to 1977-09-28 |
+| `oac-rule-1501-3-9-01` | Ohio Administrative Code, Chapter 1501:3-9 | Penalties, Rule 1501:3-9-01: Penalties for violations of rules. | 1 | 1974-09-16 to 1974-09-16 |
+| `oac-rule-1501-3-10-01` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-01: Definitions. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-10-02` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-02: Forest land eligibility. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-10-03` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-03: Application process and fee. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-10-04` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-04: Forest management plan; provisions. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-10-05` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-05: Violations; withdrawals. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-10-06` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-06: Conversions and additions. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-1501-3-10-07` | Ohio Administrative Code, Chapter 1501:3-10 | Forest Management Plans, Rule 1501:3-10-07: Special provisions for property certified prior to November 7, 1994. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-1501-3-12-01` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-01: General provisions. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-12-02` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-02: Erosion from silvicultural operations. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-12-03` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-03: Forestry pollution abatement fund and cost sharing. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-12-04` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-04: Administrative procedures. | 1 | 2019-04-04 to 2019-04-04 |
+| `oac-rule-1501-3-12-05` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-05: Timber harvest plans. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-12-06` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-06: Forestry pollution complaint process. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-12-07` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-07: Chief's orders. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-3-13-01` | Ohio Administrative Code, Chapter 1501:3-13 | Process Standards, Rule 1501:3-13-01: Kindled fire waivers and certified prescribed fire managers. | 1 | 2025-12-18 to 2025-12-18 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 3545 commits:
+The build made 3960 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3545 | baseline texts where the record starts |
+| 3960 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -3585,7 +4001,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 3545 tags.
+- 3960 tags.
 
 ## Dates
 
@@ -3597,7 +4013,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4e93540f364b49a2af76d9f5b2db86ddbf7ae874073b5e26280e4477ae63b552` (95983615 bytes).
+- Corpus: sha256 `110d562ce2fd22e571c1ffda1049a4fa67f550667f40606f063f7dfac3eb76e3` (97811237 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -3633,6 +4049,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -3645,6 +4063,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
