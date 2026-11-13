@@ -20,6 +20,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -4538,17 +4539,546 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-1501-46-15-14` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-14: Field trials, permit required. | 1 | 2024-06-30 to 2024-06-30 |
 | `oac-rule-1501-46-15-15` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-15: Floatation device permitted for fishing. | 1 | 2021-07-16 to 2021-07-16 |
 | `oac-rule-1501-46-15-17` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-17: Special management hunts. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-47-1-02` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-02: Registration certificate. | 1 | 2022-07-09 to 2022-07-09 |
+| `oac-rule-1501-47-1-03` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-03: Application for mail renewal of registration certificate. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-04` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-04: Transferred watercraft. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-05` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-05: New ownership of watercraft already registered: exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-06` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-06: Change in watercraft propulsion. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-07` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-07: Watercraft identification. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-07-1` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-07.1: Contingent registration. | 1 | 2022-07-09 to 2022-07-09 |
+| `oac-rule-1501-47-1-08-1` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-08.1: Waiver of watercraft registration certificate fee: eligibility. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-09` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-09: Boating accidents. | 1 | 2022-07-09 to 2022-07-09 |
+| `oac-rule-1501-47-1-10` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-10: Interference with or mooring to navigation buoys. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-1-11` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-11: Anchoring requirements, exception. | 1 | 2022-07-09 to 2022-07-09 |
+| `oac-rule-1501-47-1-12` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-12: Buoys. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-13` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-13: Obstructing a waterway, securing of docked and anchored vessels. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-1-14` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-14: Mandatory education/boat rental company with multiple locations. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-1-15` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-15: Mandatory education/abbreviated examination for boat rental companies. | 1 | 2026-06-18 to 2026-06-18 |
+| `oac-rule-1501-47-1-16` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-16: Mandatory education/proficiency examination and certificate. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-17` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-17: Certificates for boating education requirement. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-18` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-18: Boating education course fees. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-19` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-19: Watercraft registration/boating education course fee refunds. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-1-20` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-20: Muffler noise regulations. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-1-21` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-21: Display of tag pursuant to sections 1547.53 (H) and 1547.57 (C) of the Revised Code. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-1-22` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-22: Operation without personal flotation devices prohibited; exceptions. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-1-23` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-23: Hull Identification Numbers. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-1-27` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-27: Pollution placard. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-1-28` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-28: Garbage placard. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-1-29` | Ohio Administrative Code, Chapter 1501:47-1 | General Provisions, Rule 1501:47-1-29: Copy of rules. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-2-01` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-01: Application of rules 1501:47-2-01 to 1501:47-2-36 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-02` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-02: Responsibility. | 1 | 1991-08-18 to 1991-08-18 |
+| `oac-rule-1501-47-2-03` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-03: Definitions for rules 1501:47-2-01 to 1501:47-2-36 of the Administrative Code. | 1 | 2014-08-08 to 2014-08-08 |
+| `oac-rule-1501-47-2-04` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-04: Application of rules 1501:47-2-04 to 1501:47-2-10 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-05` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-05: Proper look-out required. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-06` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-06: Safe speed. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-07` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-07: Risk of collision. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-08` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-08: Action to avoid collision. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-09` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-09: Narrow channels. | 1 | 2014-08-08 to 2014-08-08 |
+| `oac-rule-1501-47-2-10` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-10: Vessel traffic services. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-11` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-11: Application of rules 1501:47-2-11 to 1501:47-2-18 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-12` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-12: Sailing vessels. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-13` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-13: Overtaking. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-14` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-14: Head-on situation. | 1 | 2014-08-08 to 2014-08-08 |
+| `oac-rule-1501-47-2-15` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-15: Crossing situation. | 1 | 1991-08-18 to 1991-08-18 |
+| `oac-rule-1501-47-2-16` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-16: Action by give-way vessel. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-17` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-17: Action by stand-on vessel. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-18` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-18: Responsibilities between vessels. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-19` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-19: Conduct of vessels in restricted visibility. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-20` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-20: Application of rules 1501:47-2-20 to 1501:47-2-31 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-21` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-21: Definitions for rules 1501:47-2-21 to 1501:47-2-31 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-22` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-22: Visibility of lights. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-23` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-23: Power-driven vessels underway. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-24` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-24: Towing and pushing. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-25` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-25: Sailing vessels underway and vessels under oars. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-26` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-26: Fishing vessels. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-27` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-27: Vessels not under command or restricted in their ability to maneuver. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-29` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-29: Pilot vessels. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-30` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-30: Anchored vessels and vessels aground. | 1 | 1991-08-18 to 1991-08-18 |
+| `oac-rule-1501-47-2-31` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-31: Seaplanes and wing-in-ground craft. | 1 | 2007-04-17 to 2007-04-17 |
+| `oac-rule-1501-47-2-32` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-32: Definitions for rules 1501:47-2-32 to 1501:47-2-36 of the Administrative Code. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-33` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-33: Equipment for sound signals. | 1 | 2014-08-08 to 2014-08-08 |
+| `oac-rule-1501-47-2-34` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-34: Maneuvering and warning signals. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-35` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-35: Sound signals in restricted visibility. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-2-36` | Ohio Administrative Code, Chapter 1501:47-2 | Rules of Navigation, Rule 1501:47-2-36: Signals to attract attention. | 1 | 1990-08-24 to 1990-08-24 |
+| `oac-rule-1501-47-3-01` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-01: Exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-02` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-02: Definition of terms. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-03` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-03: Authority of lock personnel. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-08` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-08: Ten-mile per hour speed limit; exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-09` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-09: Speed and ski zone operation. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-10` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-10: Airfoils prohibited. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-11` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-11: Air propelled powercraft, hovercraft. | 1 | 2018-09-03 to 2018-09-03 |
+| `oac-rule-1501-47-3-12` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-12: Horsepower limitations; paddlecraft. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-13` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-13: Powercraft prohibited in no motor zone. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-14` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-14: No wake zones. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-15` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-15: No watercraft permitted. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-16` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-16: No powercraft permitted. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-17` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-17: Lakes permitting electric motors only. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-18` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-18: Lakes permitting no wake operation. | 1 | 2021-01-30 to 2021-01-30 |
+| `oac-rule-1501-47-3-19` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-19: Lakes permitting ten horsepower. | 1 | 2021-01-30 to 2021-01-30 |
+| `oac-rule-1501-47-3-20` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-20: Lakes permitting more than ten horsepower. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-3-21` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-21: Sleeping on watercraft prohibited. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-23` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-23: Ski patterns. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-32` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-32: Watercraft operation in activity zone. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-33` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-33: Limitations on swimming from watercraft; designation of boat swim areas. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-3-35` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-35: Intoxicating beverages on waters administered by the division of parks and watercraft. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-3-37` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-37: Unlimited horsepower at no-wake speed. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-47-3-38` | Ohio Administrative Code, Chapter 1501:47-3 | State Park Areas, Rule 1501:47-3-38: Pymatuning horsepower and boating restrictions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-5-01` | Ohio Administrative Code, Chapter 1501:47-5 | Division of Wildlife Areas, Rule 1501:47-5-01: Exceptions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-47-5-04` | Ohio Administrative Code, Chapter 1501:47-5 | Division of Wildlife Areas, Rule 1501:47-5-04: Regulations prescribed for the use of watercraft on Berlin reservoir, situated in the couties of Mahoning, Portage and Stark. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-47-6-01` | Ohio Administrative Code, Chapter 1501:47-6 | Division of Natural Areas, Rule 1501:47-6-01: Application. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-6-03` | Ohio Administrative Code, Chapter 1501:47-6 | Division of Natural Areas, Rule 1501:47-6-03: No wake operation permitted. | 1 | 2021-01-30 to 2021-01-30 |
+| `oac-rule-1501-47-7-01` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-01: Exception to rules. | 1 | 2017-05-25 to 2017-05-25 |
+| `oac-rule-1501-47-7-02` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-02: Brown county. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-47-7-03` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-03: Vessels and operations on waterways within the jurisdiction of the city of Columbus, Franklin county. | 1 | 2017-05-25 to 2017-05-25 |
+| `oac-rule-1501-47-7-04` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-04: Five Rivers metroparks; Eastwood lake. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-05` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-05: Great parks of Hamilton county. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-06` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-06: Odell lake, Holmes county. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-07` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-07: Board of commissioners of Sandusky county. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-7-08` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-08: On the waters of Clearfork reservoir, Richland county. | 1 | 2017-05-25 to 2017-05-25 |
+| `oac-rule-1501-47-7-09` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-09: On the waters of Nettle lake: Williams county, Ohio. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-10` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-10: Springfield lake, Summit county. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-11` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-11: On the waters of lake Seneca, Williams county. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-47-7-12` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-12: Stark county park district. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-13` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-13: City of Cuyahoga Falls. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-14` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-14: Lake Snowden: Athens county, Ohio. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-15` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-15: Apple Valley lake: Knox county, Ohio. | 1 | 2026-04-09 to 2026-04-09 |
+| `oac-rule-1501-47-7-16` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-16: Lake Lorelei, Brown county. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-17` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-17: Lakengren lakes, Preble county. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-47-7-18` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-18: Lake Buckhorn, Holmes county. | 1 | 2025-04-21 to 2025-04-21 |
+| `oac-rule-1501-47-7-19` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-19: Lake Roaming Rock, Ashtabula county. | 1 | 2026-04-09 to 2026-04-09 |
+| `oac-rule-1501-47-7-20` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-20: Little Miami river, Warren county. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-7-21` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-21: Medina county park district. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-47-7-22` | Ohio Administrative Code, Chapter 1501:47-7 | Specific Area Rules, Rule 1501:47-7-22: Waters under the management authority of the city of Aurora, Ohio. | 1 | 2026-09-03 to 2026-09-03 |
+| `oac-rule-1501-47-9-01` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-01: Horsepower limitations. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-47-9-02` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-02: Speed limitations. | 1 | 2021-01-30 to 2021-01-30 |
+| `oac-rule-1501-47-9-03` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-03: Sleeping on watercraft. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-9-04` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-04: Intoxicating beverages. | 1 | 2021-01-30 to 2021-01-30 |
+| `oac-rule-1501-47-9-05` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-05: Launching, anchoring, and storage. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-9-06` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-06: Seaplanes, hovercraft, and submersibles prohibited. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-9-08` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-08: Night speed activities. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-47-9-09` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-09: Administrative permits. | 1 | 2018-01-26 to 2018-01-26 |
+| `oac-rule-1501-47-9-10` | Ohio Administrative Code, Chapter 1501:47-9 | Muskingum Watershed Conservancy District, Rule 1501:47-9-10: Use of airborne devices prohibited. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-155-1-01` | Ohio Administrative Code, Chapter 1501:155-1 | Standard Lease Adoption, Rule 1501:155-1-01: Standard lease adoption. | 1 | 2026-03-23 to 2026-03-23 |
+| `oac-rule-1509-1-01` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-01: Official address of the oil and gas commission. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-02` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-02: Definitions. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-03` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-03: Quorum, concurrence. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-04` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-04: Appearances before the commission. | 1 | 2013-06-20 to 2013-06-20 |
+| `oac-rule-1509-1-05` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-05: Ex Parte Contacts or Communications. | 1 | 2008-09-30 to 2008-09-30 |
+| `oac-rule-1509-1-06` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-06: Meetings, hearings and calendar. | 1 | 2019-02-14 to 2019-02-14 |
+| `oac-rule-1509-1-07` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-07: Minutes. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-08` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-08: Availability of commission records and files. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-09` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-09: Filing with the commission. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-10` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-10: Computation and extension of time. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-11` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-11: Appeals to the commission. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-12` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-12: Motion to Stay or Suspend Execution of Order. | 1 | 2013-06-20 to 2013-06-20 |
+| `oac-rule-1509-1-13` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-13: Interested Persons. | 1 | 2008-09-30 to 2008-09-30 |
+| `oac-rule-1509-1-14` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-14: Intervention, participation by amicus curiae. | 1 | 2019-05-05 to 2019-05-05 |
+| `oac-rule-1509-1-15` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-15: Notice of adjudication hearing. | 1 | 2019-02-14 to 2019-02-14 |
+| `oac-rule-1509-1-16` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-16: Continuances. | 1 | 2013-06-20 to 2013-06-20 |
+| `oac-rule-1509-1-17` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-17: Discovery, depositions. | 1 | 2013-06-20 to 2013-06-20 |
+| `oac-rule-1509-1-18` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-18: Subpoenas. | 1 | 2019-05-05 to 2019-05-05 |
+| `oac-rule-1509-1-19` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-19: Motions, briefs. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-20` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-20: Conduct of evidentiary hearings. | 1 | 2013-06-20 to 2013-06-20 |
+| `oac-rule-1509-1-21` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-21: Stipulation of Fact. | 1 | 2008-09-30 to 2008-09-30 |
+| `oac-rule-1509-1-22` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-22: Substitution of parties, dismissal and withdrawal. | 1 | 2019-02-14 to 2019-02-14 |
+| `oac-rule-1509-1-23` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-23: Decisions of the commission. | 1 | 2022-01-24 to 2022-01-24 |
+| `oac-rule-1509-1-24` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-24: Appeals from commission decisions. | 1 | 2019-05-05 to 2019-05-05 |
+| `oac-rule-1509-1-25` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-25: Rules of the commission, notice of public hearing. | 1 | 2019-02-14 to 2019-02-14 |
+| `oac-rule-1509-1-26` | Ohio Administrative Code, Chapter 1509-1 | General Provisions, Rule 1509-1-26: Notice of public meetings ("Sunshine Law"). | 1 | 2019-07-26 to 2019-07-26 |
+| `oac-rule-1513-3-01` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-01: Definitions. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-02` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-02: Internal regulations. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-03` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-03: Appearance and practice before the commission. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-04` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-04: Appeals to the reclamation commission. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-05` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-05: Filing and service of papers. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-06` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-06: Computation and extension of time. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-07` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-07: Intervention. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-08` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-08: Temporary relief. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-09` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-09: Responsive pleadings. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-10` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-10: Discovery. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-11` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-11: Motions. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-12` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-12: Pre-hearing procedures. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-13` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-13: Notice of hearings and continuance of hearings. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-14` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-14: Site views and location of hearings. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-15` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-15: Consolidation of proceedings. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-16` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-16: Conduct of evidentiary hearings. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1513-3-17` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-17: Voluntary dismissal and settlement. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-18` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-18: Reports and recommendations of the hearing officer. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-19` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-19: Decisions of the commission. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-21` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-21: Award of costs and expenses. | 1 | 2013-10-11 to 2013-10-11 |
+| `oac-rule-1513-3-22` | Ohio Administrative Code, Chapter 1513-3 | General Provisions, Rule 1513-3-22: Appeals from commission decisions. | 1 | 2018-11-01 to 2018-11-01 |
+| `oac-rule-1551-3-1-01` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-01: Solar energy systems. | 1 | 1980-04-10 to 1980-04-10 |
+| `oac-rule-1551-3-1-02` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-02: Active solar systems. | 1 | 1980-04-10 to 1980-04-10 |
+| `oac-rule-1551-3-1-03` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-03: Photovoltaic energy conversion systems. | 1 | 1980-04-10 to 1980-04-10 |
+| `oac-rule-1551-3-1-04` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-04: Passive solar systems. | 1 | 1984-07-02 to 1984-07-02 |
+| `oac-rule-1551-3-1-05` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-05: Wind energy systems. | 1 | 1984-07-02 to 1984-07-02 |
+| `oac-rule-1551-3-1-06` | Ohio Administrative Code, Chapter 1551:3-1 | Solar, Wind, and Hydrothermal Energy Systems, Rule 1551:3-1-06: Hydrothermal energy systems. | 1 | 1980-04-10 to 1980-04-10 |
+| `oac-rule-3301-2-14` | Ohio Administrative Code, Chapter 3301-2 | Personal Information Systems, Rule 3301-2-14: Confidential personal information definitions. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-3301-2-15` | Ohio Administrative Code, Chapter 3301-2 | Personal Information Systems, Rule 3301-2-15: Procedures for accessing confidential personal information. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-3301-2-16` | Ohio Administrative Code, Chapter 3301-2 | Personal Information Systems, Rule 3301-2-16: Valid reasons for accessing confidential personal information. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-3301-2-17` | Ohio Administrative Code, Chapter 3301-2 | Personal Information Systems, Rule 3301-2-17: Confidentiality statutes, rules, and regulations. | 1 | 2017-08-03 to 2017-08-03 |
+| `oac-rule-3301-2-18` | Ohio Administrative Code, Chapter 3301-2 | Personal Information Systems, Rule 3301-2-18: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-3301-3-01` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-01: Scope and definitions. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-3-02` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-02: Eligibility to establish an information technology center. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-3-03` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-03: Information technology center site permit validity, renewal, and revocation. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-3-05` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-05: Responsibilities of the department. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-3-06` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-06: Responsibilities of information technology centers. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-3-07` | Ohio Administrative Code, Chapter 3301-3 | Data Acquisition Sites, Rule 3301-3-07: Performance standards. | 1 | 2026-10-08 to 2026-10-08 |
+| `oac-rule-3301-7-01` | Ohio Administrative Code, Chapter 3301-7 | Standards for the Ethical Use of Tests, Rule 3301-7-01: Standards for the ethical use of tests. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-8-01` | Ohio Administrative Code, Chapter 3301-8 | Payment of Debt Service Charges, Rule 3301-8-01: Payment of debt charges under the state credit enhancement program. | 1 | 2026-11-01 to 2026-11-01 |
+| `oac-rule-3301-10-01` | Ohio Administrative Code, Chapter 3301-10 | School Enrollment for Domestic Violence Victims, Rule 3301-10-01: School enrollment for victims of domestic violence. | 1 | 2024-06-07 to 2024-06-07 |
+| `oac-rule-3301-11-01` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-01: Definitions. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-03` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-03: List of designated buildings used in eligibility determination; assignment areas. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-04` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-04: Eligibility for program participation. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-05` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-05: Application for program participation. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-07` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-07: Awarding scholarships. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-08` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-08: Transfer of scholarship. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-09` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-09: Termination of eligibility. | 1 | 2006-02-24 to 2006-02-24 |
+| `oac-rule-3301-11-10` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-10: Payment of scholarship amounts. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-11` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-11: Participation by chartered nonpublic schools. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-12` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-12: Entities designated to file applications. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-14` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-14: Dispute resolution. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-11-15` | Ohio Administrative Code, Chapter 3301-11 | Educational Choice Scholarship Program, Rule 3301-11-15: Program administration. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-13-01` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-01: Definitions. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-13-02` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-02: Administering state tests at the designated grades. | 1 | 2026-01-15 to 2026-01-15 |
+| `oac-rule-3301-13-03` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-03: Establishing provisions for the participation of students with disabilities in state tests administered at the designated grades. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-13-04` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-04: Establishing provisions for a waiver by the superintendent of public instruction. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-13-05` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-05: Establishing security and security investigation provisions for tests. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-13-06` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-06: Scoring and reporting tests. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-13-07` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-07: Establishing the provisions and decision procedures for the fairness sensitivity review committees. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-13-09` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-09: Provisions for an excuse from taking any assessment required for graduation for an adult with disabilities or for providing accommodations on any assessment required for graduation for an adult with disabilities, twenty-two or more years of age, and enrolled in adult high school continuation program. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-13-10` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-10: Standard to develop a plan for any accommodation for or an excuse from statewide tests for students with disabilities in chartered nonpublic schools. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-13-11` | Ohio Administrative Code, Chapter 3301-13 | Proficiency Tests, Rule 3301-13-11: Identification, instruction, assessment, and reclassification of English learners. | 1 | 2024-11-08 to 2024-11-08 |
+| `oac-rule-3301-14-01` | Ohio Administrative Code, Chapter 3301-14 | Education Management Information System, Rule 3301-14-01: Operation of the education management information system. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-15-02` | Ohio Administrative Code, Chapter 3301-15 | Identification of Excellent and Deficient Schools, Rule 3301-15-02: Exemptions from state statutory provisions and rules. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-16-02` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-02: Establishing criteria for awarding the diploma with honors. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3301-16-03` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-03: Community service learning special certification. | 1 | 2023-03-23 to 2023-03-23 |
+| `oac-rule-3301-16-04` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-04: College and work ready assessment transition. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-16-05` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-05: Additional assessment options for students required to pass the Ohio graduation tests. | 1 | 2021-12-30 to 2021-12-30 |
+| `oac-rule-3301-16-06` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-06: Retaking end-of-course examinations. | 1 | 2016-07-29 to 2016-07-29 |
+| `oac-rule-3301-16-07` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-07: End-of-course examination in science. | 1 | 2021-12-30 to 2021-12-30 |
+| `oac-rule-3301-16-08` | Ohio Administrative Code, Chapter 3301-16 | High School Graduation, Rule 3301-16-08: State seal of biliteracy. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-17-03` | Ohio Administrative Code, Chapter 3301-17 | Reports for Statewide Education Management Information System, Rule 3301-17-03: Definitions. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-17-05` | Ohio Administrative Code, Chapter 3301-17 | Reports for Statewide Education Management Information System, Rule 3301-17-05: Corrective action plan. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-17-06` | Ohio Administrative Code, Chapter 3301-17 | Reports for Statewide Education Management Information System, Rule 3301-17-06: Financial and other penalties. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-17-07` | Ohio Administrative Code, Chapter 3301-17 | Reports for Statewide Education Management Information System, Rule 3301-17-07: Reporting. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-18-01` | Ohio Administrative Code, Chapter 3301-18 | Calculating Student Attendance Rate, Rule 3301-18-01: Calculating student attendance rate. | 1 | 2026-04-09 to 2026-04-09 |
+| `oac-rule-3301-19-01` | Ohio Administrative Code, Chapter 3301-19 | School District Expenditure Flow Reports, Rule 3301-19-01: Definitions. | 1 | 2026-06-15 to 2026-06-15 |
+| `oac-rule-3301-19-02` | Ohio Administrative Code, Chapter 3301-19 | School District Expenditure Flow Reports, Rule 3301-19-02: Purpose. | 1 | 2026-06-15 to 2026-06-15 |
+| `oac-rule-3301-19-03` | Ohio Administrative Code, Chapter 3301-19 | School District Expenditure Flow Reports, Rule 3301-19-03: Procedures for submitting data and presenting information. | 1 | 2026-06-15 to 2026-06-15 |
+| `oac-rule-3301-28-01` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-01: Definitions. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-02` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-02: Gap closing component and measures. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-03` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-03: Achievement component and measure. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-04` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-04: Gifted performance indicator. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-05` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-05: Graduation component and measures. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-06` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-06: Progress component and measures. | 1 | 2022-06-16 to 2022-06-16 |
+| `oac-rule-3301-28-07` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-07: Early literacy component and measures. | 1 | 2026-08-31 to 2026-08-31 |
+| `oac-rule-3301-28-08` | Ohio Administrative Code, Chapter 3301-28 | Local Report Card, Rule 3301-28-08: College, career, workforce, and military readiness component. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-30-01` | Ohio Administrative Code, Chapter 3301-30 | Department of Youth Services Educational Program Standards, Rule 3301-30-01: Ohio department of youth services and Ohio department of rehabilitation and correction schools. | 1 | 2022-03-31 to 2022-03-31 |
+| `oac-rule-3301-33-01` | Ohio Administrative Code, Chapter 3301-33 | Phonics, Rule 3301-33-01: Rule for phonics. | 1 | 2022-12-29 to 2022-12-29 |
+| `oac-rule-3301-35-01` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-01: Purpose and definitions. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-35-02` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-02: Governance, leadership, and strategic planning. | 1 | 2021-05-24 to 2021-05-24 |
+| `oac-rule-3301-35-03` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-03: Blended learning. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-35-04` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-04: Student and other stakeholder focus. | 1 | 2024-02-16 to 2024-02-16 |
+| `oac-rule-3301-35-05` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-05: Faculty and staff focus. | 1 | 2021-05-24 to 2021-05-24 |
+| `oac-rule-3301-35-06` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-06: Educational programs and support. | 1 | 2021-05-24 to 2021-05-24 |
+| `oac-rule-3301-35-07` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-07: Data-driven improvement. | 1 | 2021-05-24 to 2021-05-24 |
+| `oac-rule-3301-35-08` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-08: Non-chartered, non-tax supported school. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-35-09` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-09: Chartered nonpublic schools. | 1 | 2021-05-24 to 2021-05-24 |
+| `oac-rule-3301-35-15` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-15: Standards for the implementation of positive behavior intervention supports and the use of restraint and seclusion. | 1 | 2021-06-24 to 2021-06-24 |
+| `oac-rule-3301-35-16` | Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-16: Online learning. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-39-01` | Ohio Administrative Code, Chapter 3301-39 | Approval of Nonpublic Schools, Rule 3301-39-01: Definitions. | 1 | 2026-02-08 to 2026-02-08 |
+| `oac-rule-3301-39-03` | Ohio Administrative Code, Chapter 3301-39 | Approval of Nonpublic Schools, Rule 3301-39-03: Procedures. | 1 | 2026-02-08 to 2026-02-08 |
+| `oac-rule-3301-39-04` | Ohio Administrative Code, Chapter 3301-39 | Approval of Nonpublic Schools, Rule 3301-39-04: Oversight/revocation of charter. | 1 | 2026-02-08 to 2026-02-08 |
+| `oac-rule-3301-40-03` | Ohio Administrative Code, Chapter 3301-40 | Nonpublic School Funds, Rule 3301-40-03: Procedures. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-40-04` | Ohio Administrative Code, Chapter 3301-40 | Nonpublic School Funds, Rule 3301-40-04: Employees. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-40-05` | Ohio Administrative Code, Chapter 3301-40 | Nonpublic School Funds, Rule 3301-40-05: Reimbursement. | 1 | 2017-03-25 to 2017-03-25 |
+| `oac-rule-3301-40-07` | Ohio Administrative Code, Chapter 3301-40 | Nonpublic School Funds, Rule 3301-40-07: Appeals. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-40-08` | Ohio Administrative Code, Chapter 3301-40 | Nonpublic School Funds, Rule 3301-40-08: Property disposal procedures. | 1 | 2022-10-28 to 2022-10-28 |
+| `oac-rule-3301-41-01` | Ohio Administrative Code, Chapter 3301-41 | Certificate of High School Equivalence, Rule 3301-41-01: Ohio certificate of high school equivalence. | 1 | 2017-02-16 to 2017-02-16 |
+| `oac-rule-3301-42-01` | Ohio Administrative Code, Chapter 3301-42 | Adult Public Secondary Education Programs, Rule 3301-42-01: Criteria for enrolling eligible adults in public secondary education programs. | 1 | 2021-12-30 to 2021-12-30 |
+| `oac-rule-3301-43-01` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-01: Definitions. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-43-02` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-02: Establishment of high school continuation programs. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-43-03` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-03: Eligibility criteria for high school continuation programs and earning equivalent adult high school credit. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-43-04` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-04: Program elements, basis for awarding adult high school credits. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-43-05` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-05: Criteria for issuing diplomas. | 1 | 2021-04-22 to 2021-04-22 |
+| `oac-rule-3301-43-06` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-06: Administering Ohio graduation tests to eligible adults. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-43-07` | Ohio Administrative Code, Chapter 3301-43 | High School Continuation Programs, Rule 3301-43-07: Program reimbursement, high school continuation. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-44-01` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-01: Purpose. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-02` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-02: Definitions. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-03` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-03: Provider application. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-04` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-04: Provider requirements. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-05` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-05: Enrollment. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-06` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-06: Requirements to earn a high school diploma. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-07` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-07: Provider funding. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-08` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-08: Contracting educational services. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-44-09` | Ohio Administrative Code, Chapter 3301-44 | Adult Diploma Pilot Program, Rule 3301-44-09: Standards for competency-based education. | 1 | 2022-08-26 to 2022-08-26 |
+| `oac-rule-3301-45-01` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-01: Purpose. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-02` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-02: Definitions. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-45-03` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-03: Provider application. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-45-04` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-04: Provider requirements. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-05` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-05: Enrollment. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-06` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-06: Measurement of provider performance. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-45-07` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-07: Process to earn a high school diploma. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-08` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-08: Contracting educational services. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-09` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-09: District of residence. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-45-10` | Ohio Administrative Code, Chapter 3301-45 | Adult High School Diplomas, Rule 3301-45-10: Standards for competency-based education. | 1 | 2020-12-24 to 2020-12-24 |
+| `oac-rule-3301-46-01` | Ohio Administrative Code, Chapter 3301-46 | Exemption from Statutes to Implement Innovative Education Pilot Programs, Rule 3301-46-01: Innovative education pilot programs. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-47-01` | Ohio Administrative Code, Chapter 3301-47 | Education Program for Parents of Truant Students, Rule 3301-47-01: Establishment of an education program for parents of truant students. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-48-01` | Ohio Administrative Code, Chapter 3301-48 | Open Enrollment Programs, Rule 3301-48-01: Intradistrict open enrollment programs. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-48-02` | Ohio Administrative Code, Chapter 3301-48 | Open Enrollment Programs, Rule 3301-48-02: Interdistrict open enrollment programs. | 1 | 2024-05-12 to 2024-05-12 |
+| `oac-rule-3301-49-01` | Ohio Administrative Code, Chapter 3301-49 | Competency Guarantees, Rule 3301-49-01: Rule relating to guarantee of competency of certain high school graduates. | 1 | 1990-10-29 to 1990-10-29 |
+| `oac-rule-3301-51-01` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-01: Applicability of requirements and definitions. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-51-02` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-02: Free appropriate public education. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-51-03` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-03: Child find. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-51-04` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-04: Confidentiality. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-51-05` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-05: Procedural safeguards. | 1 | 2025-01-24 to 2025-01-24 |
+| `oac-rule-3301-51-06` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-06: Evaluations. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-51-07` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-07: Individualized education program (IEP). | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-51-08` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-08: Parentally placed nonpublic school children. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-51-09` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-09: Delivery of services. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-51-10` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-10: Transportation of children with disabilities. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-51-11` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-11: Preschool children eligible for special education. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-3301-51-15` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-15: Operating standards for identifying and serving students who are gifted. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-51-20` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-20: Admission, transfer, suspension, and expulsion standard for the Ohio state schools for the blind and deaf. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-51-21` | Ohio Administrative Code, Chapter 3301-51 | Education of Students with Special Needs, Rule 3301-51-21: Providing instructional material to children with visual impairments and others with print disabilities that are listed for sale by publishers with the superintendent of public instruction. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-3301-53-01` | Ohio Administrative Code, Chapter 3301-53 | Special Education Programs, Rule 3301-53-01: Minimum standards for establishing county board of developmental disabilities special education programs. | 1 | 2022-04-28 to 2022-04-28 |
+| `oac-rule-3301-53-03` | Ohio Administrative Code, Chapter 3301-53 | Special Education Programs, Rule 3301-53-03: Excess cost charges for county boards of developmental disabilities for special education programs. | 1 | 2022-04-28 to 2022-04-28 |
+| `oac-rule-3301-55-01` | Ohio Administrative Code, Chapter 3301-55 | Special Education Programs for State Institutions, Rule 3301-55-01: Minimum standards for establishing special education programs in state developmental centers and hospitals of the department of developmental disabilities and the department of mental health and addiction services. | 1 | 2022-04-28 to 2022-04-28 |
+| `oac-rule-3301-56-01` | Ohio Administrative Code, Chapter 3301-56 | Intervention Standards for Districts Declared To Be under Academic Watch or in Academic Emergency Status, Rule 3301-56-01: School district and building improvement, supports, and interventions. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-56-02` | Ohio Administrative Code, Chapter 3301-56 | Intervention Standards for Districts Declared To Be under Academic Watch or in Academic Emergency Status, Rule 3301-56-02: Reading achievement improvement plans. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-61-02` | Ohio Administrative Code, Chapter 3301-61 | Vocational Education, Rule 3301-61-02: Career-technical education plan. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-61-03` | Ohio Administrative Code, Chapter 3301-61 | Vocational Education, Rule 3301-61-03: Criteria for career-technical programs. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-61-06` | Ohio Administrative Code, Chapter 3301-61 | Vocational Education, Rule 3301-61-06: Contracts between school districts for career-technical education. | 1 | 2024-05-09 to 2024-05-09 |
+| `oac-rule-3301-69-02` | Ohio Administrative Code, Chapter 3301-69 | Miscellaneous Programs, Rule 3301-69-02: Excuses from school attendance. | 1 | 2025-03-23 to 2025-03-23 |
+| `oac-rule-3301-69-03` | Ohio Administrative Code, Chapter 3301-69 | Miscellaneous Programs, Rule 3301-69-03: Medicaid school component administrative costs. | 1 | 2021-12-30 to 2021-12-30 |
+| `oac-rule-3301-83-01` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-01: Calculation of pupil transportation operation payments. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-04` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-04: Scope and definitions. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-05` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-05: Administration. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-06` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-06: Personnel qualifications. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-07` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-07: School transportation driver physical qualifications rule. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-08` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-08: Pupil transportation management policies. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-09` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-09: Pupil and parent or guardian bus safety orientation; pupil instruction. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-10` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-10: Personnel training program. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-11` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-11: School bus and motor van inspections. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-12` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-12: Safety procedures. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-13` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-13: School bus routes and stops. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-14` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-14: Records and reports. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-15` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-15: Emergency and evacuation procedures. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-16` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-16: Non-routine use of school buses and motor vans. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-17` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-17: Authorized and unauthorized passengers. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-18` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-18: Passenger capacity. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-19` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-19: Authorized vehicles for transportation of pupils to and from school and school-related events. | 1 | 2025-07-24 to 2025-07-24 |
+| `oac-rule-3301-83-20` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-20: General rules. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-21` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-21: Supplementary provisions for county boards of developmental disabilities. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-22` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-22: Vehicle maintenance. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-24` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-24: School transportation fees. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-83-25` | Ohio Administrative Code, Chapter 3301-83 | Pupil Transportation, Rule 3301-83-25: Transportation collaboration grant. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-01` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-01: Eligibility for receiving state matching funds. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-02` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-02: Schedule of payments. | 1 | 2020-09-04 to 2020-09-04 |
+| `oac-rule-3301-91-03` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-03: Report required. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-04` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-04: Calculation of payment. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-07` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-07: Appeal for extension of time for compliance. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-09` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-09: Guidance for approving food to be sold in schools. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-91-10` | Ohio Administrative Code, Chapter 3301-91 | Standards for School Lunch and Breakfast Programs, Rule 3301-91-10: Establishing summer food service programs at school sites and associated cost. | 1 | 2022-03-31 to 2022-03-31 |
+| `oac-rule-3301-92-02` | Ohio Administrative Code, Chapter 3301-92 | Distribution of State Aid, Rule 3301-92-02: Capital improvement and maintenance fund. | 1 | 2026-11-01 to 2026-11-01 |
+| `oac-rule-3301-92-04` | Ohio Administrative Code, Chapter 3301-92 | Distribution of State Aid, Rule 3301-92-04: Reporting financial forecast with current budget information and projections for succeeding years. | 1 | 2026-11-01 to 2026-11-01 |
+| `oac-rule-3301-92-05` | Ohio Administrative Code, Chapter 3301-92 | Distribution of State Aid, Rule 3301-92-05: Certification of adequate revenue. | 1 | 2026-11-01 to 2026-11-01 |
+| `oac-rule-3301-101-01` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-01: Definitions. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-02` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-02: Jon Peterson special needs scholarship program established. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-03` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-03: Eligibility to receive a scholarship. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-04` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-04: Application for a scholarship. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-06` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-06: Awarding scholarships. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-07` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-07: Transfer of scholarship. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-08` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-08: Termination of eligibility. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-09` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-09: Participation by providers. | 1 | 2024-07-05 to 2024-07-05 |
+| `oac-rule-3301-101-10` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-10: Payment of scholarship amounts. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-11` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-11: Entities designated to file applications. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-12` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-12: Dispute resolution and due process requests. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-13` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-13: Program administration. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-101-14` | Ohio Administrative Code, Chapter 3301-101 | Jon Peterson Special Needs Scholarship Program, Rule 3301-101-14: Standards for Jon Peterson special needs scholarship program direct services provided by virtual means. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-3301-102-02` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-02: Definitions. | 1 | 2022-07-28 to 2022-07-28 |
+| `oac-rule-3301-102-03` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-03: Initial approval of sponsors. | 1 | 2022-07-28 to 2022-07-28 |
+| `oac-rule-3301-102-04` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-04: Sponsorship agreement. | 1 | 2022-07-28 to 2022-07-28 |
+| `oac-rule-3301-102-05` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-05: Monitoring and reporting requirements for all sponsors. | 1 | 2022-07-28 to 2022-07-28 |
+| `oac-rule-3301-102-06` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-06: Payments, adjustments and deductions for community schools. | 1 | 2013-06-27 to 2013-06-27 |
+| `oac-rule-3301-102-07` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-07: Probation and revocation of sponsorship authority. | 1 | 2022-07-28 to 2022-07-28 |
+| `oac-rule-3301-102-08` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-08: Standards for measuring sponsor compliance with applicable laws and rules. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-3301-102-09` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-09: Approving applications for new internet-or computer-based community schools. | 1 | 2025-07-01 to 2025-07-01 |
+| `oac-rule-3301-102-10` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-10: Dropout prevention and recovery academic performance rating and report card system. | 1 | 2022-05-19 to 2022-05-19 |
+| `oac-rule-3301-102-11` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-11: Dropout prevention and recovery schools' assessment of growth in student achievement. | 1 | 2014-07-03 to 2014-07-03 |
+| `oac-rule-3301-102-12` | Ohio Administrative Code, Chapter 3301-102 | Community Schools, Rule 3301-102-12: Standards for awarding an overall report card designation to dropout prevention and recovery community schools. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-3301-103-01` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-01: Definitions. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-02` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-02: Autism scholarship program established. | 1 | 2017-06-23 to 2017-06-23 |
+| `oac-rule-3301-103-03` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-03: Procedures and deadlines for parents to apply for scholarship. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-04` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-04: Responsibilities of a school district of residence. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-05` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-05: Program participation. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-06` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-06: Application and participation of providers. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-07` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-07: Payment under the autism scholarship program. | 1 | 2023-06-15 to 2023-06-15 |
+| `oac-rule-3301-103-08` | Ohio Administrative Code, Chapter 3301-103 | Autism Scholarship Program, Rule 3301-103-08: Standards for Autism scholarship program direct services provided by virtual means. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-3301-105-01` | Ohio Administrative Code, Chapter 3301-105 | Educational Service Centers, Rule 3301-105-01: Funding for educational service centers. | 1 | 2022-03-31 to 2022-03-31 |
+| `oac-rule-3301-106-01` | Ohio Administrative Code, Chapter 3301-106 | Community Learning Center Elections, Rule 3301-106-01: Community learning center elections. | 1 | 2022-11-25 to 2022-11-25 |
+| `oac-rule-3301-107-01` | Ohio Administrative Code, Chapter 3301-107 | Afterschool Child Enrichment Educational Savings Accounts, Rule 3301-107-01: Afterschool child enrichment educational savings accounts. | 1 | 2022-05-19 to 2022-05-19 |
+| `oac-rule-3302-4-01` | Ohio Administrative Code, Chapter 3302-4 | Notice of Meetings, Rule 3302-4-01: Notice of meetings. | 1 | 2026-02-10 to 2026-02-10 |
+| `oac-rule-3302-20-01` | Ohio Administrative Code, Chapter 3302-20 | Standards for Employment of Individuals With Criminal Convictions, Rule 3302-20-01: Employment of individuals in positions that require a license and licensure of individuals with certain criminal convictions or other alternative dispositions. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-20-03` | Ohio Administrative Code, Chapter 3302-20 | Standards for Employment of Individuals With Criminal Convictions, Rule 3302-20-03: Employment of non-licensed individuals with certain criminal convictions. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-3302-23-41` | Ohio Administrative Code, Chapter 3302-23 | Certification, Rule 3302-23-41: Twelve hour or forty hour temporary teaching permit for qualified nonlicensed individuals. | 1 | 2021-11-04 to 2021-11-04 |
+| `oac-rule-3302-23-44` | Ohio Administrative Code, Chapter 3302-23 | Certification, Rule 3302-23-44: Temporary and substitute licenses. | 1 | 2024-08-30 to 2024-08-30 |
+| `oac-rule-3302-24-01` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-01: Glossary/definitions. | 1 | 2026-09-06 to 2026-09-06 |
+| `oac-rule-3302-24-04` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-04: Teacher residency. | 1 | 2026-09-06 to 2026-09-06 |
+| `oac-rule-3302-24-05` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-05: Licensure. | 1 | 2025-04-25 to 2025-04-25 |
+| `oac-rule-3302-24-06` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-06: Professional development. | 1 | 2023-08-17 to 2023-08-17 |
+| `oac-rule-3302-24-08` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-08: Professional or associate license renewal. | 1 | 2021-11-04 to 2021-11-04 |
+| `oac-rule-3302-24-09` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-09: Pre-service teacher permit. | 1 | 2025-07-14 to 2025-07-14 |
+| `oac-rule-3302-24-10` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-10: Alternative pathway to professional principal licensure for the new leaders for Ohio schools pilot program. | 1 | 2020-06-25 to 2020-06-25 |
+| `oac-rule-3302-24-11` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-11: Alternative principal license. | 1 | 2021-09-09 to 2021-09-09 |
+| `oac-rule-3302-24-12` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-12: Alternative superintendent license and alternative administrative specialist license. | 1 | 2021-09-09 to 2021-09-09 |
+| `oac-rule-3302-24-13` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-13: Relinquishment of license or teaching field. | 1 | 2021-07-29 to 2021-07-29 |
+| `oac-rule-3302-24-14` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-14: Supplemental teaching license. | 1 | 2023-11-27 to 2023-11-27 |
+| `oac-rule-3302-24-15` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-15: Provisional educator license for teachers in STEM schools. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3302-24-16` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-16: Senior professional educator license. | 1 | 2021-11-04 to 2021-11-04 |
+| `oac-rule-3302-24-17` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-17: Lead professional educator license. | 1 | 2021-11-04 to 2021-11-04 |
+| `oac-rule-3302-24-18` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-18: Resident educator license. | 1 | 2026-04-20 to 2026-04-20 |
+| `oac-rule-3302-24-19` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-19: Alternative resident educator licenses for teaching in grades pre-kindergarten to twelve. | 1 | 2026-09-06 to 2026-09-06 |
+| `oac-rule-3302-24-21` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-21: Computer science industr professionals teaching license. | 1 | 2024-08-30 to 2024-08-30 |
+| `oac-rule-3302-24-22` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-22: Career-technical workforce development teaching licenses. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-24-23` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-23: Resident educator license renewal and extension. | 1 | 2026-09-06 to 2026-09-06 |
+| `oac-rule-3302-24-24` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-24: Alternative resident educator license renewal and extension. | 1 | 2021-01-29 to 2021-01-29 |
+| `oac-rule-3302-24-25` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-25: Senior professional license renewal. | 1 | 2022-03-31 to 2022-03-31 |
+| `oac-rule-3302-24-26` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-26: Lead professional educator license renewal. | 1 | 2022-03-31 to 2022-03-31 |
+| `oac-rule-3302-24-27` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-27: Early college high school educator license. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3302-24-28` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-28: Interim resident educator teaching license. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-24-29` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-29: Temporary military duty license. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-24-30` | Ohio Administrative Code, Chapter 3302-24 | Licensing and Education Programs, Rule 3302-24-30: Educator license validation in financial literacy instruction. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-3302-25-01` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-01: One-year educational aide permit. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-25-03` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-03: One-year student monitor educational aide permit. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-25-05` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-05: Four-year educational aide permit. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-25-08` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-08: Validity of educational aide permits. | 1 | 2025-08-21 to 2025-08-21 |
+| `oac-rule-3302-25-09` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-09: Two-year school speech-language pathology student permit. | 1 | 2007-09-22 to 2007-09-22 |
+| `oac-rule-3302-25-10` | Ohio Administrative Code, Chapter 3302-25 | Educational Aide Permits, Rule 3302-25-10: One-year instructional assistant permit; renewal thereof. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3302-26-01` | Ohio Administrative Code, Chapter 3302-26 | Examination and Certification, Rule 3302-26-01: Examinations for educator licensure. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3302-27-01` | Ohio Administrative Code, Chapter 3302-27 | Pupil-Activity Program, Rule 3302-27-01: Qualifications to direct, supervise, or coach a pupil-activity program. | 1 | 2024-08-30 to 2024-08-30 |
+| `oac-rule-3302-73-01` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-01: Applicability of rules. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-02` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-02: Delegation. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-03` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-03: Definitions. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-04` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-04: Confidentiality of investigative records. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-05` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-05: Notice for opportunity for hearing; failure to request. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-06` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-06: Filing. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-07` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-07: Intervention. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-08` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-08: Notice of date, time and place of hearings. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-09` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-09: Authority and duties of hearing officers. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-10` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-10: Continuance of a hearing. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-11` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-11: Motions. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-12` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-12: Pre-hearing conferences; status conferences. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-13` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-13: Subpoenas. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-14` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-14: Depositions in lieu of testimony, prior testimony, and testimony by electronic means at a hearing. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-15` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-15: Stipulations by parties. | 1 | 2014-03-27 to 2014-03-27 |
+| `oac-rule-3302-73-16` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-16: Witnesses. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-17` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-17: Certified records. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-18` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-18: Evidence. | 1 | 2004-09-25 to 2004-09-25 |
+| `oac-rule-3302-73-19` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-19: Transcripts. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-20` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-20: Reports and recommendations. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-21` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-21: Conduct unbecoming; aggravating and mitigating factors. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-22` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-22: Suspension, revocation, permanent revocation and admonishment. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-23` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-23: Consent agreements. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-24` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-24: Application after disciplinary action. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-25` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-25: Automatic revocation or denial. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-73-26` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-26: Action after appeal of conviction. | 1 | 2025-04-28 to 2025-04-28 |
+| `oac-rule-3302-73-27` | Ohio Administrative Code, Chapter 3302-73 | Professional Conduct Educator Rules, Rule 3302-73-27: Extension and computation of time. | 1 | 2023-07-27 to 2023-07-27 |
+| `oac-rule-3302-83-23` | Ohio Administrative Code, Chapter 3302-83 | Pupil Transportation, Rule 3302-83-23: Employment of school bus and van drivers with certain criminal convictions. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-3302-89-01` | Ohio Administrative Code, Chapter 3302-89 | Transfers of Territory, Rule 3302-89-01: General policies of the state board of education in a request for transfer of territory under section 3311.06 or 3311.24 of the Revised Code. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3302-89-02` | Ohio Administrative Code, Chapter 3302-89 | Transfers of Territory, Rule 3302-89-02: Procedures of the state board of education in a request for transfer of territory under section 3311.06 or 3311.24 of the Revised Code. | 1 | 2026-04-20 to 2026-04-20 |
+| `oac-rule-3302-89-03` | Ohio Administrative Code, Chapter 3302-89 | Transfers of Territory, Rule 3302-89-03: Factors to be considered by a hearing officer appointed to hear a request for transfer of territory under section 3311.06 or 3311.24 of the Revised Code. | 1 | 2026-04-20 to 2026-04-20 |
+| `oac-rule-3302-89-04` | Ohio Administrative Code, Chapter 3302-89 | Transfers of Territory, Rule 3302-89-04: Procedures governing negotiations of school districts, other than urban school districts as defined in division (A)(3) of section 3311.06 of the Revised Code. | 1 | 2025-02-10 to 2025-02-10 |
+| `oac-rule-3304-1-01` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-01: Purpose of the opportunities for Ohioans with disabilities agency. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3304-1-04` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-04: Duties of the OOD executive director. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3304-1-10` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-10: Audits. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3304-1-11` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-11: Accessibility to meetings, conferences, and seminars; and OOD offices. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3304-1-13` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-13: Deadline for submitting a bill to OOD for payment. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-3304-1-15` | Ohio Administrative Code, Chapter 3304-1 | General Rules, Rule 3304-1-15: Employee access to confidential information. | 1 | 2021-05-15 to 2021-05-15 |
+| `oac-rule-3304-2-21` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-21: Third-party payments. | 1 | 2025-02-17 to 2025-02-17 |
+| `oac-rule-3304-2-51` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-51: Vocational rehabilitation program. | 1 | 2025-09-26 to 2025-09-26 |
+| `oac-rule-3304-2-53` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-53: Qualifications and standards for service providers and vendors. | 1 | 2025-07-28 to 2025-07-28 |
+| `oac-rule-3304-2-53-1` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-53.1: Qualifications for personal assistance service suppliers. | 1 | 2025-07-28 to 2025-07-28 |
+| `oac-rule-3304-2-54` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-54: Eligibility determination. | 1 | 2021-04-19 to 2021-04-19 |
+| `oac-rule-3304-2-56` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-56: The individualized plan for employment. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3304-2-57` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-57: Restoration. | 1 | 2013-12-27 to 2013-12-27 |
+| `oac-rule-3304-2-58` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-58: Postsecondary training. | 1 | 2024-05-20 to 2024-05-20 |
+| `oac-rule-3304-2-59` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-59: Scope of services. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3304-2-60` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-60: Supported employment services. | 1 | 2020-07-11 to 2020-07-11 |
+| `oac-rule-3304-2-61` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-61: Closure. | 1 | 2025-02-17 to 2025-02-17 |
+| `oac-rule-3304-2-62` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-62: Vocational rehabilitation appeals. | 1 | 2025-09-26 to 2025-09-26 |
+| `oac-rule-3304-2-63` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-63: Confidentiality of information. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3304-2-65` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-65: Order of selection. | 1 | 2025-09-26 to 2025-09-26 |
+| `oac-rule-3304-2-66` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-66: Conditions for providing self-employment services. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-2-67` | Ohio Administrative Code, Chapter 3304-2 | Vocational Rehabilitation Program, Rule 3304-2-67: Home modifications. | 1 | 2025-09-26 to 2025-09-26 |
+| `oac-rule-3304-4-01` | Ohio Administrative Code, Chapter 3304-4 | Personal Care Assistance Program, Rule 3304-4-01: Definitions for the personal care assistance program. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-4-02` | Ohio Administrative Code, Chapter 3304-4 | Personal Care Assistance Program, Rule 3304-4-02: Personal care assistance program. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-4-03` | Ohio Administrative Code, Chapter 3304-4 | Personal Care Assistance Program, Rule 3304-4-03: Grievances. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-4-04` | Ohio Administrative Code, Chapter 3304-4 | Personal Care Assistance Program, Rule 3304-4-04: Disciplinary infractions. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-5-01` | Ohio Administrative Code, Chapter 3304-5 | Independent Living Services, Rule 3304-5-01: Independent living services for older individuals who are blind. | 1 | 2025-12-08 to 2025-12-08 |
+| `oac-rule-3304-6-01` | Ohio Administrative Code, Chapter 3304-6 | Vehicle Modification, Rule 3304-6-01: Definitions. | 1 | 2021-01-15 to 2021-01-15 |
+| `oac-rule-3304-6-02` | Ohio Administrative Code, Chapter 3304-6 | Vehicle Modification, Rule 3304-6-02: Motor vehicle modifications, scope and limitations. | 1 | 2021-01-15 to 2021-01-15 |
+| `oac-rule-3304-6-03` | Ohio Administrative Code, Chapter 3304-6 | Vehicle Modification, Rule 3304-6-03: General requirements. | 1 | 2021-01-15 to 2021-01-15 |
+| `oac-rule-3304-1-21-03` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-03: Facility and site announcements, application procedure, and selection. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-3304-1-21-04` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-04: Operator's responsibilities, leave and self-employment status. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-3304-1-21-05` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-05: Equipment, supplies and initial inventory. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-06` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-06: Bureau-operator, temporary bureau-operator agreements. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-3304-1-21-07` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-07: Closing, opening and transitioning a facility or site. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-08` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-08: Reporting and set-aside fees. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-09` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-09: Program penalties. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-10` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-10: Operator performance improvement. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-11` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-11: Authority and responsibility of BE. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-12` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-12: Ohio vendors representative committee. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-3304-1-21-13` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-13: License denial, suspension, or revocation. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3304-1-21-14` | Ohio Administrative Code, Chapter 3304:1-21 | Part 21 - Business Enterprise Program, Rule 3304:1-21-14: Informal resolution, grievance and arbitration. | 1 | 2022-02-18 to 2022-02-18 |
+| `oac-rule-3307-1-01` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-01: Rules. | 1 | 2017-06-04 to 2017-06-04 |
+| `oac-rule-3307-1-02` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-02: Notice of meetings. | 1 | 2022-05-05 to 2022-05-05 |
+| `oac-rule-3307-1-03` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-03: Release of names, addresses and account information. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-04` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-04: Financial report. | 1 | 2017-06-04 to 2017-06-04 |
+| `oac-rule-3307-1-05` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-05: Policy on investment department performance based incentive programs. | 1 | 2017-06-04 to 2017-06-04 |
+| `oac-rule-3307-1-06` | Ohio Administrative Code, Chapter 3307-1 | General Provisions, Rule 3307-1-06: Ohio-qualified agents and investment managers. | 1 | 2017-06-04 to 2017-06-04 |
+| `oac-rule-3307-2-01` | Ohio Administrative Code, Chapter 3307-2 | Organization of Board, Rule 3307-2-01: Nomination and election of members of the retirement board. | 1 | 2025-01-31 to 2025-01-31 |
+| `oac-rule-3307-2-02` | Ohio Administrative Code, Chapter 3307-2 | Organization of Board, Rule 3307-2-02: Election of successor member when vacancy occurs on the retirement board. | 1 | 2022-05-05 to 2022-05-05 |
+| `oac-rule-3307-2-03` | Ohio Administrative Code, Chapter 3307-2 | Organization of Board, Rule 3307-2-03: Board member education and travel policy. | 1 | 2008-07-24 to 2008-07-24 |
+| `oac-rule-3307-2-04` | Ohio Administrative Code, Chapter 3307-2 | Organization of Board, Rule 3307-2-04: Payment of allowances and benefits. | 1 | 2017-06-04 to 2017-06-04 |
+| `oac-rule-3307-3-01` | Ohio Administrative Code, Chapter 3307-3 | Employer Duties, Rule 3307-3-01: Employer duties. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-3-02` | Ohio Administrative Code, Chapter 3307-3 | Employer Duties, Rule 3307-3-02: Employer reporting. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-3-03` | Ohio Administrative Code, Chapter 3307-3 | Employer Duties, Rule 3307-3-03: Contributions. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-3-04` | Ohio Administrative Code, Chapter 3307-3 | Employer Duties, Rule 3307-3-04: Back posting. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-3-05` | Ohio Administrative Code, Chapter 3307-3 | Employer Duties, Rule 3307-3-05: Employer penalties and interest. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-4-01` | Ohio Administrative Code, Chapter 3307-4 | Membership and Contribution, Rule 3307-4-01: Membership and contribution. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-5-01` | Ohio Administrative Code, Chapter 3307-5 | Alternative Retirement Plans, Rule 3307-5-01: Alternative retirement plans. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-6-01` | Ohio Administrative Code, Chapter 3307-6 | Compensation for Services to Teacher Professional Organizations, Rule 3307-6-01: Compensation for services to teacher professional organizations. | 1 | 2008-07-24 to 2008-07-24 |
+| `oac-rule-3307-7-01` | Ohio Administrative Code, Chapter 3307-7 | Guardianship, Rule 3307-7-01: Guardianship. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-8-01` | Ohio Administrative Code, Chapter 3307-8 | Payment of Benefits, Rule 3307-8-01: Payments of benefits. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-10-01` | Ohio Administrative Code, Chapter 3307-10 | Faculty Practice Plan, Rule 3307-10-01: Faculty practice plan. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-11-01` | Ohio Administrative Code, Chapter 3307-11 | Cybersecurity Incident, Rule 3307-11-01: Cybersecurity incident notification responsibilities. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-1-01` | Ohio Administrative Code, Chapter 3307:1-1 | Definitions, Rule 3307:1-1-01: Definitions. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-2-01` | Ohio Administrative Code, Chapter 3307:1-2 | Service Credit, Rule 3307:1-2-01: Service credit. | 1 | 2022-05-05 to 2022-05-05 |
+| `oac-rule-3307-1-3-01` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-01: Interest rate and cost calculation for restoration and purchased service. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-02` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-02: Purchase of service credit. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-3-03` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-03: Determination of purchasable service credit under sections 3307.70 and 3307.74 of the Revised Code. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-3-04` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-04: Military service credit. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-05` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-05: Non-paid professional leaves approved by the retirement board. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-06` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-06: Contributions during non-teaching periods. | 1 | 2021-07-01 to 2021-07-01 |
+| `oac-rule-3307-1-3-07` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-07: Other Ohio public service. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-3-08` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-08: Establishment of service credit for leaves of absence and resignations due to pregnancy or adoption. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-09` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-09: Purchase of credit for service as a school board or governing board member. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-10` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-10: Purchase of credit for waived service. | 1 | 2015-05-07 to 2015-05-07 |
+| `oac-rule-3307-1-3-11` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-11: Payroll deductions for purchase and restoration of service credit. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-3-13` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-13: Determination of cost for service credit purchased under section 3307.70 of the Revised Code. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-4-01` | Ohio Administrative Code, Chapter 3307:1-4 | Determination of Final Average Salary, Rule 3307:1-4-01: Compensation includible in the determination of final average salary. | 1 | 2025-05-10 to 2025-05-10 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 4515 commits:
+The build made 5044 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4515 | baseline texts where the record starts |
+| 5044 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -4558,7 +5088,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 4515 tags.
+- 5044 tags.
 
 ## Dates
 
@@ -4570,7 +5100,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `15887683b4c55827393934ca1b6c957500a66d50d61b746d878ac18f8f2860dc` (100773391 bytes).
+- Corpus: sha256 `8f8a3cc80055d9c1eefe20a9f8d9b2a38cad4621c2936fea8dd0f0c1c492393a` (103439977 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -4612,6 +5142,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -4624,6 +5156,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.

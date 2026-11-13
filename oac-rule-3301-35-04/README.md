@@ -1,0 +1,8 @@
+# Ohio Administrative Code, Chapter 3301-35 | Standards for Kindergarten through Twelfth Grade, Rule 3301-35-04: Student and other stakeholder focus.
+
+O.A.C. 3301-35-04 · 1 versions, from 2024-02-16 (latest in force: 2024-02-16) · <https://codes.ohio.gov/ohio-administrative-code/rule-3301-35-04>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Official source information | [source-information.md](source-information.md) | 0 |  |
+| O.A.C. 3301-35-04 | [text.md](text.md) | 0 |  |
