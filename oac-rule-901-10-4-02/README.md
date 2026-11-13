@@ -1,0 +1,8 @@
+# Ohio Administrative Code, Chapter 901:10-4 | General Permits to Operate, Rule 901:10-4-02: General permit to operate coverage.
+
+O.A.C. 901:10-4-02 · 1 versions, from 2002-07-02 (latest in force: 2002-07-02) · <https://codes.ohio.gov/ohio-administrative-code/rule-901:10-4-02>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Official source information | [source-information.md](source-information.md) | 0 |  |
+| O.A.C. 901:10-4-02 | [text.md](text.md) | 0 |  |
