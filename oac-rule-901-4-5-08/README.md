@@ -1,0 +1,8 @@
+# Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-08: Receipt and expenditure of funds.
+
+O.A.C. 901:4-5-08 · 1 versions, from 2015-10-12 (latest in force: 2015-10-12) · <https://codes.ohio.gov/ohio-administrative-code/rule-901:4-5-08>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Official source information | [source-information.md](source-information.md) | 0 |  |
+| O.A.C. 901:4-5-08 | [text.md](text.md) | 0 |  |

@@ -14,6 +14,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -2464,17 +2465,527 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-175-12-04` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-04: Selection of approved applications. | 1 | 2024-04-12 to 2024-04-12 |
 | `oac-rule-175-12-05` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-05: Credit certificate and market appraisal. | 1 | 2024-04-12 to 2024-04-12 |
 | `oac-rule-175-12-06` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-06: Monitoring, reporting, and recapture. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-311-1-01` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-01: General uniform regulations. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-02` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-02: Prescribed standard uniform: classes and when worn. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-03` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-03: Class A uniform. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-04` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-04: Class B uniform. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-04-1` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-04.1: Class B trousers: fabric specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-04-2` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-04.2: Class B trousers: construction specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-04-3` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-04.3: Class B shirt: fabric specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-04-4` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-04.4: Class B shirt: construction specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-05` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-05: Tactical uniform. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-06` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-06: Marine patrol uniform. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-07` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-07: Bike patrol uniform. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-07-1` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-07.1: Bike patrol shirt: specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-07-2` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-07.2: Bike patrol jacket. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-07-3` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-07.3: Bike patrol accessories. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-08` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-08: Standard hats and helmets. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-09` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-09: Jacket specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-10` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-10: Raincoat and raingear. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-11` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-11: Sweaters. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-12` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-12: Snowmobile suit. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-13` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-13: Footwear specifications. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-14` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-14: Uniform accessories. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-1-16` | Ohio Administrative Code, Chapter 311-1 | Uniform Regulations, Rule 311-1-16: Shoulder sleeve emblem. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-3-01` | Ohio Administrative Code, Chapter 311-3 | Vehicle Markings, Rule 311-3-01: Vehicle markings. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-311-5-01` | Ohio Administrative Code, Chapter 311-5 | Notice of Meetings, Rule 311-5-01: Definitions. | 1 | 2014-09-25 to 2014-09-25 |
+| `oac-rule-311-5-02` | Ohio Administrative Code, Chapter 311-5 | Notice of Meetings, Rule 311-5-02: Notice of regular meetings. | 1 | 2014-09-25 to 2014-09-25 |
+| `oac-rule-311-5-03` | Ohio Administrative Code, Chapter 311-5 | Notice of Meetings, Rule 311-5-03: Notice of special meetings. | 1 | 2014-09-25 to 2014-09-25 |
+| `oac-rule-311-5-05` | Ohio Administrative Code, Chapter 311-5 | Notice of Meetings, Rule 311-5-05: Minutes. | 1 | 2025-12-15 to 2025-12-15 |
+| `oac-rule-742-1-02` | Ohio Administrative Code, Chapter 742-1 | Membership, Rule 742-1-02: Member minimum medical testing and diagnostic procedures. | 1 | 2021-07-04 to 2021-07-04 |
+| `oac-rule-742-2-01` | Ohio Administrative Code, Chapter 742-2 | Board of Trustees, Rule 742-2-01: Board of trustee election rules. | 1 | 2023-09-29 to 2023-09-29 |
+| `oac-rule-742-3-01` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-01: Effective date of retirement. | 1 | 2020-05-31 to 2020-05-31 |
+| `oac-rule-742-3-02` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-02: Definition and usage of terminal pay and salary in benefit and pension calculations. | 1 | 2020-09-11 to 2020-09-11 |
+| `oac-rule-742-3-04` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-04: Disability benefit recipient's annual earnings statement. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-742-3-05` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-05: Disability benefits procedure. | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-3-06` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-06: Calculation of on-duty disability benefits on less than the requisite years of salary. | 1 | 2015-04-23 to 2015-04-23 |
+| `oac-rule-742-3-07` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-07: Optional plan of payment. | 1 | 2012-07-19 to 2012-07-19 |
+| `oac-rule-742-3-08` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-08: Interim payments. | 1 | 2023-02-11 to 2023-02-11 |
+| `oac-rule-742-3-09` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-09: Subsequent public employment of individuals retired under one of the Ohio public retirement systems. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-3-10` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-10: Annual medical examinations, termination of benefits and appeal of terminations. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-742-3-11` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-11: Decision deadlines/non-COLA benefit. | 1 | 2013-02-04 to 2013-02-04 |
+| `oac-rule-742-3-12` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-12: Definition of incapacitated. | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-3-15` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-15: Procedures for claims asserted under division (J) of section 742.21 of the Revised Code. | 1 | 2020-05-31 to 2020-05-31 |
+| `oac-rule-742-3-16` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-16: Survivor benefits. | 1 | 2024-09-22 to 2024-09-22 |
+| `oac-rule-742-3-17` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-17: Withdrawal of application for service retirement or disability benefits. | 1 | 2021-07-04 to 2021-07-04 |
+| `oac-rule-742-3-18` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-18: Definition of "total dependency". | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-742-3-19` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-19: Pre-1967 survivor benefits. | 1 | 2019-03-29 to 2019-03-29 |
+| `oac-rule-742-3-20` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-20: Statutory termination of disability benefits. | 1 | 2024-09-22 to 2024-09-22 |
+| `oac-rule-742-3-21` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-21: Forfeiture and termination of disability benefits. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-3-22` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-22: Designation of a trust as beneficiary for certain lump sum payments. | 1 | 2017-01-30 to 2017-01-30 |
+| `oac-rule-742-3-23` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-23: Spousal consent/designation of multiple beneficiaries. | 1 | 2008-03-14 to 2008-03-14 |
+| `oac-rule-742-3-24` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-24: Specified amount of court order. | 1 | 2017-01-30 to 2017-01-30 |
+| `oac-rule-742-3-25` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-25: Waiver of designation of former spouse as beneficiary under a court order. | 1 | 2017-01-30 to 2017-01-30 |
+| `oac-rule-742-3-27` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-27: Reselection of beneficiary upon remarriage. | 1 | 2017-01-30 to 2017-01-30 |
+| `oac-rule-742-3-28` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-28: Plan of payment selection for DROP participants. | 1 | 2017-01-30 to 2017-01-30 |
+| `oac-rule-742-3-29` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-29: Mandatory direct deposit. | 1 | 2017-05-22 to 2017-05-22 |
+| `oac-rule-742-3-30` | Ohio Administrative Code, Chapter 742-3 | Retirement, Rule 742-3-30: Agents standard of conduct. | 1 | 2008-12-04 to 2008-12-04 |
+| `oac-rule-742-4-01` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-01: General DROP definitions. | 1 | 2014-01-16 to 2014-01-16 |
+| `oac-rule-742-4-02` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-02: Implementation Date of Deferred Retirement Option Plan. | 1 | 2003-04-06 to 2003-04-06 |
+| `oac-rule-742-4-03` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-03: Effective date of DROP election. | 1 | 2014-01-16 to 2014-01-16 |
+| `oac-rule-742-4-04` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-04: Rescission of DROP election. | 1 | 2018-08-17 to 2018-08-17 |
+| `oac-rule-742-4-05` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-05: Purchase of service credit. | 1 | 2018-08-17 to 2018-08-17 |
+| `oac-rule-742-4-06` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-06: Calculation of DROP benefit. | 1 | 2018-08-17 to 2018-08-17 |
+| `oac-rule-742-4-07` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-07: Accrual of member's contributions. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-4-08` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-08: COLA effective dates for DROP participants. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-4-09` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-09: Calculation of interest. | 1 | 2020-02-10 to 2020-02-10 |
+| `oac-rule-742-4-10` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-10: Maximum period for DROP participation. | 1 | 2018-08-17 to 2018-08-17 |
+| `oac-rule-742-4-11` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-11: Termination of a member's active service in an police or fire department. | 1 | 2018-11-23 to 2018-11-23 |
+| `oac-rule-742-4-12` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-12: Impact of family medical leave. | 1 | 2018-11-23 to 2018-11-23 |
+| `oac-rule-742-4-13` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-13: Impact of military leave. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-4-14` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-14: Impact of Irrevocable Payroll Deduction on DROP. | 1 | 2003-04-06 to 2003-04-06 |
+| `oac-rule-742-4-15` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-15: Optional plan of payment. | 1 | 2013-12-12 to 2013-12-12 |
+| `oac-rule-742-4-16` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-16: Selection of distributions. | 1 | 2013-12-12 to 2013-12-12 |
+| `oac-rule-742-4-17` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-17: Retirement Allowance. | 1 | 2003-04-06 to 2003-04-06 |
+| `oac-rule-742-4-18` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-18: Default plan of DROP benefit. | 1 | 2018-09-28 to 2018-09-28 |
+| `oac-rule-742-4-19` | Ohio Administrative Code, Chapter 742-4 | Deferred Retirement Option Plans, Rule 742-4-19: DROP benefits at death. | 1 | 2009-09-27 to 2009-09-27 |
+| `oac-rule-742-5-01` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-01: Definition of service credit. | 1 | 2014-02-09 to 2014-02-09 |
+| `oac-rule-742-5-02` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-02: Interest rate for service credit purchases or refunds/purchase of civilian service credit. | 1 | 2012-09-20 to 2012-09-20 |
+| `oac-rule-742-5-03` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-03: Contributing service credit. | 1 | 2025-12-20 to 2025-12-20 |
+| `oac-rule-742-5-04` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-04: Military service credit. | 1 | 2006-04-28 to 2006-04-28 |
+| `oac-rule-742-5-06` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-06: Definition of "honorably discharged". | 1 | 2012-07-19 to 2012-07-19 |
+| `oac-rule-742-5-07` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-07: Service credit purchases and transfers. | 1 | 2020-09-11 to 2020-09-11 |
+| `oac-rule-742-5-08` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-08: Service credit purchases by payroll deduction. | 1 | 2018-11-23 to 2018-11-23 |
+| `oac-rule-742-5-09` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-09: Purchase of lay-off service credit. | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-5-11` | Ohio Administrative Code, Chapter 742-5 | Service Credit, Rule 742-5-11: Definition of concurrent service. | 1 | 2023-04-15 to 2023-04-15 |
+| `oac-rule-742-7-01` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-01: Issue date of pension checks. | 1 | 2025-07-28 to 2025-07-28 |
+| `oac-rule-742-7-02` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-02: Use of member's records. | 1 | 2020-11-19 to 2020-11-19 |
+| `oac-rule-742-7-03` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-03: Payment date of benefits. | 1 | 2020-01-12 to 2020-01-12 |
+| `oac-rule-742-7-07` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-07: Pre-retirement survivor annuity. | 1 | 2012-07-19 to 2012-07-19 |
+| `oac-rule-742-7-08` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-08: Cost-of-living allowance. | 1 | 2025-07-28 to 2025-07-28 |
+| `oac-rule-742-7-09` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-09: Medicare part "A" or "B" eligibility; payment of medicare part "B" premium; treatment of medicare part "B" payment. | 1 | 2019-03-29 to 2019-03-29 |
+| `oac-rule-742-7-11` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-11: Health reimbursement arrangement and stipend program. | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-7-12` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-12: Low income assistance program. | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-7-14` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-14: Recognition of pick-up of contributions. | 1 | 2010-12-19 to 2010-12-19 |
+| `oac-rule-742-7-15` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-15: Delinquent employers payment plan. | 1 | 2020-11-19 to 2020-11-19 |
+| `oac-rule-742-7-16` | Ohio Administrative Code, Chapter 742-7 | Benefits, Rule 742-7-16: Guardianship. | 1 | 2023-04-15 to 2023-04-15 |
+| `oac-rule-742-8-07` | Ohio Administrative Code, Chapter 742-8 | Penalties, Rule 742-8-07: Penalties and interest under section 742.352 of the Ohio Revised Code. | 1 | 2016-04-07 to 2016-04-07 |
+| `oac-rule-742-8-08` | Ohio Administrative Code, Chapter 742-8 | Penalties, Rule 742-8-08: Penalties and interest under section 742.353 of the Revised Code. | 1 | 2016-07-21 to 2016-07-21 |
+| `oac-rule-742-8-13` | Ohio Administrative Code, Chapter 742-8 | Penalties, Rule 742-8-13: Special penalty provisions. | 1 | 2022-09-22 to 2022-09-22 |
+| `oac-rule-742-9-01` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-01: Authorization to charge employer for requested detail on accrued liability. | 1 | 2004-10-22 to 2004-10-22 |
+| `oac-rule-742-9-02` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-02: Payment dates for employer accrued liability. | 1 | 2004-10-22 to 2004-10-22 |
+| `oac-rule-742-9-03` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-03: Delinquent accrued liability payments. | 1 | 1999-06-12 to 1999-06-12 |
+| `oac-rule-742-9-10` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-10: Employer reporting requirements. | 1 | 2024-07-28 to 2024-07-28 |
+| `oac-rule-742-9-11` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-11: Penalties for employer's failure to file the report of employee deductions in a format approved by OP&F. | 1 | 2023-09-29 to 2023-09-29 |
+| `oac-rule-742-9-12` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-12: Employer's compliance. | 1 | 2020-12-25 to 2020-12-25 |
+| `oac-rule-742-9-14` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-14: Reliance on records for purposes of determining taxability. | 1 | 2001-05-24 to 2001-05-24 |
+| `oac-rule-742-9-15` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-15: Calculation of penalties/interest. | 1 | 2007-05-17 to 2007-05-17 |
+| `oac-rule-742-9-16` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-16: Federal tax compliance provisions. | 1 | 2021-05-15 to 2021-05-15 |
+| `oac-rule-742-9-17` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-17: Summary of payment remittance information form(recap form). | 1 | 2024-07-28 to 2024-07-28 |
+| `oac-rule-742-9-18` | Ohio Administrative Code, Chapter 742-9 | Accrued Liability, Rule 742-9-18: Overpayment of contributions by employer. | 1 | 2018-02-25 to 2018-02-25 |
+| `oac-rule-742-10-01` | Ohio Administrative Code, Chapter 742-10 | Employees Bonuses, Rule 742-10-01: Policy on employee bonuses. | 1 | 2005-01-10 to 2005-01-10 |
+| `oac-rule-742-10-02` | Ohio Administrative Code, Chapter 742-10 | Employees Bonuses, Rule 742-10-02: Qualified investment manager. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-742-11-01` | Ohio Administrative Code, Chapter 742-11 | Record and Book Reliance, Rule 742-11-01: Rule on books and records reliance. | 1 | 2000-07-16 to 2000-07-16 |
+| `oac-rule-742-15-01` | Ohio Administrative Code, Chapter 742-15 | Sunshine Law, Rule 742-15-01: Rules of compliance with "sunshine law". | 1 | 2024-04-21 to 2024-04-21 |
+| `oac-rule-742-16-01` | Ohio Administrative Code, Chapter 742-16 | Reimbursement of Expenses, Rule 742-16-01: Policy for reimbursement of trustee business and educational travel expense. | 1 | 2015-04-23 to 2015-04-23 |
+| `oac-rule-742-16-02` | Ohio Administrative Code, Chapter 742-16 | Reimbursement of Expenses, Rule 742-16-02: Board of trustees. | 1 | 2018-03-22 to 2018-03-22 |
+| `oac-rule-742-17-01` | Ohio Administrative Code, Chapter 742-17 | Rule on Rules Adopted by the Board of Trustees, Rule 742-17-01: Rule on rules. | 1 | 2000-12-08 to 2000-12-08 |
+| `oac-rule-742-19-01` | Ohio Administrative Code, Chapter 742-19 | Death Benefit Fund, Rule 742-19-01: Administration of public safety officers death benefit fund. | 1 | 2023-04-15 to 2023-04-15 |
+| `oac-rule-742-20-01` | Ohio Administrative Code, Chapter 742-20 | Recovery of Funds, Rule 742-20-01: Recovery of overpaid funds. | 1 | 2013-02-04 to 2013-02-04 |
+| `oac-rule-742-21-02` | Ohio Administrative Code, Chapter 742-21 | Division of Property Orders, Rule 742-21-02: Information to be released pursuant to court order issued under section 3105.87 of the Revised Code. | 1 | 2014-09-28 to 2014-09-28 |
+| `oac-rule-742-21-03` | Ohio Administrative Code, Chapter 742-21 | Division of Property Orders, Rule 742-21-03: Administration of method of payment section of approved division of property order format. | 1 | 2006-04-28 to 2006-04-28 |
+| `oac-rule-901-2-01` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-01: Definitions. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-02` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-02: Eligibility requirements for application property. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-04` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-04: Landowner application procedure. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-05` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-05: Application ranking system. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-06` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-06: Determination of selected application properties. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-07` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-07: Local sponsor certification procedures. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-08` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-08: Present condition report. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-09` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-09: Appraisals. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-10` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-10: Deed of agricultural easement. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-11` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-11: Supervision and enforcement. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-12` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-12: Easement extinguishment. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-2-13` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-13: Recoupment of funds. | 1 | 2016-03-21 to 2016-03-21 |
+| `oac-rule-901-2-14` | Ohio Administrative Code, Chapter 901-2 | Matching Grants, Rule 901-2-14: Meetings of farmland preservation advisory board. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-3-01` | Ohio Administrative Code, Chapter 901-3 | Notice; Special Account, Rule 901-3-01: Public notice for rule filing. | 1 | 2015-10-12 to 2015-10-12 |
+| `oac-rule-901-4-01` | Ohio Administrative Code, Chapter 901-4 | Administrative Hearings, Rule 901-4-01: Administrative Hearings. | 1 | 2018-01-07 to 2018-01-07 |
+| `oac-rule-901-5-01` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-01: Definitions. | 1 | 2016-07-07 to 2016-07-07 |
+| `oac-rule-901-5-03` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-03: Requirements for membership certificates. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-04` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-04: Declaration of candidacy for society directors. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-05` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-05: Terms of office for society directors and officers and conduct of election. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-06` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-06: Reorganization meeting. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-07` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-07: Reporting society finances and hearing procedures for withholding funds by the department. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-08` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-08: Society constitution. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-09` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-09: Payments to directors and officers of the society. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-10` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-10: Authorized representative to the annual meeting with the director. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-11` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-11: Approval of fair dates by the director. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-13` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-13: Health requirements for animals exhibited on fair grounds. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-5-15` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-15: Prohibition on use of society facilities of employees to promote candidacy of directors. | 1 | 2016-07-07 to 2016-07-07 |
+| `oac-rule-901-5-16` | Ohio Administrative Code, Chapter 901-5 | County and Independent Agricultural Societies, Rule 901-5-16: Junior fair premiums. | 1 | 2022-05-02 to 2022-05-02 |
+| `oac-rule-901-10-01` | Ohio Administrative Code, Chapter 901-10 | Accessing Confidential Personal Information, Rule 901-10-01: Definitions. | 1 | 2024-12-12 to 2024-12-12 |
+| `oac-rule-901-10-02` | Ohio Administrative Code, Chapter 901-10 | Accessing Confidential Personal Information, Rule 901-10-02: Procedures for accessing confidential personal information. | 1 | 2024-12-12 to 2024-12-12 |
+| `oac-rule-901-10-03` | Ohio Administrative Code, Chapter 901-10 | Accessing Confidential Personal Information, Rule 901-10-03: Valid reasons for accessing confidential person information. | 1 | 2024-12-12 to 2024-12-12 |
+| `oac-rule-901-10-04` | Ohio Administrative Code, Chapter 901-10 | Accessing Confidential Personal Information, Rule 901-10-04: Confidentiality statutes. | 1 | 2024-12-12 to 2024-12-12 |
+| `oac-rule-901-10-05` | Ohio Administrative Code, Chapter 901-10 | Accessing Confidential Personal Information, Rule 901-10-05: Restricting and logging access to CPI in computerized personal information systems. | 1 | 2015-10-12 to 2015-10-12 |
+| `oac-rule-901-14-01` | Ohio Administrative Code, Chapter 901-14 | Nonprofit Livestock Association Exhibits, Rule 901-14-01: Application for livestock funds. | 1 | 2008-02-19 to 2008-02-19 |
+| `oac-rule-901-15-01` | Ohio Administrative Code, Chapter 901-15 | Laboratory Services, Rule 901-15-01: Agreement for the performance of laboratory services. | 1 | 2024-09-26 to 2024-09-26 |
+| `oac-rule-901-19-01` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-01: Definitions. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-02` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-02: Types of shows; slaughter. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-03` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-03: Auction sales at terminal or partial terminal shows. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-04` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-04: Prohibited practices. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-05` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-05: Responsibilities of an exhibition sponsor. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-06` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-06: Drug use notification. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-10` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-10: Testing requirements and test results. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-12` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-12: Acceptable practices. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-13` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-13: Unacceptable practices. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-19` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-19: Absolute liability. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-21` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-21: Disciplinary action. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-31` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-31: Responsibilities of and assistance to junior fair exhibitors. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-32` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-32: Breed shows or classes. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-33` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-33: Prohibited grooming practices. | 1 | 2016-03-21 to 2016-03-21 |
+| `oac-rule-901-19-35` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-35: Recognition of disciplinary actions. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-39` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-39: Ownership requirements. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-19-40` | Ohio Administrative Code, Chapter 901-19 | Livestock Exhibitions, Rule 901-19-40: Meetings of the advisory committee on livestock exhibitions. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-1-01` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-01: Definitions. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-1-02` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-02: Licensing and registration. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-1-03` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-03: Fencing, escapes, and movement requirements. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-1-04` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-04: Identification requirements. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-1-05` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-05: Death and testing. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-1-06` | Ohio Administrative Code, Chapter 901:1-1 | Chronic Wasting Disease, Rule 901:1-1-06: Recordkeeping. | 1 | 2018-11-19 to 2018-11-19 |
+| `oac-rule-901-1-3-01` | Ohio Administrative Code, Chapter 901:1-3 | Anthrax Control, Rule 901:1-3-01: Anthrax control. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-4-01` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-01: Definitions and general considerations. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-01-2` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-01.2: Food and water for dangerous wild animals. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-01-3` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-01.3: Health for dangerous wild animals. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-02` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-02: Family - ursidae; common name - bears. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-03` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-03: Family - hyaenidae. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-04` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-04: Family - canidae; common names - gray wolf (excluding hybrids) and african wild dog. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-05` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-05: Family - felidae; common names: cheetah, lion, tiger, jaguar, leopard, snow leopard, puma, caracal, serval, canada lynx, eurasian lynx, iberian lynx, sunda clouded leopard, and clouded leopard. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-06` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-06: Family - hippopotamidae, elephantidae, rhinocerotidae, bovidae (cape buffalo only). | 1 | 2019-10-21 to 2019-10-21 |
+| `oac-rule-901-1-4-07` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-07: Species varanus komodoensis (komodo dragon). | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-08` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-08: Order - crocodilia; family - alligatoridae (excluding dwarf caiman); family - crocodylidae; family - gavialidae. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-09` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-09: Nonhuman primates. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-10` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-10: Recordkeeping. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-11` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-11: Transportation. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-12` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-12: Signs. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-13` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-13: Examinations. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-14` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-14: Species Survival Program. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-15` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-15: Wildlife shelter and wildlife propagation permits. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-16` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-16: Rescue facility permit. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-4-17` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-17: Civil penalties. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-18` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-18: Compensation of a facility. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-901-1-4-19` | Ohio Administrative Code, Chapter 901:1-4 | Dangerous Wild Animals, Rule 901:1-4-19: Restricted snake permits. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-5-02` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-02: Definition of "official brucellosis vaccinate". | 1 | 2026-07-17 to 2026-07-17 |
+| `oac-rule-901-1-5-03` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-03: Brucellosis herd test. | 1 | 2026-07-17 to 2026-07-17 |
+| `oac-rule-901-1-5-04` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-04: Quarantining for brucellosis. | 1 | 2026-07-17 to 2026-07-17 |
+| `oac-rule-901-1-5-06` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-06: Designating herd to be certified brucellosis free. | 1 | 2026-07-17 to 2026-07-17 |
+| `oac-rule-901-1-5-09` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-09: Brucellosis tests. | 1 | 2026-07-17 to 2026-07-17 |
+| `oac-rule-901-1-5-12` | Ohio Administrative Code, Chapter 901:1-5 | Brucellosis, Rule 901:1-5-12: Brucella canis. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-1-6-01` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-01: Definitions and general considerations. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-02` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-02: Housing. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-03` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-03: Socialization. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-04` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-04: Food and water. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-05` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-05: Health. | 1 | 2023-01-09 to 2023-01-09 |
+| `oac-rule-901-1-6-07` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-07: Recordkeeping and identification. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-08` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-08: Licensing. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-09` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-09: Inspections. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-6-10` | Ohio Administrative Code, Chapter 901:1-6 | High Volume Dog Breeders, Rule 901:1-6-10: Civil penalties. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-8-01` | Ohio Administrative Code, Chapter 901:1-8 | Pet Stores and Dog Retailer Requirements, Rule 901:1-8-01: Definitions. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-8-02` | Ohio Administrative Code, Chapter 901:1-8 | Pet Stores and Dog Retailer Requirements, Rule 901:1-8-02: Licensing. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-8-03` | Ohio Administrative Code, Chapter 901:1-8 | Pet Stores and Dog Retailer Requirements, Rule 901:1-8-03: Identification. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-8-04` | Ohio Administrative Code, Chapter 901:1-8 | Pet Stores and Dog Retailer Requirements, Rule 901:1-8-04: Pet store recordkeeping. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-8-05` | Ohio Administrative Code, Chapter 901:1-8 | Pet Stores and Dog Retailer Requirements, Rule 901:1-8-05: Dog broker recordkeeping. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-901-1-11-01` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-01: Pseudorabies. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-11-02` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-02: Definitions. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-11-03` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-03: Removal of identification. | 1 | 1977-11-14 to 1977-11-14 |
+| `oac-rule-901-1-11-05` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-05: Quarantine. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-11-07` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-07: Requirement for intrastate movement. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-11-08` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-08: Quarantine of exposed herds. | 1 | 1993-02-15 to 1993-02-15 |
+| `oac-rule-901-1-11-09` | Ohio Administrative Code, Chapter 901:1-11 | Pseudorabies, Rule 901:1-11-09: Mandatory pseudorabies eradication. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-13-01` | Ohio Administrative Code, Chapter 901:1-13 | Scrapie, Rule 901:1-13-01: Definitions. | 1 | 2026-11-09 to 2026-11-09 |
+| `oac-rule-901-1-13-02` | Ohio Administrative Code, Chapter 901:1-13 | Scrapie, Rule 901:1-13-02: Reporting requirements. | 1 | 2011-12-01 to 2011-12-01 |
+| `oac-rule-901-1-13-03` | Ohio Administrative Code, Chapter 901:1-13 | Scrapie, Rule 901:1-13-03: Quarantine. | 1 | 2026-11-09 to 2026-11-09 |
+| `oac-rule-901-1-13-04` | Ohio Administrative Code, Chapter 901:1-13 | Scrapie, Rule 901:1-13-04: Identification. | 1 | 2026-11-09 to 2026-11-09 |
+| `oac-rule-901-1-13-05` | Ohio Administrative Code, Chapter 901:1-13 | Scrapie, Rule 901:1-13-05: Flock and herd plans. | 1 | 2026-11-09 to 2026-11-09 |
+| `oac-rule-901-1-17-01` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-01: General requirements. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-02` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-02: Definitions. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-03` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-03: Import requirements for breeding cattle and bison. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-04` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-04: Cattle and bison imported for feeding and grazing. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-05` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-05: Dogs and cats. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-06` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-06: Goats. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-07` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-07: Horses, mules, asses, ponies, and other equidae. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-08` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-08: Sheep. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-09` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-09: Swine. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-10` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-10: Slaughter animals. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-11` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-11: Poultry. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-12` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-12: Non-domestic animals. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-14` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-14: Fish testing and inspection requirements. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-17-15` | Ohio Administrative Code, Chapter 901:1-17 | Importation and Health of Animals, Rule 901:1-17-15: Llamas and alpacas. | 1 | 2026-09-11 to 2026-09-11 |
+| `oac-rule-901-1-18-01` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-01: Chapter's application. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-02` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-02: Definitions. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-03` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-03: Exhibitions: sanitation, inspection and records. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-04` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-04: Exhibitors. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-05` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-05: Poultry and fowl. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-06` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-06: Cattle. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-07` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-07: Goats. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-08` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-08: Horses, mules, asses, and ponies. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-09` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-09: Sheep. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-10` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-10: Swine. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-18-11` | Ohio Administrative Code, Chapter 901:1-18 | Exhibition of Animals, Rule 901:1-18-11: Camelids. | 1 | 2024-05-23 to 2024-05-23 |
+| `oac-rule-901-1-19-01` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-01: Horses, mules, asses, ponies, and other equidae. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-02` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-02: Definitions. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-03` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-03: Identification. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-04` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-04: Testing. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-05` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-05: Illegal importation of equine into Ohio. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-06` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-06: Animal found infected. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-07` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-07: Quarantine. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-19-08` | Ohio Administrative Code, Chapter 901:1-19 | Equine Infectious Anemia, Rule 901:1-19-08: Testing of animal for sale. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-21-02` | Ohio Administrative Code, Chapter 901:1-21 | Dangerously Contagious or Infectious and Reportable Diseases, Rule 901:1-21-02: Designation of dangerously contagious or infectious and reportable diseases. | 1 | 2014-12-18 to 2014-12-18 |
+| `oac-rule-901-1-23-01` | Ohio Administrative Code, Chapter 901:1-23 | Livestock Marketing, Rule 901:1-23-01: Livestock marketing. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-23-02` | Ohio Administrative Code, Chapter 901:1-23 | Livestock Marketing, Rule 901:1-23-02: Movement of swine from livestock auction markets and livestock concentration markets. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-23-03` | Ohio Administrative Code, Chapter 901:1-23 | Livestock Marketing, Rule 901:1-23-03: Movement of swine into livestock auction markets and livestock concentration markets. | 1 | 2005-04-11 to 2005-04-11 |
+| `oac-rule-901-1-24-01` | Ohio Administrative Code, Chapter 901:1-24 | Voluntary Animal Damage Control Plan, Rule 901:1-24-01: Definitions. | 1 | 2006-07-17 to 2006-07-17 |
+| `oac-rule-901-1-24-02` | Ohio Administrative Code, Chapter 901:1-24 | Voluntary Animal Damage Control Plan, Rule 901:1-24-02: Voluntary animal damage control plan. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-1-24-03` | Ohio Administrative Code, Chapter 901:1-24 | Voluntary Animal Damage Control Plan, Rule 901:1-24-03: Payment of predator claims. | 1 | 2006-10-11 to 2006-10-11 |
+| `oac-rule-901-1-25-01` | Ohio Administrative Code, Chapter 901:1-25 | Livestock Brands, Rule 901:1-25-01: Procedures for recording livestock brands. | 1 | 2025-11-22 to 2025-11-22 |
+| `oac-rule-901-1-25-02` | Ohio Administrative Code, Chapter 901:1-25 | Livestock Brands, Rule 901:1-25-02: Fees for registration of brands. | 1 | 2025-11-22 to 2025-11-22 |
+| `oac-rule-901-1-25-04` | Ohio Administrative Code, Chapter 901:1-25 | Livestock Brands, Rule 901:1-25-04: Notification of changes required. | 1 | 2025-11-22 to 2025-11-22 |
+| `oac-rule-901-1-25-05` | Ohio Administrative Code, Chapter 901:1-25 | Livestock Brands, Rule 901:1-25-05: Notification of loss. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-1-25-06` | Ohio Administrative Code, Chapter 901:1-25 | Livestock Brands, Rule 901:1-25-06: Brands exclusive to state of Ohio and U.S.D.A. | 1 | 2026-01-10 to 2026-01-10 |
+| `oac-rule-901-2-1-01` | Ohio Administrative Code, Chapter 901:2-1 | Uniform State Meat Inspection Service, Rule 901:2-1-01: Uniform state meat inspection service - intrastate production. | 1 | 2025-06-22 to 2025-06-22 |
+| `oac-rule-901-2-1-02` | Ohio Administrative Code, Chapter 901:2-1 | Uniform State Meat Inspection Service, Rule 901:2-1-02: Amended definitions. | 1 | 2019-10-21 to 2019-10-21 |
+| `oac-rule-901-2-1-03` | Ohio Administrative Code, Chapter 901:2-1 | Uniform State Meat Inspection Service, Rule 901:2-1-03: Deleted regulations. | 1 | 2025-06-22 to 2025-06-22 |
+| `oac-rule-901-2-1-05` | Ohio Administrative Code, Chapter 901:2-1 | Uniform State Meat Inspection Service, Rule 901:2-1-05: Exemptions based on religious dietary laws. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-01` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-01: Scope and purpose. | 1 | 2026-07-30 to 2026-07-30 |
+| `oac-rule-901-2-2-02` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-02: Definitions. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-03` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-03: Regulatory control action. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-04` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-04: Withholding action or suspension. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-05` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-05: Notification, appeals, and actions held in abeyance. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-06` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-06: Withdrawal of inspection. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-07` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-07: Refusal to grant inspection. | 1 | 2024-01-18 to 2024-01-18 |
+| `oac-rule-901-2-2-08` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-08: Procedures for rescinding or refusing approval of marks, labels, and containers. | 1 | 2016-03-19 to 2016-03-19 |
+| `oac-rule-901-2-2-09` | Ohio Administrative Code, Chapter 901:2-2 | Progressive Enforcement Actions Meat Processing Violations, Rule 901:2-2-09: Procedures for the filing of appeals. | 1 | 2026-07-30 to 2026-07-30 |
+| `oac-rule-901-2-3-01` | Ohio Administrative Code, Chapter 901:2-3 | Ohio Poultry Inspection Service, Rule 901:2-3-01: Ohio poultry inspection service. | 1 | 2025-06-22 to 2025-06-22 |
+| `oac-rule-901-2-3-02` | Ohio Administrative Code, Chapter 901:2-3 | Ohio Poultry Inspection Service, Rule 901:2-3-02: Amended definitions. | 1 | 2025-06-22 to 2025-06-22 |
+| `oac-rule-901-2-3-03` | Ohio Administrative Code, Chapter 901:2-3 | Ohio Poultry Inspection Service, Rule 901:2-3-03: Deleted regulations. | 1 | 2025-06-22 to 2025-06-22 |
+| `oac-rule-901-3-1-11` | Ohio Administrative Code, Chapter 901:3-1 | Food Processing Manufacturing Practices, Standards of Identity, and Labeling Requirements, Rule 901:3-1-11: Food labeling. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-1-12` | Ohio Administrative Code, Chapter 901:3-1 | Food Processing Manufacturing Practices, Standards of Identity, and Labeling Requirements, Rule 901:3-1-12: Standards of identity. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-1-13` | Ohio Administrative Code, Chapter 901:3-1 | Food Processing Manufacturing Practices, Standards of Identity, and Labeling Requirements, Rule 901:3-1-13: Food coloring. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-1-14` | Ohio Administrative Code, Chapter 901:3-1 | Food Processing Manufacturing Practices, Standards of Identity, and Labeling Requirements, Rule 901:3-1-14: Food nutritional labeling. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-1-15` | Ohio Administrative Code, Chapter 901:3-1 | Food Processing Manufacturing Practices, Standards of Identity, and Labeling Requirements, Rule 901:3-1-15: Nutrition labeling of restaurant foods. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-01` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-01: Definitions. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-02` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-02: License. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-03` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-03: License fees and categories. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-04` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-04: Cost analysis and license fee calculation. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-05` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-05: Risk level of retail food establishments. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-06` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-06: Retail food establishment inspection frequency. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-07` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-07: Approval of facility layout and equipment specifications. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-3-4-08` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-08: Appeal procedures. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-09` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-09: Complaint investigation procedure. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-10` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-10: Dispute mediation procedure. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-11` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-11: Enforcement support. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-12` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-12: Articles - requirement to cease use. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-13` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-13: Records. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-14` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-14: Collection of food samples for the purposes of identifying adulteration and misbranding. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-15` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-15: Embargo of food. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-16` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-16: Certification in food protection. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-4-17` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-17: State survey procedures for program evaluation. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-901-3-4-18` | Ohio Administrative Code, Chapter 901:3-4 | Retail Food Establishments-Licensing, Rule 901:3-4-18: Reinstatement of a licensor. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-5-01` | Ohio Administrative Code, Chapter 901:3-5 | Processing Acidified Foods, Rule 901:3-5-01: Criteria and definitions for processing acidified foods. | 1 | 2024-11-22 to 2024-11-22 |
+| `oac-rule-901-3-5-02` | Ohio Administrative Code, Chapter 901:3-5 | Processing Acidified Foods, Rule 901:3-5-02: Personnel training. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-3-5-03` | Ohio Administrative Code, Chapter 901:3-5 | Processing Acidified Foods, Rule 901:3-5-03: Processes and controls. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-3-5-04` | Ohio Administrative Code, Chapter 901:3-5 | Processing Acidified Foods, Rule 901:3-5-04: Production and process controls. | 1 | 2024-11-22 to 2024-11-22 |
+| `oac-rule-901-3-5-05` | Ohio Administrative Code, Chapter 901:3-5 | Processing Acidified Foods, Rule 901:3-5-05: Records. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-3-6-01` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-01: Authority of the director of agriculture; Definitions. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-02` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-02: Food. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-03` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-03: Equipment and facilities. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-04` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-04: Wash, rinse, and bactericidal treatment. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-05` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-05: Hand washing. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-06` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-06: Water supply. | 1 | 2017-03-20 to 2017-03-20 |
+| `oac-rule-901-3-6-07` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-07: Right of entry. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-6-08` | Ohio Administrative Code, Chapter 901:3-6 | Farm Markets and Auctions, Rule 901:3-6-08: Retail food establishment referral. | 1 | 2024-07-11 to 2024-07-11 |
+| `oac-rule-901-3-7-01` | Ohio Administrative Code, Chapter 901:3-7 | Fish and Fishery Products, Rule 901:3-7-01: Incorporated by reference- fish and fishery products. | 1 | 2024-06-10 to 2024-06-10 |
+| `oac-rule-901-3-7-02` | Ohio Administrative Code, Chapter 901:3-7 | Fish and Fishery Products, Rule 901:3-7-02: Amended definitions. | 1 | 2024-06-10 to 2024-06-10 |
+| `oac-rule-901-3-7-03` | Ohio Administrative Code, Chapter 901:3-7 | Fish and Fishery Products, Rule 901:3-7-03: Deleted regulations. | 1 | 2024-06-10 to 2024-06-10 |
+| `oac-rule-901-3-7-04` | Ohio Administrative Code, Chapter 901:3-7 | Fish and Fishery Products, Rule 901:3-7-04: Modifications. | 1 | 2024-06-10 to 2024-06-10 |
+| `oac-rule-901-3-8-01` | Ohio Administrative Code, Chapter 901:3-8 | Shellfish Processing, Rule 901:3-8-01: Incorporation by reference - shellfish processing. | 1 | 2026-10-15 to 2026-10-15 |
+| `oac-rule-901-3-12-01` | Ohio Administrative Code, Chapter 901:3-12 | Produce Safety, Rule 901:3-12-01: Produce safety. | 1 | 2024-08-15 to 2024-08-15 |
+| `oac-rule-901-3-12-02` | Ohio Administrative Code, Chapter 901:3-12 | Produce Safety, Rule 901:3-12-02: Amended definitions. | 1 | 2024-08-15 to 2024-08-15 |
+| `oac-rule-901-3-12-03` | Ohio Administrative Code, Chapter 901:3-12 | Produce Safety, Rule 901:3-12-03: Deleted regulations. | 1 | 2024-08-15 to 2024-08-15 |
+| `oac-rule-901-3-12-04` | Ohio Administrative Code, Chapter 901:3-12 | Produce Safety, Rule 901:3-12-04: Modifications. | 1 | 2024-08-15 to 2024-08-15 |
+| `oac-rule-901-3-12-06` | Ohio Administrative Code, Chapter 901:3-12 | Produce Safety, Rule 901:3-12-06: Voluntary registration. | 1 | 2024-08-15 to 2024-08-15 |
+| `oac-rule-901-3-17-01` | Ohio Administrative Code, Chapter 901:3-17 | Federal Food Safety Regulations, Rule 901:3-17-01: Incorporation by reference. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-17-02` | Ohio Administrative Code, Chapter 901:3-17 | Federal Food Safety Regulations, Rule 901:3-17-02: Amended definitions. | 1 | 2017-10-29 to 2017-10-29 |
+| `oac-rule-901-3-17-03` | Ohio Administrative Code, Chapter 901:3-17 | Federal Food Safety Regulations, Rule 901:3-17-03: Deleted regulations. | 1 | 2017-10-29 to 2017-10-29 |
+| `oac-rule-901-3-17-04` | Ohio Administrative Code, Chapter 901:3-17 | Federal Food Safety Regulations, Rule 901:3-17-04: Modifications. | 1 | 2017-10-29 to 2017-10-29 |
+| `oac-rule-901-3-18-01` | Ohio Administrative Code, Chapter 901:3-18 | Intentional Adulteration, Rule 901:3-18-01: Incorporation by reference. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-18-02` | Ohio Administrative Code, Chapter 901:3-18 | Intentional Adulteration, Rule 901:3-18-02: Amended definitions. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-18-03` | Ohio Administrative Code, Chapter 901:3-18 | Intentional Adulteration, Rule 901:3-18-03: Deleted regulations. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-18-04` | Ohio Administrative Code, Chapter 901:3-18 | Intentional Adulteration, Rule 901:3-18-04: Modifications. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-20-01` | Ohio Administrative Code, Chapter 901:3-20 | Cottage Food Production, Rule 901:3-20-01: Criteria and definitions for cottage food operations. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-901-3-20-02` | Ohio Administrative Code, Chapter 901:3-20 | Cottage Food Production, Rule 901:3-20-02: Labeling. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-901-3-20-03` | Ohio Administrative Code, Chapter 901:3-20 | Cottage Food Production, Rule 901:3-20-03: Cottage food products sampling. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-901-3-20-04` | Ohio Administrative Code, Chapter 901:3-20 | Cottage Food Production, Rule 901:3-20-04: Cottage food products allowed. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-901-3-20-05` | Ohio Administrative Code, Chapter 901:3-20 | Cottage Food Production, Rule 901:3-20-05: Prohibitions. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-901-3-23-01` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-01: Criteria and definitions for juice products. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-02` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-02: Sanitation standard operating procedures. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-03` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-03: Hazard analysis. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-04` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-04: Hazard analysis and critical control point (HACCP) plan. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-05` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-05: Corrective actions. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-06` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-06: Verification and validation. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-07` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-07: Records. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-08` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-08: Training. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-09` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-09: Process controls and verification. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-23-10` | Ohio Administrative Code, Chapter 901:3-23 | Juice Product Processors, Rule 901:3-23-10: Adulteration. | 1 | 2003-04-28 to 2003-04-28 |
+| `oac-rule-901-3-24-01` | Ohio Administrative Code, Chapter 901:3-24 | Sanitary Transportation of Human and Animal Food, Rule 901:3-24-01: Incorporation by reference. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-24-02` | Ohio Administrative Code, Chapter 901:3-24 | Sanitary Transportation of Human and Animal Food, Rule 901:3-24-02: Amended Definitions. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-24-03` | Ohio Administrative Code, Chapter 901:3-24 | Sanitary Transportation of Human and Animal Food, Rule 901:3-24-03: Deleted regulations. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-24-04` | Ohio Administrative Code, Chapter 901:3-24 | Sanitary Transportation of Human and Animal Food, Rule 901:3-24-04: Modifications. | 1 | 2024-02-12 to 2024-02-12 |
+| `oac-rule-901-3-45-02` | Ohio Administrative Code, Chapter 901:3-45 | Maple Syrup, Rule 901:3-45-02: Optional ingredients. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-45-03` | Ohio Administrative Code, Chapter 901:3-45 | Maple Syrup, Rule 901:3-45-03: Labeling. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-45-04` | Ohio Administrative Code, Chapter 901:3-45 | Maple Syrup, Rule 901:3-45-04: Packaging and fill. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-45-05` | Ohio Administrative Code, Chapter 901:3-45 | Maple Syrup, Rule 901:3-45-05: Bulk containers. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-46-01` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-01: Definitions. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-46-02` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-02: Voluntary sanitation and inspection standards for exempt honey, maple syrup, and sorghum producers. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-46-03` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-03: Registration. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-46-05` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-05: Collection equipment. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-46-06` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-06: Packaging and fill. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-46-07` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-07: Bulk containers. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-3-46-08` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-08: Production/processing areas. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-46-09` | Ohio Administrative Code, Chapter 901:3-46 | Exempt Maple Syrup and Sorghum Processors and Beekeepers: Standards and Rules, Rule 901:3-46-09: Water supply. | 1 | 2017-09-02 to 2017-09-02 |
+| `oac-rule-901-3-57-01` | Ohio Administrative Code, Chapter 901:3-57 | Perishable Foods, Rule 901:3-57-01: Definitions. | 1 | 2016-09-16 to 2016-09-16 |
+| `oac-rule-901-3-57-02` | Ohio Administrative Code, Chapter 901:3-57 | Perishable Foods, Rule 901:3-57-02: Food products considered perishable. | 1 | 2016-09-16 to 2016-09-16 |
+| `oac-rule-901-3-57-03` | Ohio Administrative Code, Chapter 901:3-57 | Perishable Foods, Rule 901:3-57-03: Establishing sale dates for perishable foods. | 1 | 2016-09-16 to 2016-09-16 |
+| `oac-rule-901-3-57-06` | Ohio Administrative Code, Chapter 901:3-57 | Perishable Foods, Rule 901:3-57-06: Exemptions. | 1 | 2016-09-16 to 2016-09-16 |
+| `oac-rule-901-3-57-08` | Ohio Administrative Code, Chapter 901:3-57 | Perishable Foods, Rule 901:3-57-08: Penalties. | 1 | 2016-09-16 to 2016-09-16 |
+| `oac-rule-901-3-62-01` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-01: Criteria and definitions for processing bottled water. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-02` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-02: License. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-03` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-03: Nomenclature and labeling. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-04` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-04: Plant construction, design, and equipment. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-05` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-05: Sanitary facilities. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-06` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-06: Sanitary operations. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-3-62-07` | Ohio Administrative Code, Chapter 901:3-62 | Bottled Water, Rule 901:3-62-07: Processes and controls. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-4-1-01` | Ohio Administrative Code, Chapter 901:4-1 | Grape Industries, Rule 901:4-1-01: Ohio grape industries; meetings. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-4-3-01` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-01: Definitions - propane council. | 1 | 2026-05-26 to 2026-05-26 |
+| `oac-rule-901-4-3-02` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-02: Terms for propane council members. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-4-3-03` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-03: Meetings of the propane council. | 1 | 2026-05-26 to 2026-05-26 |
+| `oac-rule-901-4-3-04` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-04: Funding of and collecting funds for the propane council. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-4-3-05` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-05: Account of assessments. | 1 | 2026-05-26 to 2026-05-26 |
+| `oac-rule-901-4-3-06` | Ohio Administrative Code, Chapter 901:4-3 | Propane Council, Rule 901:4-3-06: Removal of a member of the propane council. | 1 | 2026-05-26 to 2026-05-26 |
+| `oac-rule-901-4-5-01` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-01: Definitions. | 1 | 2024-07-27 to 2024-07-27 |
+| `oac-rule-901-4-5-02` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-02: Eligibility of producers. | 1 | 2024-07-27 to 2024-07-27 |
+| `oac-rule-901-4-5-03` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-03: Public notice. | 1 | 2024-07-27 to 2024-07-27 |
+| `oac-rule-901-4-5-05` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-05: Referendum. | 1 | 2024-07-27 to 2024-07-27 |
+| `oac-rule-901-4-5-06` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-06: Appointment of operating committees. | 1 | 2024-07-27 to 2024-07-27 |
+| `oac-rule-901-4-5-08` | Ohio Administrative Code, Chapter 901:4-5 | Market Development Programs, Rule 901:4-5-08: Receipt and expenditure of funds. | 1 | 2015-10-12 to 2015-10-12 |
+| `oac-rule-901-4-6-01` | Ohio Administrative Code, Chapter 901:4-6 | Ohio Proud Program, Rule 901:4-6-01: Definitions. | 1 | 2018-08-13 to 2018-08-13 |
+| `oac-rule-901-4-6-03` | Ohio Administrative Code, Chapter 901:4-6 | Ohio Proud Program, Rule 901:4-6-03: Application, registration, licensure, and market categories. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-4-6-04` | Ohio Administrative Code, Chapter 901:4-6 | Ohio Proud Program, Rule 901:4-6-04: Use of logotype, standards. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-4-6-05` | Ohio Administrative Code, Chapter 901:4-6 | Ohio Proud Program, Rule 901:4-6-05: Fees. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-4-7-01` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-01: Definitions. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-02` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-02: Grain marketing program operating committee. | 1 | 2024-10-20 to 2024-10-20 |
+| `oac-rule-901-4-7-03` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-03: Nomination of the grain marketing program operating committee. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-04` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-04: Election of the grain marketing program operating committee. | 1 | 2024-10-20 to 2024-10-20 |
+| `oac-rule-901-4-7-05` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-05: Nomination and election districts for the grain marketing program operating committee. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-06` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-06: Meetings of the grain marketing program operating committee. | 1 | 2024-10-20 to 2024-10-20 |
+| `oac-rule-901-4-7-07` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-07: Funding of and collecting funds for the grain marketing program. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-08` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-08: Accounting of assessments. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-09` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-09: Removal of a member of the grain marketing program operating committee. | 1 | 2008-06-28 to 2008-06-28 |
+| `oac-rule-901-4-7-10` | Ohio Administrative Code, Chapter 901:4-7 | Grain Marketing Program, Rule 901:4-7-10: Soybean Marketing Program. | 1 | 2024-10-20 to 2024-10-20 |
+| `oac-rule-901-5-1-02` | Ohio Administrative Code, Chapter 901:5-1 | Fertilizer, Rule 901:5-1-02: Definitions. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-1-04` | Ohio Administrative Code, Chapter 901:5-1 | Fertilizer, Rule 901:5-1-04: Requirements for sales of fertilizer from bulk storage facilities. | 1 | 2018-11-26 to 2018-11-26 |
+| `oac-rule-901-5-1-05` | Ohio Administrative Code, Chapter 901:5-1 | Fertilizer, Rule 901:5-1-05: Weighing of fertilizer and requirements for shipping invoice. | 1 | 2018-11-26 to 2018-11-26 |
+| `oac-rule-901-5-2-01` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-01: Definitions. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-02` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-02: Compliance with design requirements. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-03` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-03: Design requirements - bulk liquid fertilizer storage. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-04` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-04: Inspection, maintenance alteration, repair and reconstruction. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-05` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-05: Operations. | 1 | 2001-11-12 to 2001-11-12 |
+| `oac-rule-901-5-2-06` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-06: Control and recovery of discharges. | 1 | 2001-11-12 to 2001-11-12 |
+| `oac-rule-901-5-2-07` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-07: Required records. | 1 | 2006-11-24 to 2006-11-24 |
+| `oac-rule-901-5-2-08` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-08: Dry fertilizer storage and handling. | 1 | 1991-01-01 to 1991-01-01 |
+| `oac-rule-901-5-2-09` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-09: Existing permanent storage vessels erected on site. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-10` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-10: New permanent storage vessels erected on site. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-2-11` | Ohio Administrative Code, Chapter 901:5-2 | Fertilizer Storage and Handling, Rule 901:5-2-11: Underground piping systems for loading and unloading liquid fertilizer. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-01` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-01: Definitions. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-02` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-02: Approval of systems. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-03` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-03: Requirements for new construction and original test of containers (including skid containers). | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-04` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-04: Markings on containers and systems. | 1 | 2008-01-07 to 2008-01-07 |
+| `oac-rule-901-5-3-06` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-06: Container appurtenances. | 1 | 1978-11-18 to 1978-11-18 |
+| `oac-rule-901-5-3-07` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-07: Piping, tubing and fittings. | 1 | 1978-11-18 to 1978-11-18 |
+| `oac-rule-901-5-3-08` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-08: Hose specification. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-10` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-10: Safety. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-12` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-12: Systems utilizing stationary, pier-mounted or skid-mounted storage. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-13` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-13: Systems mounted on farm equipment for the delivery of ammonia. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-3-14` | Ohio Administrative Code, Chapter 901:5-3 | Stationary Ammonia Systems, Rule 901:5-3-14: Systems mounted on farm equipment for the application of ammonia. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-4-01` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-01: Definitions. | 1 | 2014-12-13 to 2014-12-13 |
+| `oac-rule-901-5-4-02` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-02: Fertilizer applicator certification. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-901-5-4-03` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-03: Education requirements. | 1 | 2017-10-01 to 2017-10-01 |
+| `oac-rule-901-5-4-04` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-04: Recordkeeping. | 1 | 2017-10-01 to 2017-10-01 |
+| `oac-rule-901-5-4-05` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-05: Criteria for decision-making. | 1 | 2014-12-13 to 2014-12-13 |
+| `oac-rule-901-5-4-06` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-06: Annual Tonnage Report. | 1 | 2015-02-07 to 2015-02-07 |
+| `oac-rule-901-5-4-07` | Ohio Administrative Code, Chapter 901:5-4 | Fertilizer Applicators, Rule 901:5-4-07: Civil Penalties. | 1 | 2016-01-31 to 2016-01-31 |
+| `oac-rule-901-5-5-01` | Ohio Administrative Code, Chapter 901:5-5 | Agricultural Liming Material, Rule 901:5-5-01: Definitions. | 1 | 2018-10-11 to 2018-10-11 |
+| `oac-rule-901-5-5-02` | Ohio Administrative Code, Chapter 901:5-5 | Agricultural Liming Material, Rule 901:5-5-02: Tolerances. | 1 | 2018-10-11 to 2018-10-11 |
+| `oac-rule-901-5-5-04` | Ohio Administrative Code, Chapter 901:5-5 | Agricultural Liming Material, Rule 901:5-5-04: Sampling. | 1 | 2018-10-11 to 2018-10-11 |
+| `oac-rule-901-5-7-01` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-01: Incorporate by reference. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-02` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-02: Exemptions. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-05` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-05: Maintenance requirements. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-07` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-07: Labels. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-08` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-08: Exempt buyer. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-10` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-10: Labeling bulk storage. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-7-22` | Ohio Administrative Code, Chapter 901:5-7 | Commercial Feeds, Rule 901:5-7-22: Glucosamine; chondroitin; hyaluronan; methylsulfonylmethane in animal feed. | 1 | 2024-04-19 to 2024-04-19 |
+| `oac-rule-901-5-11-01` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-01: Definitions. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-02` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-02: Trained servicepersons, safety and restrictions. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-03` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-03: Pesticide business license and registered locations. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-04` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-04: Commercial applicator license. | 1 | 2015-10-15 to 2015-10-15 |
+| `oac-rule-901-5-11-05` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-05: Private applicator license. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-06` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-06: Pesticide dealer license. | 1 | 2004-07-01 to 2004-07-01 |
+| `oac-rule-901-5-11-07` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-07: Financial responsibility. | 1 | 2016-05-05 to 2016-05-05 |
+| `oac-rule-901-5-11-08` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-08: Demonstration of competence. | 1 | 2015-10-15 to 2015-10-15 |
+| `oac-rule-901-5-11-10` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-10: Recordkeeping. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-11` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-11: Storage, handling, disposal and distribution of pesticides, custom mixes and blends. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-12` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-12: Pesticide registration. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-13` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-13: Recordkeeping for wood-destroying insect diagnostic inspections for real estate transactions. | 1 | 2020-01-17 to 2020-01-17 |
+| `oac-rule-901-5-11-14` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-14: Integrated pest management standard. | 1 | 2015-10-15 to 2015-10-15 |
+| `oac-rule-901-5-11-15` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-15: Pesticide use in schools. | 1 | 2015-10-15 to 2015-10-15 |
+| `oac-rule-901-5-11-19` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-19: Pesticide safety for agricultural workers and handlers. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-901-5-11-99` | Ohio Administrative Code, Chapter 901:5-11 | Pesticides, Rule 901:5-11-99: Civil penalties. | 1 | 2015-10-15 to 2015-10-15 |
+| `oac-rule-901-5-27-02` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-02: Testing of seed. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-27-03` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-03: Labeling seed as to kind and variety. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-27-05` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-05: Disposal of screenings. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-27-06` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-06: Prohibited and restricted noxious weed seeds list. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-27-07` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-07: Seed labeler permit application. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-27-09` | Ohio Administrative Code, Chapter 901:5-27 | Testing of Seed, Rule 901:5-27-09: Native grass seeds and native grass seeds high in inert matter. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-5-30-01` | Ohio Administrative Code, Chapter 901:5-30 | Invasive Plants, Rule 901:5-30-01: Invasive plant species. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-5-30-02` | Ohio Administrative Code, Chapter 901:5-30 | Invasive Plants, Rule 901:5-30-02: Invasive plant advisory committee. | 1 | 2024-06-10 to 2024-06-10 |
+| `oac-rule-901-5-35-02` | Ohio Administrative Code, Chapter 901:5-35 | Plant Product Inspection, Rule 901:5-35-02: Plant product inspection. | 1 | 2025-02-13 to 2025-02-13 |
+| `oac-rule-901-5-37-01` | Ohio Administrative Code, Chapter 901:5-37 | Noxious Weeds, Rule 901:5-37-01: Prohibited noxious weeds. | 1 | 2025-02-16 to 2025-02-16 |
+| `oac-rule-901-5-48-01` | Ohio Administrative Code, Chapter 901:5-48 | Hemlock Pest, Rule 901:5-48-01: Notice of quarantine. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-5-48-02` | Ohio Administrative Code, Chapter 901:5-48 | Hemlock Pest, Rule 901:5-48-02: Definitions. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-5-48-03` | Ohio Administrative Code, Chapter 901:5-48 | Hemlock Pest, Rule 901:5-48-03: Regulated articles. | 1 | 2015-06-29 to 2015-06-29 |
+| `oac-rule-901-5-48-04` | Ohio Administrative Code, Chapter 901:5-48 | Hemlock Pest, Rule 901:5-48-04: Conditions for movement. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-5-52-01` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-01: Notice of quarantine. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-02` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-02: Definitions. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-03` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-03: Regulated articles. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-04` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-04: Regulated area. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-05` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-05: Conditions of movement. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-06` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-06: Inspection and disposal. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-52-07` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-07: Treatment of infestations. | 1 | 2016-06-30 to 2016-06-30 |
+| `oac-rule-901-5-52-08` | Ohio Administrative Code, Chapter 901:5-52 | Spongy Moth, Rule 901:5-52-08: Spongy moth suppression program. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-55-01` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-01: Definitions. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-55-02` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-02: Registrations. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-55-03` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-03: Serious bee diseases. | 1 | 2017-10-22 to 2017-10-22 |
+| `oac-rule-901-5-55-04` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-04: Inspection and procedures. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-55-05` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-05: No consent and search warrant. | 1 | 2017-10-22 to 2017-10-22 |
+| `oac-rule-901-5-55-06` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-06: Confirmation of disease. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-55-07` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-07: Disease controls. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-55-08` | Ohio Administrative Code, Chapter 901:5-55 | Apiary Registration, Rule 901:5-55-08: Special inspection fees. | 1 | 2025-06-26 to 2025-06-26 |
+| `oac-rule-901-5-56-01` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-01: Notice of quarantine. | 1 | 2021-10-28 to 2021-10-28 |
+| `oac-rule-901-5-56-02` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-02: Definitions. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-56-03` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-03: Regulated articles. | 1 | 2021-10-28 to 2021-10-28 |
+| `oac-rule-901-5-56-04` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-04: Regulated area. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-56-05` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-05: Conditions of movement. | 1 | 2021-10-28 to 2021-10-28 |
+| `oac-rule-901-5-56-06` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-06: Inspection and disposition of shipments. | 1 | 2024-10-03 to 2024-10-03 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 2447 commits:
+The build made 2957 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2447 | baseline texts where the record starts |
+| 2957 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2484,7 +2995,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2447 tags.
+- 2957 tags.
 
 ## Dates
 
@@ -2496,7 +3007,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `eb33875c170bd739a61311b0275f635eb8393131ea4dd2e94c93480637b38751` (91596919 bytes).
+- Corpus: sha256 `89889fbd471ff954cd0fa6be776bbdd12d53e75c7f4091befe21d4cce2efede6` (93404348 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2526,6 +3037,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -2538,6 +3051,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
