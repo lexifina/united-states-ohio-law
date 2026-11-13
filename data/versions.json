@@ -30398,6 +30398,3848 @@
    ]
   },
   {
+   "slug": "oac-rule-122-32-1-01",
+   "short": "O.A.C. 122:32-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-01",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-32-1-02",
+   "short": "O.A.C. 122:32-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-02: Eligible properties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-02",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-32-1-03",
+   "short": "O.A.C. 122:32-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-03: Eligible applicant.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-03",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-32-1-04",
+   "short": "O.A.C. 122:32-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-04: Application.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-04",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-32-1-05",
+   "short": "O.A.C. 122:32-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-05: Grant agreement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-05",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-32-1-06",
+   "short": "O.A.C. 122:32-1-06",
+   "title": "Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-06: Reporting.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:32-1-06",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:32-1",
+     "sha256": "0a487a0ed10f4a36869445c8277cdb595579941fafd4f881362352d328246005"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-33-1-01",
+   "short": "O.A.C. 122:33-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:33-1 | Priority Investment Area Designation, Rule 122:33-1-01: Designation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:33-1-01",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:33-1",
+     "sha256": "ba72d6de6cd830727f5b4c05791ee313670ba3e36a15d459d167cae09082ba15"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-4-01",
+   "short": "O.A.C. 123-4-01",
+   "title": "Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123-4-01",
+   "versions": [
+    {
+     "from": "2011-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123-4",
+     "sha256": "8c19fca4482decda22eea7bba70de46b7073f609979c0cf52db6978a6d7d14e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-4-02",
+   "short": "O.A.C. 123-4-02",
+   "title": "Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-02: Procedures for accessing confidential personal information.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123-4-02",
+   "versions": [
+    {
+     "from": "2011-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123-4",
+     "sha256": "8c19fca4482decda22eea7bba70de46b7073f609979c0cf52db6978a6d7d14e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-4-03",
+   "short": "O.A.C. 123-4-03",
+   "title": "Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-03: Valid reasons for accessing confidential personal information.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123-4-03",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123-4",
+     "sha256": "8c19fca4482decda22eea7bba70de46b7073f609979c0cf52db6978a6d7d14e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-4-04",
+   "short": "O.A.C. 123-4-04",
+   "title": "Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-04: Confidentiality statutes.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123-4-04",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123-4",
+     "sha256": "8c19fca4482decda22eea7bba70de46b7073f609979c0cf52db6978a6d7d14e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-4-05",
+   "short": "O.A.C. 123-4-05",
+   "title": "Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-05: Restricting and logging access to confidential personal information in computerized personal information systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123-4-05",
+   "versions": [
+    {
+     "from": "2011-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123-4",
+     "sha256": "8c19fca4482decda22eea7bba70de46b7073f609979c0cf52db6978a6d7d14e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-1-02",
+   "short": "O.A.C. 123:1-1-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-1 | General Provisions, Rule 123:1-1-02: Records of the director.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-1-02",
+   "versions": [
+    {
+     "from": "2013-10-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-1",
+     "sha256": "0a6ce807a123ae43394b65d78e54ed7787db694df61e54f82d49332df0e0cbab"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-3-01",
+   "short": "O.A.C. 123:1-3-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-3 | Position Audits and Changes to Classification Plan, Rule 123:1-3-01: Position audits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-3-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-3",
+     "sha256": "dcbf9a46815d7025f04aabc20d48b23502061189909435c0603656c3386d64d3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-5-01",
+   "short": "O.A.C. 123:1-5-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-01: Unclassified service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-5-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-5",
+     "sha256": "80a36dd1a52c0c6a73d12ba3518d658d5924a8be40f8d2269068c025105e8a2a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-5-02",
+   "short": "O.A.C. 123:1-5-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-02: Unskilled labor class.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-5-02",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-5",
+     "sha256": "80a36dd1a52c0c6a73d12ba3518d658d5924a8be40f8d2269068c025105e8a2a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-5-03",
+   "short": "O.A.C. 123:1-5-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-03: Retaining rights to the classified service upon appointment to the unclassified service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-5-03",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-5",
+     "sha256": "80a36dd1a52c0c6a73d12ba3518d658d5924a8be40f8d2269068c025105e8a2a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-7-04",
+   "short": "O.A.C. 123:1-7-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-04: Specifications.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-7-04",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-7",
+     "sha256": "085a5c8ec2d31a2087eb5af51c31bc31cf6000b6bef6eaa551196b40a1f7adac"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-7-15",
+   "short": "O.A.C. 123:1-7-15",
+   "title": "Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-15: State classifications.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-7-15",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-7",
+     "sha256": "085a5c8ec2d31a2087eb5af51c31bc31cf6000b6bef6eaa551196b40a1f7adac"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-7-22",
+   "short": "O.A.C. 123:1-7-22",
+   "title": "Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-22: Reassignments resulting in placing an employee in step X.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-7-22",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-7",
+     "sha256": "085a5c8ec2d31a2087eb5af51c31bc31cf6000b6bef6eaa551196b40a1f7adac"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-9-01",
+   "short": "O.A.C. 123:1-9-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-01: Examination guidelines.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-9-01",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-9",
+     "sha256": "2050cd4f70928b72357929b14ff4ab3c18f99e5a950c42170f288622b8205ed5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-9-02",
+   "short": "O.A.C. 123:1-9-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-02: Subjects, weights, and pass point.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-9-02",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-9",
+     "sha256": "2050cd4f70928b72357929b14ff4ab3c18f99e5a950c42170f288622b8205ed5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-9-03",
+   "short": "O.A.C. 123:1-9-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-03: Medical or psychological examination as a requirement for appointment to the classified service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-9-03",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-9",
+     "sha256": "2050cd4f70928b72357929b14ff4ab3c18f99e5a950c42170f288622b8205ed5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-11-04",
+   "short": "O.A.C. 123:1-11-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-11 | Applications for Examination, Rule 123:1-11-04: Character and fitness of applicant.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-11-04",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-11",
+     "sha256": "4794644068dfb21227dd90c8ced4beee6176bcd5cff95110edd9673c70b5099b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-11-08",
+   "short": "O.A.C. 123:1-11-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-11 | Applications for Examination, Rule 123:1-11-08: Applications.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-11-08",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-11",
+     "sha256": "4794644068dfb21227dd90c8ced4beee6176bcd5cff95110edd9673c70b5099b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-15-01",
+   "short": "O.A.C. 123:1-15-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-15 | Eligibility Lists, Rule 123:1-15-01: Eligible lists.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-15-01",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-15",
+     "sha256": "41b5475f2eab775faec0cdbd35de068f5c73538e19361472bd81e4ac1f1806a2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-17-01",
+   "short": "O.A.C. 123:1-17-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-01: Classified selections.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-17-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-17",
+     "sha256": "24d5cb6432839704b568f56badc2b090b135c2391901267acafc5ef29552f460"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-17-02",
+   "short": "O.A.C. 123:1-17-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-02: Eligible list.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-17-02",
+   "versions": [
+    {
+     "from": "2016-12-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-17",
+     "sha256": "24d5cb6432839704b568f56badc2b090b135c2391901267acafc5ef29552f460"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-17-16",
+   "short": "O.A.C. 123:1-17-16",
+   "title": "Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-16: Appropriateness of duties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-17-16",
+   "versions": [
+    {
+     "from": "1976-01-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-17",
+     "sha256": "24d5cb6432839704b568f56badc2b090b135c2391901267acafc5ef29552f460"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-19-02",
+   "short": "O.A.C. 123:1-19-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-19 | Probation, Rule 123:1-19-02: Length of probation in state service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-19-02",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-19",
+     "sha256": "07f28bc54f31a1ffd685f578642581cb29348bcd792aa2707863422bf5263ea4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-23-01",
+   "short": "O.A.C. 123:1-23-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-23 | Promotions, Rule 123:1-23-01: Eligibility and selection for promotions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-23-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-23",
+     "sha256": "d9b72dec27e0cb1b9685b531543044b75e499b485e0e62d315d150c4f04df333"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-23-03",
+   "short": "O.A.C. 123:1-23-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-23 | Promotions, Rule 123:1-23-03: Inter-agency and intra-agency promotion; probationary period; removal or demotion.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-23-03",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-23",
+     "sha256": "d9b72dec27e0cb1b9685b531543044b75e499b485e0e62d315d150c4f04df333"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-25-02",
+   "short": "O.A.C. 123:1-25-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-02: Reinstatements after resignation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-25-02",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-25",
+     "sha256": "946a1adbb06ef0ef84efb5074e358ca747ab82b3e58d7db4923c08a4b385d3b1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-25-04",
+   "short": "O.A.C. 123:1-25-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-04: Seasonal positions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-25-04",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-25",
+     "sha256": "946a1adbb06ef0ef84efb5074e358ca747ab82b3e58d7db4923c08a4b385d3b1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-25-07",
+   "short": "O.A.C. 123:1-25-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-07: Temporary reassignment of duties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-25-07",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-25",
+     "sha256": "946a1adbb06ef0ef84efb5074e358ca747ab82b3e58d7db4923c08a4b385d3b1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-27-04",
+   "short": "O.A.C. 123:1-27-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-27 | Suggestion Award System, Rule 123:1-27-04: Employee recognition program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-27-04",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-27",
+     "sha256": "3189a582addb9423e0debc8faf7b9ca285a74a0bba416e9b395b32b108a91ecf"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-28-01",
+   "short": "O.A.C. 123:1-28-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-28 | Combined Charitable Campaign, Rule 123:1-28-01: Combined charitable campaign.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-28-01",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-28",
+     "sha256": "35e92e763e106bd86b435acab9be03d634033cb5d586419826b7f4eb57e4c731"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-29-01",
+   "short": "O.A.C. 123:1-29-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-29 | Performance Evaluation System, Rule 123:1-29-01: Performance evaluation for classified state employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-29-01",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-29",
+     "sha256": "50a3a64343140d3d2758ce03fbf877d289079e6b29477170f5c96d6739eb76bc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-01",
+   "short": "O.A.C. 123:1-30-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-01: Involuntary disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-01",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-02",
+   "short": "O.A.C. 123:1-30-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-02: Voluntary disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-02",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-03",
+   "short": "O.A.C. 123:1-30-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-03: Medical and psychological examinations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-03",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-04",
+   "short": "O.A.C. 123:1-30-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-04: Right to reinstatement; rights of appeal.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-04",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-05",
+   "short": "O.A.C. 123:1-30-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-05: Disclosure of medical reports.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-05",
+   "versions": [
+    {
+     "from": "2006-10-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-30-06",
+   "short": "O.A.C. 123:1-30-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-06: Leave benefits for an employee given a disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-30-06",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-30",
+     "sha256": "3ad7300ada8fe87d9beab7df07a05de84aa8ddee80c2f96b947475ae1750d120"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-31-01",
+   "short": "O.A.C. 123:1-31-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-01: General procedure for removals, reductions, suspensions, or fines.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-31-01",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-31",
+     "sha256": "52d5a4afba0cfd50351f6e36a8e18ea96452432fabf0a83d4b1a95fd761a3581"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-31-02",
+   "short": "O.A.C. 123:1-31-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-02: Step reduction.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-31-02",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-31",
+     "sha256": "52d5a4afba0cfd50351f6e36a8e18ea96452432fabf0a83d4b1a95fd761a3581"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-31-03",
+   "short": "O.A.C. 123:1-31-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-03: Absence without leave.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-31-03",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-31",
+     "sha256": "52d5a4afba0cfd50351f6e36a8e18ea96452432fabf0a83d4b1a95fd761a3581"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-31-04",
+   "short": "O.A.C. 123:1-31-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-04: Reduction or demotion.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-31-04",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-31",
+     "sha256": "52d5a4afba0cfd50351f6e36a8e18ea96452432fabf0a83d4b1a95fd761a3581"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-31-05",
+   "short": "O.A.C. 123:1-31-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-05: Definition of unsatisfactory performance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-31-05",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-31",
+     "sha256": "52d5a4afba0cfd50351f6e36a8e18ea96452432fabf0a83d4b1a95fd761a3581"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-01",
+   "short": "O.A.C. 123:1-32-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-01: Availability and charge of sick leave, vacation leave, and personal leave and compensation for sick leave of employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-02",
+   "short": "O.A.C. 123:1-32-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-02: Notification for use of sick leave by employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-02",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-05",
+   "short": "O.A.C. 123:1-32-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-05: Sick leave uses, evidence of use, and abuse for employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-05",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-07",
+   "short": "O.A.C. 123:1-32-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-07: Personal leave with pay and charge of personal leave for employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-07",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-08",
+   "short": "O.A.C. 123:1-32-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-08: Conversion or carry-forward of sick leave or personal leave credit at year's end for employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-08",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-09",
+   "short": "O.A.C. 123:1-32-09",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-09: Conversion of sick leave and personal leave credit upon separation from service for employees paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-09",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-10",
+   "short": "O.A.C. 123:1-32-10",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-10: Transfer of sick leave, personal leave and vacation leave credits, restoration of sick leave, personal leave and vacation leave credit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-10",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-32-11",
+   "short": "O.A.C. 123:1-32-11",
+   "title": "Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-11: Leave retention options for employees appointed to positions governed by section 121.03 of the Revised Code or a similar position that does not accrue leave.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-32-11",
+   "versions": [
+    {
+     "from": "2006-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-32",
+     "sha256": "ef3dfda43958cce1d3f926abf04563fad29f1c4852ac9b08045cba864f56f219"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-33-01",
+   "short": "O.A.C. 123:1-33-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-33 | Disability Leave, Rule 123:1-33-01: State of Ohio disability leave program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-33-01",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-33",
+     "sha256": "7ce65fe0537fd95169443409b3ea94e277f8e09062b9f4e2abbb63feb491ec13"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-33-02",
+   "short": "O.A.C. 123:1-33-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-33 | Disability Leave, Rule 123:1-33-02: Occupational injury leave and salary continuation benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-33-02",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-33",
+     "sha256": "7ce65fe0537fd95169443409b3ea94e277f8e09062b9f4e2abbb63feb491ec13"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-01",
+   "short": "O.A.C. 123:1-34-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-01: Leave of absence without pay.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-01",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-04",
+   "short": "O.A.C. 123:1-34-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-04: Military leave with pay.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-04",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-05",
+   "short": "O.A.C. 123:1-34-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-05: Uniformed service leave without pay.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-05",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-08",
+   "short": "O.A.C. 123:1-34-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-08: Olympic competition leave.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-08",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-09",
+   "short": "O.A.C. 123:1-34-09",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-09: Bereavement leave.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-09",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-10",
+   "short": "O.A.C. 123:1-34-10",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-10: Voluntary cost saving program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-10",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-11",
+   "short": "O.A.C. 123:1-34-11",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-11: Mandatory cost savings program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-11",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-34-12",
+   "short": "O.A.C. 123:1-34-12",
+   "title": "Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-12: Caregiver leave.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-34-12",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-34",
+     "sha256": "2be790f5d69a04b2c066c975b12654e803abbd894784b9f18288b3dfc6d35ded"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-35-01",
+   "short": "O.A.C. 123:1-35-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-35 | Payroll, Rule 123:1-35-01: Mandatory direct deposit of compensation for certain employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-35-01",
+   "versions": [
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-35",
+     "sha256": "8945f396a67f38bcf700dd1ae7e0198d9407801e9c958af0e40f09008c348149"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-37-01",
+   "short": "O.A.C. 123:1-37-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-01: Employees eligible for pay supplements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-37-01",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-37",
+     "sha256": "b4b046e930194ba024d4d5241853a0919a31cfb3b07c5b5c87b964c36c808ef2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-37-02",
+   "short": "O.A.C. 123:1-37-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-02: Computation of pay supplements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-37-02",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-37",
+     "sha256": "b4b046e930194ba024d4d5241853a0919a31cfb3b07c5b5c87b964c36c808ef2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-37-06",
+   "short": "O.A.C. 123:1-37-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-06: Bilingual pay supplement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-37-06",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-37",
+     "sha256": "b4b046e930194ba024d4d5241853a0919a31cfb3b07c5b5c87b964c36c808ef2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-37-07",
+   "short": "O.A.C. 123:1-37-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-07: Temporary working level pay adjustment.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-37-07",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-37",
+     "sha256": "b4b046e930194ba024d4d5241853a0919a31cfb3b07c5b5c87b964c36c808ef2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-37-08",
+   "short": "O.A.C. 123:1-37-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-08: Professional achievement pay supplement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-37-08",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-37",
+     "sha256": "b4b046e930194ba024d4d5241853a0919a31cfb3b07c5b5c87b964c36c808ef2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-39-01",
+   "short": "O.A.C. 123:1-39-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-01: Professional development fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-39-01",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-39",
+     "sha256": "1cff72f8f71f34202d42460d87ec3628f465b0cecc2eb085962fdf0e8c5057fd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-39-06",
+   "short": "O.A.C. 123:1-39-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-06: Educational stipends.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-39-06",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-39",
+     "sha256": "1cff72f8f71f34202d42460d87ec3628f465b0cecc2eb085962fdf0e8c5057fd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-39-07",
+   "short": "O.A.C. 123:1-39-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-07: Tuition reimbursement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-39-07",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-39",
+     "sha256": "1cff72f8f71f34202d42460d87ec3628f465b0cecc2eb085962fdf0e8c5057fd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-01",
+   "short": "O.A.C. 123:1-41-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-01: Layoffs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-01",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-02",
+   "short": "O.A.C. 123:1-41-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-02: Determination of lack of funds and lack of work for agencies whose employees are paid by warrant of the director of budget and management.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-02",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-04",
+   "short": "O.A.C. 123:1-41-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-04: Abolishment of positions in the classified service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-04",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-06",
+   "short": "O.A.C. 123:1-41-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-06: Determination by appointing authority of classifications for layoff.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-06",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-07",
+   "short": "O.A.C. 123:1-41-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-07: Order of layoff of employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-07",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-08",
+   "short": "O.A.C. 123:1-41-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-08: Verification of retention points.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-08",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-09",
+   "short": "O.A.C. 123:1-41-09",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-09: Computation of retention points.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-09",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-10",
+   "short": "O.A.C. 123:1-41-10",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-10: Notification of layoff or displacement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-10",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-11",
+   "short": "O.A.C. 123:1-41-11",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-11: Displacement and appeal rights of employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-11",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-12",
+   "short": "O.A.C. 123:1-41-12",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-12: Order of displacement for employees in the service of the state.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-12",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-13",
+   "short": "O.A.C. 123:1-41-13",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-13: Layoff jurisdiction districts for state agencies, boards, commissions and independent institutions with employees in the service of the state.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-13",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-16",
+   "short": "O.A.C. 123:1-41-16",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-16: Reinstatement rights.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-16",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-17",
+   "short": "O.A.C. 123:1-41-17",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-17: Reemployment rights.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-17",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-18",
+   "short": "O.A.C. 123:1-41-18",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-18: Notification of reinstatement or reemployment.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-18",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-19",
+   "short": "O.A.C. 123:1-41-19",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-19: Removal from recall lists.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-19",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-20",
+   "short": "O.A.C. 123:1-41-20",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-20: Inspection of layoff lists.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-20",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-21",
+   "short": "O.A.C. 123:1-41-21",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-21: Layoff of employees on sick leave, leave without pay, or receiving disability leave benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-21",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-22",
+   "short": "O.A.C. 123:1-41-22",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-22: Cash conversion of accrued leave at layoff, and restoration of leave credit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-22",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-41-24",
+   "short": "O.A.C. 123:1-41-24",
+   "title": "Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-24: Furloughs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-41-24",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-41",
+     "sha256": "05ab89d6a1f7920a1fe7dac3ac779abfcf766e7662fca9838cdb426aa7c42a44"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-43-01",
+   "short": "O.A.C. 123:1-43-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-43 | Overtime and Compensatory Time, Rule 123:1-43-01: Overtime.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-43-01",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-43",
+     "sha256": "0dff35cad33a59be4c2d37b29542a7f4d281b6458c737f0a91160eb7c723e0b0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-43-02",
+   "short": "O.A.C. 123:1-43-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-43 | Overtime and Compensatory Time, Rule 123:1-43-02: Compensatory time.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-43-02",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-43",
+     "sha256": "0dff35cad33a59be4c2d37b29542a7f4d281b6458c737f0a91160eb7c723e0b0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-44-01",
+   "short": "O.A.C. 123:1-44-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-44 | Holidays, Rule 123:1-44-01: Holidays.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-44-01",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-44",
+     "sha256": "c372b7652dbb37d2357e55969a853646290151b581dbe294bfe38b3f39c66643"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-44-02",
+   "short": "O.A.C. 123:1-44-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-44 | Holidays, Rule 123:1-44-02: Religious observances.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-44-02",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-44",
+     "sha256": "c372b7652dbb37d2357e55969a853646290151b581dbe294bfe38b3f39c66643"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-45-01",
+   "short": "O.A.C. 123:1-45-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-45 | Implementation and Separability of Rules, Rule 123:1-45-01: Implementation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-45-01",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-45",
+     "sha256": "718ec77abc14365be352ec34b54836df63f32e64ab5b18a780195c632df4a92b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-01",
+   "short": "O.A.C. 123:1-46-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-01: Weather emergencies.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-01",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-02",
+   "short": "O.A.C. 123:1-46-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-02: Political activity of employees in the classified service of the state.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-02",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-03",
+   "short": "O.A.C. 123:1-46-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-03: Experimental leave and benefits program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-03",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-05",
+   "short": "O.A.C. 123:1-46-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-05: Leave donation program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-05",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-06",
+   "short": "O.A.C. 123:1-46-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-06: Employee exchange program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-06",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-46-07",
+   "short": "O.A.C. 123:1-46-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-07: Retention of records relating to disciplinary actions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-46-07",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-46",
+     "sha256": "2102aef55b960c37cfb3f08514847970677ea459527421ebe59620e8e641dc5d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-47-01",
+   "short": "O.A.C. 123:1-47-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-47 | Definitions, Rule 123:1-47-01: Definition of terms.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-47-01",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-47",
+     "sha256": "653790de2bfeca05b00d8ca0a8c717d074ae3c46e6ee14c55b0f9d243f4667b9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-49-01",
+   "short": "O.A.C. 123:1-49-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-01: Equal employment opportunity policy.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-49-01",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-49",
+     "sha256": "4ec26a612690dc9d4a228329a1fe6ffc002e43952f36f01e07cb9541398ff331"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-49-02",
+   "short": "O.A.C. 123:1-49-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-02: Duties of the state human resources division.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-49-02",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-49",
+     "sha256": "4ec26a612690dc9d4a228329a1fe6ffc002e43952f36f01e07cb9541398ff331"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-49-03",
+   "short": "O.A.C. 123:1-49-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-03: Responsibilities of state agencies regarding equal employment opportunity.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-49-03",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-49",
+     "sha256": "4ec26a612690dc9d4a228329a1fe6ffc002e43952f36f01e07cb9541398ff331"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-49-06",
+   "short": "O.A.C. 123:1-49-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-06: Filing of complaint.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-49-06",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-49",
+     "sha256": "4ec26a612690dc9d4a228329a1fe6ffc002e43952f36f01e07cb9541398ff331"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-49-07",
+   "short": "O.A.C. 123:1-49-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-07: Appeals to state human resources division.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-49-07",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-49",
+     "sha256": "4ec26a612690dc9d4a228329a1fe6ffc002e43952f36f01e07cb9541398ff331"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-71-01",
+   "short": "O.A.C. 123:1-71-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-71-01",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-71",
+     "sha256": "59573033837dba94ee880d67c601d8299e86e5e69132e0577d280341a7fe458b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-71-02",
+   "short": "O.A.C. 123:1-71-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-02: Administration of the fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-71-02",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-71",
+     "sha256": "59573033837dba94ee880d67c601d8299e86e5e69132e0577d280341a7fe458b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-71-03",
+   "short": "O.A.C. 123:1-71-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-03: Eligibility, contribution and withdrawal procedures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-71-03",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-71",
+     "sha256": "59573033837dba94ee880d67c601d8299e86e5e69132e0577d280341a7fe458b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-71-04",
+   "short": "O.A.C. 123:1-71-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-04: Actuarial evaluation of the fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-71-04",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-71",
+     "sha256": "59573033837dba94ee880d67c601d8299e86e5e69132e0577d280341a7fe458b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-71-05",
+   "short": "O.A.C. 123:1-71-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-05: Ensuring the integrity of the fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-71-05",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-71",
+     "sha256": "59573033837dba94ee880d67c601d8299e86e5e69132e0577d280341a7fe458b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-01",
+   "short": "O.A.C. 123:1-76-01",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-01: Drug-free workplace definitions of terms.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-01",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-02",
+   "short": "O.A.C. 123:1-76-02",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-02: Purpose and responsibility.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-02",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-03",
+   "short": "O.A.C. 123:1-76-03",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-03: Alcohol testing techniques and methods.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-03",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-04",
+   "short": "O.A.C. 123:1-76-04",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-04: Drug testing techniques and methods.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-04",
+   "versions": [
+    {
+     "from": "1996-11-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-05",
+   "short": "O.A.C. 123:1-76-05",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-05: Collection and handling of specimens.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-05",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-06",
+   "short": "O.A.C. 123:1-76-06",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-06: Confirmatory testing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-06",
+   "versions": [
+    {
+     "from": "1996-11-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-07",
+   "short": "O.A.C. 123:1-76-07",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-07: Reporting of test results.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-07",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-08",
+   "short": "O.A.C. 123:1-76-08",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-08: Records and specimen retention.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-08",
+   "versions": [
+    {
+     "from": "1996-11-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-09",
+   "short": "O.A.C. 123:1-76-09",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-09: Applicant testing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-09",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-10",
+   "short": "O.A.C. 123:1-76-10",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-10: Reasonable suspicion testing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-10",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-11",
+   "short": "O.A.C. 123:1-76-11",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-11: Finding of employee drug use and disciplinary consequences.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-11",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-12",
+   "short": "O.A.C. 123:1-76-12",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-12: Disciplinary action - federal drug-free workplace act of 1988.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-12",
+   "versions": [
+    {
+     "from": "1992-06-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-13",
+   "short": "O.A.C. 123:1-76-13",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-13: Appeal of drug test results.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-13",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-1-76-14",
+   "short": "O.A.C. 123:1-76-14",
+   "title": "Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-14: Drug-free workplace training/education.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:1-76-14",
+   "versions": [
+    {
+     "from": "1996-11-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:1-76",
+     "sha256": "cc9f9f0b6270fb11c04f3a9d4c8164ccfe569d929599a88ecd4cefd7699958eb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-3-2-01",
+   "short": "O.A.C. 123:3-2-01",
+   "title": "Ohio Administrative Code, Chapter 123:3-2 | Personal Information Systems Definitions, Rule 123:3-2-01: Personal information systems definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:3-2-01",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:3-2",
+     "sha256": "c37ab657a75a30aa05315317e0a3822815c5949003530d7ec0be7e9335f73d1d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-01",
+   "short": "O.A.C. 123:5-1-01",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-01",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-02",
+   "short": "O.A.C. 123:5-1-02",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-02: Authority to purchase supplies and services.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-02",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-03",
+   "short": "O.A.C. 123:5-1-03",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-03: Community rehabilitation program - administration.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-03",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-04",
+   "short": "O.A.C. 123:5-1-04",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-04: Application of preferences.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-04",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-05",
+   "short": "O.A.C. 123:5-1-05",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-05: Purchase of biobased products.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-05",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-06",
+   "short": "O.A.C. 123:5-1-06",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-06: Purchasing from requisite procurement programs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-06",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-07",
+   "short": "O.A.C. 123:5-1-07",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-07: The invitation to bid process.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-07",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-08",
+   "short": "O.A.C. 123:5-1-08",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-08: The request for proposal process.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-08",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-09",
+   "short": "O.A.C. 123:5-1-09",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-09: The reverse auction process.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-09",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-1-10",
+   "short": "O.A.C. 123:5-1-10",
+   "title": "Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-10: Specification authority.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-1-10",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-1",
+     "sha256": "b0997fa94be79b8c4afba242e70f3a2ba950d6ef6ba72213c859878d9da8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-5-2-01",
+   "short": "O.A.C. 123:5-2-01",
+   "title": "Ohio Administrative Code, Chapter 123:5-2 | Excess and Surplus Supplies, Rule 123:5-2-01: Disposal of excess and surplus property.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:5-2-01",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:5-2",
+     "sha256": "d15a50b5fe8294666531bfd3cec80de7efe58a735f8425b191ae2675efd86ae4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-6-1-01",
+   "short": "O.A.C. 123:6-1-01",
+   "title": "Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:6-1-01",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:6-1",
+     "sha256": "0b26f04721a00900e7e8125beebed50ddd5e9cca32a72305ac4305432cb82fa4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-6-1-02",
+   "short": "O.A.C. 123:6-1-02",
+   "title": "Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-02: Assignment of vehicles.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:6-1-02",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:6-1",
+     "sha256": "0b26f04721a00900e7e8125beebed50ddd5e9cca32a72305ac4305432cb82fa4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-6-1-03",
+   "short": "O.A.C. 123:6-1-03",
+   "title": "Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-03: Mileage reimbursement payments.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:6-1-03",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:6-1",
+     "sha256": "0b26f04721a00900e7e8125beebed50ddd5e9cca32a72305ac4305432cb82fa4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-123-6-1-09",
+   "short": "O.A.C. 123:6-1-09",
+   "title": "Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-09: Appropriate vehicles.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-123:6-1-09",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-123:6-1",
+     "sha256": "0b26f04721a00900e7e8125beebed50ddd5e9cca32a72305ac4305432cb82fa4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-1-01",
+   "short": "O.A.C. 124-1-01",
+   "title": "Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-01: Generally.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-1-01",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-1",
+     "sha256": "4b771f90fedb0326759ffb1bef9bb27e3e6a182730130196f81842df7caeb9c1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-1-02",
+   "short": "O.A.C. 124-1-02",
+   "title": "Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-02: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-1-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-1",
+     "sha256": "4b771f90fedb0326759ffb1bef9bb27e3e6a182730130196f81842df7caeb9c1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-1-03",
+   "short": "O.A.C. 124-1-03",
+   "title": "Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-03: Time limits for filing appeals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-1-03",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-1",
+     "sha256": "4b771f90fedb0326759ffb1bef9bb27e3e6a182730130196f81842df7caeb9c1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-1-04",
+   "short": "O.A.C. 124-1-04",
+   "title": "Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-04: Tenure of improperly appointed employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-1-04",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-1",
+     "sha256": "4b771f90fedb0326759ffb1bef9bb27e3e6a182730130196f81842df7caeb9c1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-01",
+   "short": "O.A.C. 124-3-01",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-01: Requirements of \"section 124.34 orders\" and orders of involuntary disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-01",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-02",
+   "short": "O.A.C. 124-3-02",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-02: Service of \"section 124.34 orders\" and orders of involuntary disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-02",
+   "versions": [
+    {
+     "from": "2019-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-03",
+   "short": "O.A.C. 124-3-03",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-03: Amendment or rescission of \"section 124.34 orders\" and orders of involuntary disability separation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-03",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-04",
+   "short": "O.A.C. 124-3-04",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-04: Laches.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-04",
+   "versions": [
+    {
+     "from": "1986-02-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-05",
+   "short": "O.A.C. 124-3-05",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-05: Merger and bar.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-05",
+   "versions": [
+    {
+     "from": "2001-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-3-06",
+   "short": "O.A.C. 124-3-06",
+   "title": "Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-06: Appointing authority's burden of proof.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-3-06",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-3",
+     "sha256": "ec0c8e406bf5f97dc073abc03a3b4ba9f4ef1e86c3954b2b8b51535ab176ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-5-01",
+   "short": "O.A.C. 124-5-01",
+   "title": "Ohio Administrative Code, Chapter 124-5 | Contents of Appeals; Removal, Reduction, or Suspension Without a Section 124.34 Order, Rule 124-5-01: Filing and contents of appeals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-5-01",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-5",
+     "sha256": "22a6791dde0b2576a756dd45c524d771903f1291f37b95c8fd303c90b0a82eb7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-5-02",
+   "short": "O.A.C. 124-5-02",
+   "title": "Ohio Administrative Code, Chapter 124-5 | Contents of Appeals; Removal, Reduction, or Suspension Without a Section 124.34 Order, Rule 124-5-02: Removals, reductions and suspensions without an order.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-5-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-5",
+     "sha256": "22a6791dde0b2576a756dd45c524d771903f1291f37b95c8fd303c90b0a82eb7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-7-01",
+   "short": "O.A.C. 124-7-01",
+   "title": "Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-01: Job abolishments and layoffs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-7-01",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-7",
+     "sha256": "39864ec1faa4542d8f59870f706a8c500e22b61a3db582d17cd835f674015746"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-7-02",
+   "short": "O.A.C. 124-7-02",
+   "title": "Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-02: Reclassification and reassignments.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-7-02",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-7",
+     "sha256": "39864ec1faa4542d8f59870f706a8c500e22b61a3db582d17cd835f674015746"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-7-03",
+   "short": "O.A.C. 124-7-03",
+   "title": "Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-03: Procedure in reclassification appeals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-7-03",
+   "versions": [
+    {
+     "from": "2001-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-7",
+     "sha256": "39864ec1faa4542d8f59870f706a8c500e22b61a3db582d17cd835f674015746"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-7-04",
+   "short": "O.A.C. 124-7-04",
+   "title": "Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-04: Determination of unclassified status.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-7-04",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-7",
+     "sha256": "39864ec1faa4542d8f59870f706a8c500e22b61a3db582d17cd835f674015746"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-7-05",
+   "short": "O.A.C. 124-7-05",
+   "title": "Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-05: Investigations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-7-05",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-7",
+     "sha256": "39864ec1faa4542d8f59870f706a8c500e22b61a3db582d17cd835f674015746"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-01",
+   "short": "O.A.C. 124-9-01",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-01: Rules of evidence.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-01",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-02",
+   "short": "O.A.C. 124-9-02",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-02: Hearsay.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-02",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-03",
+   "short": "O.A.C. 124-9-03",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-03: Cumulative testimony.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-03",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-04",
+   "short": "O.A.C. 124-9-04",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-04: Prior discipline.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-04",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-05",
+   "short": "O.A.C. 124-9-05",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-05: Questionnaires.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-05",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-06",
+   "short": "O.A.C. 124-9-06",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-06: Stipulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-06",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-07",
+   "short": "O.A.C. 124-9-07",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-07: Witnesses.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-07",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-08",
+   "short": "O.A.C. 124-9-08",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-08: Conviction of a crime.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-08",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-09",
+   "short": "O.A.C. 124-9-09",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-09: Best evidence.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-09",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-10",
+   "short": "O.A.C. 124-9-10",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-10: Administrative notice.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-10",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-9-11",
+   "short": "O.A.C. 124-9-11",
+   "title": "Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-11: Disparate treatment.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-9-11",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-9",
+     "sha256": "6c6df677effda82e7eb7a7afb4c87a8b9f0cc26bfc5dc3ad295fa84b4716b3cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-01",
+   "short": "O.A.C. 124-11-01",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-01: Denomination of parties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-01",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-02",
+   "short": "O.A.C. 124-11-02",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-02: Notice of hearings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-03",
+   "short": "O.A.C. 124-11-03",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-03: Continuances.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-03",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-04",
+   "short": "O.A.C. 124-11-04",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-04: Consolidations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-04",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-05",
+   "short": "O.A.C. 124-11-05",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-05: Appearances.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-05",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-06",
+   "short": "O.A.C. 124-11-06",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-06: Substitution of parties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-06",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-07",
+   "short": "O.A.C. 124-11-07",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-07: Motions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-07",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-08",
+   "short": "O.A.C. 124-11-08",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-08: Briefs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-08",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-09",
+   "short": "O.A.C. 124-11-09",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-09: Filing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-09",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-10",
+   "short": "O.A.C. 124-11-10",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-10: Service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-10",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-11",
+   "short": "O.A.C. 124-11-11",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-11: Communications to representatives and parties.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-11",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-12",
+   "short": "O.A.C. 124-11-12",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-12: Computation and extension of time.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-12",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-13",
+   "short": "O.A.C. 124-11-13",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-13: Procedural orders.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-13",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-14",
+   "short": "O.A.C. 124-11-14",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-14: Procedure in record hearings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-14",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-15",
+   "short": "O.A.C. 124-11-15",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-15: Record of hearings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-15",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-16",
+   "short": "O.A.C. 124-11-16",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-16: Transcripts/listening to and copying hearing recordings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-16",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-17",
+   "short": "O.A.C. 124-11-17",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-17: Subpoenas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-17",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-18",
+   "short": "O.A.C. 124-11-18",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-18: Mileage reimbursement and subpoenaed witness fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-18",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-19",
+   "short": "O.A.C. 124-11-19",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-19: Failure to appear.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-19",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-11-20",
+   "short": "O.A.C. 124-11-20",
+   "title": "Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-20: Settlements and withdrawals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-11-20",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-11",
+     "sha256": "f5df7087c64f42d2c8bdd4b67e0335b539a8b3037ec4131fd44933c3fd70d25f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-13-01",
+   "short": "O.A.C. 124-13-01",
+   "title": "Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-01: Exchange of documents and witness lists.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-13-01",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-13",
+     "sha256": "6a6272d12bcba96a954477864486f462c4c1fb1a4c0f8a8141d7fda7704becff"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-13-02",
+   "short": "O.A.C. 124-13-02",
+   "title": "Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-02: Depositions and interrogatories.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-13-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-13",
+     "sha256": "6a6272d12bcba96a954477864486f462c4c1fb1a4c0f8a8141d7fda7704becff"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-13-03",
+   "short": "O.A.C. 124-13-03",
+   "title": "Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-03: Requests to make definite and certain.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-13-03",
+   "versions": [
+    {
+     "from": "2001-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-13",
+     "sha256": "6a6272d12bcba96a954477864486f462c4c1fb1a4c0f8a8141d7fda7704becff"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-13-04",
+   "short": "O.A.C. 124-13-04",
+   "title": "Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-04: Work product.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-13-04",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-13",
+     "sha256": "6a6272d12bcba96a954477864486f462c4c1fb1a4c0f8a8141d7fda7704becff"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-13-05",
+   "short": "O.A.C. 124-13-05",
+   "title": "Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-05: Prehearings, status conferences, and mediations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-13-05",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-13",
+     "sha256": "6a6272d12bcba96a954477864486f462c4c1fb1a4c0f8a8141d7fda7704becff"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-01",
+   "short": "O.A.C. 124-15-01",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-01: Reports and recommendations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-01",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-02",
+   "short": "O.A.C. 124-15-02",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-02: Objections to reports and recommendations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-03",
+   "short": "O.A.C. 124-15-03",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-03: Board action on reports and recommendations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-03",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-04",
+   "short": "O.A.C. 124-15-04",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-04: Final order of the state personnel board of review.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-04",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-05",
+   "short": "O.A.C. 124-15-05",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-05: Motions for reconsideration.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-05",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-06",
+   "short": "O.A.C. 124-15-06",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-06: Appeals to the court of common pleas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-06",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-07",
+   "short": "O.A.C. 124-15-07",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-07: Certification of the record to court.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-07",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-15-08",
+   "short": "O.A.C. 124-15-08",
+   "title": "Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-08: Deposit required upon filing an appeal to a reviewing court from a final order of the board.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-15-08",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-15",
+     "sha256": "bd4114694a3d6b1c547663129f66116f693cece4f5314b1eaa2753f9fb4a0944"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-01",
+   "short": "O.A.C. 124-17-01",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-01: Scope of rules.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-01",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-02",
+   "short": "O.A.C. 124-17-02",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-02: Procedure for adoption of new or amended rules, or rescission of existing rules.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-02",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-03",
+   "short": "O.A.C. 124-17-03",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-03: Quorum.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-03",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-04",
+   "short": "O.A.C. 124-17-04",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-04: Records.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-04",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-05",
+   "short": "O.A.C. 124-17-05",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-05: Notice of meetings and hearings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-05",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-06",
+   "short": "O.A.C. 124-17-06",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-06: Duties of the principal administrative officer.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-06",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-07",
+   "short": "O.A.C. 124-17-07",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-07: Standards of conduct and suspension.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-07",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-124-17-08",
+   "short": "O.A.C. 124-17-08",
+   "title": "Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-08: Business day.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-124-17-08",
+   "versions": [
+    {
+     "from": "1993-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-124-17",
+     "sha256": "dd5eb1ea1342f4df097e8a33ba893170c7ee52e97c8508e5d1158771c4d7742c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-1-02",
+   "short": "O.A.C. 126-1-02",
+   "title": "Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-02: Rates and requirements for reimbursement of travel expenses of state agents.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-1-02",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-1",
+     "sha256": "4340095f36eaa24ce432a4ce8c1c2a2fafa532388367061be40027280c84bb59"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-1-03",
+   "short": "O.A.C. 126-1-03",
+   "title": "Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-03: Reimbursement of interviewing and relocation expenses.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-1-03",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-1",
+     "sha256": "4340095f36eaa24ce432a4ce8c1c2a2fafa532388367061be40027280c84bb59"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-1-04",
+   "short": "O.A.C. 126-1-04",
+   "title": "Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-04: Rule governing the office of budget and management personal information systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-1-04",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-1",
+     "sha256": "4340095f36eaa24ce432a4ce8c1c2a2fafa532388367061be40027280c84bb59"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-2-01",
+   "short": "O.A.C. 126-2-01",
+   "title": "Ohio Administrative Code, Chapter 126-2 | Lack of Funds, Rule 126-2-01: Lack of funds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-2-01",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-2",
+     "sha256": "147189b464cb392b16bb83b78a113e6d8466a731f39354b86a35dc18e5b5eaf3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-3-01",
+   "short": "O.A.C. 126-3-01",
+   "title": "Ohio Administrative Code, Chapter 126-3 | All Ohio Future Fund, Rule 126-3-01: All Ohio future fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-3-01",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-3",
+     "sha256": "5cb680131bfa28302a19cfc7da35a3a5f81dd512ffe3527a4ce5a5d63f73c1ab"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-5-01",
+   "short": "O.A.C. 126-5-01",
+   "title": "Ohio Administrative Code, Chapter 126-5 | Solvency Assistance Payments, Rule 126-5-01: Solvency assistance fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126-5-01",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126-5",
+     "sha256": "72a2db1a3692f587bbeea1bec725959d62231cee578c20ac324704cb72cc8d05"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-126-1-1-01",
+   "short": "O.A.C. 126:1-1-01",
+   "title": "Ohio Administrative Code, Chapter 126:1-1 | Meetings, Rule 126:1-1-01: Procedures for meetings, notices of meetings, and minutes of the controlling board.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-126:1-1-01",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-126:1-1",
+     "sha256": "813ed3107bdf083595c8205b2d6097f30dc03a87a45f4bcc89f789da55535216"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-127-1-01",
+   "short": "O.A.C. 127-1-01",
+   "title": "Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-127-1-01",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-127-1",
+     "sha256": "6c554220ab6fcc03d39ea39a4823b0f6f52445f5a73b39addb227b06c23a9ae8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-127-1-03",
+   "short": "O.A.C. 127-1-03",
+   "title": "Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-03: Notice of meeting.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-127-1-03",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-127-1",
+     "sha256": "6c554220ab6fcc03d39ea39a4823b0f6f52445f5a73b39addb227b06c23a9ae8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-127-1-04",
+   "short": "O.A.C. 127-1-04",
+   "title": "Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-04: Application to the minority business bonding program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-127-1-04",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-127-1",
+     "sha256": "6c554220ab6fcc03d39ea39a4823b0f6f52445f5a73b39addb227b06c23a9ae8"
+    }
+   ]
+  },
+  {
    "slug": "orc-chapter-1314",
    "short": "R.C. Chapter 1314",
    "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records",

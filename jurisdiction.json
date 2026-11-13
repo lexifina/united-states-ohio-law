@@ -4,15 +4,15 @@
  "name": "Ohio",
  "level": "state",
  "repo": "https://github.com/lexifina/united-states-ohio-law",
- "build": "Partial: 973 Revised Code chapters, 19 Constitution articles and 800 Administrative Code rules.",
+ "build": "Partial: 973 Revised Code chapters, 19 Constitution articles and 1026 Administrative Code rules.",
  "register_date": "2026-10-30",
  "coverage": {
   "revised_code_chapters": 973,
   "constitution_articles": 19,
-  "administrative_rules": 800,
-  "administrative_agency_range": "011 through 122:31 (first 42 listed agency groups)",
-  "administrative_rules_listed_in_range": 815,
-  "administrative_rules_held_in_range": 15,
+  "administrative_rules": 1026,
+  "administrative_agency_range": "011 through 127 (first 54 listed agency groups)",
+  "administrative_rules_listed_in_range": 1047,
+  "administrative_rules_held_in_range": 21,
   "history": "Current rule text only; earlier wording is not reconstructed."
  },
  "parent": "united-states"

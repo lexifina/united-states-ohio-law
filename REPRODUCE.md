@@ -12,6 +12,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -1808,17 +1809,243 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-122-31-1-04` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-04: Application. | 1 | 2022-10-01 to 2022-10-01 |
 | `oac-rule-122-31-1-05` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-05: Grant agreement. | 1 | 2022-10-01 to 2022-10-01 |
 | `oac-rule-122-31-1-06` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-06: Reporting. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-01` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-01: Definitions. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-02` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-02: Eligible properties. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-03` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-03: Eligible applicant. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-04` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-04: Application. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-05` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-05: Grant agreement. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-32-1-06` | Ohio Administrative Code, Chapter 122:32-1 | Building Demolition and Site Revitalization Program, Rule 122:32-1-06: Reporting. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-33-1-01` | Ohio Administrative Code, Chapter 122:33-1 | Priority Investment Area Designation, Rule 122:33-1-01: Designation. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-123-4-01` | Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-01: Definitions. | 1 | 2011-07-31 to 2011-07-31 |
+| `oac-rule-123-4-02` | Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-02: Procedures for accessing confidential personal information. | 1 | 2011-07-31 to 2011-07-31 |
+| `oac-rule-123-4-03` | Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-03: Valid reasons for accessing confidential personal information. | 1 | 2024-05-10 to 2024-05-10 |
+| `oac-rule-123-4-04` | Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-04: Confidentiality statutes. | 1 | 2024-05-10 to 2024-05-10 |
+| `oac-rule-123-4-05` | Ohio Administrative Code, Chapter 123-4 | Accessing Confidential Personal Information, Rule 123-4-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2011-07-31 to 2011-07-31 |
+| `oac-rule-123-1-1-02` | Ohio Administrative Code, Chapter 123:1-1 | General Provisions, Rule 123:1-1-02: Records of the director. | 1 | 2013-10-06 to 2013-10-06 |
+| `oac-rule-123-1-3-01` | Ohio Administrative Code, Chapter 123:1-3 | Position Audits and Changes to Classification Plan, Rule 123:1-3-01: Position audits. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-5-01` | Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-01: Unclassified service. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-5-02` | Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-02: Unskilled labor class. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-5-03` | Ohio Administrative Code, Chapter 123:1-5 | Classified and Unclassified Service Classification, Rule 123:1-5-03: Retaining rights to the classified service upon appointment to the unclassified service. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-7-04` | Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-04: Specifications. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-7-15` | Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-15: State classifications. | 1 | 2024-01-15 to 2024-01-15 |
+| `oac-rule-123-1-7-22` | Ohio Administrative Code, Chapter 123:1-7 | Classification, Rule 123:1-7-22: Reassignments resulting in placing an employee in step X. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-9-01` | Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-01: Examination guidelines. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-9-02` | Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-02: Subjects, weights, and pass point. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-9-03` | Ohio Administrative Code, Chapter 123:1-9 | Examinations, Rule 123:1-9-03: Medical or psychological examination as a requirement for appointment to the classified service. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-11-04` | Ohio Administrative Code, Chapter 123:1-11 | Applications for Examination, Rule 123:1-11-04: Character and fitness of applicant. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-11-08` | Ohio Administrative Code, Chapter 123:1-11 | Applications for Examination, Rule 123:1-11-08: Applications. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-15-01` | Ohio Administrative Code, Chapter 123:1-15 | Eligibility Lists, Rule 123:1-15-01: Eligible lists. | 1 | 2026-08-17 to 2026-08-17 |
+| `oac-rule-123-1-17-01` | Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-01: Classified selections. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-17-02` | Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-02: Eligible list. | 1 | 2016-12-04 to 2016-12-04 |
+| `oac-rule-123-1-17-16` | Ohio Administrative Code, Chapter 123:1-17 | Vacancies and Appointments, Rule 123:1-17-16: Appropriateness of duties. | 1 | 1976-01-09 to 1976-01-09 |
+| `oac-rule-123-1-19-02` | Ohio Administrative Code, Chapter 123:1-19 | Probation, Rule 123:1-19-02: Length of probation in state service. | 1 | 2026-08-17 to 2026-08-17 |
+| `oac-rule-123-1-23-01` | Ohio Administrative Code, Chapter 123:1-23 | Promotions, Rule 123:1-23-01: Eligibility and selection for promotions. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-23-03` | Ohio Administrative Code, Chapter 123:1-23 | Promotions, Rule 123:1-23-03: Inter-agency and intra-agency promotion; probationary period; removal or demotion. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-25-02` | Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-02: Reinstatements after resignation. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-25-04` | Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-04: Seasonal positions. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-25-07` | Ohio Administrative Code, Chapter 123:1-25 | Transfers, Reinstatements, and Seasonal Positions, Rule 123:1-25-07: Temporary reassignment of duties. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-27-04` | Ohio Administrative Code, Chapter 123:1-27 | Suggestion Award System, Rule 123:1-27-04: Employee recognition program. | 1 | 2024-08-05 to 2024-08-05 |
+| `oac-rule-123-1-28-01` | Ohio Administrative Code, Chapter 123:1-28 | Combined Charitable Campaign, Rule 123:1-28-01: Combined charitable campaign. | 1 | 2026-08-17 to 2026-08-17 |
+| `oac-rule-123-1-29-01` | Ohio Administrative Code, Chapter 123:1-29 | Performance Evaluation System, Rule 123:1-29-01: Performance evaluation for classified state employees. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-30-01` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-01: Involuntary disability separation. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-30-02` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-02: Voluntary disability separation. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-30-03` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-03: Medical and psychological examinations. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-30-04` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-04: Right to reinstatement; rights of appeal. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-30-05` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-05: Disclosure of medical reports. | 1 | 2006-10-29 to 2006-10-29 |
+| `oac-rule-123-1-30-06` | Ohio Administrative Code, Chapter 123:1-30 | Disability Separations - Reinstatement, Rule 123:1-30-06: Leave benefits for an employee given a disability separation. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-31-01` | Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-01: General procedure for removals, reductions, suspensions, or fines. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-31-02` | Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-02: Step reduction. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-31-03` | Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-03: Absence without leave. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-31-04` | Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-04: Reduction or demotion. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-31-05` | Ohio Administrative Code, Chapter 123:1-31 | Removals, Reductions, or Suspensions, Rule 123:1-31-05: Definition of unsatisfactory performance. | 1 | 2016-08-11 to 2016-08-11 |
+| `oac-rule-123-1-32-01` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-01: Availability and charge of sick leave, vacation leave, and personal leave and compensation for sick leave of employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-02` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-02: Notification for use of sick leave by employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-05` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-05: Sick leave uses, evidence of use, and abuse for employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-07` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-07: Personal leave with pay and charge of personal leave for employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-08` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-08: Conversion or carry-forward of sick leave or personal leave credit at year's end for employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-09` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-09: Conversion of sick leave and personal leave credit upon separation from service for employees paid by warrant of the director of budget and management. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-10` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-10: Transfer of sick leave, personal leave and vacation leave credits, restoration of sick leave, personal leave and vacation leave credit. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-32-11` | Ohio Administrative Code, Chapter 123:1-32 | Sick and Personal Leave, Rule 123:1-32-11: Leave retention options for employees appointed to positions governed by section 121.03 of the Revised Code or a similar position that does not accrue leave. | 1 | 2006-09-03 to 2006-09-03 |
+| `oac-rule-123-1-33-01` | Ohio Administrative Code, Chapter 123:1-33 | Disability Leave, Rule 123:1-33-01: State of Ohio disability leave program. | 1 | 2024-09-01 to 2024-09-01 |
+| `oac-rule-123-1-33-02` | Ohio Administrative Code, Chapter 123:1-33 | Disability Leave, Rule 123:1-33-02: Occupational injury leave and salary continuation benefits. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-34-01` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-01: Leave of absence without pay. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-04` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-04: Military leave with pay. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-05` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-05: Uniformed service leave without pay. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-08` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-08: Olympic competition leave. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-09` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-09: Bereavement leave. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-10` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-10: Voluntary cost saving program. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-11` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-11: Mandatory cost savings program. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-34-12` | Ohio Administrative Code, Chapter 123:1-34 | Leave, Rule 123:1-34-12: Caregiver leave. | 1 | 2023-12-19 to 2023-12-19 |
+| `oac-rule-123-1-35-01` | Ohio Administrative Code, Chapter 123:1-35 | Payroll, Rule 123:1-35-01: Mandatory direct deposit of compensation for certain employees. | 1 | 2023-12-10 to 2023-12-10 |
+| `oac-rule-123-1-37-01` | Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-01: Employees eligible for pay supplements. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-37-02` | Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-02: Computation of pay supplements. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-37-06` | Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-06: Bilingual pay supplement. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-37-07` | Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-07: Temporary working level pay adjustment. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-37-08` | Ohio Administrative Code, Chapter 123:1-37 | Pay Supplements, Rule 123:1-37-08: Professional achievement pay supplement. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-39-01` | Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-01: Professional development fund. | 1 | 2024-12-03 to 2024-12-03 |
+| `oac-rule-123-1-39-06` | Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-06: Educational stipends. | 1 | 2024-12-03 to 2024-12-03 |
+| `oac-rule-123-1-39-07` | Ohio Administrative Code, Chapter 123:1-39 | Educational Stipends and Tuition Reimbursement, Rule 123:1-39-07: Tuition reimbursement. | 1 | 2024-12-03 to 2024-12-03 |
+| `oac-rule-123-1-41-01` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-01: Layoffs. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-02` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-02: Determination of lack of funds and lack of work for agencies whose employees are paid by warrant of the director of budget and management. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-04` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-04: Abolishment of positions in the classified service. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-06` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-06: Determination by appointing authority of classifications for layoff. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-07` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-07: Order of layoff of employees. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-08` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-08: Verification of retention points. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-41-09` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-09: Computation of retention points. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-10` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-10: Notification of layoff or displacement. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-11` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-11: Displacement and appeal rights of employees. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-12` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-12: Order of displacement for employees in the service of the state. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-13` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-13: Layoff jurisdiction districts for state agencies, boards, commissions and independent institutions with employees in the service of the state. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-16` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-16: Reinstatement rights. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-17` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-17: Reemployment rights. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-18` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-18: Notification of reinstatement or reemployment. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-19` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-19: Removal from recall lists. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-20` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-20: Inspection of layoff lists. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-21` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-21: Layoff of employees on sick leave, leave without pay, or receiving disability leave benefits. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-22` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-22: Cash conversion of accrued leave at layoff, and restoration of leave credit. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-41-24` | Ohio Administrative Code, Chapter 123:1-41 | Layoffs, Rule 123:1-41-24: Furloughs. | 1 | 2022-12-01 to 2022-12-01 |
+| `oac-rule-123-1-43-01` | Ohio Administrative Code, Chapter 123:1-43 | Overtime and Compensatory Time, Rule 123:1-43-01: Overtime. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-43-02` | Ohio Administrative Code, Chapter 123:1-43 | Overtime and Compensatory Time, Rule 123:1-43-02: Compensatory time. | 1 | 2023-07-31 to 2023-07-31 |
+| `oac-rule-123-1-44-01` | Ohio Administrative Code, Chapter 123:1-44 | Holidays, Rule 123:1-44-01: Holidays. | 1 | 2023-04-03 to 2023-04-03 |
+| `oac-rule-123-1-44-02` | Ohio Administrative Code, Chapter 123:1-44 | Holidays, Rule 123:1-44-02: Religious observances. | 1 | 2024-10-18 to 2024-10-18 |
+| `oac-rule-123-1-45-01` | Ohio Administrative Code, Chapter 123:1-45 | Implementation and Separability of Rules, Rule 123:1-45-01: Implementation. | 1 | 2024-04-04 to 2024-04-04 |
+| `oac-rule-123-1-46-01` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-01: Weather emergencies. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-46-02` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-02: Political activity of employees in the classified service of the state. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-46-03` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-03: Experimental leave and benefits program. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-46-05` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-05: Leave donation program. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-46-06` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-06: Employee exchange program. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-46-07` | Ohio Administrative Code, Chapter 123:1-46 | Miscellaneous Provisions, Rule 123:1-46-07: Retention of records relating to disciplinary actions. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-1-47-01` | Ohio Administrative Code, Chapter 123:1-47 | Definitions, Rule 123:1-47-01: Definition of terms. | 1 | 2026-04-10 to 2026-04-10 |
+| `oac-rule-123-1-49-01` | Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-01: Equal employment opportunity policy. | 1 | 2024-11-22 to 2024-11-22 |
+| `oac-rule-123-1-49-02` | Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-02: Duties of the state human resources division. | 1 | 2024-10-18 to 2024-10-18 |
+| `oac-rule-123-1-49-03` | Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-03: Responsibilities of state agencies regarding equal employment opportunity. | 1 | 2024-10-18 to 2024-10-18 |
+| `oac-rule-123-1-49-06` | Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-06: Filing of complaint. | 1 | 2024-10-18 to 2024-10-18 |
+| `oac-rule-123-1-49-07` | Ohio Administrative Code, Chapter 123:1-49 | Equal Employment Opportunity Policy, Rule 123:1-49-07: Appeals to state human resources division. | 1 | 2024-10-18 to 2024-10-18 |
+| `oac-rule-123-1-71-01` | Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-01: Definitions. | 1 | 2022-07-31 to 2022-07-31 |
+| `oac-rule-123-1-71-02` | Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-02: Administration of the fund. | 1 | 2022-07-31 to 2022-07-31 |
+| `oac-rule-123-1-71-03` | Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-03: Eligibility, contribution and withdrawal procedures. | 1 | 2022-07-31 to 2022-07-31 |
+| `oac-rule-123-1-71-04` | Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-04: Actuarial evaluation of the fund. | 1 | 2022-07-31 to 2022-07-31 |
+| `oac-rule-123-1-71-05` | Ohio Administrative Code, Chapter 123:1-71 | Health Benefit Fund, Rule 123:1-71-05: Ensuring the integrity of the fund. | 1 | 2022-07-31 to 2022-07-31 |
+| `oac-rule-123-1-76-01` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-01: Drug-free workplace definitions of terms. | 1 | 2022-04-04 to 2022-04-04 |
+| `oac-rule-123-1-76-02` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-02: Purpose and responsibility. | 1 | 2002-07-26 to 2002-07-26 |
+| `oac-rule-123-1-76-03` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-03: Alcohol testing techniques and methods. | 1 | 2002-07-26 to 2002-07-26 |
+| `oac-rule-123-1-76-04` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-04: Drug testing techniques and methods. | 1 | 1996-11-10 to 1996-11-10 |
+| `oac-rule-123-1-76-05` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-05: Collection and handling of specimens. | 1 | 2002-07-26 to 2002-07-26 |
+| `oac-rule-123-1-76-06` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-06: Confirmatory testing. | 1 | 1996-11-10 to 1996-11-10 |
+| `oac-rule-123-1-76-07` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-07: Reporting of test results. | 1 | 2002-07-26 to 2002-07-26 |
+| `oac-rule-123-1-76-08` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-08: Records and specimen retention. | 1 | 1996-11-10 to 1996-11-10 |
+| `oac-rule-123-1-76-09` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-09: Applicant testing. | 1 | 2018-11-09 to 2018-11-09 |
+| `oac-rule-123-1-76-10` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-10: Reasonable suspicion testing. | 1 | 2018-11-09 to 2018-11-09 |
+| `oac-rule-123-1-76-11` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-11: Finding of employee drug use and disciplinary consequences. | 1 | 2022-04-04 to 2022-04-04 |
+| `oac-rule-123-1-76-12` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-12: Disciplinary action - federal drug-free workplace act of 1988. | 1 | 1992-06-14 to 1992-06-14 |
+| `oac-rule-123-1-76-13` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-13: Appeal of drug test results. | 1 | 2002-07-26 to 2002-07-26 |
+| `oac-rule-123-1-76-14` | Ohio Administrative Code, Chapter 123:1-76 | Drug-Free Workplace Program, Rule 123:1-76-14: Drug-free workplace training/education. | 1 | 1996-11-10 to 1996-11-10 |
+| `oac-rule-123-3-2-01` | Ohio Administrative Code, Chapter 123:3-2 | Personal Information Systems Definitions, Rule 123:3-2-01: Personal information systems definitions. | 1 | 2010-06-28 to 2010-06-28 |
+| `oac-rule-123-5-1-01` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-01: Definitions. | 1 | 2026-02-23 to 2026-02-23 |
+| `oac-rule-123-5-1-02` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-02: Authority to purchase supplies and services. | 1 | 2026-02-23 to 2026-02-23 |
+| `oac-rule-123-5-1-03` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-03: Community rehabilitation program - administration. | 1 | 2026-02-23 to 2026-02-23 |
+| `oac-rule-123-5-1-04` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-04: Application of preferences. | 1 | 2026-02-23 to 2026-02-23 |
+| `oac-rule-123-5-1-05` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-05: Purchase of biobased products. | 1 | 2026-02-23 to 2026-02-23 |
+| `oac-rule-123-5-1-06` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-06: Purchasing from requisite procurement programs. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-5-1-07` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-07: The invitation to bid process. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-5-1-08` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-08: The request for proposal process. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-5-1-09` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-09: The reverse auction process. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-5-1-10` | Ohio Administrative Code, Chapter 123:5-1 | General Provisions, Rule 123:5-1-10: Specification authority. | 1 | 2026-05-29 to 2026-05-29 |
+| `oac-rule-123-5-2-01` | Ohio Administrative Code, Chapter 123:5-2 | Excess and Surplus Supplies, Rule 123:5-2-01: Disposal of excess and surplus property. | 1 | 2025-11-28 to 2025-11-28 |
+| `oac-rule-123-6-1-01` | Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-01: Definitions. | 1 | 2025-11-28 to 2025-11-28 |
+| `oac-rule-123-6-1-02` | Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-02: Assignment of vehicles. | 1 | 2025-11-28 to 2025-11-28 |
+| `oac-rule-123-6-1-03` | Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-03: Mileage reimbursement payments. | 1 | 2025-11-28 to 2025-11-28 |
+| `oac-rule-123-6-1-09` | Ohio Administrative Code, Chapter 123:6-1 | Assignment of Vehicles, Rule 123:6-1-09: Appropriate vehicles. | 1 | 2025-11-28 to 2025-11-28 |
+| `oac-rule-124-1-01` | Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-01: Generally. | 1 | 2000-05-18 to 2000-05-18 |
+| `oac-rule-124-1-02` | Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-02: Definitions. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-1-03` | Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-03: Time limits for filing appeals. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-1-04` | Ohio Administrative Code, Chapter 124-1 | General Provisions, Rule 124-1-04: Tenure of improperly appointed employees. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-3-01` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-01: Requirements of "section 124.34 orders" and orders of involuntary disability separation. | 1 | 2009-04-16 to 2009-04-16 |
+| `oac-rule-124-3-02` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-02: Service of "section 124.34 orders" and orders of involuntary disability separation. | 1 | 2019-03-24 to 2019-03-24 |
+| `oac-rule-124-3-03` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-03: Amendment or rescission of "section 124.34 orders" and orders of involuntary disability separation. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-3-04` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-04: Laches. | 1 | 1986-02-14 to 1986-02-14 |
+| `oac-rule-124-3-05` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-05: Merger and bar. | 1 | 2001-05-17 to 2001-05-17 |
+| `oac-rule-124-3-06` | Ohio Administrative Code, Chapter 124-3 | Section 124.34 Orders, Rule 124-3-06: Appointing authority's burden of proof. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-5-01` | Ohio Administrative Code, Chapter 124-5 | Contents of Appeals; Removal, Reduction, or Suspension Without a Section 124.34 Order, Rule 124-5-01: Filing and contents of appeals. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-5-02` | Ohio Administrative Code, Chapter 124-5 | Contents of Appeals; Removal, Reduction, or Suspension Without a Section 124.34 Order, Rule 124-5-02: Removals, reductions and suspensions without an order. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-7-01` | Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-01: Job abolishments and layoffs. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-7-02` | Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-02: Reclassification and reassignments. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-7-03` | Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-03: Procedure in reclassification appeals. | 1 | 2001-05-17 to 2001-05-17 |
+| `oac-rule-124-7-04` | Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-04: Determination of unclassified status. | 1 | 2009-04-16 to 2009-04-16 |
+| `oac-rule-124-7-05` | Ohio Administrative Code, Chapter 124-7 | Layoffs, Reclassifications, and Reassignments; Unclassified Status; Investigations, Rule 124-7-05: Investigations. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-01` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-01: Rules of evidence. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-02` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-02: Hearsay. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-03` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-03: Cumulative testimony. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-04` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-04: Prior discipline. | 1 | 2009-04-16 to 2009-04-16 |
+| `oac-rule-124-9-05` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-05: Questionnaires. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-9-06` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-06: Stipulations. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-07` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-07: Witnesses. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-08` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-08: Conviction of a crime. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-09` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-09: Best evidence. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-10` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-10: Administrative notice. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-9-11` | Ohio Administrative Code, Chapter 124-9 | Evidence, Rule 124-9-11: Disparate treatment. | 1 | 2000-05-18 to 2000-05-18 |
+| `oac-rule-124-11-01` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-01: Denomination of parties. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-02` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-02: Notice of hearings. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-03` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-03: Continuances. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-04` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-04: Consolidations. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-05` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-05: Appearances. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-06` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-06: Substitution of parties. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-07` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-07: Motions. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-08` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-08: Briefs. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-09` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-09: Filing. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-10` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-10: Service. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-11` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-11: Communications to representatives and parties. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-12` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-12: Computation and extension of time. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-13` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-13: Procedural orders. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-14` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-14: Procedure in record hearings. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-15` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-15: Record of hearings. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-16` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-16: Transcripts/listening to and copying hearing recordings. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-17` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-17: Subpoenas. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-18` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-18: Mileage reimbursement and subpoenaed witness fees. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-11-19` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-19: Failure to appear. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-11-20` | Ohio Administrative Code, Chapter 124-11 | Procedure, Rule 124-11-20: Settlements and withdrawals. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-13-01` | Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-01: Exchange of documents and witness lists. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-13-02` | Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-02: Depositions and interrogatories. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-13-03` | Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-03: Requests to make definite and certain. | 1 | 2001-05-17 to 2001-05-17 |
+| `oac-rule-124-13-04` | Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-04: Work product. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-13-05` | Ohio Administrative Code, Chapter 124-13 | Discovery, Rule 124-13-05: Prehearings, status conferences, and mediations. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-15-01` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-01: Reports and recommendations. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-124-15-02` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-02: Objections to reports and recommendations. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-15-03` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-03: Board action on reports and recommendations. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-15-04` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-04: Final order of the state personnel board of review. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-124-15-05` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-05: Motions for reconsideration. | 1 | 2009-04-16 to 2009-04-16 |
+| `oac-rule-124-15-06` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-06: Appeals to the court of common pleas. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-15-07` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-07: Certification of the record to court. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-15-08` | Ohio Administrative Code, Chapter 124-15 | Reports and Recommendations; Appeals, Rule 124-15-08: Deposit required upon filing an appeal to a reviewing court from a final order of the board. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-17-01` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-01: Scope of rules. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-17-02` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-02: Procedure for adoption of new or amended rules, or rescission of existing rules. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-17-03` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-03: Quorum. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-17-04` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-04: Records. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-17-05` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-05: Notice of meetings and hearings. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-17-06` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-06: Duties of the principal administrative officer. | 1 | 2014-03-24 to 2014-03-24 |
+| `oac-rule-124-17-07` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-07: Standards of conduct and suspension. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-124-17-08` | Ohio Administrative Code, Chapter 124-17 | Internal Procedure, Rule 124-17-08: Business day. | 1 | 1993-03-01 to 1993-03-01 |
+| `oac-rule-126-1-02` | Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-02: Rates and requirements for reimbursement of travel expenses of state agents. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-126-1-03` | Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-03: Reimbursement of interviewing and relocation expenses. | 1 | 2017-07-27 to 2017-07-27 |
+| `oac-rule-126-1-04` | Ohio Administrative Code, Chapter 126-1 | General Provisions, Rule 126-1-04: Rule governing the office of budget and management personal information systems. | 1 | 2002-12-16 to 2002-12-16 |
+| `oac-rule-126-2-01` | Ohio Administrative Code, Chapter 126-2 | Lack of Funds, Rule 126-2-01: Lack of funds. | 1 | 2025-08-29 to 2025-08-29 |
+| `oac-rule-126-3-01` | Ohio Administrative Code, Chapter 126-3 | All Ohio Future Fund, Rule 126-3-01: All Ohio future fund. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-126-5-01` | Ohio Administrative Code, Chapter 126-5 | Solvency Assistance Payments, Rule 126-5-01: Solvency assistance fund. | 1 | 2012-05-17 to 2012-05-17 |
+| `oac-rule-126-1-1-01` | Ohio Administrative Code, Chapter 126:1-1 | Meetings, Rule 126:1-1-01: Procedures for meetings, notices of meetings, and minutes of the controlling board. | 1 | 2025-08-29 to 2025-08-29 |
+| `oac-rule-127-1-01` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-01: Definitions. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-127-1-03` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-03: Notice of meeting. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-127-1-04` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-04: Application to the minority business bonding program. | 1 | 2014-04-07 to 2014-04-07 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 1793 commits:
+The build made 2019 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1793 | baseline texts where the record starts |
+| 2019 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -1828,7 +2055,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1793 tags.
+- 2019 tags.
 
 ## Dates
 
@@ -1840,7 +2067,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5bae3af729695fbca44d07a3f23699e292b9b6a9a5db3dae5b6aeb329e2bae64` (88908203 bytes).
+- Corpus: sha256 `1ba39ac2ce873c13536712daea282f720842bb6a36bd9d9d7ee866c66bf0e31a` (89707034 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1866,6 +2093,8 @@ No second build of this corpus has been compared yet.
 - Replaces the rejected pending batch; publisher update notices are excluded from law text and retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -1878,6 +2107,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
