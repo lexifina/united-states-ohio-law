@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -2975,17 +2976,124 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-901-5-56-04` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-04: Regulated area. | 1 | 2024-10-03 to 2024-10-03 |
 | `oac-rule-901-5-56-05` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-05: Conditions of movement. | 1 | 2021-10-28 to 2021-10-28 |
 | `oac-rule-901-5-56-06` | Ohio Administrative Code, Chapter 901:5-56 | Spotted Lanternfly, Rule 901:5-56-06: Inspection and disposition of shipments. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-57-01` | Ohio Administrative Code, Chapter 901:5-57 | Asian Longhorned Beetle, Rule 901:5-57-01: Definitions. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-57-02` | Ohio Administrative Code, Chapter 901:5-57 | Asian Longhorned Beetle, Rule 901:5-57-02: Notice of quarantine. | 1 | 2018-11-09 to 2018-11-09 |
+| `oac-rule-901-5-57-03` | Ohio Administrative Code, Chapter 901:5-57 | Asian Longhorned Beetle, Rule 901:5-57-03: Conditions of movement. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-57-04` | Ohio Administrative Code, Chapter 901:5-57 | Asian Longhorned Beetle, Rule 901:5-57-04: Regulated articles. | 1 | 2024-10-03 to 2024-10-03 |
+| `oac-rule-901-5-57-05` | Ohio Administrative Code, Chapter 901:5-57 | Asian Longhorned Beetle, Rule 901:5-57-05: Regulated areas. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-5-58-01` | Ohio Administrative Code, Chapter 901:5-58 | Box Tree Moth, Rule 901:5-58-01: Notice of quarantine. | 1 | 2024-04-11 to 2024-04-11 |
+| `oac-rule-901-5-58-02` | Ohio Administrative Code, Chapter 901:5-58 | Box Tree Moth, Rule 901:5-58-02: Definitions. | 1 | 2024-04-11 to 2024-04-11 |
+| `oac-rule-901-5-58-03` | Ohio Administrative Code, Chapter 901:5-58 | Box Tree Moth, Rule 901:5-58-03: Regulated articles. | 1 | 2024-04-11 to 2024-04-11 |
+| `oac-rule-901-5-58-04` | Ohio Administrative Code, Chapter 901:5-58 | Box Tree Moth, Rule 901:5-58-04: Regulated area. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-901-5-58-05` | Ohio Administrative Code, Chapter 901:5-58 | Box Tree Moth, Rule 901:5-58-05: Conditions of movement. | 1 | 2024-04-11 to 2024-04-11 |
+| `oac-rule-901-6-1-01` | Ohio Administrative Code, Chapter 901:6-1 | Handbook 44, Rule 901:6-1-01: Revision of "Handbook 44". | 1 | 2023-09-28 to 2023-09-28 |
+| `oac-rule-901-6-2-01` | Ohio Administrative Code, Chapter 901:6-2 | Model State Regulation for National-Type Evaluation, Rule 901:6-2-01: National type evaluation program. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-3-01` | Ohio Administrative Code, Chapter 901:6-3 | Labeling and Packaging, Rule 901:6-3-01: Labeling and packaging. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-4-01` | Ohio Administrative Code, Chapter 901:6-4 | Registration of Weighing or Measuring Devices, Rule 901:6-4-01: Device registration and permitting. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-5-01` | Ohio Administrative Code, Chapter 901:6-5 | Retail Sales of Motor Fuel, Rule 901:6-5-01: Definitions. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-5-02` | Ohio Administrative Code, Chapter 901:6-5 | Retail Sales of Motor Fuel, Rule 901:6-5-02: Retail sale of fuels. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-7-01` | Ohio Administrative Code, Chapter 901:6-7 | Packaging and Pricing of Food and Nonfood Products, Rule 901:6-7-01: Method of sale. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-8-01` | Ohio Administrative Code, Chapter 901:6-8 | Registration of Servicepersons and Service Agencies, Rule 901:6-8-01: Voluntary registration of Ohio's servicepersons and service agencies. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-6-9-01` | Ohio Administrative Code, Chapter 901:6-9 | Training for Weights and Measures Inspector Personnel, Rule 901:6-9-01: Minimum training requirements for weights and measures inspector personnel. | 1 | 2023-12-29 to 2023-12-29 |
+| `oac-rule-901-7-2-02` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-02: Annual commodity statement. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-03` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-03: Scale weight ticket format. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-05` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-05: Suitability and safety of warehouses for inspection and handling agricultural commodities. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-06` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-06: Additional warehouse examinations. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-08` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-08: Asset valuation. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-10` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-10: Agricultural commodity tester training. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-11` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-11: Application for commodity tester certificate. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-7-2-12` | Ohio Administrative Code, Chapter 901:7-2 | Licensed Agricultural Commodities Handlers, Rule 901:7-2-12: Buyers exempt from licensing. | 1 | 2023-02-13 to 2023-02-13 |
+| `oac-rule-901-8-2-01` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-01: State auctioneers commission meetings. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-03` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-03: Auctioneer license procedure; deposit or return of license. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-05` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-05: License renewals and changes that require notification. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-06` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-06: Contracts and records. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-07` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-07: License procedure for corporations, partnerships, unincorporated associations, and auction firms. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-08` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-08: Classification of offenses; investigative costs and civil penalties. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-8-2-09` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-09: Auctioneer fund; claim against fund. | 1 | 2021-09-23 to 2021-09-23 |
+| `oac-rule-901-8-2-10` | Ohio Administrative Code, Chapter 901:8-2 | Auctioneers, Apprentice Auctioneers, and Auction Companies, Rule 901:8-2-10: Auction firm license; claim against auction firm. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-901-9-1-01` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-01: Amusement ride or device permit. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-02` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-02: Powers of the director. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-03` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-03: Prohibitions. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-04` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-04: Procedure for safety inspection of amusement rides or devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-04-1` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-04.1: Fatigue and corrosion review. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-04-2` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-04.2: Inspection requirements. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-05` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-05: Maintenance procedures for amusement rides and devices. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-06` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-06: Additional operation procedures for amusement rides and devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-06-1` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-06.1: Safety standards for inflatable amusement devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-07` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-07: Rules pertaining to signage for amusement rides and devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-08` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-08: Standard definitions of terms relating to amusement rides or devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-09` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-09: Violations and fines. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-10` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-10: Plan approval and inter-agency cooperation for aquatic devices. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-11` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-11: Definitions. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-12` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-12: Manufacturer's requirements and procedures. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-12-1` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-12.1: Lifeguards. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-13` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-13: Safety standards for wave pools. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-14` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-14: Water quality for aquatic devices using chemically treated water. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-14-1` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-14.1: Ultraviolet disinfection systems for full body contact aquatic devices. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-15` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-15: Water quality for aquatic devices using non chemically treated water. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-16` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-16: General safety standards for aquatic activity areas. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-17` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-17: Safety standards for water slides. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-18` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-18: Safety standards for the lazy river. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-19` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-19: Safety standards for water coasters. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-20` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-20: Required waterpark signage. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-21` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-21: Purpose and scope. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-22` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-22: Definitions. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-23` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-23: Permit application. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-24` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-24: Safety space. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-25` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-25: Platform safe working load. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-26` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-26: Lowering system. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-27` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-27: Cranes. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-28` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-28: Suspended personnel platforms. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-30` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-30: Jumper harness and hardware. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-31` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-31: Testing and inspection. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-32` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-32: Replacement of rigging and equipment. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-33` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-33: Identification of equipment, rigging, bungee cord and safety equipment. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-35` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-35: Site requirements. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-36` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-36: Jumper requirements. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-37` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-37: Staff and duties. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-38` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-38: Site operating manual. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-39` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-39: Emergency provisions and procedures. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-40` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-40: Prohibited activities. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-41` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-41: Nets. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-42` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-42: Go kart terminology. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-43` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-43: Design and manufacture. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-44` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-44: Track design and construction. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-45` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-45: Concession go kart facility operations. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-46` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-46: Go kart track plan review. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-47` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-47: Exemptions. | 1 | 2022-06-10 to 2022-06-10 |
+| `oac-rule-901-9-1-48` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-48: Meeting of the advisory council on amusement ride safety. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-1-51` | Ohio Administrative Code, Chapter 901:9-1 | Amusement Ride Standards; Bungee Jumping Standards, Rule 901:9-1-51: Multiple vehicle safety systems. | 1 | 2021-12-09 to 2021-12-09 |
+| `oac-rule-901-9-2-01` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-01: Definitions. | 1 | 2017-03-23 to 2017-03-23 |
+| `oac-rule-901-9-2-02` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-02: General provisions. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-03` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-03: Licenses. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-04` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-04: Prizes. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-05` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-05: Signage requirements. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-06` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-06: Trade up games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-07` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-07: Prohibited games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-08` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-08: Games: rules of play. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-09` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-09: Ball and bag tossing games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-10` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-10: Ring games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-11` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-11: Shooting games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-12` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-12: Coin or washer pitch games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-13` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-13: Dart games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-14` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-14: Miscellaneous games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-15` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-15: Group games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-16` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-16: Electronic amusement games. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-18` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-18: Fish-o-rama. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-19` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-19: Gun ball. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-20` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-20: Tee pool. | 1 | 2024-03-21 to 2024-03-21 |
+| `oac-rule-901-9-2-21` | Ohio Administrative Code, Chapter 901:9-2 | Concession Licenses, Rule 901:9-2-21: Crazy bike. | 1 | 2009-04-06 to 2009-04-06 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 2957 commits:
+The build made 3064 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2957 | baseline texts where the record starts |
+| 3064 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2995,7 +3103,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2957 tags.
+- 3064 tags.
 
 ## Dates
 
@@ -3007,7 +3115,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `89889fbd471ff954cd0fa6be776bbdd12d53e75c7f4091befe21d4cce2efede6` (93404348 bytes).
+- Corpus: sha256 `ef4b96a19a0f4b7aba6f46724109a72b79044f132f71f9d1bf40d746973830d4` (93779411 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -3039,6 +3147,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -3051,6 +3161,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
