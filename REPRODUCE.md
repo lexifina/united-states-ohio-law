@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -1702,25 +1703,132 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-122-11-2-01` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-01: Commercial Driver's License Training Program - Fees. | 1 | 2024-04-12 to 2024-04-12 |
 | `oac-rule-122-11-2-02` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-02: Commercial Driver's License Training Program - Reporting Requirements. | 1 | 2024-04-12 to 2024-04-12 |
 | `oac-rule-122-11-2-03` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-03: Commercial Driver's License Training Program - Tax Credit Eligible Training Expenses. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-122-12-1-01` | Ohio Administrative Code, Chapter 122:12-1 | Termination of Home Weatherization Programs, Rule 122:12-1-01: Definition. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-12-1-02` | Ohio Administrative Code, Chapter 122:12-1 | Termination of Home Weatherization Programs, Rule 122:12-1-02: Termination of home weatherization assistance program funding. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-12-1-03` | Ohio Administrative Code, Chapter 122:12-1 | Termination of Home Weatherization Programs, Rule 122:12-1-03: Conduct of hearing. | 1 | 1999-01-21 to 1999-01-21 |
+| `oac-rule-122-12-1-04` | Ohio Administrative Code, Chapter 122:12-1 | Termination of Home Weatherization Programs, Rule 122:12-1-04: Decision requirements. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-15-1-01` | Ohio Administrative Code, Chapter 122:15-1 | EDGE Bond Guarantee Program Requirements, Rule 122:15-1-01: EDGE bond guarantee program-definitions. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-122-15-1-02` | Ohio Administrative Code, Chapter 122:15-1 | EDGE Bond Guarantee Program Requirements, Rule 122:15-1-02: EDGE bond guarantee program. | 1 | 2020-02-10 to 2020-02-10 |
+| `oac-rule-122-15-1-03` | Ohio Administrative Code, Chapter 122:15-1 | EDGE Bond Guarantee Program Requirements, Rule 122:15-1-03: Ineligibility of principal and surety; loss of program eligibility. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-122-15-1-04` | Ohio Administrative Code, Chapter 122:15-1 | EDGE Bond Guarantee Program Requirements, Rule 122:15-1-04: Bond servicing. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-122-15-1-05` | Ohio Administrative Code, Chapter 122:15-1 | EDGE Bond Guarantee Program Requirements, Rule 122:15-1-05: Payment of loss on DSA guaranteed bond; collection. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-122-15-2-02` | Ohio Administrative Code, Chapter 122:15-2 | General Provisions, Rule 122:15-2-02: Implementation of veterans preference program. | 1 | 2017-04-27 to 2017-04-27 |
+| `oac-rule-122-15-3-01` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-01: Definitions. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-02` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-02: Certification criteria. | 1 | 2025-07-03 to 2025-07-03 |
+| `oac-rule-122-15-3-03` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-03: Recertification. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-04` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-04: Expedited certification. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-05` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-05: Joint venture. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-06` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-06: Commercially useful function. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-07` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-07: Revocation. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-08` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-08: Adjudication hearings. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-09` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-09: EDGE procurement goals. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-10` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-10: Demonstration of good faith effort to include EDGE business participation. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-11` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-11: Annual expenditure projection report. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-12` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-12: Quarterly expenditure report. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-13` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-13: EDGE participation goals in solicitations and contracts. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-14` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-14: EDGE data collection. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-15-3-15` | Ohio Administrative Code, Chapter 122:15-3 | Definitions and Procedures, Rule 122:15-3-15: Monitoring waiver compliance. | 1 | 2020-10-09 to 2020-10-09 |
+| `oac-rule-122-16-1-01` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-01: Definitions. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-16-1-02` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-02: Fees. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-16-1-03` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-03: Eligibility requirements. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-16-1-04` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-04: Tax credit per cent and term. | 1 | 2016-07-28 to 2016-07-28 |
+| `oac-rule-122-16-1-05` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-05: Reports. | 1 | 2016-07-28 to 2016-07-28 |
+| `oac-rule-122-16-1-06` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-06: Remedies. | 1 | 2016-07-28 to 2016-07-28 |
+| `oac-rule-122-16-1-07` | Ohio Administrative Code, Chapter 122:16-1 | Business Tax Credit, Rule 122:16-1-07: Relocation of employees. | 1 | 2016-07-28 to 2016-07-28 |
+| `oac-rule-122-19-1-01` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-01: Definitions. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-19-1-02` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-02: Application schedule and procedures. | 1 | 2015-07-06 to 2015-07-06 |
+| `oac-rule-122-19-1-03` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-03: Historic preservation tax credit eligibility. | 1 | 2015-07-06 to 2015-07-06 |
+| `oac-rule-122-19-1-04` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-04: Selection of approved applications. | 1 | 2015-07-06 to 2015-07-06 |
+| `oac-rule-122-19-1-05` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-05: Amendments. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-19-1-06` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-06: Tax credit certificates. | 1 | 2015-07-06 to 2015-07-06 |
+| `oac-rule-122-19-1-07` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-07: Monitoring and reporting. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-19-1-08` | Ohio Administrative Code, Chapter 122:19-1 | General Provisions, Rule 122:19-1-08: Fees. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-21-1-01` | Ohio Administrative Code, Chapter 122:21-1 | General Provisions, Rule 122:21-1-01: Definitions. | 1 | 2020-08-28 to 2020-08-28 |
+| `oac-rule-122-21-1-02` | Ohio Administrative Code, Chapter 122:21-1 | General Provisions, Rule 122:21-1-02: Eligibility; application process. | 1 | 2020-08-28 to 2020-08-28 |
+| `oac-rule-122-21-1-03` | Ohio Administrative Code, Chapter 122:21-1 | General Provisions, Rule 122:21-1-03: Application fee. | 1 | 2020-08-28 to 2020-08-28 |
+| `oac-rule-122-21-1-04` | Ohio Administrative Code, Chapter 122:21-1 | General Provisions, Rule 122:21-1-04: Reporting. | 1 | 2020-08-28 to 2020-08-28 |
+| `oac-rule-122-21-1-05` | Ohio Administrative Code, Chapter 122:21-1 | General Provisions, Rule 122:21-1-05: Certificate. | 1 | 2020-08-28 to 2020-08-28 |
+| `oac-rule-122-21-2-01` | Ohio Administrative Code, Chapter 122:21-2 | Ohio Film and Theater Capital Improvement Tax Credit, Rule 122:21-2-01: Ohio film and theater capital improvement tax credit - definitions. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-122-21-2-02` | Ohio Administrative Code, Chapter 122:21-2 | Ohio Film and Theater Capital Improvement Tax Credit, Rule 122:21-2-02: Ohio film and theater capital improvement tax credit - application eligibility. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-122-21-2-03` | Ohio Administrative Code, Chapter 122:21-2 | Ohio Film and Theater Capital Improvement Tax Credit, Rule 122:21-2-03: Ohio film and theater capital improvement tax credit - application process. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-122-21-2-04` | Ohio Administrative Code, Chapter 122:21-2 | Ohio Film and Theater Capital Improvement Tax Credit, Rule 122:21-2-04: Ohio film and theater capital improvement tax credit - reporting. | 1 | 2024-12-20 to 2024-12-20 |
+| `oac-rule-122-22-1-01` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-01: Definitions. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-02` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-02: Allocation of new markets tax credit authority. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-03` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-03: Notices and certificates. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-04` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-04: Annual reporting. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-05` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-05: Monitoring and recapture. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-06` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-06: Fees. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-07` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-07: Delegation of functions. | 1 | 2016-12-24 to 2016-12-24 |
+| `oac-rule-122-22-1-08` | Ohio Administrative Code, Chapter 122:22-1 | General Provisions, Rule 122:22-1-08: Severability. | 1 | 2010-11-29 to 2010-11-29 |
+| `oac-rule-122-23-1-01` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-01: Definitions and rules of interpretation. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-02` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-02: Application and certification. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-03` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-03: Construction reporting. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-04` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-04: Employment report. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-05` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-05: Certificate of verification. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-06` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-06: Continuing compliance with requirements for exemption; service payments. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-07` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-07: Signature; failure to report; trade secrets. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-08` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-08: Revocation of certification by the director. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-09` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-09: Delegation of functions. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-23-1-10` | Ohio Administrative Code, Chapter 122:23-1 | General Provisions, Rule 122:23-1-10: Severability. | 1 | 2017-10-30 to 2017-10-30 |
+| `oac-rule-122-24-1-01` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-01: Definitions. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-02` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-02: Procedure for investOhio program. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-03` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-03: Registration process. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-04` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-04: Application process. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-05` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-05: Validation of qualifying investment. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-06` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-06: Issuances of small business investment certificates. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-08` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-08: Small business enterprise. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-09` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-09: Verification of small business investment certificates. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-10` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-10: Disqualification of small business investment certificates. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-11` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-11: Maintenance of records. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-24-1-12` | Ohio Administrative Code, Chapter 122:24-1 | General Provisions, Rule 122:24-1-12: Signature; trade secrets; redactions. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-28-1-01` | Ohio Administrative Code, Chapter 122:28-1 | Computer Data Centers, Rule 122:28-1-01: Definitions. | 1 | 2021-02-08 to 2021-02-08 |
+| `oac-rule-122-28-1-02` | Ohio Administrative Code, Chapter 122:28-1 | Computer Data Centers, Rule 122:28-1-02: Computer data center equipment. | 1 | 2021-02-08 to 2021-02-08 |
+| `oac-rule-122-28-1-03` | Ohio Administrative Code, Chapter 122:28-1 | Computer Data Centers, Rule 122:28-1-03: Reporting. | 1 | 2021-02-08 to 2021-02-08 |
+| `oac-rule-122-28-1-04` | Ohio Administrative Code, Chapter 122:28-1 | Computer Data Centers, Rule 122:28-1-04: Remedies. | 1 | 2021-02-08 to 2021-02-08 |
+| `oac-rule-122-28-1-05` | Ohio Administrative Code, Chapter 122:28-1 | Computer Data Centers, Rule 122:28-1-05: Fees. | 1 | 2021-02-08 to 2021-02-08 |
+| `oac-rule-122-29-1-01` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-01: Definitions. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-02` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-02: Eligibility. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-03` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-03: Application and certification. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-04` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-04: Agreements and amendments. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-05` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-05: Transformational Mixed Use Development Tax Credit. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-06` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-06: Reporting. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-07` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-07: Rescission of tax credit certification. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-29-1-08` | Ohio Administrative Code, Chapter 122:29-1 | Transformational Mixed Use Development Tax Credit, Rule 122:29-1-08: Fees. | 1 | 2026-05-25 to 2026-05-25 |
+| `oac-rule-122-30-1-01` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-01: Definitions. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-02` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-02: Application. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-03` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-03: Application and award procedure. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-04` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-04: Challenges. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-05` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-05: Grant agreement; changes to projects; reporting. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-07` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-07: Review for public record information. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-08` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-08: Broadband expansion program authority. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-30-1-09` | Ohio Administrative Code, Chapter 122:30-1 | Broadband Expansion Grant, Rule 122:30-1-09: Request by county commissioners for solicitation of applications. | 1 | 2021-12-16 to 2021-12-16 |
+| `oac-rule-122-31-1-01` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-01: Definitions. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-31-1-02` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-02: Eligible properties. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-31-1-03` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-03: Eligible applicant. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-31-1-04` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-04: Application. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-31-1-05` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-05: Grant agreement. | 1 | 2022-10-01 to 2022-10-01 |
+| `oac-rule-122-31-1-06` | Ohio Administrative Code, Chapter 122:31-1 | Brownfield Remediation Program, Rule 122:31-1-06: Reporting. | 1 | 2022-10-01 to 2022-10-01 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 1688 commits:
+The build made 1793 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1688 | first version of an act |
-| 0 | one law on its in-force day |
+| 1793 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1688 tags.
+- 1793 tags.
 
 ## Dates
 
@@ -1732,17 +1840,15 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6c6c37197c61737ef4db3c9b2835ccf0fd280dc40ef186bac336a58591ad0bbe` (88431458 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `5bae3af729695fbca44d07a3f23699e292b9b6a9a5db3dae5b6aeb329e2bae64` (88908203 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-The appended candidate has 1,688 acts and versions. Repository checks report 0 text mismatches, 0 trailer errors, 0 missing In-force dates, 0 merges, 0 backwards dates and 0 future-dated versions. The 162 additional rule texts, headings, printed Effective dates and source metadata passed independent comparison with the official chapter pages on 13 November 2026.
+Not yet run for this build.
 
-Two retained builds of the candidate before this documentation correction have identical main and all 1,688 tags (main `3f0aa52b574cf5908ccc8e066705f23d7b096816`). This establishes repeatability of that candidate; the documentation correction was appended afterward.
-
-The subsequent review using the current shared builder could not complete a new full-build comparison: both the unchanged published baseline and candidate failed check 10 because the original legal-system version lacks a valid source_images inventory. This inherited defect remains unresolved; the earlier build comparison is not a claim that the current live builder passes.
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -1758,11 +1864,13 @@ The subsequent review using the current shared builder could not complete a new 
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Replaces the rejected pending batch; publisher update notices are excluded from law text and retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -1770,6 +1878,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
