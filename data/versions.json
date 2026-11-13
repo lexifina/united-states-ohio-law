@@ -21296,6 +21296,2274 @@
    ]
   },
   {
+   "slug": "oac-rule-113-1-01",
+   "short": "O.A.C. 113-1-01",
+   "title": "Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-1-01",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-1",
+     "sha256": "650e358b9fc5ce505297961c44a2f3faaf4c4753aa6efd12e8b8c84fef7e73c9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-1-02",
+   "short": "O.A.C. 113-1-02",
+   "title": "Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-02: Payments into the state treasury.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-1-02",
+   "versions": [
+    {
+     "from": "2022-05-14",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-1",
+     "sha256": "650e358b9fc5ce505297961c44a2f3faaf4c4753aa6efd12e8b8c84fef7e73c9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-1-03",
+   "short": "O.A.C. 113-1-03",
+   "title": "Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-03: Procedures for checks not accepted for deposit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-1-03",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-1",
+     "sha256": "650e358b9fc5ce505297961c44a2f3faaf4c4753aa6efd12e8b8c84fef7e73c9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-1-04",
+   "short": "O.A.C. 113-1-04",
+   "title": "Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-04: Payments out of the state treasury.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-1-04",
+   "versions": [
+    {
+     "from": "2022-05-14",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-1",
+     "sha256": "650e358b9fc5ce505297961c44a2f3faaf4c4753aa6efd12e8b8c84fef7e73c9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-1-06",
+   "short": "O.A.C. 113-1-06",
+   "title": "Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-06: Reparations rotary reporting for courts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-1-06",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-1",
+     "sha256": "650e358b9fc5ce505297961c44a2f3faaf4c4753aa6efd12e8b8c84fef7e73c9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-2-01",
+   "short": "O.A.C. 113-2-01",
+   "title": "Ohio Administrative Code, Chapter 113-2 | State Agency Custodial Account, Rule 113-2-01: State entity custodial bank accounts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-2-01",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-2",
+     "sha256": "4fdcc0321e39750a1a3e9e156eee7a259c43fc642dc5e8b1ae7913b95564f0ee"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-3-01",
+   "short": "O.A.C. 113-3-01",
+   "title": "Ohio Administrative Code, Chapter 113-3 | Contingent Fund, Rule 113-3-01: Treasurer's contingent fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-3-01",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-3",
+     "sha256": "68aa551b0199eab7af68bb44bec8d32733f5b12e5ff31a4974e93e086f1d85e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-4-01",
+   "short": "O.A.C. 113-4-01",
+   "title": "Ohio Administrative Code, Chapter 113-4 | Intangible, Franchise, and Excise Tax Payments, Rule 113-4-01: Intangible property tax and insurance company franchise tax payments.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-4-01",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-4",
+     "sha256": "88c14bb0495ae7072aafb1d2c79645eae44679ad4ccbe3319415b610672d2bdb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-4-03",
+   "short": "O.A.C. 113-4-03",
+   "title": "Ohio Administrative Code, Chapter 113-4 | Intangible, Franchise, and Excise Tax Payments, Rule 113-4-03: Motor vehicle and watercraft sales and use tax.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-4-03",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-4",
+     "sha256": "88c14bb0495ae7072aafb1d2c79645eae44679ad4ccbe3319415b610672d2bdb"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-5-01",
+   "short": "O.A.C. 113-5-01",
+   "title": "Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-01: Subdivision treasurer continuing education exemptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-5-01",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-5",
+     "sha256": "bcd8183eb672903fcc6a53dc526e457f941200c5710d3dd84f20086f39e61d71"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-5-02",
+   "short": "O.A.C. 113-5-02",
+   "title": "Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-02: Sweep accounts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-5-02",
+   "versions": [
+    {
+     "from": "2013-09-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-5",
+     "sha256": "bcd8183eb672903fcc6a53dc526e457f941200c5710d3dd84f20086f39e61d71"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-5-03",
+   "short": "O.A.C. 113-5-03",
+   "title": "Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-03: Continuing education hours.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-5-03",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-5",
+     "sha256": "bcd8183eb672903fcc6a53dc526e457f941200c5710d3dd84f20086f39e61d71"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-5-04",
+   "short": "O.A.C. 113-5-04",
+   "title": "Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-04: County treasurer continuing education biennial cycle.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-5-04",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-5",
+     "sha256": "bcd8183eb672903fcc6a53dc526e457f941200c5710d3dd84f20086f39e61d71"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-5-05",
+   "short": "O.A.C. 113-5-05",
+   "title": "Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-05: Initial education requirements for appointed and specially elected county treasurers.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-5-05",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-5",
+     "sha256": "bcd8183eb672903fcc6a53dc526e457f941200c5710d3dd84f20086f39e61d71"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-6-01",
+   "short": "O.A.C. 113-6-01",
+   "title": "Ohio Administrative Code, Chapter 113-6 | Investment Rating Standards, Rule 113-6-01: Investment rating standards.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-6-01",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-6",
+     "sha256": "86adca82dff16ef53b60ff6d229aef8bceaf0444d550703cbb4a2deba46d864e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-7-01",
+   "short": "O.A.C. 113-7-01",
+   "title": "Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-01: Linked deposit program definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-7-01",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-7",
+     "sha256": "90cbae6176585af8443f484789d5adda40065152d5941a3baf0cb4826c76d174"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-7-02",
+   "short": "O.A.C. 113-7-02",
+   "title": "Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-02: Eligibility of credit unions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-7-02",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-7",
+     "sha256": "90cbae6176585af8443f484789d5adda40065152d5941a3baf0cb4826c76d174"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-7-03",
+   "short": "O.A.C. 113-7-03",
+   "title": "Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-03: Application for and investment of interim moneys for credit unions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-7-03",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-7",
+     "sha256": "90cbae6176585af8443f484789d5adda40065152d5941a3baf0cb4826c76d174"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-7-04",
+   "short": "O.A.C. 113-7-04",
+   "title": "Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-04: Collateral and insurance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-7-04",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-7",
+     "sha256": "90cbae6176585af8443f484789d5adda40065152d5941a3baf0cb4826c76d174"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-7-05",
+   "short": "O.A.C. 113-7-05",
+   "title": "Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-05: Treasurer of state's assessment rate.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-7-05",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-7",
+     "sha256": "90cbae6176585af8443f484789d5adda40065152d5941a3baf0cb4826c76d174"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-8-01",
+   "short": "O.A.C. 113-8-01",
+   "title": "Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-01: Pay for success contracting program authority.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-8-01",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-8",
+     "sha256": "cf41846ca0b60e4d82b6b3ac7280b17c481c79573cd275ed54ec49d6ae07e396"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-8-02",
+   "short": "O.A.C. 113-8-02",
+   "title": "Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-02: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-8-02",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-8",
+     "sha256": "cf41846ca0b60e4d82b6b3ac7280b17c481c79573cd275ed54ec49d6ae07e396"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-8-03",
+   "short": "O.A.C. 113-8-03",
+   "title": "Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-03: Procedure for entering into a pay for success contract.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-8-03",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-8",
+     "sha256": "cf41846ca0b60e4d82b6b3ac7280b17c481c79573cd275ed54ec49d6ae07e396"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-8-04",
+   "short": "O.A.C. 113-8-04",
+   "title": "Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-04: Pay for success fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-8-04",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-8",
+     "sha256": "cf41846ca0b60e4d82b6b3ac7280b17c481c79573cd275ed54ec49d6ae07e396"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-8-05",
+   "short": "O.A.C. 113-8-05",
+   "title": "Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-05: Regional and national data used in pay for success contracts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-8-05",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-8",
+     "sha256": "cf41846ca0b60e4d82b6b3ac7280b17c481c79573cd275ed54ec49d6ae07e396"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-10-01",
+   "short": "O.A.C. 113-10-01",
+   "title": "Ohio Administrative Code, Chapter 113-10 | Investment Pool, Rule 113-10-01: Treasurer's investment pool.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-10-01",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-10",
+     "sha256": "925e4c1d3a8758c006619abdebe2952337879316f1d3fe80ebb5640c85369dc9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-10-02",
+   "short": "O.A.C. 113-10-02",
+   "title": "Ohio Administrative Code, Chapter 113-10 | Investment Pool, Rule 113-10-02: Separately managed accounts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-10-02",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-10",
+     "sha256": "925e4c1d3a8758c006619abdebe2952337879316f1d3fe80ebb5640c85369dc9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-20-01",
+   "short": "O.A.C. 113-20-01",
+   "title": "Ohio Administrative Code, Chapter 113-20 | Taxable Investment Pool; Notice, Rule 113-20-01: Notice of promulgation of rules and regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-20-01",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-20",
+     "sha256": "cebf571b58bf7d98da62a11f9edebdb707b7c3acd98881c02b94eb16efc05bf5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-25-01",
+   "short": "O.A.C. 113-25-01",
+   "title": "Ohio Administrative Code, Chapter 113-25 | Confidential Personal Information Systems, Rule 113-25-01: Confidential personal information systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-25-01",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-25",
+     "sha256": "d75a8be9f22ffef872067cc6a3158fcc33fb052060de7aa9eb28ba81c4204b3b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-30-01",
+   "short": "O.A.C. 113-30-01",
+   "title": "Ohio Administrative Code, Chapter 113-30 | STABLE Account Program, Rule 113-30-01: STABLE account program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-30-01",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-30",
+     "sha256": "0d6d1cf6ba0365189def9975cd37b8b244b23ac0e1b04e07a4cec04ff98f0311"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-30-02",
+   "short": "O.A.C. 113-30-02",
+   "title": "Ohio Administrative Code, Chapter 113-30 | STABLE Account Program, Rule 113-30-02: Notice of meetings of the STABLE account program advisory board.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-30-02",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-30",
+     "sha256": "0d6d1cf6ba0365189def9975cd37b8b244b23ac0e1b04e07a4cec04ff98f0311"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-35-01",
+   "short": "O.A.C. 113-35-01",
+   "title": "Ohio Administrative Code, Chapter 113-35 | Workforce Development Revolving Loan Program, Rule 113-35-01: Workforce development revolving loan program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-35-01",
+   "versions": [
+    {
+     "from": "2018-01-12",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-35",
+     "sha256": "f580539dbba68d8547cfbc2c51ce4e7d5e50a53f4dd7dc841b793d465cc84079"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-40-01",
+   "short": "O.A.C. 113-40-01",
+   "title": "Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-01: Definitionsand public records.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-40-01",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-40",
+     "sha256": "b4f257a840add0eb5fdb89780c3770b5962ab42b6c73c1a8941136484c7ac892"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-40-02",
+   "short": "O.A.C. 113-40-02",
+   "title": "Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-02: Requirements for a financial institution.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-40-02",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-40",
+     "sha256": "b4f257a840add0eb5fdb89780c3770b5962ab42b6c73c1a8941136484c7ac892"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-40-03",
+   "short": "O.A.C. 113-40-03",
+   "title": "Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-03: Reduced collateral floor application and maintenance criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-40-03",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-40",
+     "sha256": "b4f257a840add0eb5fdb89780c3770b5962ab42b6c73c1a8941136484c7ac892"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-40-04",
+   "short": "O.A.C. 113-40-04",
+   "title": "Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-04: Bank monitoring and economic monitoring.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-40-04",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-40",
+     "sha256": "b4f257a840add0eb5fdb89780c3770b5962ab42b6c73c1a8941136484c7ac892"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-113-40-05",
+   "short": "O.A.C. 113-40-05",
+   "title": "Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-05: Collateral sufficiency.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-113-40-05",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-113-40",
+     "sha256": "b4f257a840add0eb5fdb89780c3770b5962ab42b6c73c1a8941136484c7ac892"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-1-01",
+   "short": "O.A.C. 117-1-01",
+   "title": "Ohio Administrative Code, Chapter 117-1 | Definitions, Rule 117-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-1-01",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-1",
+     "sha256": "c112b69bb7a7d6641bb1777a1a3ee7d2b712a34de96ab0a0855914ccec2fdcc1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-2-01",
+   "short": "O.A.C. 117-2-01",
+   "title": "Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-01: Internal controls.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-2-01",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-2",
+     "sha256": "abe5b72ade58dbed57403f76888c6cb7eab6bfea7ee5c2d7ecc1c923652e6c0b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-2-02",
+   "short": "O.A.C. 117-2-02",
+   "title": "Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-02: Accounting and reporting records.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-2-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-2",
+     "sha256": "abe5b72ade58dbed57403f76888c6cb7eab6bfea7ee5c2d7ecc1c923652e6c0b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-2-03",
+   "short": "O.A.C. 117-2-03",
+   "title": "Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-03: Annual financial reports.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-2-03",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-2",
+     "sha256": "abe5b72ade58dbed57403f76888c6cb7eab6bfea7ee5c2d7ecc1c923652e6c0b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-2-05",
+   "short": "O.A.C. 117-2-05",
+   "title": "Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-05: Standards for audits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-2-05",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-2",
+     "sha256": "abe5b72ade58dbed57403f76888c6cb7eab6bfea7ee5c2d7ecc1c923652e6c0b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-01",
+   "short": "O.A.C. 117-3-01",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-01: Audit contract.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-01",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-02",
+   "short": "O.A.C. 117-3-02",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-02: Execution of audit contracts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-02",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-03",
+   "short": "O.A.C. 117-3-03",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-03: Audit contract standards.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-03",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-04",
+   "short": "O.A.C. 117-3-04",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-04: Selection of independent public accountant.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-04",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-05",
+   "short": "O.A.C. 117-3-05",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-05: Request for proposals, quotes, invitations to bid.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-05",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-06",
+   "short": "O.A.C. 117-3-06",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-06: Submission of request for proposals, quotes, invitations to bid.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-06",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-07",
+   "short": "O.A.C. 117-3-07",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-07: Proposals, quotes, invitations to bid.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-07",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-08",
+   "short": "O.A.C. 117-3-08",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-08: Criteria for selection.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-08",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-09",
+   "short": "O.A.C. 117-3-09",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-09: Selection and award.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-09",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-10",
+   "short": "O.A.C. 117-3-10",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-10: Alternative procedures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-10",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-3-11",
+   "short": "O.A.C. 117-3-11",
+   "title": "Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-11: Waiver.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-3-11",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-3",
+     "sha256": "0213ff8495734eb1a1ac7737778f77ce0f3857c4914f3a6c7d01c38884af6c52"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-4-02",
+   "short": "O.A.C. 117-4-02",
+   "title": "Ohio Administrative Code, Chapter 117-4 | Audit Rates and Standards, Rule 117-4-02: Audits for local public offices not subject to the single audit act.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-4-02",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-4",
+     "sha256": "2b50925cb198a501a2e337b51dbb07200b39a371eb50f3138ab521e22565984d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-5-02",
+   "short": "O.A.C. 117-5-02",
+   "title": "Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-02: Appropriation measures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-5-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-5",
+     "sha256": "8dd3f4c84ed7b9dd546b41adf115d0be448c56a3b26ec57eadf39a3e849a8eb0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-5-03",
+   "short": "O.A.C. 117-5-03",
+   "title": "Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-03: Filing affidavit of failure of performance of county auditor.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-5-03",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-5",
+     "sha256": "8dd3f4c84ed7b9dd546b41adf115d0be448c56a3b26ec57eadf39a3e849a8eb0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-5-04",
+   "short": "O.A.C. 117-5-04",
+   "title": "Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-04: Filing affidavit of failure of performance of county treasurer.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-5-04",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-5",
+     "sha256": "8dd3f4c84ed7b9dd546b41adf115d0be448c56a3b26ec57eadf39a3e849a8eb0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-6-01",
+   "short": "O.A.C. 117-6-01",
+   "title": "Ohio Administrative Code, Chapter 117-6 | Schools, Rule 117-6-01: Chart of accounts - school districts and community schools.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-6-01",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-6",
+     "sha256": "bd6929163afa90f85ed960597e34e4287c461ef011f5b99eca3da493049c7832"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-6-02",
+   "short": "O.A.C. 117-6-02",
+   "title": "Ohio Administrative Code, Chapter 117-6 | Schools, Rule 117-6-02: Appropriation measures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-6-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-6",
+     "sha256": "bd6929163afa90f85ed960597e34e4287c461ef011f5b99eca3da493049c7832"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-7-02",
+   "short": "O.A.C. 117-7-02",
+   "title": "Ohio Administrative Code, Chapter 117-7 | Townships, Rule 117-7-02: Appropriation measures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-7-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-7",
+     "sha256": "91ffa9707ab319a02ac1b0434c5c14d7936bb5340d2c731f50f0456154ab6d2d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-7-03",
+   "short": "O.A.C. 117-7-03",
+   "title": "Ohio Administrative Code, Chapter 117-7 | Townships, Rule 117-7-03: Filing affidavit of failure of performance of township fiscal officer.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-7-03",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-7",
+     "sha256": "91ffa9707ab319a02ac1b0434c5c14d7936bb5340d2c731f50f0456154ab6d2d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-8-02",
+   "short": "O.A.C. 117-8-02",
+   "title": "Ohio Administrative Code, Chapter 117-8 | Libraries, Rule 117-8-02: Appropriation measures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-8-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-8",
+     "sha256": "9bcaa3f15168ce6de379c1bbf9f099018b3dab56c5a7af22d5909b86f7513f78"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-9-02",
+   "short": "O.A.C. 117-9-02",
+   "title": "Ohio Administrative Code, Chapter 117-9 | Villages, Rule 117-9-02: Appropriation measures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-9-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-9",
+     "sha256": "39d6fc13786fe4eb04ec4d9bb8d97d22abe0182d8a9260de65ced92f98af9fe1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-9-03",
+   "short": "O.A.C. 117-9-03",
+   "title": "Ohio Administrative Code, Chapter 117-9 | Villages, Rule 117-9-03: Filing affidavit of failure of performance of fiscal officer.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-9-03",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-9",
+     "sha256": "39d6fc13786fe4eb04ec4d9bb8d97d22abe0182d8a9260de65ced92f98af9fe1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-10-01",
+   "short": "O.A.C. 117-10-01",
+   "title": "Ohio Administrative Code, Chapter 117-10 | County and Independent Agricultural Societies, Rule 117-10-01: Financial reporting and accounting: county agricultural societies and independent agricultural societies.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-10-01",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-10",
+     "sha256": "7822d11fa0bd557098a595a3ca213a05e9db52d2461dfdb8f8b07a86c948ed0d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-12-01",
+   "short": "O.A.C. 117-12-01",
+   "title": "Ohio Administrative Code, Chapter 117-12 | Personal Information Systems, Rule 117-12-01: Personal information systems- definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-12-01",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-12",
+     "sha256": "272e7402b9f8b7aedc4b0c76dd5ea8c67cb27f9c056480e36ebceb0b066beebc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-13-01",
+   "short": "O.A.C. 117-13-01",
+   "title": "Ohio Administrative Code, Chapter 117-13 | Municipalities, Rule 117-13-01: Filing affidavit of failure of performance of fiscal officer.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-13-01",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-13",
+     "sha256": "8c190bd3b869ff917ea3669324777e7ab8036cae277213bdb6dbcb96aef65eb6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-117-14-01",
+   "short": "O.A.C. 117-14-01",
+   "title": "Ohio Administrative Code, Chapter 117-14 | Training Fiscal Officers, Rule 117-14-01: Fiscal officer training requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-117-14-01",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-117-14",
+     "sha256": "2e3eca51940e3641bc2a05f5838228c1d693d5d0e39a47638d196121c00b5e0a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-01",
+   "short": "O.A.C. 120-1-01",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-01: Ohio public defender commission declaration of policy.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-01",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-02",
+   "short": "O.A.C. 120-1-02",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-02: Reserved.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-02",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-03",
+   "short": "O.A.C. 120-1-03",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-03: Standards of Indigence.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-03",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-04",
+   "short": "O.A.C. 120-1-04",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-04: Appointment of additional attorney.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-04",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-05",
+   "short": "O.A.C. 120-1-05",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-05: Reimbursement, recoupment, contribution, and partial payment programs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-05",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-06",
+   "short": "O.A.C. 120-1-06",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-06: Facilities for a county or joint county public defender office.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-06",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-07",
+   "short": "O.A.C. 120-1-07",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-07: Workload standards.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-07",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-08",
+   "short": "O.A.C. 120-1-08",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-08: Reserved.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-08",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-09",
+   "short": "O.A.C. 120-1-09",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-09: Contracts with municipal corporations or villages.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-09",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-10",
+   "short": "O.A.C. 120-1-10",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-10: Appointment systems and attorney qualifications.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-10",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-11",
+   "short": "O.A.C. 120-1-11",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-11: Time limits for reimbursement of county expenditures for assigned or appointed counsel and public defender offices.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-11",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-12",
+   "short": "O.A.C. 120-1-12",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-12: Standards governing contracts with non-profit organizations for the provision of indigent representation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-12",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-13",
+   "short": "O.A.C. 120-1-13",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-13: Reimbursement to the counties in capital cases.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-13",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-15",
+   "short": "O.A.C. 120-1-15",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-15: Adequate fee schedule for appointed counsel and public defender salaries.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-15",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-16",
+   "short": "O.A.C. 120-1-16",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-16: Changes in a client's eligibility for services.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-16",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-17",
+   "short": "O.A.C. 120-1-17",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-17: Reimbursement for experts or transcripts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-17",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-1-18",
+   "short": "O.A.C. 120-1-18",
+   "title": "Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-18: Reimbursement for Guardian Ad Litem Fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-1-18",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-1",
+     "sha256": "d34bae0784ae6b4079d41c719a3ae2db493d6e9de3fafe73c3927dbcdb5292e2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-2-01",
+   "short": "O.A.C. 120-2-01",
+   "title": "Ohio Administrative Code, Chapter 120-2 | Meeting Notice, Rule 120-2-01: Meeting notice.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-2-01",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-2",
+     "sha256": "7575e4eff885c54b6c1a108f9f3728966113749e9d070e97b5976d23397d980b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-3-01",
+   "short": "O.A.C. 120-3-01",
+   "title": "Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-3-01",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-3",
+     "sha256": "b6d030a374ef4999f680489fe296146865b6e19a650a5fd222fd768a84c0ff81"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-3-02",
+   "short": "O.A.C. 120-3-02",
+   "title": "Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-02: Procedures for accessing confidential personal information.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-3-02",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-3",
+     "sha256": "b6d030a374ef4999f680489fe296146865b6e19a650a5fd222fd768a84c0ff81"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-3-03",
+   "short": "O.A.C. 120-3-03",
+   "title": "Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-03: Valid reasons for accessing confidential person information.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-3-03",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-3",
+     "sha256": "b6d030a374ef4999f680489fe296146865b6e19a650a5fd222fd768a84c0ff81"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-3-04",
+   "short": "O.A.C. 120-3-04",
+   "title": "Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-04: Confidentiality Statutes.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-3-04",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-3",
+     "sha256": "b6d030a374ef4999f680489fe296146865b6e19a650a5fd222fd768a84c0ff81"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-120-3-05",
+   "short": "O.A.C. 120-3-05",
+   "title": "Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-05: Restricting and logging access to confidential personal information in computerized personal information systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-120-3-05",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-120-3",
+     "sha256": "b6d030a374ef4999f680489fe296146865b6e19a650a5fd222fd768a84c0ff81"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-121-1-01",
+   "short": "O.A.C. 121-1-01",
+   "title": "Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-01: Meetings of the commission.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-121-1-01",
+   "versions": [
+    {
+     "from": "1984-11-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-121-1",
+     "sha256": "e650096adc0d404c79c362f5c2959cc9a8b0a921c0307a4e5fa0c6c60023779b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-121-1-02",
+   "short": "O.A.C. 121-1-02",
+   "title": "Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-02: Proceedings of the commission.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-121-1-02",
+   "versions": [
+    {
+     "from": "1984-11-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-121-1",
+     "sha256": "e650096adc0d404c79c362f5c2959cc9a8b0a921c0307a4e5fa0c6c60023779b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-121-1-03",
+   "short": "O.A.C. 121-1-03",
+   "title": "Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-03: Officers and committees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-121-1-03",
+   "versions": [
+    {
+     "from": "2022-04-03",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-121-1",
+     "sha256": "e650096adc0d404c79c362f5c2959cc9a8b0a921c0307a4e5fa0c6c60023779b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-121-1-04",
+   "short": "O.A.C. 121-1-04",
+   "title": "Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-04: Resolutions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-121-1-04",
+   "versions": [
+    {
+     "from": "1984-11-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-121-1",
+     "sha256": "e650096adc0d404c79c362f5c2959cc9a8b0a921c0307a4e5fa0c6c60023779b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-01",
+   "short": "O.A.C. 122-1-01",
+   "title": "Ohio Administrative Code, Chapter 122-1 | Public Notice of Rules, Rule 122-1-01: Public notice of rules.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-1-01",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-1",
+     "sha256": "05803c44f0d92f14de6195314b43fdaea279bfc218653638d9a4ac124a9bf98c"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-01",
+   "short": "O.A.C. 122-4-01",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-01: Definitions and application.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-01",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-02",
+   "short": "O.A.C. 122-4-02",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-02: Allocations of state ceiling to restricted bonds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-02",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-03",
+   "short": "O.A.C. 122-4-03",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-03: Obtaining confirmations in advance -- notice of intent; notice of issuance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-03",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-04",
+   "short": "O.A.C. 122-4-04",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-04: Priorities where bonds have no effective confirmation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-04",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-05",
+   "short": "O.A.C. 122-4-05",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-05: Confirmation of state ceiling allocation for issuance of bonds in subsequent years -- carryforwards.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-05",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-06",
+   "short": "O.A.C. 122-4-06",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-06: Administrative.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-06",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-07",
+   "short": "O.A.C. 122-4-07",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-07: Delegation of functions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-07",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-08",
+   "short": "O.A.C. 122-4-08",
+   "title": "Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-08: Effectiveness and reliance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-4-08",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-4",
+     "sha256": "54cf990a203a07634187c73d1bdc87ee7ff7399a5407f1c68193c5fdfffdfb42"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-01",
+   "short": "O.A.C. 122-6-01",
+   "title": "Ohio Administrative Code, Chapter 122-6 | Confidential Personal Information, Rule 122-6-01: Access to confidential personal information.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-6-01",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-6",
+     "sha256": "0cb1e4bdcea790fa18bcf3c5c56d370aff47a066be895708f876b05a19906078"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-01",
+   "short": "O.A.C. 122-7-01",
+   "title": "Ohio Administrative Code, Chapter 122-7 | Notice of Meetings, Rule 122-7-01: Notice of meeting.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122-7-01",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122-7",
+     "sha256": "41c0c1d7e56fc1ac7c392070894cc948bd1a371ace0b73346d5c65b7f780edd6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-1-01",
+   "short": "O.A.C. 122:1-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-01: Effect of decertification.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:1-1-01",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:1-1",
+     "sha256": "4a3df61a44aa76419c38b30da88db30fb373e7ded909e11d57a37871bb9b7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-1-02",
+   "short": "O.A.C. 122:1-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-02: Application and criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:1-1-02",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:1-1",
+     "sha256": "4a3df61a44aa76419c38b30da88db30fb373e7ded909e11d57a37871bb9b7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-1-03",
+   "short": "O.A.C. 122:1-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-03: Certification.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:1-1-03",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:1-1",
+     "sha256": "4a3df61a44aa76419c38b30da88db30fb373e7ded909e11d57a37871bb9b7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-1-04",
+   "short": "O.A.C. 122:1-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-04: Recertification and reporting requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:1-1-04",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:1-1",
+     "sha256": "4a3df61a44aa76419c38b30da88db30fb373e7ded909e11d57a37871bb9b7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-1-1-05",
+   "short": "O.A.C. 122:1-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-05: Decertification.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:1-1-05",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:1-1",
+     "sha256": "4a3df61a44aa76419c38b30da88db30fb373e7ded909e11d57a37871bb9b7ee8"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-01",
+   "short": "O.A.C. 122:4-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-01: Enterprise zone characteristics definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-01",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-02",
+   "short": "O.A.C. 122:4-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-02: Enterprise zone agreement tax exemption fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-02",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-03",
+   "short": "O.A.C. 122:4-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-03: Municipal corporation enterprise zone designation criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-03",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-04",
+   "short": "O.A.C. 122:4-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-04: Seasonal business criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-04",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-05",
+   "short": "O.A.C. 122:4-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-05: Nonretail position criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-05",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-09",
+   "short": "O.A.C. 122:4-1-09",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-09: Relocation provisions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-09",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-4-1-10",
+   "short": "O.A.C. 122:4-1-10",
+   "title": "Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-10: Enterprise zone program employee tax credit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:4-1-10",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:4-1",
+     "sha256": "197b224bbf1bbd6a2111a8d2286f58ccb85a156f1d7d5437c78c6bb4cd215c2e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-1-01",
+   "short": "O.A.C. 122:5-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-1-01",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-1",
+     "sha256": "d341b5606fad1adf5e2faecbfab243158cae5d4751be5b9d187d489185491fde"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-1-02",
+   "short": "O.A.C. 122:5-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-02: Suspension or withholding of community services block grant funding.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-1-02",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-1",
+     "sha256": "d341b5606fad1adf5e2faecbfab243158cae5d4751be5b9d187d489185491fde"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-1-03",
+   "short": "O.A.C. 122:5-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-03: Termination of community services block grant funding.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-1-03",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-1",
+     "sha256": "d341b5606fad1adf5e2faecbfab243158cae5d4751be5b9d187d489185491fde"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-1-04",
+   "short": "O.A.C. 122:5-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-04: Conduct of hearing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-1-04",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-1",
+     "sha256": "d341b5606fad1adf5e2faecbfab243158cae5d4751be5b9d187d489185491fde"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-1-05",
+   "short": "O.A.C. 122:5-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-05: Decision requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-1-05",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-1",
+     "sha256": "d341b5606fad1adf5e2faecbfab243158cae5d4751be5b9d187d489185491fde"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-2-01",
+   "short": "O.A.C. 122:5-2-01",
+   "title": "Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-2-01",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-2",
+     "sha256": "12a6646b36d615003493fc800e58804b03b9b7d0ac0990ecaf17e512948b7953"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-2-02",
+   "short": "O.A.C. 122:5-2-02",
+   "title": "Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-02: Yearly performance assessments.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-2-02",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-2",
+     "sha256": "12a6646b36d615003493fc800e58804b03b9b7d0ac0990ecaf17e512948b7953"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-2-03",
+   "short": "O.A.C. 122:5-2-03",
+   "title": "Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-03: CSBG 122.5.2.03.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-2-03",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-2",
+     "sha256": "12a6646b36d615003493fc800e58804b03b9b7d0ac0990ecaf17e512948b7953"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-2-04",
+   "short": "O.A.C. 122:5-2-04",
+   "title": "Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-04: Community action agency annual evaluation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-2-04",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-2",
+     "sha256": "12a6646b36d615003493fc800e58804b03b9b7d0ac0990ecaf17e512948b7953"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-01",
+   "short": "O.A.C. 122:5-3-01",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-01",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-02",
+   "short": "O.A.C. 122:5-3-02",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-02: Criteria for customer eligibility.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-02",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-03",
+   "short": "O.A.C. 122:5-3-03",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-03: Procedures for verifying customer eligibility.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-03",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-04",
+   "short": "O.A.C. 122:5-3-04",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-04: Payment and crediting arrangements and responsibilities.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-04",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-05",
+   "short": "O.A.C. 122:5-3-05",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-05: Procedures for disbursing public funds to electric utilities; timely remittance of revenue.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-05",
+   "versions": [
+    {
+     "from": "2015-02-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-06",
+   "short": "O.A.C. 122:5-3-06",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-06: Aggregation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-06",
+   "versions": [
+    {
+     "from": "2015-02-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-07",
+   "short": "O.A.C. 122:5-3-07",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-07: Procedures for administering funds under director's jurisdiction.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-07",
+   "versions": [
+    {
+     "from": "2015-02-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-08",
+   "short": "O.A.C. 122:5-3-08",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-08: Energy efficiency and weatherization services and consumer education.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-08",
+   "versions": [
+    {
+     "from": "2015-02-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-09",
+   "short": "O.A.C. 122:5-3-09",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-09: Delegation of functions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-09",
+   "versions": [
+    {
+     "from": "2015-02-15",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-3-10",
+   "short": "O.A.C. 122:5-3-10",
+   "title": "Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-10: Severability.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-3-10",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-3",
+     "sha256": "17db41367c3b22ca340e4c0a096eeffcf9616beca6e037a01a026f1490ce3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-4-01",
+   "short": "O.A.C. 122:5-4-01",
+   "title": "Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-01: Application.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-4-01",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-4",
+     "sha256": "04c31bc998f51175851df05cd3a54558287077510b2e1a667545f6f70d483dfd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-4-02",
+   "short": "O.A.C. 122:5-4-02",
+   "title": "Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-02: Other consideration.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-4-02",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-4",
+     "sha256": "04c31bc998f51175851df05cd3a54558287077510b2e1a667545f6f70d483dfd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-4-03",
+   "short": "O.A.C. 122:5-4-03",
+   "title": "Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-03: Scoring metrics.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-4-03",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-4",
+     "sha256": "04c31bc998f51175851df05cd3a54558287077510b2e1a667545f6f70d483dfd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-4-04",
+   "short": "O.A.C. 122:5-4-04",
+   "title": "Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-04: Grant Distribution.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-4-04",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-4",
+     "sha256": "04c31bc998f51175851df05cd3a54558287077510b2e1a667545f6f70d483dfd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-5-4-05",
+   "short": "O.A.C. 122:5-4-05",
+   "title": "Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-05: State model zoning plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:5-4-05",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:5-4",
+     "sha256": "04c31bc998f51175851df05cd3a54558287077510b2e1a667545f6f70d483dfd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-01",
+   "short": "O.A.C. 122:6-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-01",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-02",
+   "short": "O.A.C. 122:6-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-02: Eligibility and evaluation criteria for the receipt of funds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-02",
+   "versions": [
+    {
+     "from": "2009-08-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-03",
+   "short": "O.A.C. 122:6-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-03: Procedures for paying out funds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-03",
+   "versions": [
+    {
+     "from": "2009-08-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-04",
+   "short": "O.A.C. 122:6-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-04: Fund limitations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-04",
+   "versions": [
+    {
+     "from": "2009-08-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-05",
+   "short": "O.A.C. 122:6-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-05: Fund monitoring procedures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-05",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-6-1-06",
+   "short": "O.A.C. 122:6-1-06",
+   "title": "Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-06: Fund repayment requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:6-1-06",
+   "versions": [
+    {
+     "from": "2009-08-16",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:6-1",
+     "sha256": "803fc0588e20e2fd0241f290555d59db13f67823a6c31948efaef2afe48b92c5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-01",
+   "short": "O.A.C. 122:7-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-01",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-02",
+   "short": "O.A.C. 122:7-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-02: Meetings of the tax credit authority.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-02",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-03",
+   "short": "O.A.C. 122:7-1-03",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-03: Officers.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-03",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-04",
+   "short": "O.A.C. 122:7-1-04",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-04: Fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-04",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-05",
+   "short": "O.A.C. 122:7-1-05",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-05: Eligibility requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-05",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-06",
+   "short": "O.A.C. 122:7-1-06",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-06: Tax credit per cent and term.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-06",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-07",
+   "short": "O.A.C. 122:7-1-07",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-07: Reports.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-07",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-08",
+   "short": "O.A.C. 122:7-1-08",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-08: Remedies.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-08",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-7-1-09",
+   "short": "O.A.C. 122:7-1-09",
+   "title": "Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-09: Relocation of employees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:7-1-09",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:7-1",
+     "sha256": "17f9128f608ec37127ce1fc9c1990bee9824be8b85ef3d34993259f04aa6dca4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-9-1-02",
+   "short": "O.A.C. 122:9-1-02",
+   "title": "Ohio Administrative Code, Chapter 122:9-1 | Tax Exemption Fee, Rule 122:9-1-02: Relocation provisions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:9-1-02",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:9-1",
+     "sha256": "a8f78043a8842ed7e3b6d3abd32c049240992cf30da96861aa7216713e7aa60b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-11-1-01",
+   "short": "O.A.C. 122:11-1-01",
+   "title": "Ohio Administrative Code, Chapter 122:11-1 | Contaminated Site Program, Rule 122:11-1-01: Contaminated site program agreement tax exemption fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:11-1-01",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:11-1",
+     "sha256": "d1995873bd81b8a087caf2f9a3ba58658f0f85fab19e183e829f5c852736709e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-11-2-01",
+   "short": "O.A.C. 122:11-2-01",
+   "title": "Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-01: Commercial Driver's License Training Program - Fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:11-2-01",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:11-2",
+     "sha256": "b79c38a5178bb872aa2d42f5a26412aa69d52b4fa3ad19cb16f5877207abdab9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-11-2-02",
+   "short": "O.A.C. 122:11-2-02",
+   "title": "Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-02: Commercial Driver's License Training Program - Reporting Requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:11-2-02",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:11-2",
+     "sha256": "b79c38a5178bb872aa2d42f5a26412aa69d52b4fa3ad19cb16f5877207abdab9"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-122-11-2-03",
+   "short": "O.A.C. 122:11-2-03",
+   "title": "Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-03: Commercial Driver's License Training Program - Tax Credit Eligible Training Expenses.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-122:11-2-03",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-122:11-2",
+     "sha256": "b79c38a5178bb872aa2d42f5a26412aa69d52b4fa3ad19cb16f5877207abdab9"
+    }
+   ]
+  },
+  {
    "slug": "orc-chapter-1314",
    "short": "R.C. Chapter 1314",
    "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records",

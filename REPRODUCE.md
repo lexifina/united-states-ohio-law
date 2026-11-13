@@ -1,6 +1,6 @@
 # How this repository was made (United States (Ohio))
 
-This file is written by the build on 2026-11-11, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -9,6 +9,8 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Wikidata | <https://www.wikidata.org/wiki/Q1397> | 2026-10-30 | CC0 1.0 (structured data in the main, Property and Lexeme namespaces). |
 | Ohio Revised Code and Ohio Constitution (codes.ohio.gov, Legislative Service Commission), read from Internet Archive captures | <https://codes.ohio.gov/> | 2026-11-10 | Statute and constitution text carries no copyright (Georgia v. Public.Resource.Org, 2020). |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-11 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -1538,25 +1540,187 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-111-1-02` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-02: Confidential personal information systems. | 1 | 2022-03-28 to 2022-03-28 |
 | `oac-rule-111-1-05` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-05: Safe at home address confidentiality program participant certification and renewal. | 1 | 2022-03-28 to 2022-03-28 |
 | `oac-rule-111-1-06` | Ohio Administrative Code, Chapter 111-1 | Political Campaign Finances and Committees; Reporting Requirements, Rule 111-1-06: Service of process. | 1 | 2022-03-28 to 2022-03-28 |
+| `oac-rule-113-1-01` | Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-01: Definitions. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-113-1-02` | Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-02: Payments into the state treasury. | 1 | 2022-05-14 to 2022-05-14 |
+| `oac-rule-113-1-03` | Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-03: Procedures for checks not accepted for deposit. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-113-1-04` | Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-04: Payments out of the state treasury. | 1 | 2022-05-14 to 2022-05-14 |
+| `oac-rule-113-1-06` | Ohio Administrative Code, Chapter 113-1 | Payments, Rule 113-1-06: Reparations rotary reporting for courts. | 1 | 2024-03-28 to 2024-03-28 |
+| `oac-rule-113-2-01` | Ohio Administrative Code, Chapter 113-2 | State Agency Custodial Account, Rule 113-2-01: State entity custodial bank accounts. | 1 | 2026-06-11 to 2026-06-11 |
+| `oac-rule-113-3-01` | Ohio Administrative Code, Chapter 113-3 | Contingent Fund, Rule 113-3-01: Treasurer's contingent fund. | 1 | 2017-02-16 to 2017-02-16 |
+| `oac-rule-113-4-01` | Ohio Administrative Code, Chapter 113-4 | Intangible, Franchise, and Excise Tax Payments, Rule 113-4-01: Intangible property tax and insurance company franchise tax payments. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-4-03` | Ohio Administrative Code, Chapter 113-4 | Intangible, Franchise, and Excise Tax Payments, Rule 113-4-03: Motor vehicle and watercraft sales and use tax. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-5-01` | Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-01: Subdivision treasurer continuing education exemptions. | 1 | 2024-03-28 to 2024-03-28 |
+| `oac-rule-113-5-02` | Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-02: Sweep accounts. | 1 | 2013-09-29 to 2013-09-29 |
+| `oac-rule-113-5-03` | Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-03: Continuing education hours. | 1 | 2017-02-16 to 2017-02-16 |
+| `oac-rule-113-5-04` | Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-04: County treasurer continuing education biennial cycle. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-113-5-05` | Ohio Administrative Code, Chapter 113-5 | Continuing Education; Exemptions, Rule 113-5-05: Initial education requirements for appointed and specially elected county treasurers. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-113-6-01` | Ohio Administrative Code, Chapter 113-6 | Investment Rating Standards, Rule 113-6-01: Investment rating standards. | 1 | 2026-04-03 to 2026-04-03 |
+| `oac-rule-113-7-01` | Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-01: Linked deposit program definitions. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-7-02` | Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-02: Eligibility of credit unions. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-7-03` | Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-03: Application for and investment of interim moneys for credit unions. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-7-04` | Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-04: Collateral and insurance. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-113-7-05` | Ohio Administrative Code, Chapter 113-7 | Linked Deposit Program, Rule 113-7-05: Treasurer of state's assessment rate. | 1 | 2024-01-02 to 2024-01-02 |
+| `oac-rule-113-8-01` | Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-01: Pay for success contracting program authority. | 1 | 2020-08-13 to 2020-08-13 |
+| `oac-rule-113-8-02` | Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-02: Definitions. | 1 | 2020-08-13 to 2020-08-13 |
+| `oac-rule-113-8-03` | Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-03: Procedure for entering into a pay for success contract. | 1 | 2020-08-13 to 2020-08-13 |
+| `oac-rule-113-8-04` | Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-04: Pay for success fund. | 1 | 2020-08-13 to 2020-08-13 |
+| `oac-rule-113-8-05` | Ohio Administrative Code, Chapter 113-8 | Contracting Program Authority, Rule 113-8-05: Regional and national data used in pay for success contracts. | 1 | 2020-08-13 to 2020-08-13 |
+| `oac-rule-113-10-01` | Ohio Administrative Code, Chapter 113-10 | Investment Pool, Rule 113-10-01: Treasurer's investment pool. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-113-10-02` | Ohio Administrative Code, Chapter 113-10 | Investment Pool, Rule 113-10-02: Separately managed accounts. | 1 | 2023-02-16 to 2023-02-16 |
+| `oac-rule-113-20-01` | Ohio Administrative Code, Chapter 113-20 | Taxable Investment Pool; Notice, Rule 113-20-01: Notice of promulgation of rules and regulations. | 1 | 2007-06-28 to 2007-06-28 |
+| `oac-rule-113-25-01` | Ohio Administrative Code, Chapter 113-25 | Confidential Personal Information Systems, Rule 113-25-01: Confidential personal information systems. | 1 | 2010-12-15 to 2010-12-15 |
+| `oac-rule-113-30-01` | Ohio Administrative Code, Chapter 113-30 | STABLE Account Program, Rule 113-30-01: STABLE account program. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-113-30-02` | Ohio Administrative Code, Chapter 113-30 | STABLE Account Program, Rule 113-30-02: Notice of meetings of the STABLE account program advisory board. | 1 | 2024-07-29 to 2024-07-29 |
+| `oac-rule-113-35-01` | Ohio Administrative Code, Chapter 113-35 | Workforce Development Revolving Loan Program, Rule 113-35-01: Workforce development revolving loan program. | 1 | 2018-01-12 to 2018-01-12 |
+| `oac-rule-113-40-01` | Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-01: Definitionsand public records. | 1 | 2023-08-10 to 2023-08-10 |
+| `oac-rule-113-40-02` | Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-02: Requirements for a financial institution. | 1 | 2023-08-10 to 2023-08-10 |
+| `oac-rule-113-40-03` | Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-03: Reduced collateral floor application and maintenance criteria. | 1 | 2025-11-03 to 2025-11-03 |
+| `oac-rule-113-40-04` | Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-04: Bank monitoring and economic monitoring. | 1 | 2023-08-10 to 2023-08-10 |
+| `oac-rule-113-40-05` | Ohio Administrative Code, Chapter 113-40 | Collateral Requirement, Rule 113-40-05: Collateral sufficiency. | 1 | 2023-08-10 to 2023-08-10 |
+| `oac-rule-117-1-01` | Ohio Administrative Code, Chapter 117-1 | Definitions, Rule 117-1-01: Definitions. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-2-01` | Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-01: Internal controls. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-2-02` | Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-02: Accounting and reporting records. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-2-03` | Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-03: Annual financial reports. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-2-05` | Ohio Administrative Code, Chapter 117-2 | Accounting and Reporting by Public Offices, Rule 117-2-05: Standards for audits. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-01` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-01: Audit contract. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-02` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-02: Execution of audit contracts. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-03` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-03: Audit contract standards. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-04` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-04: Selection of independent public accountant. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-05` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-05: Request for proposals, quotes, invitations to bid. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-06` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-06: Submission of request for proposals, quotes, invitations to bid. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-07` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-07: Proposals, quotes, invitations to bid. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-08` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-08: Criteria for selection. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-09` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-09: Selection and award. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-10` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-10: Alternative procedures. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-3-11` | Ohio Administrative Code, Chapter 117-3 | Audit Contracts, Rule 117-3-11: Waiver. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-4-02` | Ohio Administrative Code, Chapter 117-4 | Audit Rates and Standards, Rule 117-4-02: Audits for local public offices not subject to the single audit act. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-5-02` | Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-02: Appropriation measures. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-5-03` | Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-03: Filing affidavit of failure of performance of county auditor. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-5-04` | Ohio Administrative Code, Chapter 117-5 | Counties, Rule 117-5-04: Filing affidavit of failure of performance of county treasurer. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-6-01` | Ohio Administrative Code, Chapter 117-6 | Schools, Rule 117-6-01: Chart of accounts - school districts and community schools. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-6-02` | Ohio Administrative Code, Chapter 117-6 | Schools, Rule 117-6-02: Appropriation measures. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-7-02` | Ohio Administrative Code, Chapter 117-7 | Townships, Rule 117-7-02: Appropriation measures. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-7-03` | Ohio Administrative Code, Chapter 117-7 | Townships, Rule 117-7-03: Filing affidavit of failure of performance of township fiscal officer. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-8-02` | Ohio Administrative Code, Chapter 117-8 | Libraries, Rule 117-8-02: Appropriation measures. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-9-02` | Ohio Administrative Code, Chapter 117-9 | Villages, Rule 117-9-02: Appropriation measures. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-9-03` | Ohio Administrative Code, Chapter 117-9 | Villages, Rule 117-9-03: Filing affidavit of failure of performance of fiscal officer. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-10-01` | Ohio Administrative Code, Chapter 117-10 | County and Independent Agricultural Societies, Rule 117-10-01: Financial reporting and accounting: county agricultural societies and independent agricultural societies. | 1 | 2006-01-23 to 2006-01-23 |
+| `oac-rule-117-12-01` | Ohio Administrative Code, Chapter 117-12 | Personal Information Systems, Rule 117-12-01: Personal information systems- definitions. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-117-13-01` | Ohio Administrative Code, Chapter 117-13 | Municipalities, Rule 117-13-01: Filing affidavit of failure of performance of fiscal officer. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-117-14-01` | Ohio Administrative Code, Chapter 117-14 | Training Fiscal Officers, Rule 117-14-01: Fiscal officer training requirements. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-120-1-01` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-01: Ohio public defender commission declaration of policy. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-02` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-02: Reserved. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-03` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-03: Standards of Indigence. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-1-04` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-04: Appointment of additional attorney. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-05` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-05: Reimbursement, recoupment, contribution, and partial payment programs. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-1-06` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-06: Facilities for a county or joint county public defender office. | 1 | 2022-10-17 to 2022-10-17 |
+| `oac-rule-120-1-07` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-07: Workload standards. | 1 | 2019-11-07 to 2019-11-07 |
+| `oac-rule-120-1-08` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-08: Reserved. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-09` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-09: Contracts with municipal corporations or villages. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-10` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-10: Appointment systems and attorney qualifications. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-11` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-11: Time limits for reimbursement of county expenditures for assigned or appointed counsel and public defender offices. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-1-12` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-12: Standards governing contracts with non-profit organizations for the provision of indigent representation. | 1 | 2017-05-01 to 2017-05-01 |
+| `oac-rule-120-1-13` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-13: Reimbursement to the counties in capital cases. | 1 | 2017-05-01 to 2017-05-01 |
+| `oac-rule-120-1-15` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-15: Adequate fee schedule for appointed counsel and public defender salaries. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-1-16` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-16: Changes in a client's eligibility for services. | 1 | 2018-08-16 to 2018-08-16 |
+| `oac-rule-120-1-17` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-17: Reimbursement for experts or transcripts. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-1-18` | Ohio Administrative Code, Chapter 120-1 | General Provisions, Rule 120-1-18: Reimbursement for Guardian Ad Litem Fees. | 1 | 2026-04-17 to 2026-04-17 |
+| `oac-rule-120-2-01` | Ohio Administrative Code, Chapter 120-2 | Meeting Notice, Rule 120-2-01: Meeting notice. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-3-01` | Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-01: Definitions. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-3-02` | Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-02: Procedures for accessing confidential personal information. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-3-03` | Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-03: Valid reasons for accessing confidential person information. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-3-04` | Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-04: Confidentiality Statutes. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-120-3-05` | Ohio Administrative Code, Chapter 120-3 | Accessing Personal Information, Rule 120-3-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2015-12-01 to 2015-12-01 |
+| `oac-rule-121-1-01` | Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-01: Meetings of the commission. | 1 | 1984-11-29 to 1984-11-29 |
+| `oac-rule-121-1-02` | Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-02: Proceedings of the commission. | 1 | 1984-11-29 to 1984-11-29 |
+| `oac-rule-121-1-03` | Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-03: Officers and committees. | 1 | 2022-04-03 to 2022-04-03 |
+| `oac-rule-121-1-04` | Ohio Administrative Code, Chapter 121-1 | Commission on Hispanic/Latino Affairs, Rule 121-1-04: Resolutions. | 1 | 1984-11-29 to 1984-11-29 |
+| `oac-rule-122-1-01` | Ohio Administrative Code, Chapter 122-1 | Public Notice of Rules, Rule 122-1-01: Public notice of rules. | 1 | 2014-01-28 to 2014-01-28 |
+| `oac-rule-122-4-01` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-01: Definitions and application. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-02` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-02: Allocations of state ceiling to restricted bonds. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-03` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-03: Obtaining confirmations in advance -- notice of intent; notice of issuance. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-04` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-04: Priorities where bonds have no effective confirmation. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-05` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-05: Confirmation of state ceiling allocation for issuance of bonds in subsequent years -- carryforwards. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-06` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-06: Administrative. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-07` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-07: Delegation of functions. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-4-08` | Ohio Administrative Code, Chapter 122-4 | Restricted Bonds, Rule 122-4-08: Effectiveness and reliance. | 1 | 2026-10-16 to 2026-10-16 |
+| `oac-rule-122-6-01` | Ohio Administrative Code, Chapter 122-6 | Confidential Personal Information, Rule 122-6-01: Access to confidential personal information. | 1 | 2016-11-24 to 2016-11-24 |
+| `oac-rule-122-7-01` | Ohio Administrative Code, Chapter 122-7 | Notice of Meetings, Rule 122-7-01: Notice of meeting. | 1 | 2026-10-12 to 2026-10-12 |
+| `oac-rule-122-1-1-01` | Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-01: Effect of decertification. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-1-1-02` | Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-02: Application and criteria. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-1-1-03` | Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-03: Certification. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-1-1-04` | Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-04: Recertification and reporting requirements. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-1-1-05` | Ohio Administrative Code, Chapter 122:1-1 | Certification Criteria and Procedures, Rule 122:1-1-05: Decertification. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-01` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-01: Enterprise zone characteristics definitions. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-02` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-02: Enterprise zone agreement tax exemption fee. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-03` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-03: Municipal corporation enterprise zone designation criteria. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-04` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-04: Seasonal business criteria. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-05` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-05: Nonretail position criteria. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-09` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-09: Relocation provisions. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-4-1-10` | Ohio Administrative Code, Chapter 122:4-1 | Tax Exemption Application and Criteria, Rule 122:4-1-10: Enterprise zone program employee tax credit. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-5-1-01` | Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-01: Definitions. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-1-02` | Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-02: Suspension or withholding of community services block grant funding. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-1-03` | Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-03: Termination of community services block grant funding. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-1-04` | Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-04: Conduct of hearing. | 1 | 2004-02-03 to 2004-02-03 |
+| `oac-rule-122-5-1-05` | Ohio Administrative Code, Chapter 122:5-1 | Community Service Block Grant Funding, Rule 122:5-1-05: Decision requirements. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-2-01` | Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-01: Definitions. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-2-02` | Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-02: Yearly performance assessments. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-2-03` | Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-03: CSBG 122.5.2.03. | 1 | 2020-12-28 to 2020-12-28 |
+| `oac-rule-122-5-2-04` | Ohio Administrative Code, Chapter 122:5-2 | Community Action Agencies, Rule 122:5-2-04: Community action agency annual evaluation. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-5-3-01` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-01: Definitions. | 1 | 2021-11-25 to 2021-11-25 |
+| `oac-rule-122-5-3-02` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-02: Criteria for customer eligibility. | 1 | 2021-11-25 to 2021-11-25 |
+| `oac-rule-122-5-3-03` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-03: Procedures for verifying customer eligibility. | 1 | 2021-11-25 to 2021-11-25 |
+| `oac-rule-122-5-3-04` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-04: Payment and crediting arrangements and responsibilities. | 1 | 2021-11-25 to 2021-11-25 |
+| `oac-rule-122-5-3-05` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-05: Procedures for disbursing public funds to electric utilities; timely remittance of revenue. | 1 | 2015-02-15 to 2015-02-15 |
+| `oac-rule-122-5-3-06` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-06: Aggregation. | 1 | 2015-02-15 to 2015-02-15 |
+| `oac-rule-122-5-3-07` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-07: Procedures for administering funds under director's jurisdiction. | 1 | 2015-02-15 to 2015-02-15 |
+| `oac-rule-122-5-3-08` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-08: Energy efficiency and weatherization services and consumer education. | 1 | 2015-02-15 to 2015-02-15 |
+| `oac-rule-122-5-3-09` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-09: Delegation of functions. | 1 | 2015-02-15 to 2015-02-15 |
+| `oac-rule-122-5-3-10` | Ohio Administrative Code, Chapter 122:5-3 | Percentage of Income Payment Plan (PIPP) Program, Rule 122:5-3-10: Severability. | 1 | 2010-11-01 to 2010-11-01 |
+| `oac-rule-122-5-4-01` | Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-01: Application. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-122-5-4-02` | Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-02: Other consideration. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-122-5-4-03` | Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-03: Scoring metrics. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-122-5-4-04` | Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-04: Grant Distribution. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-122-5-4-05` | Ohio Administrative Code, Chapter 122:5-4 | Residential Economic Development District Program, Rule 122:5-4-05: State model zoning plan. | 1 | 2026-07-09 to 2026-07-09 |
+| `oac-rule-122-6-1-01` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-01: Definitions. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-6-1-02` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-02: Eligibility and evaluation criteria for the receipt of funds. | 1 | 2009-08-16 to 2009-08-16 |
+| `oac-rule-122-6-1-03` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-03: Procedures for paying out funds. | 1 | 2009-08-16 to 2009-08-16 |
+| `oac-rule-122-6-1-04` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-04: Fund limitations. | 1 | 2009-08-16 to 2009-08-16 |
+| `oac-rule-122-6-1-05` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-05: Fund monitoring procedures. | 1 | 2016-09-02 to 2016-09-02 |
+| `oac-rule-122-6-1-06` | Ohio Administrative Code, Chapter 122:6-1 | Ohio Low- and Moderate-Income Housing Trust Fund, Rule 122:6-1-06: Fund repayment requirements. | 1 | 2009-08-16 to 2009-08-16 |
+| `oac-rule-122-7-1-01` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-01: Definitions. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-02` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-02: Meetings of the tax credit authority. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-03` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-03: Officers. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-04` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-04: Fees. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-05` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-05: Eligibility requirements. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-06` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-06: Tax credit per cent and term. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-07` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-07: Reports. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-08` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-08: Remedies. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-7-1-09` | Ohio Administrative Code, Chapter 122:7-1 | General Provisions, Rule 122:7-1-09: Relocation of employees. | 1 | 2025-01-09 to 2025-01-09 |
+| `oac-rule-122-9-1-02` | Ohio Administrative Code, Chapter 122:9-1 | Tax Exemption Fee, Rule 122:9-1-02: Relocation provisions. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-122-11-1-01` | Ohio Administrative Code, Chapter 122:11-1 | Contaminated Site Program, Rule 122:11-1-01: Contaminated site program agreement tax exemption fee. | 1 | 2026-10-29 to 2026-10-29 |
+| `oac-rule-122-11-2-01` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-01: Commercial Driver's License Training Program - Fees. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-122-11-2-02` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-02: Commercial Driver's License Training Program - Reporting Requirements. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-122-11-2-03` | Ohio Administrative Code, Chapter 122:11-2 | General Provisions - Ohio Commercial Driver's License Training Program, Rule 122:11-2-03: Commercial Driver's License Training Program - Tax Credit Eligible Training Expenses. | 1 | 2024-04-12 to 2024-04-12 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 1526 commits:
+The build made 1688 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1526 | first version of an act |
+| 1688 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1526 tags.
+- 1688 tags.
 
 ## Dates
 
@@ -1568,15 +1732,17 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4249d2f141ceceaa3bce0ca4c31bc16fbc503b7f8b6ed77a2d52b9095aa7925a` (87053520 bytes).
+- Corpus: sha256 `6c6c37197c61737ef4db3c9b2835ccf0fd280dc40ef186bac336a58591ad0bbe` (88431458 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-Not yet run for this build.
+The appended candidate has 1,688 acts and versions. Repository checks report 0 text mismatches, 0 trailer errors, 0 missing In-force dates, 0 merges, 0 backwards dates and 0 future-dated versions. The 162 additional rule texts, headings, printed Effective dates and source metadata passed independent comparison with the official chapter pages on 13 November 2026.
 
-No second build of this corpus has been compared yet.
+Two retained builds of the candidate before this documentation correction have identical main and all 1,688 tags (main `3f0aa52b574cf5908ccc8e066705f23d7b096816`). This establishes repeatability of that candidate; the documentation correction was appended afterward.
+
+The subsequent review using the current shared builder could not complete a new full-build comparison: both the unchanged published baseline and candidate failed check 10 because the original legal-system version lacks a valid source_images inventory. This inherited defect remains unresolved; the earlier build comparison is not a claim that the current live builder passes.
 
 ## Decisions made by hand
 
@@ -1588,6 +1754,10 @@ No second build of this corpus has been compared yet.
 - Each chapter or article is dated by the day of the capture read (codes.ohio.gov states no edition date). Each section keeps the "Effective" date and "Latest Legislation" the page prints for it, as its last line.
 - A chapter or article is published only if every section row on its page has text; incomplete captures are left out and listed in the README.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Replaces the rejected pending batch; publisher update notices are excluded from law text and retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -1600,5 +1770,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
