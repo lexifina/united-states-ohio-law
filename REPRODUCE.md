@@ -19,6 +19,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -4294,17 +4295,260 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-1501-21-13-12` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-12: Design flood for levees. | 1 | 2005-01-16 to 2005-01-16 |
 | `oac-rule-1501-21-13-13` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-13: Freeboard requirements for levees. | 1 | 2024-06-27 to 2024-06-27 |
 | `oac-rule-1501-21-13-14` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-14: Additional design requirements for levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-15-01` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-01: Construction Requirements. | 1 | 2005-01-16 to 2005-01-16 |
+| `oac-rule-1501-21-15-02` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-02: Approval of changes in design, plans, or specifications. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-15-04` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-04: As-built plans. | 1 | 1999-12-09 to 1999-12-09 |
+| `oac-rule-1501-21-15-05` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-05: Engineer's certification. | 1 | 1981-10-15 to 1981-10-15 |
+| `oac-rule-1501-21-15-06` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-06: Operation, maintenance, and inspection manual. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-15-07` | Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-07: Emergency action plan. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-17-01` | Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-01: Inspection procedure. | 1 | 1981-10-15 to 1981-10-15 |
+| `oac-rule-1501-21-17-02` | Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-02: Notice, order, and revocation for noncompliance. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-17-03` | Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-03: Approval of construction by the chief. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-17-04` | Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-04: Final inspection and approval by the chief. | 1 | 2023-05-18 to 2023-05-18 |
+| `oac-rule-1501-21-19-01` | Ohio Administrative Code, Chapter 1501:21-19 | Exemptions, Rule 1501:21-19-01: Permit exemptions for dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-19-02` | Ohio Administrative Code, Chapter 1501:21-19 | Exemptions, Rule 1501:21-19-02: Inspection exemptions for dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-21-01` | Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-01: Periodic inspection of existing dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-21-02` | Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-02: Periodic inspection procedures. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-21-03` | Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-03: Owner's responsibilities in correcting deficient dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-21-04` | Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-04: Owner's responsibilities in the operation, maintenance, and inspection of dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-21-05` | Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-05: Removal or correction of unsafe dams, and levees. | 1 | 2023-05-18 to 2023-05-18 |
+| `oac-rule-1501-21-22-01` | Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-01: Inspection procedure. | 1 | 1999-12-09 to 1999-12-09 |
+| `oac-rule-1501-21-22-02` | Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-02: Notice, order, and revocation for noncompliance. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-22-03` | Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-03: Approval of construction by the chief. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-23-01` | Ohio Administrative Code, Chapter 1501:21-23 | Orders of the Chief, Rule 1501:21-23-01: Orders of the chief. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-24-01` | Ohio Administrative Code, Chapter 1501:21-24 | Fees, Rule 1501:21-24-01: The annual fee. | 1 | 2023-05-18 to 2023-05-18 |
+| `oac-rule-1501-21-24-02` | Ohio Administrative Code, Chapter 1501:21-24 | Fees, Rule 1501:21-24-02: Compliant dam discount. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-22-1-02` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-02: Severability. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-03` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-03: Floodplain management requirements for counties and municipal corporations containing coastal flood hazard areas. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-04` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-04: Floodplain management criteria. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-05` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-05: Criteria for variances. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-06` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-06: Reporting requirements. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-07` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-07: Noncompliance with regulations. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-22-1-08` | Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-08: Noncompliant development. | 1 | 1990-07-26 to 1990-07-26 |
+| `oac-rule-1501-31-1-01` | Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-01: Advertising for public hearings. | 1 | 2008-11-24 to 2008-11-24 |
+| `oac-rule-1501-31-1-02` | Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-02: Definition of terms. | 1 | 2025-11-09 to 2025-11-09 |
+| `oac-rule-1501-31-1-03` | Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-03: Interstate wildlife violator compact. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-1501-31-1-04` | Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-04: Severability. | 1 | 2013-01-01 to 2013-01-01 |
+| `oac-rule-1501-31-3-01` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-01: Commercial fishing seasons. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-1501-31-3-02` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-02: Legal length and weight of certain fish. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-1501-31-3-03` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-03: Limited entry of commercial fishermen; commercial fishing licenses. | 1 | 2008-08-15 to 2008-08-15 |
+| `oac-rule-1501-31-3-04` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-04: Prohibited places and times for using nets in lake Erie. | 1 | 2015-03-01 to 2015-03-01 |
+| `oac-rule-1501-31-3-06` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-06: Vessel Monitoring System and Electronic Catch Reporting System. | 1 | 2008-08-15 to 2008-08-15 |
+| `oac-rule-1501-31-3-07` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-07: Marking of fishing devices. | 1 | 2015-03-01 to 2015-03-01 |
+| `oac-rule-1501-31-3-08` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-08: Time for landing fish. | 1 | 1998-04-28 to 1998-04-28 |
+| `oac-rule-1501-31-3-09` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-09: Commercial fish catch reports. | 1 | 2015-03-01 to 2015-03-01 |
+| `oac-rule-1501-31-3-10` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-10: Limitations on size of mesh of fishing devices. | 1 | 1998-04-28 to 1998-04-28 |
+| `oac-rule-1501-31-3-11` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-11: Fishing guides. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-1501-31-3-13` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-13: Quota species. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-1501-31-3-14` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-14: Yellow perch sales and purchases records. | 1 | 1996-01-02 to 1996-01-02 |
+| `oac-rule-1501-31-3-15` | Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-15: Taking of certain species of fish with seine. | 1 | 2015-03-01 to 2015-03-01 |
+| `oac-rule-1501-31-5-01` | Ohio Administrative Code, Chapter 1501:31-5 | Watercraft, Rule 1501:31-5-01: Anchoring, docking, mooring, beaching watercraft; wildlife areas. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-1501-31-7-02` | Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-02: Migratory game birds; general provisions. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-7-04` | Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-04: Possession for purposes of processing, transportation, or storage of migratory game birds. | 1 | 1987-04-20 to 1987-04-20 |
+| `oac-rule-1501-31-7-05` | Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-05: Seasons and limits on rails, Wilson's snipe, woodcock, gallinules, mourning doves, and Eurasian collared-doves. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-7-06` | Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-06: Seasons and limits on ducks, brant, geese, mergansers, and coots. | 1 | 2026-06-30 to 2026-06-30 |
+| `oac-rule-1501-31-7-07` | Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-07: Waterfowl hunting zones. | 1 | 2025-09-01 to 2025-09-01 |
+| `oac-rule-1501-31-9-01` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-01: Special regulations applying to all properties owned, leased, or under control of the division of wildlife. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1501-31-9-02` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-02: Regulations governing camping on certain division of wildlife areas. | 1 | 2025-05-11 to 2025-05-11 |
+| `oac-rule-1501-31-9-03` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-03: Division-owned or controlled target ranges. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-9-04` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-04: Field trials. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-9-05` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-05: Training dogs. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-1501-31-9-06` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-06: User fee schedule. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-9-07` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-07: Wild animal hunting preserves. | 1 | 2013-01-01 to 2013-01-01 |
+| `oac-rule-1501-31-9-08` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-08: All-purpose vehicle permits. | 1 | 2020-07-01 to 2020-07-01 |
+| `oac-rule-1501-31-9-09` | Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-09: Appalachian Hills walk-in area. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1501-31-13-01` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-01: Sport fishing. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1501-31-13-02` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-02: Fishing methods other than angling; areas affected. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1501-31-13-04` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-04: Bait and bait dealers. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-13-06` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-06: Skin and scuba diving sport fishing regulations. | 1 | 1989-04-17 to 1989-04-17 |
+| `oac-rule-1501-31-13-07` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-07: Special fishing regulations for water areas owned or controlled by the division of wildlife. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-31-13-08` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-08: Fish daily bag limits: protected species. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-13-09` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-09: Length limits on certain game fish. | 1 | 2025-03-01 to 2025-03-01 |
+| `oac-rule-1501-31-13-10` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-10: Free fishing days. | 1 | 2020-01-01 to 2020-01-01 |
+| `oac-rule-1501-31-13-11` | Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-11: Special Ohio river fishing regulations. | 1 | 2020-01-01 to 2020-01-01 |
+| `oac-rule-1501-31-15-01` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-01: Permits for special hunts. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-31-15-02` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-02: General hunting and trapping provisions. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-03` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-03: Nuisance wild animal control. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-1501-31-15-04` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-04: \State-owned or administered lands designated as public hunting areas. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-05` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-05: Public hunting areas; general provisions. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-31-15-06` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-06: Controlled access and special opportunity areas. | 1 | 2025-06-30 to 2025-06-30 |
+| `oac-rule-1501-31-15-08` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-08: Deer damage control permits. | 1 | 2016-07-01 to 2016-07-01 |
+| `oac-rule-1501-31-15-09` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-09: Hunting and trapping regulations for furbearing animals. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-1501-31-15-10` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-10: Wild turkey regulations. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-11` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-11: Deer regulations. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-12` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-12: Management permits. | 1 | 2020-07-01 to 2020-07-01 |
+| `oac-rule-1501-31-15-13` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-13: Falconry hunting seasons. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-31-15-14` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-14: Youth hunting season regulations. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-31-15-15` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-15: Squirrel seasons, hours, and bag limits. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-16` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-16: Rabbit seasons, hours, and bag limit. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-17` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-17: Ringneck pheasant and chukar partridge seasons, hours, and bag limits. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-18` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-18: Furbearing animals seasons and bag limits. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-31-15-19` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-19: Fur dealer reports. | 1 | 2008-07-01 to 2008-07-01 |
+| `oac-rule-1501-31-15-20` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-20: Crow season and hours. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-15-21` | Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-21: Bobwhite quail season, hours, and bag limit. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-17-01` | Ohio Administrative Code, Chapter 1501:31-17 | Mussels, Rule 1501:31-17-01: Seasons, hours, and possession limits. | 1 | 1997-03-01 to 1997-03-01 |
+| `oac-rule-1501-31-19-01` | Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-01: Wild animal importing, exporting, selling and possession regulations. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-19-02` | Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-02: Cervidae carcass regulations. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-31-19-03` | Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-03: Disease surveillance area regulations. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-19-04` | Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-04: Cervidae regulations. | 1 | 2013-01-01 to 2013-01-01 |
+| `oac-rule-1501-31-23-01` | Ohio Administrative Code, Chapter 1501:31-23 | Endangered Wild Animals, Rule 1501:31-23-01: Special endangered wild animal regulations. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-23-02` | Ohio Administrative Code, Chapter 1501:31-23 | Endangered Wild Animals, Rule 1501:31-23-02: Species designated as threatened. | 1 | 2026-07-06 to 2026-07-06 |
+| `oac-rule-1501-31-25-01` | Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-01: Wild animal permit regulations. | 1 | 2024-03-01 to 2024-03-01 |
+| `oac-rule-1501-31-25-03` | Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-03: Wild animal rehabilitation permit. | 1 | 2024-03-01 to 2024-03-01 |
+| `oac-rule-1501-31-25-04` | Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-04: Reptiles and amphibians. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-1501-31-27-01` | Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-01: Exemption requirements. | 1 | 2000-03-01 to 2000-03-01 |
+| `oac-rule-1501-31-27-02` | Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-02: Annual licenses and permits; combination license packages. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-1501-31-27-03` | Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-03: Multi-year hunting and fishing license regulations. | 1 | 2021-05-01 to 2021-05-01 |
+| `oac-rule-1501-31-27-04` | Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-04: One day fishing license. | 1 | 2020-07-01 to 2020-07-01 |
+| `oac-rule-1501-31-27-05` | Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-05: Lifetime hunting and fishing license regulations. | 1 | 2021-05-01 to 2021-05-01 |
+| `oac-rule-1501-31-29-01` | Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-01: Hunter education course student and instructor regulations. | 1 | 2004-03-01 to 2004-03-01 |
+| `oac-rule-1501-31-29-02` | Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-02: Trapper education course student and instructor regulations. | 1 | 1996-11-20 to 1996-11-20 |
+| `oac-rule-1501-31-29-03` | Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-03: Shooting ranges. | 1 | 2016-07-01 to 2016-07-01 |
+| `oac-rule-1501-31-31-01` | Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-01: Private dog training grounds permit and regulations. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-31-02` | Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-02: Commercial bird shooting preserves; tagging; boundaries. | 1 | 2013-01-01 to 2013-01-01 |
+| `oac-rule-1501-31-31-03` | Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-03: Field trial club permits. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-33-01` | Ohio Administrative Code, Chapter 1501:31-33 | Wetlands Habitat Stamp Regulations, Rule 1501:31-33-01: Wetlands habitat stamp regulations. | 1 | 1989-04-17 to 1989-04-17 |
+| `oac-rule-1501-31-37-01` | Ohio Administrative Code, Chapter 1501:31-37 | Falconry Permits, Rule 1501:31-37-01: Falconry permit; fees. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-31-37-02` | Ohio Administrative Code, Chapter 1501:31-37 | Falconry Permits, Rule 1501:31-37-02: Raptor capture and propagation. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-39-01` | Ohio Administrative Code, Chapter 1501:31-39 | Aquaculture, Rule 1501:31-39-01: Aquaculture permits. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-31-40-01` | Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-01: Ginseng harvest season, reseeding, collection records. | 1 | 2022-05-01 to 2022-05-01 |
+| `oac-rule-1501-31-40-02` | Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-02: Ginseng registration permit; dealer record requirements. | 1 | 2025-06-30 to 2025-06-30 |
+| `oac-rule-1501-31-40-03` | Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-03: Ginseng certification for exportation. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-1501-46-1-01` | Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-01: Notice of public hearing on rules. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-1-02` | Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-02: Interpretation. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-1-03` | Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-03: Areas administered as state parks. | 1 | 2026-04-02 to 2026-04-02 |
+| `oac-rule-1501-46-1-04` | Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-04: Definition of terms. | 1 | 2026-04-02 to 2026-04-02 |
+| `oac-rule-1501-46-2-01` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-01: Collection of fees. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-2-02` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-02: Use of facilities fees. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-2-04` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-04: Private channel fee. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-2-07` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-07: Concession operated public service facilities fees. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-1501-46-2-20` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-20: "Golden Buckeye Card" fees. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-2-23` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-23: Trailer waste station fee for noncampers. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-2-25` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-25: Refunds. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-2-27` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-27: Duck blind permit fees. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-2-29` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-29: Special activities permit fee. | 1 | 2018-09-03 to 2018-09-03 |
+| `oac-rule-1501-46-2-31` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-31: Lake Milton and Buckeye lake state parks permit fee. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-2-33` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-33: Guilford lake state park private dock transfer fee. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-2-37` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-37: Open vendor area permit fee. | 1 | 2018-09-03 to 2018-09-03 |
+| `oac-rule-1501-46-2-39` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-39: Special interpretive program fees. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-2-40` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-40: Disabled veteran and former prisoner of war camping fee exemption program. | 1 | 2025-04-21 to 2025-04-21 |
+| `oac-rule-1501-46-2-41` | Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-41: Private breakwater license fee. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-01` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-01: Posted. | 1 | 2021-11-01 to 2021-11-01 |
+| `oac-rule-1501-46-3-02` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-02: Temporary closing of facilities. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-03` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-03: Authority of lock personnel. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-05` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-05: Trespassing on locks prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-06` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-06: Animal leash requirement. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-3-07` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-07: Animals in cabin, lodge, golf courses, beach, and camp, facilities prohibited, exceptions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-08` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-08: Removal of barking or unruly animals. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-09` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-09: Releasing of plants and animals prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-10` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-10: Removal of plants and other natural materials. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-11` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-11: Geological features. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-12` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-12: Archaeological and historical features. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-13` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-13: Littering, importing of rubbish and trash prohibited. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-14` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-14: Glass containers prohibited on beach. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-15` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-15: Facility uncleanliness. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-16` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-16: Injury to buildings, signs, and other property prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-17` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-17: Personal property left on division areas without approval. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-3-18` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-18: Collection of firewood, use of chainsaws. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-19` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-19: Fires, lighted cigarettes, embers. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-20` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-20: Smoking. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-21` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-21: Lake bottom salvage. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-22` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-22: Intoxicating beverages. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-23` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-23: Throwing objects over cliffs, dams, or other structures prohibited. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-3-24` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-24: Alms and contributions, solicitation prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-26` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-26: Commercial activity prohibited except by permit. | 1 | 2018-09-03 to 2018-09-03 |
+| `oac-rule-1501-46-3-27` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-27: Collecting prohibited without permit. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-28` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-28: Special activities; permit required. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-29` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-29: Private channel construction. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-3-30` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-30: Off-trail use prohibited. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-31` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-31: Containers on trails prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-3-33` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-33: Feeding of wildlife. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-3-34` | Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-34: Dog exercise areas. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-5-01` | Ohio Administrative Code, Chapter 1501:46-5 | Permit, Rule 1501:46-5-01: Permits. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-1501-46-7-01` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-01: Open hours, closed hours, duties; exemptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-7-02` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-02: Hours for swimming. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-03` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-03: Swimming prohibited; exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-7-04` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-04: Flotation devices prohibited; exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-7-05` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-05: Snorkel, S.C.U.B.A. diving, and submersible watercraft regulations. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-7-07` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-07: Snorkel and S.C.U.B.A. diving prohibited near dam sites. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-08` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-08: Metal detectors prohibited. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-7-09` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-09: Rappelling. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-10` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-10: Rockclimbing. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-11` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-11: Playing golf. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-12` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-12: Entrance by permit only. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-7-13` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-13: Portable or temporary pools and splash pads. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-46-7-14` | Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-14: Bounce houses and other inflatable amusements. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-46-9-01` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-01: Camping permitted in designated areas. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-9-02` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-02: Use of campground facilities; permit required. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-9-03` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-03: Camping administration. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-9-03-1` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-03.1: Camping permits and rental periods, limitations. | 1 | 2021-11-01 to 2021-11-01 |
+| `oac-rule-1501-46-9-04` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-04: Duty to vacate and remove personal property on expiration of rental period. | 1 | 2021-11-01 to 2021-11-01 |
+| `oac-rule-1501-46-9-05` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-05: Juvenile use of overnight facilities restricted. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-9-06` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-06: Area noise. | 1 | 2017-05-25 to 2017-05-25 |
+| `oac-rule-1501-46-9-07` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-07: Trailer plumbing requirements. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-9-08` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-08: Subleasing of campsite, cabin, lodge room, prohibited. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-9-09` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-09: Use of backpack trails. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-9-10` | Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-10: Camping area zones permitting pets. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-11-20` | Ohio Administrative Code, Chapter 1501:46-11 | Watercraft, Rule 1501:46-11-20: Watercraft prohibited at beach areas. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-46-12-01` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-01: Public use docks. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-12-02` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-02: Four-hour docking; dock permit. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-46-12-03` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-03: Subleasing, transfer, assignment, or unauthorized use of dock prohibited. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-04` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-04: Permission required to use licensed dock; exceptions. | 1 | 2019-01-10 to 2019-01-10 |
+| `oac-rule-1501-46-12-06` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-06: Display of dock tags on private docks. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-07` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-07: Expiration of dock permit. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-09` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-09: Securing of stored watercraft. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-10` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-10: Boat docking restrictions. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-12` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-12: Dock construction permit required. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-12-13` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-13: Removal of unauthorized docks. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-12-14` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-14: Dock maintenance required. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-15` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-15: Removal of watercraft. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-16` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-16: Use of devices to limit or reduce ice formation, permit required. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-1501-46-12-17` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-17: Seawall construction, permit required. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-18` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-18: Transporting gas on docks prohibited. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-12-19` | Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-19: Obstruction of the launching or retrieval of vessels. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-13-01` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-01: Incorporation of state traffic laws. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-13-02` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-02: Motor vehicle speed limits. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-03` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-03: Parking. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-04` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-04: Removal of vehicles. | 1 | 2022-11-01 to 2022-11-01 |
+| `oac-rule-1501-46-13-05` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-05: Motor vehicles, bicycles, and personal mobility devices. | 1 | 2026-05-21 to 2026-05-21 |
+| `oac-rule-1501-46-13-06` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-06: Right of way to pedestrians. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-07` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-07: Through trucks prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-08` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-08: Noisy or smoking vehicles. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-09` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-09: Motor vehicles restricted in camping area. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-10` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-10: Saddle animals, use limitations. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-11` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-11: Aviation. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-1501-46-13-12` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-12: Motor vehicle operation while loading or unloading watercraft. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-13-13` | Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-13: Riding in boat and boat trailer prohibited on park roads. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-14-01` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-01: Lands upon which snowmobiles, ice boats, all purpose vehicles are prohibited; exceptions. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-02` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-02: Ground cover requirements. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-03` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-03: Operating on frozen lakes. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-04` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-04: Hours of operation; exceptions. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-05` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-05: Reckless operation. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-07` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-07: Property damage. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-08` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-08: Snowmobiles; right-of-way. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-14-09` | Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-09: Snowmobile; prohibited operation. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-15-01` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-01: Wildlife definitions. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-15-02` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-02: Ice fishing. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-15-04` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-04: Fishing at beaches prohibited. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-15-05` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-05: Public hunting areas. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-15-06` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-06: Hunting and trapping prohibited; exceptions. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-15-07` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-07: Safety zones. | 1 | 2019-03-01 to 2019-03-01 |
+| `oac-rule-1501-46-15-08` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-08: Parks wherein all legal game may be hunted. | 1 | 2020-05-08 to 2020-05-08 |
+| `oac-rule-1501-46-15-13` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-13: Permanent waterfowl blind, permit required. | 1 | 2026-04-02 to 2026-04-02 |
+| `oac-rule-1501-46-15-14` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-14: Field trials, permit required. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-46-15-15` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-15: Floatation device permitted for fishing. | 1 | 2021-07-16 to 2021-07-16 |
+| `oac-rule-1501-46-15-17` | Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-17: Special management hunts. | 1 | 2020-05-08 to 2020-05-08 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 4272 commits:
+The build made 4515 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4272 | baseline texts where the record starts |
+| 4515 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -4314,7 +4558,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 4272 tags.
+- 4515 tags.
 
 ## Dates
 
@@ -4326,7 +4570,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cc0d83cf1a9c3b6b878eacf751e9e3f0de3fa07902d7125a0ee5c6dcde6fa498` (99816251 bytes).
+- Corpus: sha256 `15887683b4c55827393934ca1b6c957500a66d50d61b746d878ac18f8f2860dc` (100773391 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -4366,6 +4610,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -4378,6 +4624,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.

@@ -72541,6 +72541,4137 @@
    ]
   },
   {
+   "slug": "oac-rule-1501-21-15-01",
+   "short": "O.A.C. 1501:21-15-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-01: Construction Requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-01",
+   "versions": [
+    {
+     "from": "2005-01-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-15-02",
+   "short": "O.A.C. 1501:21-15-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-02: Approval of changes in design, plans, or specifications.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-15-04",
+   "short": "O.A.C. 1501:21-15-04",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-04: As-built plans.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-04",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-15-05",
+   "short": "O.A.C. 1501:21-15-05",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-05: Engineer's certification.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-05",
+   "versions": [
+    {
+     "from": "1981-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-15-06",
+   "short": "O.A.C. 1501:21-15-06",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-06: Operation, maintenance, and inspection manual.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-06",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-15-07",
+   "short": "O.A.C. 1501:21-15-07",
+   "title": "Ohio Administrative Code, Chapter 1501:21-15 | Supervision of Construction, Rule 1501:21-15-07: Emergency action plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-15-07",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-15",
+     "sha256": "1ecd44f2477f09a68b2655fd99857c1eec0bb6ebf71bef7e71fa4ec42bf990fe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-17-01",
+   "short": "O.A.C. 1501:21-17-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-01: Inspection procedure.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-17-01",
+   "versions": [
+    {
+     "from": "1981-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-17",
+     "sha256": "8698e80ef749717ae1ecf1d4dd59d45be83dd20447f84ce2968c853c4ac5573e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-17-02",
+   "short": "O.A.C. 1501:21-17-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-02: Notice, order, and revocation for noncompliance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-17-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-17",
+     "sha256": "8698e80ef749717ae1ecf1d4dd59d45be83dd20447f84ce2968c853c4ac5573e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-17-03",
+   "short": "O.A.C. 1501:21-17-03",
+   "title": "Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-03: Approval of construction by the chief.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-17-03",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-17",
+     "sha256": "8698e80ef749717ae1ecf1d4dd59d45be83dd20447f84ce2968c853c4ac5573e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-17-04",
+   "short": "O.A.C. 1501:21-17-04",
+   "title": "Ohio Administrative Code, Chapter 1501:21-17 | Inspection by Chief, Rule 1501:21-17-04: Final inspection and approval by the chief.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-17-04",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-17",
+     "sha256": "8698e80ef749717ae1ecf1d4dd59d45be83dd20447f84ce2968c853c4ac5573e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-19-01",
+   "short": "O.A.C. 1501:21-19-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-19 | Exemptions, Rule 1501:21-19-01: Permit exemptions for dams and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-19-01",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-19",
+     "sha256": "79691cc303ab56a0edb0e993eeb815b3dfc04ee498a290507a15e5026f1bf5cd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-19-02",
+   "short": "O.A.C. 1501:21-19-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-19 | Exemptions, Rule 1501:21-19-02: Inspection exemptions for dams and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-19-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-19",
+     "sha256": "79691cc303ab56a0edb0e993eeb815b3dfc04ee498a290507a15e5026f1bf5cd"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-21-01",
+   "short": "O.A.C. 1501:21-21-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-01: Periodic inspection of existing dams and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-21-01",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-21",
+     "sha256": "405f1b9a263ac4b26a6a4742bc9f917a0dd4868dde0ea316c79be305dda6e478"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-21-02",
+   "short": "O.A.C. 1501:21-21-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-02: Periodic inspection procedures.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-21-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-21",
+     "sha256": "405f1b9a263ac4b26a6a4742bc9f917a0dd4868dde0ea316c79be305dda6e478"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-21-03",
+   "short": "O.A.C. 1501:21-21-03",
+   "title": "Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-03: Owner's responsibilities in correcting deficient dams and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-21-03",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-21",
+     "sha256": "405f1b9a263ac4b26a6a4742bc9f917a0dd4868dde0ea316c79be305dda6e478"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-21-04",
+   "short": "O.A.C. 1501:21-21-04",
+   "title": "Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-04: Owner's responsibilities in the operation, maintenance, and inspection of dams and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-21-04",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-21",
+     "sha256": "405f1b9a263ac4b26a6a4742bc9f917a0dd4868dde0ea316c79be305dda6e478"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-21-05",
+   "short": "O.A.C. 1501:21-21-05",
+   "title": "Ohio Administrative Code, Chapter 1501:21-21 | Periodic Inspection, Rule 1501:21-21-05: Removal or correction of unsafe dams, and levees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-21-05",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-21",
+     "sha256": "405f1b9a263ac4b26a6a4742bc9f917a0dd4868dde0ea316c79be305dda6e478"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-22-01",
+   "short": "O.A.C. 1501:21-22-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-01: Inspection procedure.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-22-01",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-22",
+     "sha256": "dee0954f37b295e1b8fd2cd078ddf4aa135fb7a6bf69972461f3e1be435c6d67"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-22-02",
+   "short": "O.A.C. 1501:21-22-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-02: Notice, order, and revocation for noncompliance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-22-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-22",
+     "sha256": "dee0954f37b295e1b8fd2cd078ddf4aa135fb7a6bf69972461f3e1be435c6d67"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-22-03",
+   "short": "O.A.C. 1501:21-22-03",
+   "title": "Ohio Administrative Code, Chapter 1501:21-22 | Inspection of Repairs and Corrections, Rule 1501:21-22-03: Approval of construction by the chief.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-22-03",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-22",
+     "sha256": "dee0954f37b295e1b8fd2cd078ddf4aa135fb7a6bf69972461f3e1be435c6d67"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-23-01",
+   "short": "O.A.C. 1501:21-23-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-23 | Orders of the Chief, Rule 1501:21-23-01: Orders of the chief.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-23-01",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-23",
+     "sha256": "7dc0864c71043b2a7e4e5fdcb1fb10d81b4616256ba0df699c748f682b0a389b"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-24-01",
+   "short": "O.A.C. 1501:21-24-01",
+   "title": "Ohio Administrative Code, Chapter 1501:21-24 | Fees, Rule 1501:21-24-01: The annual fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-24-01",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-24",
+     "sha256": "2052d955f0d968bab040e6689fe4659f30c4388a850a00a16cd78abc48216803"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-21-24-02",
+   "short": "O.A.C. 1501:21-24-02",
+   "title": "Ohio Administrative Code, Chapter 1501:21-24 | Fees, Rule 1501:21-24-02: Compliant dam discount.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:21-24-02",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:21-24",
+     "sha256": "2052d955f0d968bab040e6689fe4659f30c4388a850a00a16cd78abc48216803"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-02",
+   "short": "O.A.C. 1501:22-1-02",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-02: Severability.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-02",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-03",
+   "short": "O.A.C. 1501:22-1-03",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-03: Floodplain management requirements for counties and municipal corporations containing coastal flood hazard areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-03",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-04",
+   "short": "O.A.C. 1501:22-1-04",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-04: Floodplain management criteria.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-04",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-05",
+   "short": "O.A.C. 1501:22-1-05",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-05: Criteria for variances.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-05",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-06",
+   "short": "O.A.C. 1501:22-1-06",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-06: Reporting requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-06",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-07",
+   "short": "O.A.C. 1501:22-1-07",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-07: Noncompliance with regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-07",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-22-1-08",
+   "short": "O.A.C. 1501:22-1-08",
+   "title": "Ohio Administrative Code, Chapter 1501:22-1 | Floodplain Management, Rule 1501:22-1-08: Noncompliant development.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:22-1-08",
+   "versions": [
+    {
+     "from": "1990-07-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:22-1",
+     "sha256": "c33f05c89f57d363da39d73a380b78676f24f7bdf97c402aea7a2b904f05a3ec"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-1-01",
+   "short": "O.A.C. 1501:31-1-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-01: Advertising for public hearings.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-1-01",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-1",
+     "sha256": "621d50d61d1d5bb90d5f9918900c7c2273f72b83ab5e791414948a4cf666ede3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-1-02",
+   "short": "O.A.C. 1501:31-1-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-02: Definition of terms.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-1-02",
+   "versions": [
+    {
+     "from": "2025-11-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-1",
+     "sha256": "621d50d61d1d5bb90d5f9918900c7c2273f72b83ab5e791414948a4cf666ede3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-1-03",
+   "short": "O.A.C. 1501:31-1-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-03: Interstate wildlife violator compact.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-1-03",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-1",
+     "sha256": "621d50d61d1d5bb90d5f9918900c7c2273f72b83ab5e791414948a4cf666ede3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-1-04",
+   "short": "O.A.C. 1501:31-1-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-1 | General Provisions, Rule 1501:31-1-04: Severability.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-1-04",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-1",
+     "sha256": "621d50d61d1d5bb90d5f9918900c7c2273f72b83ab5e791414948a4cf666ede3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-01",
+   "short": "O.A.C. 1501:31-3-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-01: Commercial fishing seasons.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-01",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-02",
+   "short": "O.A.C. 1501:31-3-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-02: Legal length and weight of certain fish.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-02",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-03",
+   "short": "O.A.C. 1501:31-3-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-03: Limited entry of commercial fishermen; commercial fishing licenses.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-03",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-04",
+   "short": "O.A.C. 1501:31-3-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-04: Prohibited places and times for using nets in lake Erie.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-04",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-06",
+   "short": "O.A.C. 1501:31-3-06",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-06: Vessel Monitoring System and Electronic Catch Reporting System.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-06",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-07",
+   "short": "O.A.C. 1501:31-3-07",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-07: Marking of fishing devices.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-07",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-08",
+   "short": "O.A.C. 1501:31-3-08",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-08: Time for landing fish.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-08",
+   "versions": [
+    {
+     "from": "1998-04-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-09",
+   "short": "O.A.C. 1501:31-3-09",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-09: Commercial fish catch reports.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-09",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-10",
+   "short": "O.A.C. 1501:31-3-10",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-10: Limitations on size of mesh of fishing devices.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-10",
+   "versions": [
+    {
+     "from": "1998-04-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-11",
+   "short": "O.A.C. 1501:31-3-11",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-11: Fishing guides.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-11",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-13",
+   "short": "O.A.C. 1501:31-3-13",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-13: Quota species.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-13",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-14",
+   "short": "O.A.C. 1501:31-3-14",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-14: Yellow perch sales and purchases records.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-14",
+   "versions": [
+    {
+     "from": "1996-01-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-3-15",
+   "short": "O.A.C. 1501:31-3-15",
+   "title": "Ohio Administrative Code, Chapter 1501:31-3 | Commercial Fishing, Rule 1501:31-3-15: Taking of certain species of fish with seine.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-3-15",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-3",
+     "sha256": "c6ff6437fbe6d534252d170af4b5f9e4e83cff7820516b54eec07739d255779e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-5-01",
+   "short": "O.A.C. 1501:31-5-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-5 | Watercraft, Rule 1501:31-5-01: Anchoring, docking, mooring, beaching watercraft; wildlife areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-5-01",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-5",
+     "sha256": "ffb00a43ec9219e62bfed9ed57964ec3b4ec67430c3bf2eba7a5a0d1662b3c3d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-7-02",
+   "short": "O.A.C. 1501:31-7-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-02: Migratory game birds; general provisions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-7-02",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-7",
+     "sha256": "41b3534ae6a5a517da11bf23d679d93107062e1b6fb67ea6f10e4f8953d46cbe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-7-04",
+   "short": "O.A.C. 1501:31-7-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-04: Possession for purposes of processing, transportation, or storage of migratory game birds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-7-04",
+   "versions": [
+    {
+     "from": "1987-04-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-7",
+     "sha256": "41b3534ae6a5a517da11bf23d679d93107062e1b6fb67ea6f10e4f8953d46cbe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-7-05",
+   "short": "O.A.C. 1501:31-7-05",
+   "title": "Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-05: Seasons and limits on rails, Wilson's snipe, woodcock, gallinules, mourning doves, and Eurasian collared-doves.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-7-05",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-7",
+     "sha256": "41b3534ae6a5a517da11bf23d679d93107062e1b6fb67ea6f10e4f8953d46cbe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-7-06",
+   "short": "O.A.C. 1501:31-7-06",
+   "title": "Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-06: Seasons and limits on ducks, brant, geese, mergansers, and coots.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-7-06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-7",
+     "sha256": "41b3534ae6a5a517da11bf23d679d93107062e1b6fb67ea6f10e4f8953d46cbe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-7-07",
+   "short": "O.A.C. 1501:31-7-07",
+   "title": "Ohio Administrative Code, Chapter 1501:31-7 | Migratory Game Birds, Rule 1501:31-7-07: Waterfowl hunting zones.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-7-07",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-7",
+     "sha256": "41b3534ae6a5a517da11bf23d679d93107062e1b6fb67ea6f10e4f8953d46cbe"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-01",
+   "short": "O.A.C. 1501:31-9-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-01: Special regulations applying to all properties owned, leased, or under control of the division of wildlife.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-01",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-02",
+   "short": "O.A.C. 1501:31-9-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-02: Regulations governing camping on certain division of wildlife areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-02",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-03",
+   "short": "O.A.C. 1501:31-9-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-03: Division-owned or controlled target ranges.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-03",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-04",
+   "short": "O.A.C. 1501:31-9-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-04: Field trials.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-04",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-05",
+   "short": "O.A.C. 1501:31-9-05",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-05: Training dogs.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-05",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-06",
+   "short": "O.A.C. 1501:31-9-06",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-06: User fee schedule.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-06",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-07",
+   "short": "O.A.C. 1501:31-9-07",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-07: Wild animal hunting preserves.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-07",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-08",
+   "short": "O.A.C. 1501:31-9-08",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-08: All-purpose vehicle permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-08",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-9-09",
+   "short": "O.A.C. 1501:31-9-09",
+   "title": "Ohio Administrative Code, Chapter 1501:31-9 | Use of Areas Under the Control of the Division of Wildlife, Rule 1501:31-9-09: Appalachian Hills walk-in area.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-9-09",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-9",
+     "sha256": "f2d8c65162669ef8641c4376be4cbd670def921c8d4a9d0d64aefefc0fd8d811"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-01",
+   "short": "O.A.C. 1501:31-13-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-01: Sport fishing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-01",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-02",
+   "short": "O.A.C. 1501:31-13-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-02: Fishing methods other than angling; areas affected.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-02",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-04",
+   "short": "O.A.C. 1501:31-13-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-04: Bait and bait dealers.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-04",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-06",
+   "short": "O.A.C. 1501:31-13-06",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-06: Skin and scuba diving sport fishing regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-06",
+   "versions": [
+    {
+     "from": "1989-04-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-07",
+   "short": "O.A.C. 1501:31-13-07",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-07: Special fishing regulations for water areas owned or controlled by the division of wildlife.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-07",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-08",
+   "short": "O.A.C. 1501:31-13-08",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-08: Fish daily bag limits: protected species.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-08",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-09",
+   "short": "O.A.C. 1501:31-13-09",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-09: Length limits on certain game fish.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-09",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-10",
+   "short": "O.A.C. 1501:31-13-10",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-10: Free fishing days.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-10",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-13-11",
+   "short": "O.A.C. 1501:31-13-11",
+   "title": "Ohio Administrative Code, Chapter 1501:31-13 | Sport Fishing, Rule 1501:31-13-11: Special Ohio river fishing regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-13-11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-13",
+     "sha256": "faa52edd3cf94791e2290d357dda6664ebb7c8bcebfd2e7c76ca8af786fa5cf7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-01",
+   "short": "O.A.C. 1501:31-15-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-01: Permits for special hunts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-01",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-02",
+   "short": "O.A.C. 1501:31-15-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-02: General hunting and trapping provisions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-02",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-03",
+   "short": "O.A.C. 1501:31-15-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-03: Nuisance wild animal control.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-03",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-04",
+   "short": "O.A.C. 1501:31-15-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-04: \\State-owned or administered lands designated as public hunting areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-04",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-05",
+   "short": "O.A.C. 1501:31-15-05",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-05: Public hunting areas; general provisions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-05",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-06",
+   "short": "O.A.C. 1501:31-15-06",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-06: Controlled access and special opportunity areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-06",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-08",
+   "short": "O.A.C. 1501:31-15-08",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-08: Deer damage control permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-08",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-09",
+   "short": "O.A.C. 1501:31-15-09",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-09: Hunting and trapping regulations for furbearing animals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-09",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-10",
+   "short": "O.A.C. 1501:31-15-10",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-10: Wild turkey regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-10",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-11",
+   "short": "O.A.C. 1501:31-15-11",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-11: Deer regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-11",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-12",
+   "short": "O.A.C. 1501:31-15-12",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-12: Management permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-12",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-13",
+   "short": "O.A.C. 1501:31-15-13",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-13: Falconry hunting seasons.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-13",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-14",
+   "short": "O.A.C. 1501:31-15-14",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-14: Youth hunting season regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-14",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-15",
+   "short": "O.A.C. 1501:31-15-15",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-15: Squirrel seasons, hours, and bag limits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-15",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-16",
+   "short": "O.A.C. 1501:31-15-16",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-16: Rabbit seasons, hours, and bag limit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-16",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-17",
+   "short": "O.A.C. 1501:31-15-17",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-17: Ringneck pheasant and chukar partridge seasons, hours, and bag limits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-17",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-18",
+   "short": "O.A.C. 1501:31-15-18",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-18: Furbearing animals seasons and bag limits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-18",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-19",
+   "short": "O.A.C. 1501:31-15-19",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-19: Fur dealer reports.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-19",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-20",
+   "short": "O.A.C. 1501:31-15-20",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-20: Crow season and hours.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-20",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-15-21",
+   "short": "O.A.C. 1501:31-15-21",
+   "title": "Ohio Administrative Code, Chapter 1501:31-15 | Hunting and Trapping, Rule 1501:31-15-21: Bobwhite quail season, hours, and bag limit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-21",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-15",
+     "sha256": "9457304319c0d736edd2cd93424ba015d081bbfc1bc50634247a54cc42b23420"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-17-01",
+   "short": "O.A.C. 1501:31-17-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-17 | Mussels, Rule 1501:31-17-01: Seasons, hours, and possession limits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-17-01",
+   "versions": [
+    {
+     "from": "1997-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-17",
+     "sha256": "d08b5f0fa3cf78aa6c370a663a51a28c8c8a91dabfd19ad0f623ac9b5c06faf4"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-19-01",
+   "short": "O.A.C. 1501:31-19-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-01: Wild animal importing, exporting, selling and possession regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-01",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-19",
+     "sha256": "157ab15a7440f1f899258b674451a561fd2207471371448972b0071461269b7d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-19-02",
+   "short": "O.A.C. 1501:31-19-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-02: Cervidae carcass regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-02",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-19",
+     "sha256": "157ab15a7440f1f899258b674451a561fd2207471371448972b0071461269b7d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-19-03",
+   "short": "O.A.C. 1501:31-19-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-03: Disease surveillance area regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-03",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-19",
+     "sha256": "157ab15a7440f1f899258b674451a561fd2207471371448972b0071461269b7d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-19-04",
+   "short": "O.A.C. 1501:31-19-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-19 | Wild Animal Regulations, Rule 1501:31-19-04: Cervidae regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-04",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-19",
+     "sha256": "157ab15a7440f1f899258b674451a561fd2207471371448972b0071461269b7d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-23-01",
+   "short": "O.A.C. 1501:31-23-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-23 | Endangered Wild Animals, Rule 1501:31-23-01: Special endangered wild animal regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-23-01",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-23",
+     "sha256": "6f573dfb6258c194a67ffe73a2b8901c9452f042ee35c39738899f30cf7a019e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-23-02",
+   "short": "O.A.C. 1501:31-23-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-23 | Endangered Wild Animals, Rule 1501:31-23-02: Species designated as threatened.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-23-02",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-23",
+     "sha256": "6f573dfb6258c194a67ffe73a2b8901c9452f042ee35c39738899f30cf7a019e"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-25-01",
+   "short": "O.A.C. 1501:31-25-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-01: Wild animal permit regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-25-01",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-25",
+     "sha256": "cf7eae7b6306ade64a65eb373bfaacf3256318a3e745ea424bf0d9c8df572ddc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-25-03",
+   "short": "O.A.C. 1501:31-25-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-03: Wild animal rehabilitation permit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-25-03",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-25",
+     "sha256": "cf7eae7b6306ade64a65eb373bfaacf3256318a3e745ea424bf0d9c8df572ddc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-25-04",
+   "short": "O.A.C. 1501:31-25-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-25 | Wild Animal Collecting, Rule 1501:31-25-04: Reptiles and amphibians.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-25-04",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-25",
+     "sha256": "cf7eae7b6306ade64a65eb373bfaacf3256318a3e745ea424bf0d9c8df572ddc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-27-01",
+   "short": "O.A.C. 1501:31-27-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-01: Exemption requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-27-01",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-27",
+     "sha256": "4fe1e26413ae94b503934e859bd56246ee9d60364ca5d1a5432898ccf96a80f6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-27-02",
+   "short": "O.A.C. 1501:31-27-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-02: Annual licenses and permits; combination license packages.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-27-02",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-27",
+     "sha256": "4fe1e26413ae94b503934e859bd56246ee9d60364ca5d1a5432898ccf96a80f6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-27-03",
+   "short": "O.A.C. 1501:31-27-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-03: Multi-year hunting and fishing license regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-27-03",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-27",
+     "sha256": "4fe1e26413ae94b503934e859bd56246ee9d60364ca5d1a5432898ccf96a80f6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-27-04",
+   "short": "O.A.C. 1501:31-27-04",
+   "title": "Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-04: One day fishing license.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-27-04",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-27",
+     "sha256": "4fe1e26413ae94b503934e859bd56246ee9d60364ca5d1a5432898ccf96a80f6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-27-05",
+   "short": "O.A.C. 1501:31-27-05",
+   "title": "Ohio Administrative Code, Chapter 1501:31-27 | License and Permit Regulations, Rule 1501:31-27-05: Lifetime hunting and fishing license regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-27-05",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-27",
+     "sha256": "4fe1e26413ae94b503934e859bd56246ee9d60364ca5d1a5432898ccf96a80f6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-29-01",
+   "short": "O.A.C. 1501:31-29-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-01: Hunter education course student and instructor regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-29-01",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-29",
+     "sha256": "1ca2bbc3a9c3f2ac474be3485db8215bc758602989e5c3343e1cfcc4e24c7fae"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-29-02",
+   "short": "O.A.C. 1501:31-29-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-02: Trapper education course student and instructor regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-29-02",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-29",
+     "sha256": "1ca2bbc3a9c3f2ac474be3485db8215bc758602989e5c3343e1cfcc4e24c7fae"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-29-03",
+   "short": "O.A.C. 1501:31-29-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-29 | Hunter Safety and Trapper Education Courses, Rule 1501:31-29-03: Shooting ranges.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-29-03",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-29",
+     "sha256": "1ca2bbc3a9c3f2ac474be3485db8215bc758602989e5c3343e1cfcc4e24c7fae"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-31-01",
+   "short": "O.A.C. 1501:31-31-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-01: Private dog training grounds permit and regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-31-01",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-31",
+     "sha256": "14dc15d922adb6d8aea2765a393df065a3ddaf196e1598c70183df4acb2dfcb6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-31-02",
+   "short": "O.A.C. 1501:31-31-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-02: Commercial bird shooting preserves; tagging; boundaries.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-31-02",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-31",
+     "sha256": "14dc15d922adb6d8aea2765a393df065a3ddaf196e1598c70183df4acb2dfcb6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-31-03",
+   "short": "O.A.C. 1501:31-31-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-31 | Private Dog Training Grounds Permit, Rule 1501:31-31-03: Field trial club permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-31-03",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-31",
+     "sha256": "14dc15d922adb6d8aea2765a393df065a3ddaf196e1598c70183df4acb2dfcb6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-33-01",
+   "short": "O.A.C. 1501:31-33-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-33 | Wetlands Habitat Stamp Regulations, Rule 1501:31-33-01: Wetlands habitat stamp regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-33-01",
+   "versions": [
+    {
+     "from": "1989-04-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-33",
+     "sha256": "2bc45c926e2a985d8ba738224d4983d79a32973f3fc1247d1a494ff6c0e1aed3"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-37-01",
+   "short": "O.A.C. 1501:31-37-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-37 | Falconry Permits, Rule 1501:31-37-01: Falconry permit; fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-37-01",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-37",
+     "sha256": "708b26e455a57b2ff85f5306dbe97a2458f072a1c3e0d97dd39f23d5b5b017d6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-37-02",
+   "short": "O.A.C. 1501:31-37-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-37 | Falconry Permits, Rule 1501:31-37-02: Raptor capture and propagation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-37-02",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-37",
+     "sha256": "708b26e455a57b2ff85f5306dbe97a2458f072a1c3e0d97dd39f23d5b5b017d6"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-39-01",
+   "short": "O.A.C. 1501:31-39-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-39 | Aquaculture, Rule 1501:31-39-01: Aquaculture permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-39-01",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-39",
+     "sha256": "516e4695f50271459f8859688beb64bf953b38bc8bef2189b966bf4aec1092a5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-40-01",
+   "short": "O.A.C. 1501:31-40-01",
+   "title": "Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-01: Ginseng harvest season, reseeding, collection records.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-40-01",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-40",
+     "sha256": "31360acb9c34f6dc976e77be1a0d45dad73fde0f897daed68ded58713032dad2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-40-02",
+   "short": "O.A.C. 1501:31-40-02",
+   "title": "Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-02: Ginseng registration permit; dealer record requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-40-02",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-40",
+     "sha256": "31360acb9c34f6dc976e77be1a0d45dad73fde0f897daed68ded58713032dad2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-31-40-03",
+   "short": "O.A.C. 1501:31-40-03",
+   "title": "Ohio Administrative Code, Chapter 1501:31-40 | Ohio Ginseng Management Program, Rule 1501:31-40-03: Ginseng certification for exportation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-40-03",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:31-40",
+     "sha256": "31360acb9c34f6dc976e77be1a0d45dad73fde0f897daed68ded58713032dad2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-1-01",
+   "short": "O.A.C. 1501:46-1-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-01: Notice of public hearing on rules.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-1-01",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-1",
+     "sha256": "b273d362530cc344e7f3d48ab2c9d4c96744c46c04c29d638ec42d96c5afe8fc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-1-02",
+   "short": "O.A.C. 1501:46-1-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-02: Interpretation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-1-02",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-1",
+     "sha256": "b273d362530cc344e7f3d48ab2c9d4c96744c46c04c29d638ec42d96c5afe8fc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-1-03",
+   "short": "O.A.C. 1501:46-1-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-03: Areas administered as state parks.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-1-03",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-1",
+     "sha256": "b273d362530cc344e7f3d48ab2c9d4c96744c46c04c29d638ec42d96c5afe8fc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-1-04",
+   "short": "O.A.C. 1501:46-1-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-1 | General Provisions, Rule 1501:46-1-04: Definition of terms.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-1-04",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-1",
+     "sha256": "b273d362530cc344e7f3d48ab2c9d4c96744c46c04c29d638ec42d96c5afe8fc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-01",
+   "short": "O.A.C. 1501:46-2-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-01: Collection of fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-01",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-02",
+   "short": "O.A.C. 1501:46-2-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-02: Use of facilities fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-04",
+   "short": "O.A.C. 1501:46-2-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-04: Private channel fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-04",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-07",
+   "short": "O.A.C. 1501:46-2-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-07: Concession operated public service facilities fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-07",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-20",
+   "short": "O.A.C. 1501:46-2-20",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-20: \"Golden Buckeye Card\" fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-20",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-23",
+   "short": "O.A.C. 1501:46-2-23",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-23: Trailer waste station fee for noncampers.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-23",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-25",
+   "short": "O.A.C. 1501:46-2-25",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-25: Refunds.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-25",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-27",
+   "short": "O.A.C. 1501:46-2-27",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-27: Duck blind permit fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-27",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-29",
+   "short": "O.A.C. 1501:46-2-29",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-29: Special activities permit fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-29",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-31",
+   "short": "O.A.C. 1501:46-2-31",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-31: Lake Milton and Buckeye lake state parks permit fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-31",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-33",
+   "short": "O.A.C. 1501:46-2-33",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-33: Guilford lake state park private dock transfer fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-33",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-37",
+   "short": "O.A.C. 1501:46-2-37",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-37: Open vendor area permit fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-37",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-39",
+   "short": "O.A.C. 1501:46-2-39",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-39: Special interpretive program fees.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-39",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-40",
+   "short": "O.A.C. 1501:46-2-40",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-40: Disabled veteran and former prisoner of war camping fee exemption program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-40",
+   "versions": [
+    {
+     "from": "2025-04-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-2-41",
+   "short": "O.A.C. 1501:46-2-41",
+   "title": "Ohio Administrative Code, Chapter 1501:46-2 | Fees, Rule 1501:46-2-41: Private breakwater license fee.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-2-41",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-2",
+     "sha256": "88826053a17ee66a450bbf882e30cf9eb44c534409999e31c67bc6b48339955d"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-01",
+   "short": "O.A.C. 1501:46-3-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-01: Posted.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-01",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-02",
+   "short": "O.A.C. 1501:46-3-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-02: Temporary closing of facilities.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-03",
+   "short": "O.A.C. 1501:46-3-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-03: Authority of lock personnel.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-03",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-05",
+   "short": "O.A.C. 1501:46-3-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-05: Trespassing on locks prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-05",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-06",
+   "short": "O.A.C. 1501:46-3-06",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-06: Animal leash requirement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-06",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-07",
+   "short": "O.A.C. 1501:46-3-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-07: Animals in cabin, lodge, golf courses, beach, and camp, facilities prohibited, exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-07",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-08",
+   "short": "O.A.C. 1501:46-3-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-08: Removal of barking or unruly animals.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-08",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-09",
+   "short": "O.A.C. 1501:46-3-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-09: Releasing of plants and animals prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-09",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-10",
+   "short": "O.A.C. 1501:46-3-10",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-10: Removal of plants and other natural materials.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-10",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-11",
+   "short": "O.A.C. 1501:46-3-11",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-11: Geological features.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-11",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-12",
+   "short": "O.A.C. 1501:46-3-12",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-12: Archaeological and historical features.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-12",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-13",
+   "short": "O.A.C. 1501:46-3-13",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-13: Littering, importing of rubbish and trash prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-13",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-14",
+   "short": "O.A.C. 1501:46-3-14",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-14: Glass containers prohibited on beach.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-14",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-15",
+   "short": "O.A.C. 1501:46-3-15",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-15: Facility uncleanliness.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-15",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-16",
+   "short": "O.A.C. 1501:46-3-16",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-16: Injury to buildings, signs, and other property prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-16",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-17",
+   "short": "O.A.C. 1501:46-3-17",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-17: Personal property left on division areas without approval.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-17",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-18",
+   "short": "O.A.C. 1501:46-3-18",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-18: Collection of firewood, use of chainsaws.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-18",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-19",
+   "short": "O.A.C. 1501:46-3-19",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-19: Fires, lighted cigarettes, embers.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-19",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-20",
+   "short": "O.A.C. 1501:46-3-20",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-20: Smoking.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-20",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-21",
+   "short": "O.A.C. 1501:46-3-21",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-21: Lake bottom salvage.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-21",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-22",
+   "short": "O.A.C. 1501:46-3-22",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-22: Intoxicating beverages.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-22",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-23",
+   "short": "O.A.C. 1501:46-3-23",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-23: Throwing objects over cliffs, dams, or other structures prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-23",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-24",
+   "short": "O.A.C. 1501:46-3-24",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-24: Alms and contributions, solicitation prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-24",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-26",
+   "short": "O.A.C. 1501:46-3-26",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-26: Commercial activity prohibited except by permit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-26",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-27",
+   "short": "O.A.C. 1501:46-3-27",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-27: Collecting prohibited without permit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-27",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-28",
+   "short": "O.A.C. 1501:46-3-28",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-28: Special activities; permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-28",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-29",
+   "short": "O.A.C. 1501:46-3-29",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-29: Private channel construction.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-29",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-30",
+   "short": "O.A.C. 1501:46-3-30",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-30: Off-trail use prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-30",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-31",
+   "short": "O.A.C. 1501:46-3-31",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-31: Containers on trails prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-31",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-33",
+   "short": "O.A.C. 1501:46-3-33",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-33: Feeding of wildlife.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-33",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-3-34",
+   "short": "O.A.C. 1501:46-3-34",
+   "title": "Ohio Administrative Code, Chapter 1501:46-3 | Prohibitions, Rule 1501:46-3-34: Dog exercise areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-3-34",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-3",
+     "sha256": "03f933dafe0304628c9d3fdbf3d945992232460584bce8436229f8c03c267fef"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-5-01",
+   "short": "O.A.C. 1501:46-5-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-5 | Permit, Rule 1501:46-5-01: Permits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-5-01",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-5",
+     "sha256": "a22b5103264af169ad0b7122601873692f0e7470a46722ba810d8caf8e028de0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-01",
+   "short": "O.A.C. 1501:46-7-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-01: Open hours, closed hours, duties; exemptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-01",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-02",
+   "short": "O.A.C. 1501:46-7-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-02: Hours for swimming.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-02",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-03",
+   "short": "O.A.C. 1501:46-7-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-03: Swimming prohibited; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-03",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-04",
+   "short": "O.A.C. 1501:46-7-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-04: Flotation devices prohibited; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-04",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-05",
+   "short": "O.A.C. 1501:46-7-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-05: Snorkel, S.C.U.B.A. diving, and submersible watercraft regulations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-05",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-07",
+   "short": "O.A.C. 1501:46-7-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-07: Snorkel and S.C.U.B.A. diving prohibited near dam sites.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-07",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-08",
+   "short": "O.A.C. 1501:46-7-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-08: Metal detectors prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-08",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-09",
+   "short": "O.A.C. 1501:46-7-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-09: Rappelling.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-09",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-10",
+   "short": "O.A.C. 1501:46-7-10",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-10: Rockclimbing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-10",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-11",
+   "short": "O.A.C. 1501:46-7-11",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-11: Playing golf.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-11",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-12",
+   "short": "O.A.C. 1501:46-7-12",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-12: Entrance by permit only.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-12",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-13",
+   "short": "O.A.C. 1501:46-7-13",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-13: Portable or temporary pools and splash pads.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-13",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-7-14",
+   "short": "O.A.C. 1501:46-7-14",
+   "title": "Ohio Administrative Code, Chapter 1501:46-7 | Hours of Operation and Recreational Activities, Rule 1501:46-7-14: Bounce houses and other inflatable amusements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-7-14",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-7",
+     "sha256": "604617f266a1d81ae22e8b78476371f6434e4e2001a5fc81cd8718639f428a70"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-01",
+   "short": "O.A.C. 1501:46-9-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-01: Camping permitted in designated areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-01",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-02",
+   "short": "O.A.C. 1501:46-9-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-02: Use of campground facilities; permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-02",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-03",
+   "short": "O.A.C. 1501:46-9-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-03: Camping administration.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-03",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-03-1",
+   "short": "O.A.C. 1501:46-9-03.1",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-03.1: Camping permits and rental periods, limitations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-03.1",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-04",
+   "short": "O.A.C. 1501:46-9-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-04: Duty to vacate and remove personal property on expiration of rental period.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-04",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-05",
+   "short": "O.A.C. 1501:46-9-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-05: Juvenile use of overnight facilities restricted.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-05",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-06",
+   "short": "O.A.C. 1501:46-9-06",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-06: Area noise.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-06",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-07",
+   "short": "O.A.C. 1501:46-9-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-07: Trailer plumbing requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-07",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-08",
+   "short": "O.A.C. 1501:46-9-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-08: Subleasing of campsite, cabin, lodge room, prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-08",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-09",
+   "short": "O.A.C. 1501:46-9-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-09: Use of backpack trails.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-09",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-9-10",
+   "short": "O.A.C. 1501:46-9-10",
+   "title": "Ohio Administrative Code, Chapter 1501:46-9 | Camping, Rule 1501:46-9-10: Camping area zones permitting pets.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-9-10",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-9",
+     "sha256": "a4650eeccb5a7e1f69cf344a03f3aadc3d496d3ece9f514d972f3c30266a3b46"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-11-20",
+   "short": "O.A.C. 1501:46-11-20",
+   "title": "Ohio Administrative Code, Chapter 1501:46-11 | Watercraft, Rule 1501:46-11-20: Watercraft prohibited at beach areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-11-20",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-11",
+     "sha256": "76f8d60eb504c9a64d844a50135fbe6da3df3ed2d94fcbeb05a255e84488519f"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-01",
+   "short": "O.A.C. 1501:46-12-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-01: Public use docks.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-01",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-02",
+   "short": "O.A.C. 1501:46-12-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-02: Four-hour docking; dock permit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-02",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-03",
+   "short": "O.A.C. 1501:46-12-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-03: Subleasing, transfer, assignment, or unauthorized use of dock prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-03",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-04",
+   "short": "O.A.C. 1501:46-12-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-04: Permission required to use licensed dock; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-04",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-06",
+   "short": "O.A.C. 1501:46-12-06",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-06: Display of dock tags on private docks.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-06",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-07",
+   "short": "O.A.C. 1501:46-12-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-07: Expiration of dock permit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-07",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-09",
+   "short": "O.A.C. 1501:46-12-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-09: Securing of stored watercraft.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-09",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-10",
+   "short": "O.A.C. 1501:46-12-10",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-10: Boat docking restrictions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-10",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-12",
+   "short": "O.A.C. 1501:46-12-12",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-12: Dock construction permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-12",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-13",
+   "short": "O.A.C. 1501:46-12-13",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-13: Removal of unauthorized docks.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-13",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-14",
+   "short": "O.A.C. 1501:46-12-14",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-14: Dock maintenance required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-14",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-15",
+   "short": "O.A.C. 1501:46-12-15",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-15: Removal of watercraft.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-15",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-16",
+   "short": "O.A.C. 1501:46-12-16",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-16: Use of devices to limit or reduce ice formation, permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-16",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-17",
+   "short": "O.A.C. 1501:46-12-17",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-17: Seawall construction, permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-17",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-18",
+   "short": "O.A.C. 1501:46-12-18",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-18: Transporting gas on docks prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-18",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-12-19",
+   "short": "O.A.C. 1501:46-12-19",
+   "title": "Ohio Administrative Code, Chapter 1501:46-12 | Docks, Rule 1501:46-12-19: Obstruction of the launching or retrieval of vessels.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-12-19",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-12",
+     "sha256": "c7b7ea765d7dfbea1b6afbbf048184c8d6a87a066abf54d716737d2ca59627f5"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-01",
+   "short": "O.A.C. 1501:46-13-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-01: Incorporation of state traffic laws.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-01",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-02",
+   "short": "O.A.C. 1501:46-13-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-02: Motor vehicle speed limits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-03",
+   "short": "O.A.C. 1501:46-13-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-03: Parking.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-03",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-04",
+   "short": "O.A.C. 1501:46-13-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-04: Removal of vehicles.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-04",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-05",
+   "short": "O.A.C. 1501:46-13-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-05: Motor vehicles, bicycles, and personal mobility devices.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-05",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-06",
+   "short": "O.A.C. 1501:46-13-06",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-06: Right of way to pedestrians.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-06",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-07",
+   "short": "O.A.C. 1501:46-13-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-07: Through trucks prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-07",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-08",
+   "short": "O.A.C. 1501:46-13-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-08: Noisy or smoking vehicles.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-08",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-09",
+   "short": "O.A.C. 1501:46-13-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-09: Motor vehicles restricted in camping area.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-09",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-10",
+   "short": "O.A.C. 1501:46-13-10",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-10: Saddle animals, use limitations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-10",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-11",
+   "short": "O.A.C. 1501:46-13-11",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-11: Aviation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-11",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-12",
+   "short": "O.A.C. 1501:46-13-12",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-12: Motor vehicle operation while loading or unloading watercraft.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-12",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-13-13",
+   "short": "O.A.C. 1501:46-13-13",
+   "title": "Ohio Administrative Code, Chapter 1501:46-13 | Motor Vehicles, Horses, and Planes, Rule 1501:46-13-13: Riding in boat and boat trailer prohibited on park roads.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-13-13",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-13",
+     "sha256": "c261934d738b7f7d3368f2a5fa5ce74ea185f62de3894bc9546845b42bf77794"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-01",
+   "short": "O.A.C. 1501:46-14-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-01: Lands upon which snowmobiles, ice boats, all purpose vehicles are prohibited; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-01",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-02",
+   "short": "O.A.C. 1501:46-14-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-02: Ground cover requirements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-03",
+   "short": "O.A.C. 1501:46-14-03",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-03: Operating on frozen lakes.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-03",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-04",
+   "short": "O.A.C. 1501:46-14-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-04: Hours of operation; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-04",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-05",
+   "short": "O.A.C. 1501:46-14-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-05: Reckless operation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-05",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-07",
+   "short": "O.A.C. 1501:46-14-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-07: Property damage.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-07",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-08",
+   "short": "O.A.C. 1501:46-14-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-08: Snowmobiles; right-of-way.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-08",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-14-09",
+   "short": "O.A.C. 1501:46-14-09",
+   "title": "Ohio Administrative Code, Chapter 1501:46-14 | Snowmobiles, Rule 1501:46-14-09: Snowmobile; prohibited operation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-14-09",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-14",
+     "sha256": "f525b5ec03e0e501d1d9c027217fa38cd2e6b65a34b7c22f88e299e2da204070"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-01",
+   "short": "O.A.C. 1501:46-15-01",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-01: Wildlife definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-01",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-02",
+   "short": "O.A.C. 1501:46-15-02",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-02: Ice fishing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-02",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-04",
+   "short": "O.A.C. 1501:46-15-04",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-04: Fishing at beaches prohibited.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-04",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-05",
+   "short": "O.A.C. 1501:46-15-05",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-05: Public hunting areas.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-05",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-06",
+   "short": "O.A.C. 1501:46-15-06",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-06: Hunting and trapping prohibited; exceptions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-06",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-07",
+   "short": "O.A.C. 1501:46-15-07",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-07: Safety zones.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-07",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-08",
+   "short": "O.A.C. 1501:46-15-08",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-08: Parks wherein all legal game may be hunted.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-08",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-13",
+   "short": "O.A.C. 1501:46-15-13",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-13: Permanent waterfowl blind, permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-13",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-14",
+   "short": "O.A.C. 1501:46-15-14",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-14: Field trials, permit required.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-14",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-15",
+   "short": "O.A.C. 1501:46-15-15",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-15: Floatation device permitted for fishing.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-15",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-1501-46-15-17",
+   "short": "O.A.C. 1501:46-15-17",
+   "title": "Ohio Administrative Code, Chapter 1501:46-15 | Hunting and Fishing, Rule 1501:46-15-17: Special management hunts.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:46-15-17",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-1501:46-15",
+     "sha256": "bf2815a42e949b1b5ccbcdee906c64514b9180847fe5050a930ccb3c8c23ee47"
+    }
+   ]
+  },
+  {
    "slug": "orc-chapter-1314",
    "short": "R.C. Chapter 1314",
    "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records",
