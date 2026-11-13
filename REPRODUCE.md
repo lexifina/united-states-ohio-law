@@ -18,6 +18,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -3981,17 +3982,329 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-1501-3-12-06` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-06: Forestry pollution complaint process. | 1 | 2025-12-18 to 2025-12-18 |
 | `oac-rule-1501-3-12-07` | Ohio Administrative Code, Chapter 1501:3-12 | Control of Pollutants from Areas Used for Agriculture or Silviculture, Rule 1501:3-12-07: Chief's orders. | 1 | 2025-12-18 to 2025-12-18 |
 | `oac-rule-1501-3-13-01` | Ohio Administrative Code, Chapter 1501:3-13 | Process Standards, Rule 1501:3-13-01: Kindled fire waivers and certified prescribed fire managers. | 1 | 2025-12-18 to 2025-12-18 |
+| `oac-rule-1501-7-1-01` | Ohio Administrative Code, Chapter 1501:7-1 | Notice of Hearing, Rule 1501:7-1-01: Public notice of hearing. | 1 | 2019-01-28 to 2019-01-28 |
+| `oac-rule-1501-9-1-01` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-01: General provisions. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1501-9-1-02` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-02: Permits. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1501-9-1-03` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-03: Surety Bond. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-1-04` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-04: Spacing of wells. | 1 | 2019-10-10 to 2019-10-10 |
+| `oac-rule-1501-9-1-05` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-05: Simultaneous operations. | 1 | 2021-10-04 to 2021-10-04 |
+| `oac-rule-1501-9-1-06` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-06: Severability. | 1 | 2021-10-04 to 2021-10-04 |
+| `oac-rule-1501-9-1-07` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-07: Prevention of contamination and pollution. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-1501-9-1-08` | Ohio Administrative Code, Chapter 1501:9-1 | Oil Well Drilling, Rule 1501:9-1-08: Well construction. | 1 | 2012-08-01 to 2012-08-01 |
+| `oac-rule-1501-9-2-01` | Ohio Administrative Code, Chapter 1501:9-2 | Horizontal Wells, Rule 1501:9-2-01: Definitions. | 1 | 2024-05-06 to 2024-05-06 |
+| `oac-rule-1501-9-2-02` | Ohio Administrative Code, Chapter 1501:9-2 | Horizontal Wells, Rule 1501:9-2-02: Horizontal well site construction. | 1 | 2024-05-06 to 2024-05-06 |
+| `oac-rule-1501-9-3-01` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-01: Definitions. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-02` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-02: Exceptions. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-03` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-03: General provisions. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-04` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-04: Surface location and siting criteria. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-07` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-07: Design and operational requirements of a class II disposal well or a surface facility. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-07-1` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-07.1: Brine Disposal Fee Procedure. | 1 | 2019-10-10 to 2019-10-10 |
+| `oac-rule-1501-9-3-08` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-08: Annular disposal. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-09` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-09: Property rights unaffected. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-3-10` | Ohio Administrative Code, Chapter 1501:9-3 | Saltwater Operation, Rule 1501:9-3-10: Class II disposal well and surface facility reclamation. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-4-01` | Ohio Administrative Code, Chapter 1501:9-4 | Oil and Gas Waste Facilities, Rule 1501:9-4-01: Definitions. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-4-02` | Ohio Administrative Code, Chapter 1501:9-4 | Oil and Gas Waste Facilities, Rule 1501:9-4-02: General provisions. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-4-03` | Ohio Administrative Code, Chapter 1501:9-4 | Oil and Gas Waste Facilities, Rule 1501:9-4-03: Surface location and siting criteria. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-4-06` | Ohio Administrative Code, Chapter 1501:9-4 | Oil and Gas Waste Facilities, Rule 1501:9-4-06: Design and operational requirements of an oil and gas waste facility. | 1 | 2022-01-13 to 2022-01-13 |
+| `oac-rule-1501-9-5-01` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-01: Definitions. | 1 | 2026-10-17 to 2026-10-17 |
+| `oac-rule-1501-9-5-02` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-02: Exceptions. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-5-03` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-03: Forms. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-5-04` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-04: Project approval required. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-5-05` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-05: Permit. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-5-06` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-06: Prevention of contamination and pollution. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-5-07` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-07: Safety. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-5-09` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-09: Construction of and conversion to enhanced recovery input wells. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-5-10` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-10: Operation, monitoring and reporting of enhanced recovery projects. | 1 | 1998-05-31 to 1998-05-31 |
+| `oac-rule-1501-9-5-11` | Ohio Administrative Code, Chapter 1501:9-5 | Enhanced Recovery Projects, Rule 1501:9-5-11: Property rights unaffected. | 1 | 1982-06-01 to 1982-06-01 |
+| `oac-rule-1501-9-7-01` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-01: Definitions. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-7-02` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-02: Applicability. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-03` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-03: Prohibition of unauthorized injection. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-04` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-04: Prevention of contamination and pollution. | 1 | 1984-07-02 to 1984-07-02 |
+| `oac-rule-1501-9-7-05` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-05: Authorization by rule. | 1 | 1984-07-02 to 1984-07-02 |
+| `oac-rule-1501-9-7-06` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-06: Identification of underground sources of drinking water and exempted aquifers. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-07` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-07: Permit. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-7-08` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-08: Construction of solution mining projects. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-7-09` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-09: Operation, monitoring, reporting, and recordkeeping of solution mining projects. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-10` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-10: Mechanical integrity. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-9-7-11` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-11: Plugging and abandonment. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-12` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-12: Safety. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-7-14` | Ohio Administrative Code, Chapter 1501:9-7 | Solution Mining Projects, Rule 1501:9-7-14: Property rights unaffected. | 1 | 1982-11-26 to 1982-11-26 |
+| `oac-rule-1501-9-8-01` | Ohio Administrative Code, Chapter 1501:9-8 | Emergencies, Rule 1501:9-8-01: Definitions. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-8-02` | Ohio Administrative Code, Chapter 1501:9-8 | Emergencies, Rule 1501:9-8-02: Incident notifications. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-9-02` | Ohio Administrative Code, Chapter 1501:9-9 | Safety Regulations, Rule 1501:9-9-02: General. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-9-03` | Ohio Administrative Code, Chapter 1501:9-9 | Safety Regulations, Rule 1501:9-9-03: Drilling and deepening operations. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-9-04` | Ohio Administrative Code, Chapter 1501:9-9 | Safety Regulations, Rule 1501:9-9-04: Workover, reconditioning, plugging back, completion, and plugging operations. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-9-05` | Ohio Administrative Code, Chapter 1501:9-9 | Safety Regulations, Rule 1501:9-9-05: Producing operations. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-9-06` | Ohio Administrative Code, Chapter 1501:9-9 | Safety Regulations, Rule 1501:9-9-06: Exceptions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-10-01` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-01: Definitions. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-10-02` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-02: General. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-10-03` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-03: Identification and location of pipelines. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-10-04` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-04: Strength of pipelines. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-10-05` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-05: Burial of pipelines. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-10-06` | Ohio Administrative Code, Chapter 1501:9-10 | Pipelines, Rule 1501:9-10-06: Exceptions. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-1501-9-11-01` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-01: Definitions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-02` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-02: Permit to plug or plug back. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-03` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-03: Objective and methods. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-04` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-04: Notification and supervision. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-05` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-05: Plugging a lost or dry hole. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-06` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-06: Top-hole considerations. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-07` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-07: Materials. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-08` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-08: Plugging with cement. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-09` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-09: Plugging with prepared clay. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-11-10` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-10: Cutting off conductor pipe or surface casing below grade; identification tag. | 1 | 2020-08-10 to 2020-08-10 |
+| `oac-rule-1501-9-11-12` | Ohio Administrative Code, Chapter 1501:9-11 | Plugging of Wells, Rule 1501:9-11-12: Plugging report. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-9-12-01` | Ohio Administrative Code, Chapter 1501:9-12 | Industry Standards, Rule 1501:9-12-01: Referenced industry standards. | 1 | 2026-03-01 to 2026-03-01 |
+| `oac-rule-1501-10-1-01` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-01: Definitions. | 1 | 2011-11-03 to 2011-11-03 |
+| `oac-rule-1501-10-1-02` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-02: Fire detection devices. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-1-03` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-03: Tag lines and tie-off lines. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-1-04` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-04: Mine medical responder. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-1-05` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-05: Additional requirements for the certification of mine forepersons or forepersons of gaseous mines and mine forepersons or forepersons of nongaseous mines. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-1-06` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-06: Accident reporting; investigation by chief; annual report. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-1-07` | Ohio Administrative Code, Chapter 1501:10-1 | Division of Mines and Reclamation-Mine Safety-Accident Reports; Investigations, Rule 1501:10-1-07: Incorporation by reference. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-01` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-01: Applicability. | 1 | 2011-11-03 to 2011-11-03 |
+| `oac-rule-1501-10-2-02` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-02: Definitions for Chapter 1501:10-2 of the Administrative Code. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-03` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-03: General requirements for underground use of diesel-powered equipment. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-04` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-04: Diesel-powered equipment package. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-05` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-05: Exhaust emissions control and conditioning systems. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-06` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-06: Ventilation. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-08` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-08: Underground diesel fuel storage facilities. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-09` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-09: Transfer of diesel fuel. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-10` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-10: Containers for transport of diesel fuel. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-11` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-11: Fire suppression for equipment and transportation. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-12` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-12: Fire suppression for underground diesel fuel storage facilities. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-13` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-13: Prohibition on the use of certain starting aids. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-14` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-14: Fueling. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-15` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-15: Fire and safety training. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-16` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-16: Maintenance. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-17` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-17: Records. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-18` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-18: Duties of equipment operator. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-19` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-19: Schedule of maintenance. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-20` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-20: Establishing baseline exhaust emissions values for monitoring and control. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-21` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-21: Equipment maintenance diagnostic testing. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-22` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-22: General requirements for training diesel-powered equipment operators. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-23` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-23: Equipment-specific training for diesel-powered equipment operators. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-24` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-24: Diesel mechanic training. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-25` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-25: Additional requirements for operation of diesel-powered equipment. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-10-2-26` | Ohio Administrative Code, Chapter 1501:10-2 | Diesel Equipment in Underground Coal Mines, Rule 1501:10-2-26: Underground mine inspector diesel inspection training. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-13-1-01` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-01: Effective date and applicability. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-1-02` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-02: Definitions. | 1 | 2019-04-18 to 2019-04-18 |
+| `oac-rule-1501-13-1-03` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-03: Restrictions on financial interest of employees. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-1-04` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-04: Exemption for coal extraction incidental to government financed highway or other construction. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-1-05` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-05: Successor division. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-13-1-06` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-06: Severability. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-13-1-08` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-08: Petitions to initiate rule making. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-1-09` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-09: Notice of citizen suits. | 1 | 2009-02-12 to 2009-02-12 |
+| `oac-rule-1501-13-1-10` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-10: Availability of records. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-1-11` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-11: Computation of time. | 1 | 2009-02-12 to 2009-02-12 |
+| `oac-rule-1501-13-1-12` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-12: Public notice of hearing to adopt, amend, or rescind rules. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-1-13` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-13: Rule references. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-1-14` | Ohio Administrative Code, Chapter 1501:13-1 | Administrative Procedures, Rule 1501:13-1-14: Incorporation by reference. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-3-01` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-01: Standards for demonstration of valid existing rights. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-3-02` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-02: Submission and processing of requests for valid existing rights determinations. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-3-03` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-03: Areas where mining is prohibited or limited. | 1 | 2018-08-09 to 2018-08-09 |
+| `oac-rule-1501-13-3-04` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-04: Procedures for identifying areas where mining is prohibited or limited. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-3-05` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-05: Criteria for designating areas unsuitable for coal mining operations. | 1 | 2009-02-12 to 2009-02-12 |
+| `oac-rule-1501-13-3-06` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-06: Exploration on land designated as unsuitable for coal mining operations. | 1 | 1988-10-01 to 1988-10-01 |
+| `oac-rule-1501-13-3-07` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-07: Procedures for designating areas unsuitable for coal mining operations. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-3-08` | Ohio Administrative Code, Chapter 1501:13-3 | Prohibited or Limited Areas for Mining, Rule 1501:13-3-08: Lateral support. | 1 | 1982-10-27 to 1982-10-27 |
+| `oac-rule-1501-13-4-01` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-01: General contents requirements for permit applications. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-4-02` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-02: Requirements of coal exploration. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-4-03` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-03: Permit applications; requirements for legal, financial, compliance and related information. | 1 | 2020-11-26 to 2020-11-26 |
+| `oac-rule-1501-13-4-05` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-05: Permit application requirements for reclamation and operations plans. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-4-06` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-06: Permit applications, revisions, and renewals, and transfers, assignments, and sales of permit rights. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-4-07` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-07: Annual reports and maps. | 1 | 2020-11-26 to 2020-11-26 |
+| `oac-rule-1501-13-4-08` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-08: Application, supplemental and hydrologic maps, and cross-sections, designs and plans. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-4-08-1` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-08.1: Application, supplemental and hydrologic maps, and cross-sections, designs and plans for underground workings. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-4-09` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-09: General map requirements. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-4-10` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-10: Uniform color code and map symbols. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-4-11` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-11: Maps showing reaffection of permit area. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-4-12` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-12: Requirements for permits for special categories of mining. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-4-14` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-14: Underground mining permit application requirements for reclamation and operations plans. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-4-15` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-15: Authorization to conduct coal mining on pollution abatement areas. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-4-16` | Ohio Administrative Code, Chapter 1501:13-4 | Permits, Rule 1501:13-4-16: Requirements for exemption for coal extraction incidental to the extraction of other minerals. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-5-01` | Ohio Administrative Code, Chapter 1501:13-5 | Review of Permits, Rule 1501:13-5-01: Review, public participation, and approval or disapproval of permit applications and permit terms and conditions. | 1 | 2020-11-26 to 2020-11-26 |
+| `oac-rule-1501-13-5-02` | Ohio Administrative Code, Chapter 1501:13-5 | Review of Permits, Rule 1501:13-5-02: Improvidently issued permits. | 1 | 2011-12-30 to 2011-12-30 |
+| `oac-rule-1501-13-5-03` | Ohio Administrative Code, Chapter 1501:13-5 | Review of Permits, Rule 1501:13-5-03: Revocation of exemption for coal extraction incidental to the extraction of other minerals. | 1 | 1993-01-01 to 1993-01-01 |
+| `oac-rule-1501-13-6-03` | Ohio Administrative Code, Chapter 1501:13-6 | Small Operator Assistance Program, Rule 1501:13-6-03: Small operator assistance program. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-7-01` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-01: General requirements for providing performance security for coal mining and reclamation operations. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-7-02` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-02: Amount and duration of performance security. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-7-03` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-03: Form, conditions, and terms of performance security. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-7-05` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-05: Procedures, criteria, and schedule for release of performance security for permits reliant on the reclamation forfeiture fund. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-7-05-1` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-05.1: Procedures, criteria, and schedule for release of performance security for permits not reliant on the reclamation forfeiture fund. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-7-06` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-06: Performance security forfeiture criteria and procedures. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-7-06-1` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-06.1: Tax credit for reclamation outside an applicant's permit area. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-7-07` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-07: Liability insurance. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-7-08` | Ohio Administrative Code, Chapter 1501:13-7 | Performance Security, Rule 1501:13-7-08: Reclamation phase approval conference and performance security release conference. | 1 | 2009-04-30 to 2009-04-30 |
+| `oac-rule-1501-13-8-01` | Ohio Administrative Code, Chapter 1501:13-8 | Coal Exploration, Rule 1501:13-8-01: Coal exploration; performance standards. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-01` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-01: Signs and markers. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-02` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-02: Casing and sealing of drilled holes. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-03` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-03: Topsoil handling. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-9-04` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-04: Protection of the hydrologic system. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-9-05` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-05: Coal recovery. | 1 | 1982-10-27 to 1982-10-27 |
+| `oac-rule-1501-13-9-07` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-07: Disposal of excess spoil. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-08` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-08: Protection of underground mining. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-09` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-09: Disposal of coal mine wastes and noncoal mine wastes. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-9-10` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-10: Training, examination, and certification of blasters. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-9-11` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-11: Protection of fish, wildlife, and related environmental values. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-12` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-12: Slides and other damage. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-13` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-13: Contemporaneous reclamation. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-9-14` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-14: Backfilling and grading. | 1 | 1988-10-01 to 1988-10-01 |
+| `oac-rule-1501-13-9-15` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-15: Revegetation. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-16` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-16: Cessation of operations. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-17` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-17: Postmining use of land. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-9-18` | Ohio Administrative Code, Chapter 1501:13-9 | Identification of Mine Area: Environmental Integrity; Postmining Use of Land, Rule 1501:13-9-18: Extension of time for limestone, clay and shale removal. | 1 | 2009-02-12 to 2009-02-12 |
+| `oac-rule-1501-13-10-01` | Ohio Administrative Code, Chapter 1501:13-10 | Roads, Rule 1501:13-10-01: Roads: performance standards. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-11-01` | Ohio Administrative Code, Chapter 1501:13-11 | Transportation and Support Facilities and Utility Installation, Rule 1501:13-11-01: Other transportation facilities. | 1 | 1982-10-27 to 1982-10-27 |
+| `oac-rule-1501-13-11-02` | Ohio Administrative Code, Chapter 1501:13-11 | Transportation and Support Facilities and Utility Installation, Rule 1501:13-11-02: Support facilities and utility installations. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-12-01` | Ohio Administrative Code, Chapter 1501:13-12 | Underground Operations; Subsidence Control, Rule 1501:13-12-01: Underground operations. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-12-03` | Ohio Administrative Code, Chapter 1501:13-12 | Underground Operations; Subsidence Control, Rule 1501:13-12-03: Subsidence control. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-12-04` | Ohio Administrative Code, Chapter 1501:13-12 | Underground Operations; Subsidence Control, Rule 1501:13-12-04: Underground mine entry and access discharges. | 1 | 1984-03-04 to 1984-03-04 |
+| `oac-rule-1501-13-13-02` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-02: Auger mining additional performance standards. | 1 | 2020-11-26 to 2020-11-26 |
+| `oac-rule-1501-13-13-03` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-03: Operations on prime farmland. | 1 | 2016-01-17 to 2016-01-17 |
+| `oac-rule-1501-13-13-04` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-04: Mountaintop removal mining. | 1 | 1988-10-01 to 1988-10-01 |
+| `oac-rule-1501-13-13-05` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-05: Steep slope mining. | 1 | 1988-10-01 to 1988-10-01 |
+| `oac-rule-1501-13-13-06` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-06: Coal preparation plants and support facilities not located at or near the mine site or not within the permit area for a mine. | 1 | 2009-04-30 to 2009-04-30 |
+| `oac-rule-1501-13-13-07` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-07: In situ processing. | 1 | 1982-10-27 to 1982-10-27 |
+| `oac-rule-1501-13-13-08` | Ohio Administrative Code, Chapter 1501:13-13 | Miscellaneous Surface and Underground Mining, Rule 1501:13-13-08: Restoration off the permit area by means of mitigation. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-14-01` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-01: Inspections. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-14-02` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-02: Enforcement. | 1 | 2018-06-28 to 2018-06-28 |
+| `oac-rule-1501-13-14-03` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-03: Civil penalties. | 1 | 2022-02-14 to 2022-02-14 |
+| `oac-rule-1501-13-14-04` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-04: Petition for fees. | 1 | 2009-04-30 to 2009-04-30 |
+| `oac-rule-1501-13-14-05` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-05: Informal conferences. | 1 | 2010-10-28 to 2010-10-28 |
+| `oac-rule-1501-13-14-06` | Ohio Administrative Code, Chapter 1501:13-14 | Enforcement, Rule 1501:13-14-06: Individual civil penalties. | 1 | 2011-12-30 to 2011-12-30 |
+| `oac-rule-1501-14-1-01` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-01: Definitions. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-1-02` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-02: Severability. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-1-03` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-03: Successor division. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-1-04` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-04: Procedure for filing applications. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-1-05` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-05: Permit transfers. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-1-08` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-08: Certificate of public liability insurance. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-1-09` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-09: Payment of fees and filing of performance bond. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-1-14` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-14: Reports. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-1-15` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-15: Public notice of hearing to adopt, amend, or rescind rules. | 1 | 2016-08-22 to 2016-08-22 |
+| `oac-rule-1501-14-1-16` | Ohio Administrative Code, Chapter 1501:14-1 | General Provisions, Rule 1501:14-1-16: Incorporation by reference. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-01` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-01: Incorporation by reference of mine safety standards. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-02` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-02: Safety standards governing surface mining operations. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-03` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-03: Criteria, standards and procedures governing annual safety performance evaluations of surface mining operations that are inspected by MSHA. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-04` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-04: Requirements governing the reporting and investigation of accidents for surface mining operations that are inspected by MSHA. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-2-05` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-05: Mine safety inspections of surface mining operations that are inspected by MSHA. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-06` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-06: Mine safety training. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-07` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-07: Certified mine foreperson. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-2-08` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-08: Training in lieu of employing certified mine foreperson. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-2-09` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-09: Requirements governing the reporting and investigation of accidents and injuries for surface mining operations that are not inspected by MSHA. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-2-10` | Ohio Administrative Code, Chapter 1501:14-2 | Mine Safety, Rule 1501:14-2-10: Mine safety inspections of surface mining operations that are not inspected by MSHA. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-3-02` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-02: Minimizing acid drainage and acid water accumulation. | 1 | 2017-12-18 to 2017-12-18 |
+| `oac-rule-1501-14-3-03` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-03: Permanent water impoundments. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-05` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-05: Underground water supplies. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-06` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-06: Final slopes. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-07` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-07: Final highwalls. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-08` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-08: Resoiling. | 1 | 2011-10-06 to 2011-10-06 |
+| `oac-rule-1501-14-3-09` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-09: Soil amendments. | 1 | 2011-10-06 to 2011-10-06 |
+| `oac-rule-1501-14-3-10` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-10: Revegetation. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-11` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-11: Construction of dams, dikes, diversions, impoundments, and drainage channels. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-3-12` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-12: Beneficial quarry fill. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-3-13` | Ohio Administrative Code, Chapter 1501:14-3 | Drainage and Soil, Rule 1501:14-3-13: Controlled placement of lime mining wastes (LMW). | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-4-01` | Ohio Administrative Code, Chapter 1501:14-4 | Geological Data Report; Abandonment, Rule 1501:14-4-01: Geological data report. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-4-02` | Ohio Administrative Code, Chapter 1501:14-4 | Geological Data Report; Abandonment, Rule 1501:14-4-02: Cross sections. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-4-03` | Ohio Administrative Code, Chapter 1501:14-4 | Geological Data Report; Abandonment, Rule 1501:14-4-03: Completion dates. | 1 | 1975-03-24 to 1975-03-24 |
+| `oac-rule-1501-14-4-04` | Ohio Administrative Code, Chapter 1501:14-4 | Geological Data Report; Abandonment, Rule 1501:14-4-04: Abandoned and inactive mining areas. | 1 | 2024-02-01 to 2024-02-01 |
+| `oac-rule-1501-14-5-01` | Ohio Administrative Code, Chapter 1501:14-5 | Surface Water Mining Projects that May Result in Dewatering, Rule 1501:14-5-01: Hydrology. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-5-02` | Ohio Administrative Code, Chapter 1501:14-5 | Surface Water Mining Projects that May Result in Dewatering, Rule 1501:14-5-02: Alternative water supply information. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-14-5-03` | Ohio Administrative Code, Chapter 1501:14-5 | Surface Water Mining Projects that May Result in Dewatering, Rule 1501:14-5-03: Water Supply Replacement. | 1 | 2004-04-15 to 2004-04-15 |
+| `oac-rule-1501-14-5-04` | Ohio Administrative Code, Chapter 1501:14-5 | Surface Water Mining Projects that May Result in Dewatering, Rule 1501:14-5-04: Watercourse variances. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-6-01` | Ohio Administrative Code, Chapter 1501:14-6 | Lime Mining Wastes, Rule 1501:14-6-01: Permit application requirements for the beneficial use of lime mining wastes (LMW) within an industrial minerals permit. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-14-6-02` | Ohio Administrative Code, Chapter 1501:14-6 | Lime Mining Wastes, Rule 1501:14-6-02: Distance limitations on the placement of lime mining wastes (LMW). | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-17-1-01` | Ohio Administrative Code, Chapter 1501:17-1 | Visitation, Rule 1501:17-1-01: Exceptions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-1-02` | Ohio Administrative Code, Chapter 1501:17-1 | Visitation, Rule 1501:17-1-02: Definitions. | 1 | 2024-10-25 to 2024-10-25 |
+| `oac-rule-1501-17-1-03` | Ohio Administrative Code, Chapter 1501:17-1 | Visitation, Rule 1501:17-1-03: Visitation of nature preserves or natural areas; restrictions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-1-04` | Ohio Administrative Code, Chapter 1501:17-1 | Visitation, Rule 1501:17-1-04: Visitation of scenic river lands; restrictions. | 1 | 2024-10-25 to 2024-10-25 |
+| `oac-rule-1501-17-1-05` | Ohio Administrative Code, Chapter 1501:17-1 | Visitation, Rule 1501:17-1-05: Permission for public meetings and events. | 1 | 2000-06-25 to 2000-06-25 |
+| `oac-rule-1501-17-3-02` | Ohio Administrative Code, Chapter 1501:17-3 | Preservation of Property, Rule 1501:17-3-02: Preservation of property; exceptions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-17-3-03` | Ohio Administrative Code, Chapter 1501:17-3 | Preservation of Property, Rule 1501:17-3-03: Introduction of plants and animals and feeding of wildlife prohibited. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-17-3-04` | Ohio Administrative Code, Chapter 1501:17-3 | Preservation of Property, Rule 1501:17-3-04: Hunting and fishing prohibited, exceptions. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-17-3-05` | Ohio Administrative Code, Chapter 1501:17-3 | Preservation of Property, Rule 1501:17-3-05: Firearms and fireworks prohibited; exceptions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-17-5-01` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-01: Disposition of refuse. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-02` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-02: Kindling a fire prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-03` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-03: Scenic river lands; domestic animals. | 1 | 2024-10-25 to 2024-10-25 |
+| `oac-rule-1501-17-5-04` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-04: Animals prohibited: exceptions. | 1 | 2018-09-03 to 2018-09-03 |
+| `oac-rule-1501-17-5-05` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-05: Signs, posters prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-06` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-06: Commercial activity prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-07` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-07: Grazing prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-08` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-08: Obstruction of access prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-09` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-09: Swimming and wading prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-10` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-10: Boating prohibited; exceptions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-11` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-11: Climbing and rappelling prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-5-12` | Ohio Administrative Code, Chapter 1501:17-5 | Safety and Sanitation, Rule 1501:17-5-12: Throwing objects over cliffs prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-7-01` | Ohio Administrative Code, Chapter 1501:17-7 | Picnicking and Camping, Rule 1501:17-7-01: Picnicking permitted; exceptions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-7-02` | Ohio Administrative Code, Chapter 1501:17-7 | Picnicking and Camping, Rule 1501:17-7-02: Camping prohibited; exceptions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-9-01` | Ohio Administrative Code, Chapter 1501:17-9 | Motor Vehicles and Horses, Rule 1501:17-9-01: Vehicle speed limits. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-9-02` | Ohio Administrative Code, Chapter 1501:17-9 | Motor Vehicles and Horses, Rule 1501:17-9-02: Vehicles, bicycles required to stay on roads; vehicles prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-9-03` | Ohio Administrative Code, Chapter 1501:17-9 | Motor Vehicles and Horses, Rule 1501:17-9-03: Saddle animals, use limitations. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-9-05` | Ohio Administrative Code, Chapter 1501:17-9 | Motor Vehicles and Horses, Rule 1501:17-9-05: Parking permitted; restrictions. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-9-06` | Ohio Administrative Code, Chapter 1501:17-9 | Motor Vehicles and Horses, Rule 1501:17-9-06: Scenic river lands; vehicle use. | 1 | 2024-10-25 to 2024-10-25 |
+| `oac-rule-1501-17-11-01` | Ohio Administrative Code, Chapter 1501:17-11 | Prohibitions Generally, Rule 1501:17-11-01: Disorderly conduct prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-11-03` | Ohio Administrative Code, Chapter 1501:17-11 | Prohibitions Generally, Rule 1501:17-11-03: Aviation. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-17-11-04` | Ohio Administrative Code, Chapter 1501:17-11 | Prohibitions Generally, Rule 1501:17-11-04: Alcoholic beverages prohibited. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-11-05` | Ohio Administrative Code, Chapter 1501:17-11 | Prohibitions Generally, Rule 1501:17-11-05: Special orders posted. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-11-06` | Ohio Administrative Code, Chapter 1501:17-11 | Prohibitions Generally, Rule 1501:17-11-06: Temporary closing of facilities. | 1 | 2010-09-20 to 2010-09-20 |
+| `oac-rule-1501-17-13-01` | Ohio Administrative Code, Chapter 1501:17-13 | Notice of Hearings, Rule 1501:17-13-01: Notice of public hearings on rules. | 1 | 2014-12-15 to 2014-12-15 |
+| `oac-rule-1501-18-1-01` | Ohio Administrative Code, Chapter 1501:18-1 | Endangered Species of Native Ohio Wild Plants, Rule 1501:18-1-01: Definitions. | 1 | 1990-09-24 to 1990-09-24 |
+| `oac-rule-1501-18-1-02` | Ohio Administrative Code, Chapter 1501:18-1 | Endangered Species of Native Ohio Wild Plants, Rule 1501:18-1-02: Designation criteria. | 1 | 1990-09-24 to 1990-09-24 |
+| `oac-rule-1501-18-1-03` | Ohio Administrative Code, Chapter 1501:18-1 | Endangered Species of Native Ohio Wild Plants, Rule 1501:18-1-03: Endangered and threatened species. | 1 | 2024-12-26 to 2024-12-26 |
+| `oac-rule-1501-18-1-04` | Ohio Administrative Code, Chapter 1501:18-1 | Endangered Species of Native Ohio Wild Plants, Rule 1501:18-1-04: Notice of public hearings on rules. | 1 | 2023-06-30 to 2023-06-30 |
+| `oac-rule-1501-18-2-01` | Ohio Administrative Code, Chapter 1501:18-2 | Collecting Endangered Native Ohio Wild Plants, Rule 1501:18-2-01: Commercial taking of plants. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-1501-18-2-02` | Ohio Administrative Code, Chapter 1501:18-2 | Collecting Endangered Native Ohio Wild Plants, Rule 1501:18-2-02: Collecting endangered and threatened plants. | 1 | 1986-07-18 to 1986-07-18 |
+| `oac-rule-1501-18-2-03` | Ohio Administrative Code, Chapter 1501:18-2 | Collecting Endangered Native Ohio Wild Plants, Rule 1501:18-2-03: Collecting permits. | 1 | 1986-07-18 to 1986-07-18 |
+| `oac-rule-1501-18-2-04` | Ohio Administrative Code, Chapter 1501:18-2 | Collecting Endangered Native Ohio Wild Plants, Rule 1501:18-2-04: Legally obtained plants. | 1 | 1986-07-18 to 1986-07-18 |
+| `oac-rule-1501-18-2-05` | Ohio Administrative Code, Chapter 1501:18-2 | Collecting Endangered Native Ohio Wild Plants, Rule 1501:18-2-05: Exceptions. | 1 | 2023-11-01 to 2023-11-01 |
+| `oac-rule-1501-20-1-01` | Ohio Administrative Code, Chapter 1501:20-1 | General Provisions, Rule 1501:20-1-01: Notice of public hearing to adopt, amend, or rescind rules. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-20-1-03` | Ohio Administrative Code, Chapter 1501:20-1 | General Provisions, Rule 1501:20-1-03: Definitions. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-20-1-05` | Ohio Administrative Code, Chapter 1501:20-1 | General Provisions, Rule 1501:20-1-05: General provisions, posted orders. | 1 | 2024-06-30 to 2024-06-30 |
+| `oac-rule-1501-21-1-01` | Ohio Administrative Code, Chapter 1501:21-1 | General Provisions, Rule 1501:21-1-01: Notice of public hearing to adopt, amend, or rescind rules. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-1-02` | Ohio Administrative Code, Chapter 1501:21-1 | General Provisions, Rule 1501:21-1-02: Authority for rules. | 1 | 2018-05-24 to 2018-05-24 |
+| `oac-rule-1501-21-1-03` | Ohio Administrative Code, Chapter 1501:21-1 | General Provisions, Rule 1501:21-1-03: Applicability of the construction permit requirements for dams and levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-1-04` | Ohio Administrative Code, Chapter 1501:21-1 | General Provisions, Rule 1501:21-1-04: Severability. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-3-01` | Ohio Administrative Code, Chapter 1501:21-3 | Definitions; Registered Professional Engineer Requirement, Rule 1501:21-3-01: Definitions. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-3-02` | Ohio Administrative Code, Chapter 1501:21-3 | Definitions; Registered Professional Engineer Requirement, Rule 1501:21-3-02: Registered professional engineer and surveyor requirement. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-01` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-01: Application procedures, general. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-02` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-02: Preliminary design report. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-03` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-03: The final design submittal. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-04` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-04: The final design report. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-05` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-05: The plans. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-06` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-06: The specifications. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-5-07` | Ohio Administrative Code, Chapter 1501:21-5 | Application Procedures, Rule 1501:21-5-07: The filing fee. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-7-01` | Ohio Administrative Code, Chapter 1501:21-7 | Surety Bond, Rule 1501:21-7-01: The surety bond. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-7-02` | Ohio Administrative Code, Chapter 1501:21-7 | Surety Bond, Rule 1501:21-7-02: Release of the surety bond. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-7-03` | Ohio Administrative Code, Chapter 1501:21-7 | Surety Bond, Rule 1501:21-7-03: Forfeiture of the surety bond. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-9-01` | Ohio Administrative Code, Chapter 1501:21-9 | Construction Permit, Rule 1501:21-9-01: The construction permit. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-11-01` | Ohio Administrative Code, Chapter 1501:21-11 | Investigations, Rule 1501:21-11-01: Investigations, general requirements. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-11-02` | Ohio Administrative Code, Chapter 1501:21-11 | Investigations, Rule 1501:21-11-02: Foundation investigation. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-11-03` | Ohio Administrative Code, Chapter 1501:21-11 | Investigations, Rule 1501:21-11-03: Construction materials. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-11-05` | Ohio Administrative Code, Chapter 1501:21-11 | Investigations, Rule 1501:21-11-05: Hydrologic and hydraulic investigations. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-01` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-01: Classification of dams. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-02` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-02: Design flood for dams and determination of critical flood. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-03` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-03: Spillway design, general requirements. | 1 | 2005-01-16 to 2005-01-16 |
+| `oac-rule-1501-21-13-04` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-04: Pipe conduit spillways, general requirements. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-05` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-05: Pipe conduit spillways, special requirements. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-06` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-06: Requirements for drains and other pipe conduits. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-07` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-07: Freeboard requirements for dams. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-08` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-08: Additional design requirements for dams. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-09` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-09: Classification of levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-10` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-10: Levees, general requirements. | 1 | 2005-01-16 to 2005-01-16 |
+| `oac-rule-1501-21-13-11` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-11: Levees, special requirements. | 1 | 2005-01-16 to 2005-01-16 |
+| `oac-rule-1501-21-13-12` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-12: Design flood for levees. | 1 | 2005-01-16 to 2005-01-16 |
+| `oac-rule-1501-21-13-13` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-13: Freeboard requirements for levees. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-1501-21-13-14` | Ohio Administrative Code, Chapter 1501:21-13 | Classification and Design of Dams, Dikes, and Levees, Rule 1501:21-13-14: Additional design requirements for levees. | 1 | 2024-06-27 to 2024-06-27 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 3960 commits:
+The build made 4272 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3960 | baseline texts where the record starts |
+| 4272 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -4001,7 +4314,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 3960 tags.
+- 4272 tags.
 
 ## Dates
 
@@ -4013,7 +4326,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `110d562ce2fd22e571c1ffda1049a4fa67f550667f40606f063f7dfac3eb76e3` (97811237 bytes).
+- Corpus: sha256 `cc0d83cf1a9c3b6b878eacf751e9e3f0de3fa07902d7125a0ee5c6dcde6fa498` (99816251 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -4051,6 +4364,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -4063,6 +4378,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
