@@ -85665,6 +85665,771 @@
    ]
   },
   {
+   "slug": "oac-rule-3307-1-5-01",
+   "short": "O.A.C. 3307:1-5-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-01: Selection and reselection of plan of payment for retirees on or before September 1, 1989.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-5-01",
+   "versions": [
+    {
+     "from": "2025-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-5",
+     "sha256": "8e93d86970c80621262d7c236ec922e593502ab1b9ab988ac81b69eb305c3864"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-5-02",
+   "short": "O.A.C. 3307:1-5-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-02: Selection and reselection of plan of payment for retirees on or after October 1, 1989.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-5-02",
+   "versions": [
+    {
+     "from": "2025-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-5",
+     "sha256": "8e93d86970c80621262d7c236ec922e593502ab1b9ab988ac81b69eb305c3864"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-5-03",
+   "short": "O.A.C. 3307:1-5-03",
+   "title": "Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-03: Court orders.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-5-03",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-5",
+     "sha256": "8e93d86970c80621262d7c236ec922e593502ab1b9ab988ac81b69eb305c3864"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-5-04",
+   "short": "O.A.C. 3307:1-5-04",
+   "title": "Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-04: Amounts due and unpaid at death of benefit recipient.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-5-04",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-5",
+     "sha256": "8e93d86970c80621262d7c236ec922e593502ab1b9ab988ac81b69eb305c3864"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-5-05",
+   "short": "O.A.C. 3307:1-5-05",
+   "title": "Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-05: Early retirement reduction factors.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-5-05",
+   "versions": [
+    {
+     "from": "2025-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-5",
+     "sha256": "8e93d86970c80621262d7c236ec922e593502ab1b9ab988ac81b69eb305c3864"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-6-01",
+   "short": "O.A.C. 3307:1-6-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-6 | Temporary Supplementary Benefit Fund, Rule 3307:1-6-01: Determination of temporary supplementary benefit fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-6-01",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-6",
+     "sha256": "f1755e6c667a2e73a1d23994403d41be008b296bec120dee6fd8dbde97259dcf"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-01",
+   "short": "O.A.C. 3307:1-7-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-01: Disability benefits - definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-01",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-02",
+   "short": "O.A.C. 3307:1-7-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-02: Disability - medical review board.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-02",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-03",
+   "short": "O.A.C. 3307:1-7-03",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-03: Disability - medical evidence and appointments.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-03",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-04",
+   "short": "O.A.C. 3307:1-7-04",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-04: Disability benefits - treatment.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-04",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-05",
+   "short": "O.A.C. 3307:1-7-05",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-05: Disability benefits-denials and terminations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-05",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-06",
+   "short": "O.A.C. 3307:1-7-06",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-06: Disability benefits - reexaminations.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-06",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-07",
+   "short": "O.A.C. 3307:1-7-07",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-07: Disability benefits - earnings and employment statements.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-07",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-08",
+   "short": "O.A.C. 3307:1-7-08",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-08: Disability - coordination of state retirement systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-08",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-7-09",
+   "short": "O.A.C. 3307:1-7-09",
+   "title": "Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-09: Disability - appeal of terminations due to teaching service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-09",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-7",
+     "sha256": "48ad0bf0e1cb97efd33dbd1c619d960678a4186ff3b3faaf27671e2d650c07e7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-8-01",
+   "short": "O.A.C. 3307:1-8-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-8 | Survivor Benefits, Rule 3307:1-8-01: Survivor benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-8-01",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-8",
+     "sha256": "3ce99f17f6a5d7a5ffe0d7af3481e369d8106b71d849f018acae54a3e5cc1c74"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-8-02",
+   "short": "O.A.C. 3307:1-8-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-8 | Survivor Benefits, Rule 3307:1-8-02: Active member beneficiary designation.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-8-02",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-8",
+     "sha256": "3ce99f17f6a5d7a5ffe0d7af3481e369d8106b71d849f018acae54a3e5cc1c74"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-9-01",
+   "short": "O.A.C. 3307:1-9-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-9 | Additional Death Benefits, Rule 3307:1-9-01: Additional lump-sum death payment.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-9-01",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-9",
+     "sha256": "182c885ed9be1e508f055367a491f2973f146200a85a9e0abf652bcfe373e9cc"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-10-01",
+   "short": "O.A.C. 3307:1-10-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-10 | Cost of Living, Rule 3307:1-10-01: Cost-of-living.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-10-01",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-10",
+     "sha256": "f1405c283ef2c01fac0ee493476dfb8dfc667e6e7fc7d26893fcd04933e4b7f7"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-01",
+   "short": "O.A.C. 3307:1-11-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-01: Health care services - establishment of program and definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-01",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-02",
+   "short": "O.A.C. 3307:1-11-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-02: Health care services - health care fund.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-02",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-03",
+   "short": "O.A.C. 3307:1-11-03",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-03: Health care services - medical plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-03",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-04",
+   "short": "O.A.C. 3307:1-11-04",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-04: Health care services - health care assistance program.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-04",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-05",
+   "short": "O.A.C. 3307:1-11-05",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-05: Health care services - medicare part B reimbursement.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-05",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-06",
+   "short": "O.A.C. 3307:1-11-06",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-06: Health care services - responsibility for health care coverage.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-06",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-07",
+   "short": "O.A.C. 3307:1-11-07",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-07: Health care services - ancillary plans.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-07",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-08",
+   "short": "O.A.C. 3307:1-11-08",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-08: Health care services - disclosure.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-08",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-11-09",
+   "short": "O.A.C. 3307:1-11-09",
+   "title": "Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-09: Health care services - long-term care insurance.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-11-09",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-11",
+     "sha256": "741990a685cd9369bf51afad220cb647f4846374e88f380b81b832f31984ed96"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-12-01",
+   "short": "O.A.C. 3307:1-12-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-12 | Distributions, Rule 3307:1-12-01: Distributions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-12-01",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-12",
+     "sha256": "1b21667ce57e7e6af114d6e7841715f323394696010c9e5d01299bceed4c81b2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-12-02",
+   "short": "O.A.C. 3307:1-12-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-12 | Distributions, Rule 3307:1-12-02: Maximum permissible benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-12-02",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-12",
+     "sha256": "1b21667ce57e7e6af114d6e7841715f323394696010c9e5d01299bceed4c81b2"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-13-01",
+   "short": "O.A.C. 3307:1-13-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-01: Reemployment restrictions applicable to retirants.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-13-01",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-13",
+     "sha256": "90783417f9681598324136234d4f6c8c6fc156997bba8ddf8d6c69d4e61bb45a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-13-02",
+   "short": "O.A.C. 3307:1-13-02",
+   "title": "Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-02: Retirement of a member pursuant to section 3307.351 of the Revised Code.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-13-02",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-13",
+     "sha256": "90783417f9681598324136234d4f6c8c6fc156997bba8ddf8d6c69d4e61bb45a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-13-03",
+   "short": "O.A.C. 3307:1-13-03",
+   "title": "Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-03: Reemployment subject to section 3307.353 of the Revised Code.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-13-03",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-13",
+     "sha256": "90783417f9681598324136234d4f6c8c6fc156997bba8ddf8d6c69d4e61bb45a"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-1-14-01",
+   "short": "O.A.C. 3307:1-14-01",
+   "title": "Ohio Administrative Code, Chapter 3307:1-14 | Intersystem Transfers with Non-uniform Systems, Rule 3307:1-14-01: Intersystem transfers with non-uniform systems.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-14-01",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:1-14",
+     "sha256": "481fbdd49be5424a4959c13206727e3192a00f67f2b8ee8def07cd27fd0c3369"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-1-01",
+   "short": "O.A.C. 3307:2-1-01",
+   "title": "Ohio Administrative Code, Chapter 3307:2-1 | Defined Contribution Plans - Definitions, Rule 3307:2-1-01: Definitions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-1-01",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-1",
+     "sha256": "2115fca40b6e669a7fc46db18a0c779faed528edb9a513dd69024c116a44e4e1"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-2-01",
+   "short": "O.A.C. 3307:2-2-01",
+   "title": "Ohio Administrative Code, Chapter 3307:2-2 | Defined Contribution Plans - Establishment, Rule 3307:2-2-01: Establishment of defined contribution program, including a defined contribution plan and combined plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-2-01",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-2",
+     "sha256": "7c30c3ad770db891fe1865f23bd0ee3ff5a0e108a5675c842c993096adf6f565"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-3-01",
+   "short": "O.A.C. 3307:2-3-01",
+   "title": "Ohio Administrative Code, Chapter 3307:2-3 | Defined Contribution Plans - Election, Rule 3307:2-3-01: Initial election by new members.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-3-01",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-3",
+     "sha256": "accb32972dd05c631e1cdeb68e63551712af7aa9c7617977f46cf5c292dcf380"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-4-02",
+   "short": "O.A.C. 3307:2-4-02",
+   "title": "Ohio Administrative Code, Chapter 3307:2-4 | Defined Contribution Plans - Service Credit, Rule 3307:2-4-02: Military service.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-4-02",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-4",
+     "sha256": "ff9728ccc5f7a3a02484d6e1306918a534bac78a73d8c90818a36832e9920735"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-4-03",
+   "short": "O.A.C. 3307:2-4-03",
+   "title": "Ohio Administrative Code, Chapter 3307:2-4 | Defined Contribution Plans - Service Credit, Rule 3307:2-4-03: Combined plan participant leaves of absence.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-4-03",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-4",
+     "sha256": "ff9728ccc5f7a3a02484d6e1306918a534bac78a73d8c90818a36832e9920735"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-5-01",
+   "short": "O.A.C. 3307:2-5-01",
+   "title": "Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-01: Distributions.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-5-01",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-5",
+     "sha256": "05f2b76f056184a256b5e8ac76016e9e691f8f45493c38e1eacd2a49d8ec24f0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-5-02",
+   "short": "O.A.C. 3307:2-5-02",
+   "title": "Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-02: Distributions from the defined contribution plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-5-02",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-5",
+     "sha256": "05f2b76f056184a256b5e8ac76016e9e691f8f45493c38e1eacd2a49d8ec24f0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-5-03",
+   "short": "O.A.C. 3307:2-5-03",
+   "title": "Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-03: Distributions from the combined plan.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-5-03",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-5",
+     "sha256": "05f2b76f056184a256b5e8ac76016e9e691f8f45493c38e1eacd2a49d8ec24f0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-5-09",
+   "short": "O.A.C. 3307:2-5-09",
+   "title": "Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-09: Plans of payment for monthly benefit.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-5-09",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-5",
+     "sha256": "05f2b76f056184a256b5e8ac76016e9e691f8f45493c38e1eacd2a49d8ec24f0"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-6-01",
+   "short": "O.A.C. 3307:2-6-01",
+   "title": "Ohio Administrative Code, Chapter 3307:2-6 | Defined Contribution Plans - Disability Benefits, Rule 3307:2-6-01: Combined plan disability benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-6-01",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-6",
+     "sha256": "2dcf85a22c71fa6271410a6c5afd2622bb1d85ebecd64858eb15168687bc1b37"
+    }
+   ]
+  },
+  {
+   "slug": "oac-rule-3307-2-6-02",
+   "short": "O.A.C. 3307:2-6-02",
+   "title": "Ohio Administrative Code, Chapter 3307:2-6 | Defined Contribution Plans - Disability Benefits, Rule 3307:2-6-02: Combined plan survivor benefits.",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3307:2-6-02",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3307:2-6",
+     "sha256": "2dcf85a22c71fa6271410a6c5afd2622bb1d85ebecd64858eb15168687bc1b37"
+    }
+   ]
+  },
+  {
    "slug": "orc-chapter-1314",
    "short": "R.C. Chapter 1314",
    "title": "Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records",

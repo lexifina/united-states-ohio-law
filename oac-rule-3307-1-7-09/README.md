@@ -1,0 +1,8 @@
+# Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-09: Disability - appeal of terminations due to teaching service.
+
+O.A.C. 3307:1-7-09 · 1 versions, from 2021-06-03 (latest in force: 2021-06-03) · <https://codes.ohio.gov/ohio-administrative-code/rule-3307:1-7-09>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Official source information | [source-information.md](source-information.md) | 0 |  |
+| O.A.C. 3307:1-7-09 | [text.md](text.md) | 0 |  |

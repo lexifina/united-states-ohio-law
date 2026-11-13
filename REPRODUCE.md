@@ -21,6 +21,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -5068,17 +5069,62 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-3307-1-3-11` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-11: Payroll deductions for purchase and restoration of service credit. | 1 | 2020-05-07 to 2020-05-07 |
 | `oac-rule-3307-1-3-13` | Ohio Administrative Code, Chapter 3307:1-3 | Restoration and Purchased Credit, Rule 3307:1-3-13: Determination of cost for service credit purchased under section 3307.70 of the Revised Code. | 1 | 2020-05-07 to 2020-05-07 |
 | `oac-rule-3307-1-4-01` | Ohio Administrative Code, Chapter 3307:1-4 | Determination of Final Average Salary, Rule 3307:1-4-01: Compensation includible in the determination of final average salary. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-5-01` | Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-01: Selection and reselection of plan of payment for retirees on or before September 1, 1989. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-5-02` | Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-02: Selection and reselection of plan of payment for retirees on or after October 1, 1989. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-5-03` | Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-03: Court orders. | 1 | 2024-06-13 to 2024-06-13 |
+| `oac-rule-3307-1-5-04` | Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-04: Amounts due and unpaid at death of benefit recipient. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-1-5-05` | Ohio Administrative Code, Chapter 3307:1-5 | Selection and Reselection of Plan of Payment, Rule 3307:1-5-05: Early retirement reduction factors. | 1 | 2025-05-10 to 2025-05-10 |
+| `oac-rule-3307-1-6-01` | Ohio Administrative Code, Chapter 3307:1-6 | Temporary Supplementary Benefit Fund, Rule 3307:1-6-01: Determination of temporary supplementary benefit fund. | 1 | 2022-05-05 to 2022-05-05 |
+| `oac-rule-3307-1-7-01` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-01: Disability benefits - definitions. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3307-1-7-02` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-02: Disability - medical review board. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3307-1-7-03` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-03: Disability - medical evidence and appointments. | 1 | 2021-06-03 to 2021-06-03 |
+| `oac-rule-3307-1-7-04` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-04: Disability benefits - treatment. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-3307-1-7-05` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-05: Disability benefits-denials and terminations. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3307-1-7-06` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-06: Disability benefits - reexaminations. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3307-1-7-07` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-07: Disability benefits - earnings and employment statements. | 1 | 2026-07-02 to 2026-07-02 |
+| `oac-rule-3307-1-7-08` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-08: Disability - coordination of state retirement systems. | 1 | 2021-06-03 to 2021-06-03 |
+| `oac-rule-3307-1-7-09` | Ohio Administrative Code, Chapter 3307:1-7 | Disability Benefits, Rule 3307:1-7-09: Disability - appeal of terminations due to teaching service. | 1 | 2021-06-03 to 2021-06-03 |
+| `oac-rule-3307-1-8-01` | Ohio Administrative Code, Chapter 3307:1-8 | Survivor Benefits, Rule 3307:1-8-01: Survivor benefits. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-8-02` | Ohio Administrative Code, Chapter 3307:1-8 | Survivor Benefits, Rule 3307:1-8-02: Active member beneficiary designation. | 1 | 2021-06-03 to 2021-06-03 |
+| `oac-rule-3307-1-9-01` | Ohio Administrative Code, Chapter 3307:1-9 | Additional Death Benefits, Rule 3307:1-9-01: Additional lump-sum death payment. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-1-10-01` | Ohio Administrative Code, Chapter 3307:1-10 | Cost of Living, Rule 3307:1-10-01: Cost-of-living. | 1 | 2018-05-03 to 2018-05-03 |
+| `oac-rule-3307-1-11-01` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-01: Health care services - establishment of program and definitions. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-11-02` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-02: Health care services - health care fund. | 1 | 2016-06-10 to 2016-06-10 |
+| `oac-rule-3307-1-11-03` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-03: Health care services - medical plan. | 1 | 2023-05-04 to 2023-05-04 |
+| `oac-rule-3307-1-11-04` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-04: Health care services - health care assistance program. | 1 | 2022-05-05 to 2022-05-05 |
+| `oac-rule-3307-1-11-05` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-05: Health care services - medicare part B reimbursement. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-3307-1-11-06` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-06: Health care services - responsibility for health care coverage. | 1 | 2016-06-10 to 2016-06-10 |
+| `oac-rule-3307-1-11-07` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-07: Health care services - ancillary plans. | 1 | 2016-06-10 to 2016-06-10 |
+| `oac-rule-3307-1-11-08` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-08: Health care services - disclosure. | 1 | 2016-06-10 to 2016-06-10 |
+| `oac-rule-3307-1-11-09` | Ohio Administrative Code, Chapter 3307:1-11 | Health Care Services, Rule 3307:1-11-09: Health care services - long-term care insurance. | 1 | 2021-06-03 to 2021-06-03 |
+| `oac-rule-3307-1-12-01` | Ohio Administrative Code, Chapter 3307:1-12 | Distributions, Rule 3307:1-12-01: Distributions. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-12-02` | Ohio Administrative Code, Chapter 3307:1-12 | Distributions, Rule 3307:1-12-02: Maximum permissible benefits. | 1 | 2024-06-13 to 2024-06-13 |
+| `oac-rule-3307-1-13-01` | Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-01: Reemployment restrictions applicable to retirants. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-13-02` | Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-02: Retirement of a member pursuant to section 3307.351 of the Revised Code. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-13-03` | Ohio Administrative Code, Chapter 3307:1-13 | Re-employment Restrictions, Rule 3307:1-13-03: Reemployment subject to section 3307.353 of the Revised Code. | 1 | 2026-05-07 to 2026-05-07 |
+| `oac-rule-3307-1-14-01` | Ohio Administrative Code, Chapter 3307:1-14 | Intersystem Transfers with Non-uniform Systems, Rule 3307:1-14-01: Intersystem transfers with non-uniform systems. | 1 | 2015-06-05 to 2015-06-05 |
+| `oac-rule-3307-2-1-01` | Ohio Administrative Code, Chapter 3307:2-1 | Defined Contribution Plans - Definitions, Rule 3307:2-1-01: Definitions. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-3307-2-2-01` | Ohio Administrative Code, Chapter 3307:2-2 | Defined Contribution Plans - Establishment, Rule 3307:2-2-01: Establishment of defined contribution program, including a defined contribution plan and combined plan. | 1 | 2024-06-13 to 2024-06-13 |
+| `oac-rule-3307-2-3-01` | Ohio Administrative Code, Chapter 3307:2-3 | Defined Contribution Plans - Election, Rule 3307:2-3-01: Initial election by new members. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-3307-2-4-02` | Ohio Administrative Code, Chapter 3307:2-4 | Defined Contribution Plans - Service Credit, Rule 3307:2-4-02: Military service. | 1 | 2024-06-13 to 2024-06-13 |
+| `oac-rule-3307-2-4-03` | Ohio Administrative Code, Chapter 3307:2-4 | Defined Contribution Plans - Service Credit, Rule 3307:2-4-03: Combined plan participant leaves of absence. | 1 | 2021-07-01 to 2021-07-01 |
+| `oac-rule-3307-2-5-01` | Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-01: Distributions. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-3307-2-5-02` | Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-02: Distributions from the defined contribution plan. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-2-5-03` | Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-03: Distributions from the combined plan. | 1 | 2020-05-07 to 2020-05-07 |
+| `oac-rule-3307-2-5-09` | Ohio Administrative Code, Chapter 3307:2-5 | Defined Contribution Plans - Distributions, Rule 3307:2-5-09: Plans of payment for monthly benefit. | 1 | 2024-06-13 to 2024-06-13 |
+| `oac-rule-3307-2-6-01` | Ohio Administrative Code, Chapter 3307:2-6 | Defined Contribution Plans - Disability Benefits, Rule 3307:2-6-01: Combined plan disability benefits. | 1 | 2019-06-07 to 2019-06-07 |
+| `oac-rule-3307-2-6-02` | Ohio Administrative Code, Chapter 3307:2-6 | Defined Contribution Plans - Disability Benefits, Rule 3307:2-6-02: Combined plan survivor benefits. | 1 | 2019-06-07 to 2019-06-07 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 5044 commits:
+The build made 5089 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5044 | baseline texts where the record starts |
+| 5089 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -5088,7 +5134,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 5044 tags.
+- 5089 tags.
 
 ## Dates
 
@@ -5100,7 +5146,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8f8a3cc80055d9c1eefe20a9f8d9b2a38cad4621c2936fea8dd0f0c1c492393a` (103439977 bytes).
+- Corpus: sha256 `87e3431c6fcf79d756a0a6884dd1033c7168c6ea324b64ec1f906d532118e352` (103674190 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -5144,6 +5190,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -5156,6 +5204,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
