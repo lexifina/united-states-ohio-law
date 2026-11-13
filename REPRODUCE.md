@@ -13,6 +13,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
+| Ohio Legislative Service Commission, Ohio Administrative Code | <https://codes.ohio.gov/ohio-administrative-code> | 2026-11-13 | Official administrative rules are edicts of government. |
 | Ohio Legislative Service Commission, current Revised Code | <https://codes.ohio.gov/ohio-revised-code> | 2026-11-11 | Ohio statutory text is an edict of government. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -2035,17 +2036,445 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oac-rule-127-1-01` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-01: Definitions. | 1 | 2014-04-07 to 2014-04-07 |
 | `oac-rule-127-1-03` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-03: Notice of meeting. | 1 | 2014-04-07 to 2014-04-07 |
 | `oac-rule-127-1-04` | Ohio Administrative Code, Chapter 127-1 | General Provisions, Rule 127-1-04: Application to the minority business bonding program. | 1 | 2014-04-07 to 2014-04-07 |
+| `oac-rule-128-1-01` | Ohio Administrative Code, Chapter 128-1 | General Provisions, Rule 128-1-01: Internal management rules of capitol square review and advisory board. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-1-02` | Ohio Administrative Code, Chapter 128-1 | General Provisions, Rule 128-1-02: Officers, elections, terms and duties. | 1 | 2026-10-02 to 2026-10-02 |
+| `oac-rule-128-4-01` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-01: Definitions. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-02` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-02: Capitol buildings or grounds use: general rules and requirement of a permit. | 1 | 2025-01-13 to 2025-01-13 |
+| `oac-rule-128-4-03` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-03: Application procedure for a permit to use capitol buildings and grounds. | 1 | 2025-01-13 to 2025-01-13 |
+| `oac-rule-128-4-04` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-04: Appeals. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-05` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-05: Violation of rules or permit; general penalties. | 1 | 2025-01-13 to 2025-01-13 |
+| `oac-rule-128-4-06` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-06: Capitol property animal control. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-07` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-07: Lying in state at Capitol Square. | 1 | 2008-12-22 to 2008-12-22 |
+| `oac-rule-128-4-08` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-08: Commemorative works at capitol square. | 1 | 2024-11-17 to 2024-11-17 |
+| `oac-rule-128-4-09` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-09: Flag display on capitol square. | 1 | 2025-02-17 to 2025-02-17 |
+| `oac-rule-128-4-10` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-10: Capitol square buildings appliance rule. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-11` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-11: Rules for naming spaces in the statehouse. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-12` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-12: Replacement bust program. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-4-13` | Ohio Administrative Code, Chapter 128-4 | Use of Capitol Buildings or Grounds, Rule 128-4-13: Procedure for the removal of "commemorative works" at capitol square. | 1 | 2021-05-28 to 2021-05-28 |
+| `oac-rule-128-5-01` | Ohio Administrative Code, Chapter 128-5 | Safety Rules for Parking Garage, Rule 128-5-01: Parking garage: public safety rules. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-128-5-02` | Ohio Administrative Code, Chapter 128-5 | Safety Rules for Parking Garage, Rule 128-5-02: Facilities/equipment policy in parking garage. | 1 | 2024-12-05 to 2024-12-05 |
+| `oac-rule-129-1-01` | Ohio Administrative Code, Chapter 129-1 | Notice of Meetings, Rule 129-1-01: Notification of meetings to the public and news media. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-01` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-01: Definitions. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-02` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-02: Designated members to serve at meetings related to natural resources obligations issued under section 1557.03 of the Revised Code. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-03` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-03: Officers of sinking fund. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-04` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-04: Meetings. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-05` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-05: Semi-annual reports. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-2-06` | Ohio Administrative Code, Chapter 129-2 | General Provisions, Rule 129-2-06: Amendments. | 1 | 1994-12-17 to 1994-12-17 |
+| `oac-rule-129-1-1-01` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-01: Officers of the commissioners of the sinking fund. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-02` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-02: Meetings, call for, notice of, place of. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-03` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-03: Secretary to furnish members with draft of minutes of meeting. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-04` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-04: Order of business of meetings. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-05` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-05: Quorum. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-06` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-06: Amendment or repeal of rules. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-10` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-10: Office of treasurer of Vietnam conflict compensation fund and Vietnam conflict compensation bond retirement fund. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-11` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-11: Warrants, checks, issuance of. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-12` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-12: Bonds or notes, issuance of. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-14` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-14: Certification. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-15` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-15: Bond resolutions. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-129-1-1-16` | Ohio Administrative Code, Chapter 129:1-1 | General Provisions, Rule 129:1-1-16: Severability. | 1 | 1974-06-07 to 1974-06-07 |
+| `oac-rule-135-1-01` | Ohio Administrative Code, Chapter 135-1 | Notice of Meetings, Rule 135-1-01: Notice of meetings of the board of deposit. | 1 | 2024-06-27 to 2024-06-27 |
+| `oac-rule-135-2-01` | Ohio Administrative Code, Chapter 135-2 | Investment Limitations for State Interim Funds, Rule 135-2-01: Investment limitations for state interim funds. | 1 | 2024-01-02 to 2024-01-02 |
+| `oac-rule-145-1-01` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-01: Organization. | 1 | 2020-01-01 to 2020-01-01 |
+| `oac-rule-145-1-02` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-02: Election of board members. | 1 | 2012-12-10 to 2012-12-10 |
+| `oac-rule-145-1-03` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-03: Board travel and expense reimbursement policy. | 1 | 2007-11-30 to 2007-11-30 |
+| `oac-rule-145-1-05` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-05: Investment department incentive plan payouts policy. | 1 | 2015-01-01 to 2015-01-01 |
+| `oac-rule-145-1-06` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-06: Ohio-qualified agents and investment managers. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-1-07` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-07: Investment entities. | 1 | 2026-01-16 to 2026-01-16 |
+| `oac-rule-145-1-09` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-09: Staff authority. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-1-10` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-10: Staff determination of membership. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-145-1-11` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-11: Appeal of staff membership determination. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-145-1-13` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-13: Notice of meetings. | 1 | 2012-12-10 to 2012-12-10 |
+| `oac-rule-145-1-15` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-15: Rule on rules. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-1-21` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-21: Federal tax compliance provisions. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-23` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-23: Determination of employer contribution rate. | 1 | 2006-01-01 to 2006-01-01 |
+| `oac-rule-145-1-24` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-24: Contribution rates. | 1 | 2010-01-01 to 2010-01-01 |
+| `oac-rule-145-1-26` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-26: Definition of earnable salary. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-145-1-27` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-27: Remittance of employer liabilities. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-28` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-28: Remittance of employer contributions. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-1-31` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-31: Payment for periods of noncontributing service. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-35` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-35: Service purchase. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-36` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-36: Service credit purchase under Substitute S.B.343. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-1-37` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-37: Eligible rollover distributions. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-38` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-38: Purchase of service credit by payroll deduction. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-39` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-39: Replacement of payments. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-41` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-41: Membership determination. | 1 | 2026-01-16 to 2026-01-16 |
+| `oac-rule-145-1-42` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-42: Services under a contract. | 1 | 2019-01-01 to 2019-01-01 |
+| `oac-rule-145-1-43` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-43: Alternative retirement programs. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-1-45` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-45: Retirement deductions during faculty improvement leave. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-47` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-47: Humane society employment. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-48` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-48: Board and commission members. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-49` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-49: Mental health and developmental disability boards. | 1 | 2010-01-01 to 2010-01-01 |
+| `oac-rule-145-1-50` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-50: Firefighters. | 1 | 2006-01-01 to 2006-01-01 |
+| `oac-rule-145-1-51` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-51: County agricultural societies. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-53` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-53: Payment by fee, commission, stipend or honorarium. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-55` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-55: Exemption termination. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-61` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-61: Release of names, addresses and individual case information and maintenance of records. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-1-62` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-62: Proof of date of birth and legal name change. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-63` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-63: Guardianship and power of attorney. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-64` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-64: Death of designated beneficiary. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-65` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-65: Interim benefit payment. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-66` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-66: Forms provided by OPERS. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-145-1-67` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-67: Monthly benefit payment date. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-1-68` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-68: Forfeiture orders under R.C. 145.574. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-1-69` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-69: Waiver of benefits by guardian of estate. | 1 | 2006-01-01 to 2006-01-01 |
+| `oac-rule-145-1-70` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-70: Waiver of spousal consent. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-71` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-71: Withdrawal of benefit application. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-145-1-73` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-73: Withdrawal of application for refund or money purchase or additional annuity lump sum payments. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-74` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-74: Re-employment restrictions applicable to a member. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-75` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-75: Re-employment of a retirant. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-76` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-76: Benefits payable to a re-employed retirant. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-77` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-77: Reemployment of member-directed or combined plan participant. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-78` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-78: Retirement of a member pursuant to section 145.383 of the Revised Code. | 1 | 2021-01-01 to 2021-01-01 |
+| `oac-rule-145-1-79` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-79: Reemployment covered by section 145.381 of the Revised Code. | 1 | 2006-01-01 to 2006-01-01 |
+| `oac-rule-145-1-80` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-80: Effect of applicant's death on payment plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-81` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-81: Retirement plans. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-82` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-82: Exceptions to duty to notify. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-1-83` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-83: Application of USERRA to 180-day election period. | 1 | 2003-11-15 to 2003-11-15 |
+| `oac-rule-145-1-88` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-88: Changes to election to participate. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-89` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-89: Transfer of contributions under rule 145-1-88 of the Administrative Code. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-1-90` | Ohio Administrative Code, Chapter 145-1 | Benefits, Rule 145-1-90: Consolidation of the combined plan into the traditional pension plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-01` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-01: Service credit definitions. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-2-02` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-02: Additional liability for service purchases in the traditional pension plan. | 1 | 2015-06-06 to 2015-06-06 |
+| `oac-rule-145-2-03` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-03: Purchase of workers' compensation service. | 1 | 2015-06-06 to 2015-06-06 |
+| `oac-rule-145-2-04` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-04: Purchase of credit pursuant to section 145.293 of the Revised Code. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-05` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-05: Free credit for military service. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-06` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-06: Purchase of military service credit. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-07` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-07: Additional service credit under section 145.201 of the Revised Code. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-08` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-08: Purchase of school board member service. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-09` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-09: Purchase of exempted service credit. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-10` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-10: Intersystem transfers with non-uniform systems. | 1 | 2015-06-06 to 2015-06-06 |
+| `oac-rule-145-2-11` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-11: Police and fire or highway patrol service. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-12` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-12: Purchase of optional service. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-13` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-13: Purchase of leave of absence. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-14` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-14: Use of "Ohio service credit" in benefit calculations. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-15` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-15: Cincinnati retirement system. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-16` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-16: Conversion or proration of service credit to law enforcement service credit. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-17` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-17: Purchase of firefighter service. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-18` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-18: Service credit in the traditional pension plan for participation in combined plan or member-directed plan. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-19` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-19: Aggregating combined and traditional plan service credit for retirement eligibility. | 1 | 2025-10-05 to 2025-10-05 |
+| `oac-rule-145-2-21` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-21: Application for a disability benefit. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-22` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-22: Receipt of disability benefits. | 1 | 2020-01-01 to 2020-01-01 |
+| `oac-rule-145-2-23` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-23: Disability appeals. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-25` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-25: Combined disability benefits. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-27` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-27: Disability benefit recipient's annual statement. | 1 | 2019-05-20 to 2019-05-20 |
+| `oac-rule-145-2-30` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-30: Designation of beneficiary prior to retirement. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-31` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-31: Proof of dependency. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-2-32` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-32: Crediting of interest to beneficiaries lump sum payments. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-145-2-35` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-35: Validity of marriage. | 1 | 2007-07-01 to 2007-07-01 |
+| `oac-rule-145-2-37` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-37: Deferral of survivor benefits. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-145-2-38` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-38: Survivors of law enforcement officers killed in the line of duty. | 1 | 2007-07-01 to 2007-07-01 |
+| `oac-rule-145-2-39` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-39: Survivors of law enforcement officers with non-law enforcement service. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-40` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-40: Benefits payable under section 145.333 of the Revised Code. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-42` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-42: Retirement incentive plans. | 1 | 2017-01-01 to 2017-01-01 |
+| `oac-rule-145-2-43` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-43: Additional annuity accounts. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-44` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-44: Selection of payment plan-spousal consent. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-45` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-45: Benefit payable pursuant to section 145.331 of the Revised Code. | 1 | 2007-01-01 to 2007-01-01 |
+| `oac-rule-145-2-46` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-46: Beneficiary's percentage under joint-life and multiple-life plans. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-47` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-47: Beneficiary and payment plan changes after retirement. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-145-2-48` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-48: Beneficiary and payment plan changes after commencement of additional annuity. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-49` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-49: Retirement benefits for law enforcement officers. | 1 | 2019-05-20 to 2019-05-20 |
+| `oac-rule-145-2-50` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-50: Acturial reduction factors. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-51` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-51: Effective date of benefits. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-2-52` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-52: Application by a contributor for refund of accumulated contributions. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-53` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-53: Cost of living adjustment. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-54` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-54: Enhanced refund. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-55` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-55: Death benefit payment. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-2-57` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-57: Annual interest credited to contributor accounts. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-2-60` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-60: Designation of beneficiaries under the multiple-life plan. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-62` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-62: Calculation of amount due retirant or contributor with multiple beneficiaries under the multiple-life plan. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-64` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-64: Priority of multiple court orders under the multiple-life plan. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-2-65` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-65: Internal Revenue Code limitations on benefits. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-67` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-67: Eligible rollover distributions from this plan. | 1 | 2013-03-24 to 2013-03-24 |
+| `oac-rule-145-2-70` | Ohio Administrative Code, Chapter 145-2 | Service Credit, Rule 145-2-70: Mandatory direct deposit. | 1 | 2019-01-01 to 2019-01-01 |
+| `oac-rule-145-3-01` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-01: Plan documents. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-3-02` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-02: Combined and member-directed plan provisions. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-04` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-04: Impact of weekend or holiday on initial plan selection. | 1 | 2012-01-01 to 2012-01-01 |
+| `oac-rule-145-3-06` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-06: Procedure for additional deposits. | 1 | 2007-08-09 to 2007-08-09 |
+| `oac-rule-145-3-08` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-08: Active/inactive administrative fee. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-3-10` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-10: Application by participant for refund of contributions. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-13` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-13: Beneficiary and payment plan changes after retirement. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-14` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-14: Designation of beneficiaries under the multiple-life plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-15` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-15: Calculation of amount due retirant with multiple beneficiaries under the multiple-life plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-16` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-16: Priority of multiple court orders under the multiple-life plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-21` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-21: Purchase of service credit by combined plan members. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-22` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-22: Restored service. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-3-23` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-23: Additional liability for service purchases in the combined plan. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-3-40` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-40: Service credit in the combined plan for participation in member-directed plan. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-3-50` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-50: Designation of beneficiary prior to retirement. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-3-53` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-53: Validity of marriage. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-3-81` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-81: Military service. | 1 | 2003-01-01 to 2003-01-01 |
+| `oac-rule-145-3-82` | Ohio Administrative Code, Chapter 145-3 | Contributions, Rule 145-3-82: Purchase of service credit by member-directed plan members. | 1 | 2013-09-16 to 2013-09-16 |
+| `oac-rule-145-4-01` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-01: Health care definitions. | 1 | 2024-01-01 to 2024-01-01 |
+| `oac-rule-145-4-02` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-02: Health care fund. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-4-11` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-11: Rescission of coverage. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-4-24` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-24: Retiree medical account for member-directed plan. | 1 | 2016-09-01 to 2016-09-01 |
+| `oac-rule-145-4-25` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-25: Dental and vision coverage. | 1 | 2025-01-01 to 2025-01-01 |
+| `oac-rule-145-4-27` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-27: Health reimbursement arrangement. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-4-28` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-28: Administration of 401(h) retiree medical account-claims and appeals. | 1 | 2016-01-01 to 2016-01-01 |
+| `oac-rule-145-4-70` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-70: Reimbursement of medicare part "A" premium. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-145-4-72` | Ohio Administrative Code, Chapter 145-4 | Health Care Coverage, Rule 145-4-72: Reimbursement of medicare part "B" premium. | 1 | 2022-01-01 to 2022-01-01 |
+| `oac-rule-149-1-01` | Ohio Administrative Code, Chapter 149-1 | General Provisions, Rule 149-1-01: Method of public notice in adopting, amending or rescinding rules. | 1 | 1983-04-18 to 1983-04-18 |
+| `oac-rule-149-1-02` | Ohio Administrative Code, Chapter 149-1 | General Provisions, Rule 149-1-02: Guidelines for archaeological investigations on public land, archaeological preserves, and sites listed in the state registry of archaeological landmarks. | 1 | 1983-11-01 to 1983-11-01 |
+| `oac-rule-150-1-01` | Ohio Administrative Code, Chapter 150-1 | Investment Policy, Rule 150-1-01: Ohio venture capital program investment policy. | 1 | 2016-01-22 to 2016-01-22 |
+| `oac-rule-151-1-01` | Ohio Administrative Code, Chapter 151-1 | Notice of Meetings, Rule 151-1-01: Notification of meetings to the public and news media. | 1 | 2019-05-10 to 2019-05-10 |
+| `oac-rule-153-1-1-01` | Ohio Administrative Code, Chapter 153:1-1 | Professional Design Services, Rule 153:1-1-01: Announcement of professional design and design-build contracts and qualifications-based selection of professional design firms. | 1 | 2023-01-19 to 2023-01-19 |
+| `oac-rule-153-1-1-02` | Ohio Administrative Code, Chapter 153:1-1 | Professional Design Services, Rule 153:1-1-02: Prequalification of professional design firms. | 1 | 2023-01-19 to 2023-01-19 |
+| `oac-rule-153-1-1-03` | Ohio Administrative Code, Chapter 153:1-1 | Professional Design Services, Rule 153:1-1-03: Authority of a contracting authority in the award of qualification based selections. | 1 | 2014-03-27 to 2014-03-27 |
+| `oac-rule-153-1-2-01` | Ohio Administrative Code, Chapter 153:1-2 | Document Forms, Rule 153:1-2-01: Form of construction manager at risk contract documents. | 1 | 2023-01-19 to 2023-01-19 |
+| `oac-rule-153-1-2-02` | Ohio Administrative Code, Chapter 153:1-2 | Document Forms, Rule 153:1-2-02: Form of design-build contract documents. | 1 | 2023-01-19 to 2023-01-19 |
+| `oac-rule-153-1-3-01` | Ohio Administrative Code, Chapter 153:1-3 | Subcontract Form, Rule 153:1-3-01: Definitions. | 1 | 2017-01-13 to 2017-01-13 |
+| `oac-rule-153-1-3-02` | Ohio Administrative Code, Chapter 153:1-3 | Subcontract Form, Rule 153:1-3-02: Form of subcontract. | 1 | 2011-12-26 to 2011-12-26 |
+| `oac-rule-153-1-4-01` | Ohio Administrative Code, Chapter 153:1-4 | Surety Bonds, Rule 153:1-4-01: Definitions. | 1 | 2011-12-26 to 2011-12-26 |
+| `oac-rule-153-1-4-02` | Ohio Administrative Code, Chapter 153:1-4 | Surety Bonds, Rule 153:1-4-02: Type and amount of surety bonds. | 1 | 2017-01-13 to 2017-01-13 |
+| `oac-rule-153-1-5-01` | Ohio Administrative Code, Chapter 153:1-5 | Advertising for Construction Manager, Rule 153:1-5-01: Electronic Advertising. | 1 | 2012-02-02 to 2012-02-02 |
+| `oac-rule-153-1-6-01` | Ohio Administrative Code, Chapter 153:1-6 | Best Value Selection, Rule 153:1-6-01: Best value selection of a construction manager at risk. | 1 | 2026-05-19 to 2026-05-19 |
+| `oac-rule-153-1-6-02` | Ohio Administrative Code, Chapter 153:1-6 | Best Value Selection, Rule 153:1-6-02: Best value selection of a design-build firm. | 1 | 2026-05-19 to 2026-05-19 |
+| `oac-rule-153-1-6-03` | Ohio Administrative Code, Chapter 153:1-6 | Best Value Selection, Rule 153:1-6-03: Authority of a contracting authority in the award of best value selection contracts. | 1 | 2014-03-27 to 2014-03-27 |
+| `oac-rule-153-1-7-01` | Ohio Administrative Code, Chapter 153:1-7 | Prequalification of Prospective Bidders, Rule 153:1-7-01: Prequalification of prospective bidders on subcontracts. | 1 | 2012-02-03 to 2012-02-03 |
+| `oac-rule-153-1-8-01` | Ohio Administrative Code, Chapter 153:1-8 | Electronic Bidding, Rule 153:1-8-01: Electronic bidding. | 1 | 2017-01-13 to 2017-01-13 |
+| `oac-rule-153-1-9-01` | Ohio Administrative Code, Chapter 153:1-9 | Inflation Adjustment, Rule 153:1-9-01: Adjusting the public bidding threshold for inflation. | 1 | 2023-01-19 to 2023-01-19 |
+| `oac-rule-164-1-01` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-01: Definitions. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-02` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-02: Public hearings on adoption, amendment, or rescission of rules; methods of public notice. | 1 | 2018-09-10 to 2018-09-10 |
+| `oac-rule-164-1-03` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-03: Districts; committee members. | 1 | 1989-09-18 to 1989-09-18 |
+| `oac-rule-164-1-10` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-10: Open meeting requirements. | 1 | 1998-04-20 to 1998-04-20 |
+| `oac-rule-164-1-11` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-11: Project selection criteria. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-13` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-13: Useful life requirement. | 1 | 2018-09-10 to 2018-09-10 |
+| `oac-rule-164-1-14` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-14: Repair or replacement projects versus new or expanded projects. | 1 | 2018-09-10 to 2018-09-10 |
+| `oac-rule-164-1-15` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-15: Applicant's share of project costs; ineligible costs. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-16` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-16: Engineer's certified cost estimate. | 1 | 1989-09-18 to 1989-09-18 |
+| `oac-rule-164-1-17` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-17: Multi-subdivision projects. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-18` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-18: Funding time limitations; multi-year projects. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-19` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-19: Emergency projects. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-21` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-21: Project agreement. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-23` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-23: Project cost overruns and underruns. | 1 | 1989-09-18 to 1989-09-18 |
+| `oac-rule-164-1-24` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-24: Project audit requirements. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-32` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-32: Minority business enterprises. | 1 | 2013-07-18 to 2013-07-18 |
+| `oac-rule-164-1-33` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-33: District administrative costs. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-34` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-34: Contingency line items and change orders. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-35` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-35: District methodologies. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-36` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-36: Engineering costs. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-37` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-37: Late loan payments and access to funds. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-38` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-38: Loan assistance. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-39` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-39: Privacy policy. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-40` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-40: Project schedule. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-41` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-41: Small government. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-1-42` | Ohio Administrative Code, Chapter 164-1 | General Provisions, Rule 164-1-42: Subdivision codes. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-01` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-01: Definitions. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-02` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-02: Access to funds and late infrastructure loan payments. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-03` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-03: Appraisals. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-04` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-04: Carbon credits. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-05` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-05: Declaration of restrictions and long-term ownership or control. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-06` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-06: Eligible, ineligible items, and activities. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-07` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-07: Engineering fees. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-08` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-08: Environmental site assessment (ESA) and suspected environmental contamination. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-09` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-09: Farmland preservation. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-10` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-10: Forest ecosystem and sustainability. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-11` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-11: Mineral rights, oil, and gas. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-12` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-12: Natural resources assistance council (NRAC) methodologies. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-13` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-13: Project signs. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-14` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-14: Park districts and park authorities project support documentation. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-15` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-15: Privacy policy. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-16` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-16: Project agreement; scope changes. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-17` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-17: Project schedule. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-18` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-18: Protected real property exchange. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-19` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-19: Requests to proceed and title insurance. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-20` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-20: Resolutions of support, improvements only projects. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-21` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-21: Restoration work on clean Ohio property. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-22` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-22: Revenue-producing activities. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-23` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-23: Stream restoration and property ownership. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-24` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-24: Structures. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-25` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-25: Subdivision codes. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-26` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-26: Surveys. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-164-2-27` | Ohio Administrative Code, Chapter 164-2 | Clean Ohio Funding, Rule 164-2-27: Utility easements. | 1 | 2024-02-15 to 2024-02-15 |
+| `oac-rule-173-1-01` | Ohio Administrative Code, Chapter 173-1 | General Provisions, Rule 173-1-01: Public meetings, public hearings, and public comments. | 1 | 2022-11-01 to 2022-11-01 |
+| `oac-rule-173-2-01` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-01: AAAs: introduction and definitions. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-2-02` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-02: AAAs: planning and service areas. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-2-04` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-04: AAAs: designation of and designation changes to area agencies. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-2-05` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-05: AAAs: standards for AAAs. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-2-06` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-06: AAAs: monitoring and imposing corrective actions on AAAs. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-2-07` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-07: AAAs: withdrawal of designation. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-2-08` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-08: AAAs: commercial relationships. | 1 | 2026-04-01 to 2026-04-01 |
+| `oac-rule-173-2-09` | Ohio Administrative Code, Chapter 173-2 | Area Agency on Aging (AAA), Rule 173-2-09: AAAs: waiver requests. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-3-01` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-01: Older Americans Act: introduction and definitions. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-3-04` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-04: Older Americans Act: general requirements for AAA-provider agreements. | 1 | 2025-10-01 to 2025-10-01 |
+| `oac-rule-173-3-05` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-05: Older Americans Act: procurement standards. | 1 | 2025-10-01 to 2025-10-01 |
+| `oac-rule-173-3-06` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06: Older Americans Act: requirements to include in every AAA-provider agreement. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-3-06-2` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.2: Older Americans Act: home maintenance and chores. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-3-06-3` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.3: Older Americans Act: home modification. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-3-06-4` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.4: Older Americans Act: homemaker service. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-3-06-5` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.5: Older Americans Act: personal care. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-3-06-6` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.6: Older Americans Act: transportation. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-3-06-10` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.10: Older Americans Act: legal assistance. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-3-06-12` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.12: Older Americans Act: outreach and public information. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-3-06-13` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.13: Older Americans Act: volunteer management. | 1 | 2024-10-01 to 2024-10-01 |
+| `oac-rule-173-3-06-14` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-06.14: Older Americans Act: disease prevention and health promotion service. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-173-3-08` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-08: Older Americans Act: consumer and caregiver grievances. | 1 | 2025-12-01 to 2025-12-01 |
+| `oac-rule-173-3-09` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-09: Older Americans Act: administrative hearings for adversely-affected providers. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-3-10` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-10: Older Americans Act: private pay programs. | 1 | 2025-12-01 to 2025-12-01 |
+| `oac-rule-173-3-11` | Ohio Administrative Code, Chapter 173-3 | Older Americans Act Programs, Rule 173-3-11: Older Americans Act: state plans on aging. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-01` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-01: Older Americans Act nutrition program: introduction and definitions. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-4-02` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-02: Older Americans Act nutrition program: meals eligible for payment. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-03` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-03: Older Americans Act nutrition program: consumer enrollment. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-4-04` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-04: Older Americans Act nutrition program: procuring for person direction. | 1 | 2025-10-01 to 2025-10-01 |
+| `oac-rule-173-4-05` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-05: Older Americans Act nutrition program: nutrition projects. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-173-4-05-1` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-05.1: Older Americans Act nutrition program: congregate dining projects. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-05-2` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-05.2: Older Americans Act nutrition program: home-delivered meals projects. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-05-3` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-05.3: Older Americans Act nutrition program: congregate dining projects based in restaurants or grocery stores. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-4-06` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-06: Older Americans Act nutrition program: diet orders. | 1 | 2023-12-01 to 2023-12-01 |
+| `oac-rule-173-4-07` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-07: Older Americans Act nutrition program: nutrition counseling. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-08` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-08: Older Americans Act nutrition program: nutrition education. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-4-09` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-09: Older Americans Act nutrition program: nutrition health screening. | 1 | 2023-01-01 to 2023-01-01 |
+| `oac-rule-173-4-10` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-10: Older Americans Act nutrition program: grocery shopping assistance. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-4-11` | Ohio Administrative Code, Chapter 173-4 | Older Americans Act Nutrition Program, Rule 173-4-11: Older Americans Act nutrition program: grocery ordering and delivery. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-6-01` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-01: Golden buckeye program: introduction and definitions. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-6-02` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-02: Golden buckeye program: eligibility requirements for persons. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-6-03` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-03: Golden buckeye program: enrollment process for persons sixty years of age or older. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-6-04` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-04: Golden buckeye program: enrollment process for persons eighteen to fifty-nine years of age. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-6-05` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-05: Golden buckeye program: business participation agreements. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-6-06` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-06: Golden buckeye program: electronic business directory. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-6-07` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-07: Golden buckeye program: cardholder records. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-6-08` | Ohio Administrative Code, Chapter 173-6 | Golden Buckeye Card Program, Rule 173-6-08: Golden buckeye program: ODA's administrator. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-9-01` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-01: Background checks for paid direct-care positions: introduction and definitions. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-02` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-02: Background checks for paid direct-care positions: applicability. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-03` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-03: Background checks for paid direct-care positions: reviewing databases. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-05` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-05: Background checks for paid direct-care positions: conditional hiring. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-06` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-06: Background checks for paid direct-care positions: disqualifying offenses. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-07` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-07: Background checks for paid direct-care positions: occasions when a disqualifying offense does not disqualify. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-9-08` | Ohio Administrative Code, Chapter 173-9 | Criminal Records Check - Paid Direct-Care Position, Rule 173-9-08: Background checks for paid direct-care positions: confidentiality and retention of records. | 1 | 2026-02-01 to 2026-02-01 |
+| `oac-rule-173-11-03` | Ohio Administrative Code, Chapter 173-11 | Senior Facilities Program, Rule 173-11-03: Senior facilities program. | 1 | 2026-10-01 to 2026-10-01 |
+| `oac-rule-173-13-01` | Ohio Administrative Code, Chapter 173-13 | Accessing Confidential Personal Information, Rule 173-13-01: Confidential personal information: introduction and definitions. | 1 | 2025-08-01 to 2025-08-01 |
+| `oac-rule-173-13-02` | Ohio Administrative Code, Chapter 173-13 | Accessing Confidential Personal Information, Rule 173-13-02: Confidential personal information: procedures for accessing CPI. | 1 | 2025-08-01 to 2025-08-01 |
+| `oac-rule-173-13-03` | Ohio Administrative Code, Chapter 173-13 | Accessing Confidential Personal Information, Rule 173-13-03: Confidential personal information: valid reasons for accessing CPI. | 1 | 2025-08-01 to 2025-08-01 |
+| `oac-rule-173-13-04` | Ohio Administrative Code, Chapter 173-13 | Accessing Confidential Personal Information, Rule 173-13-04: Confidential personal information: statutes and rules. | 1 | 2025-08-01 to 2025-08-01 |
+| `oac-rule-173-13-05` | Ohio Administrative Code, Chapter 173-13 | Accessing Confidential Personal Information, Rule 173-13-05: Confidential personal information: restricting and logging access to CPI in computerized personal information systems. | 1 | 2025-08-01 to 2025-08-01 |
+| `oac-rule-173-14-01` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-01: Definitions. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-02` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-02: Types of ombudsman staff and non-representative individuals; identification cards. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-03` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-03: Duties of the representatives of the office. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-04` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-04: Training and certification: hours. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-05` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-05: Professional development: administration. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-06` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-06: Professional development: deadlines. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-07` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-07: Training and certification: curricula. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-08` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-08: Training and certification: experiential learning. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-10` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-10: Deployment and certification exams. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-11` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-11: Ombudsman registry; hiring ombudsman specialists and program directors. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-12` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-12: Separation of representatives from the office. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-13` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-13: Continuing education requirements, approval of hours, certifying fulfillment. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-15` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-15: Conflicts of interest. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-16` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-16: Complaint-handling protocol. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-17` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-17: Referral of complaints to the state long-term care ombudsman. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-18` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-18: Referrals of complaints to other agencies. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-19` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-19: Case records and reporting of core services. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-20` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-20: Systems advocacy. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-21` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-21: Designated long-term care ombudsman regions. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-22` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-22: Initial designation of regional long-term care ombudsman programs: standards. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-23` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-23: Initial designation of regional long-term care ombudsman programs: process. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-24` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-24: Development of ombudsman plans by all programs. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-25` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-25: Designation service reviews and additional program reviews. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-26` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-26: Changes in a regional program's designation status; notice rights; and hearing requirements. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-27` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-27: Decertification of a certified ombudsman or removal of an ombudsman candidate for certification. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-14-28` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-28: Bed fee collection guidelines. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-14-29` | Ohio Administrative Code, Chapter 173-14 | State Long Term Care Ombudsman, Rule 173-14-29: Response to allegations about ombudsman performance. | 1 | 2025-11-10 to 2025-11-10 |
+| `oac-rule-173-38-01` | Ohio Administrative Code, Chapter 173-38 | Medicaid-Funded Assisted Living Program, Rule 173-38-01: Assisted living program (medicaid-funded component): introduction and definitions. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-38-02` | Ohio Administrative Code, Chapter 173-38 | Medicaid-Funded Assisted Living Program, Rule 173-38-02: Assisted living program (medicaid-funded component): eligibility requirements for individuals. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-38-03` | Ohio Administrative Code, Chapter 173-38 | Medicaid-Funded Assisted Living Program, Rule 173-38-03: Assisted living program (medicaid-funded component): enrollment and reassessment of individuals. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-38-04` | Ohio Administrative Code, Chapter 173-38 | Medicaid-Funded Assisted Living Program, Rule 173-38-04: Assisted living program (medicaid-funded): provider requirements. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-38-05` | Ohio Administrative Code, Chapter 173-38 | Medicaid-Funded Assisted Living Program, Rule 173-38-05: Assisted living program (medicaid-funded): covered services. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-39-01` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-01: Provider certification: introduction and definitions. | 1 | 2025-11-01 to 2025-11-01 |
+| `oac-rule-173-39-02` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02: ODA provider certification: requirements for providers to become, and to remain, certified. | 1 | 2025-04-01 to 2025-04-01 |
+| `oac-rule-173-39-02-2` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.2: ODA provider certification: alternative meals. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-4` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.4: ODA provider certification: choices home care attendant service. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-5` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.5: ODA provider certification: home maintenance and chores. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-6` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.6: ODA provider certification: personal emergency response system. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-7` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.7: ODA provider certification: home medical equipment and supplies. | 1 | 2022-04-04 to 2022-04-04 |
+| `oac-rule-173-39-02-8` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.8: ODA provider certification: homemaker. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-02-9` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.9: ODA provider certification: home modification. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-10` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.10: ODA provider certification: nutritional consultations. | 1 | 2022-04-04 to 2022-04-04 |
+| `oac-rule-173-39-02-11` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.11: ODA provider certification: personal care. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-02-12` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.12: ODA provider certification: social work or counseling. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-02-14` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.14: ODA provider certification: home-delivered meals. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-15` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.15: ODA provider certification: community integration. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-16` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.16: ODA provider certification: assisted living service. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-02-17` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.17: ODA provider certification: community transition. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-18` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.18: ODA provider certification: non-medical transportation. | 1 | 2025-02-01 to 2025-02-01 |
+| `oac-rule-173-39-02-20` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.20: ODA provider certification: enhanced community living. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-02-22` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.22: ODA provider certification: waiver nursing service. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-23` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.23: ODA provider certification: out-of-home respite. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-24` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.24: ODA provider certification: home care attendant service. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-02-25` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.25: ODA provider certification: structured family caregiving. | 1 | 2024-09-27 to 2024-09-27 |
+| `oac-rule-173-39-02-26` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-02.26: Provider certification: vehicle modification. | 1 | 2026-04-16 to 2026-04-16 |
+| `oac-rule-173-39-03` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03: ODA provider certification: applying for certification. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-03-1` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03.1: ODA provider certification: federal heightened scrutiny of provider settings with institutional characteristics. | 1 | 2022-04-04 to 2022-04-04 |
+| `oac-rule-173-39-03-2` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03.2: ODA provider certification: changes of ownership interest or organizational structure. | 1 | 2024-05-01 to 2024-05-01 |
+| `oac-rule-173-39-03-3` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03.3: ODA provider certification: applying to be certified to provide an additional service. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-03-4` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03.4: ODA provider certification: applying to be certified in an additional region or from an additional business site in the same region, or for confirmation that more designated resident units in an RCF qualify. | 1 | 2024-07-01 to 2024-07-01 |
+| `oac-rule-173-39-03-5` | Ohio Administrative Code, Chapter 173-39 | Provider Certification, Rule 173-39-03.5: ODA provider certification: military provisions. | 1 | 2026-01-01 to 2026-01-01 |
+| `oac-rule-173-40-01` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-01: PASSPORT program (state-funded component): introduction and definitions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-40-02` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-02: PASSPORT program (state-funded component): individual eligibility requirements. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-40-03` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-03: PASSPORT program (state-funded component): individual disenrollment and other actions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-40-04` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-04: PASSPORT program (state-funded component): provider requirements. | 1 | 2023-03-01 to 2023-03-01 |
+| `oac-rule-173-40-05` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-05: PASSPORT program (state-funded component): covered services. | 1 | 2023-03-01 to 2023-03-01 |
+| `oac-rule-173-40-06` | Ohio Administrative Code, Chapter 173-40 | State-Funded PASSPORT Program, Rule 173-40-06: PASSPORT program (state-funded component): individuals' choices and responsibilities. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-42-01` | Ohio Administrative Code, Chapter 173-42 | Medicaid-Funded PASSPORT Program, Rule 173-42-01: PASSPORT program (medicaid-funded component): introduction and definitions. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-42-02` | Ohio Administrative Code, Chapter 173-42 | Medicaid-Funded PASSPORT Program, Rule 173-42-02: PASSPORT program (medicaid-funded component): eligibility requirements for individuals. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-42-03` | Ohio Administrative Code, Chapter 173-42 | Medicaid-Funded PASSPORT Program, Rule 173-42-03: PASSPORT program (medicaid-funded component): enrollment and reassessment of individuals. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-42-06` | Ohio Administrative Code, Chapter 173-42 | Medicaid-Funded PASSPORT Program, Rule 173-42-06: PASSPORT program (medicaid-funded component): individuals' choices and responsibilities. | 1 | 2026-11-05 to 2026-11-05 |
+| `oac-rule-173-43-01` | Ohio Administrative Code, Chapter 173-43 | Long Term Care Consultation Program, Rule 173-43-01: Long-term care consultation program: introduction and definitions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-43-02` | Ohio Administrative Code, Chapter 173-43 | Long Term Care Consultation Program, Rule 173-43-02: Long-term care consultation program: general standards for providing consultations. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-43-03` | Ohio Administrative Code, Chapter 173-43 | Long Term Care Consultation Program, Rule 173-43-03: Long-term care consultation program: required consultations and exemptions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-43-04` | Ohio Administrative Code, Chapter 173-43 | Long Term Care Consultation Program, Rule 173-43-04: Long-term care consultation program: deadlines. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-43-05` | Ohio Administrative Code, Chapter 173-43 | Long Term Care Consultation Program, Rule 173-43-05: Long-term care consultation program: staff certification. | 1 | 2024-10-01 to 2024-10-01 |
+| `oac-rule-173-44-04` | Ohio Administrative Code, Chapter 173-44 | Unified Waiting List, Rule 173-44-04: Unified waiting list for the assisted living, PACE, and PASSPORT programs. | 1 | 2023-07-01 to 2023-07-01 |
+| `oac-rule-173-45-01` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-01: Long-term care consumer guide: introduction and definitions. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-03` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-03: Long-term care consumer guide: consumer guide content. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-04` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-04: Long-term care consumer guide: search queries. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-05` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-05: Long-term care consumer guide: display of comparative information following the execution of a search query. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-06` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-06: Long-term care consumer guide: facility page. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-06-1` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-06.1: Long-term care consumer guide: information on services provided by facilities. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-06-2` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-06.2: Long-term care consumer guide: facility staffing information. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-08` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-08: Long-term care consumer guide: regulatory survey data. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-45-09` | Ohio Administrative Code, Chapter 173-45 | Long Term Care Consumer Guide, Rule 173-45-09: Long-term care consumer guide: fees, invoices, and penalties. | 1 | 2025-11-13 to 2025-11-13 |
+| `oac-rule-173-50-01` | Ohio Administrative Code, Chapter 173-50 | PACE Program, Rule 173-50-01: PACE: introduction and definitions. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-173-50-02` | Ohio Administrative Code, Chapter 173-50 | PACE Program, Rule 173-50-02: PACE: participant eligibility. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-173-50-03` | Ohio Administrative Code, Chapter 173-50 | PACE Program, Rule 173-50-03: PACE: application, assessment, enrollment, plan of care, reassessment, and continued enrollment. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-173-50-04` | Ohio Administrative Code, Chapter 173-50 | PACE Program, Rule 173-50-04: PACE: voluntary disenrollment. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-173-50-05` | Ohio Administrative Code, Chapter 173-50 | PACE Program, Rule 173-50-05: PACE: involuntary disenrollment. | 1 | 2026-06-01 to 2026-06-01 |
+| `oac-rule-173-51-01` | Ohio Administrative Code, Chapter 173-51 | State-Funded Assisted Living Program, Rule 173-51-01: Assisted living program (state-funded component): introduction and definitions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-51-02` | Ohio Administrative Code, Chapter 173-51 | State-Funded Assisted Living Program, Rule 173-51-02: Assisted living program (state-funded component): eligibility requirements. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-51-03` | Ohio Administrative Code, Chapter 173-51 | State-Funded Assisted Living Program, Rule 173-51-03: Assisted living program (state-funded component): disenrollment and other adverse actions. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-51-04` | Ohio Administrative Code, Chapter 173-51 | State-Funded Assisted Living Program, Rule 173-51-04: Assisted living program (state-funded): provider requirements. | 1 | 2023-03-01 to 2023-03-01 |
+| `oac-rule-173-51-05` | Ohio Administrative Code, Chapter 173-51 | State-Funded Assisted Living Program, Rule 173-51-05: Assisted living program (state-funded): covered services. | 1 | 2023-02-01 to 2023-02-01 |
+| `oac-rule-173-60-01` | Ohio Administrative Code, Chapter 173-60 | Nursing Home Quality Initiative, Rule 173-60-01: Nursing home quality initiative: introduction and definitions. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-173-60-02` | Ohio Administrative Code, Chapter 173-60 | Nursing Home Quality Initiative, Rule 173-60-02: Nursing home quality initiative: requirements for approval. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-173-60-03` | Ohio Administrative Code, Chapter 173-60 | Nursing Home Quality Initiative, Rule 173-60-03: Nursing home quality initiative: approval and rescission processes for quality improvement projects. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-173-60-04` | Ohio Administrative Code, Chapter 173-60 | Nursing Home Quality Initiative, Rule 173-60-04: Nursing home quality initiative: online publication of approved quality improvement projects. | 1 | 2024-11-01 to 2024-11-01 |
+| `oac-rule-175-1-02` | Ohio Administrative Code, Chapter 175-1 | General Provisions, Rule 175-1-02: General provisions. | 1 | 2014-05-19 to 2014-05-19 |
+| `oac-rule-175-1-03` | Ohio Administrative Code, Chapter 175-1 | General Provisions, Rule 175-1-03: Definitions. | 1 | 2025-04-18 to 2025-04-18 |
+| `oac-rule-175-1-04` | Ohio Administrative Code, Chapter 175-1 | General Provisions, Rule 175-1-04: Multifamily notification process. | 1 | 2009-06-08 to 2009-06-08 |
+| `oac-rule-175-1-05` | Ohio Administrative Code, Chapter 175-1 | General Provisions, Rule 175-1-05: Open Meetings. | 1 | 2025-04-18 to 2025-04-18 |
+| `oac-rule-175-8-01` | Ohio Administrative Code, Chapter 175-8 | Low-Income Housing Tax Credit Program, Rule 175-8-01: Allocation of low-income housing tax credits. | 1 | 2026-04-23 to 2026-04-23 |
+| `oac-rule-175-10-01` | Ohio Administrative Code, Chapter 175-10 | Accessing Confidential Personal Information, Rule 175-10-01: Definitions. | 1 | 2010-12-16 to 2010-12-16 |
+| `oac-rule-175-10-02` | Ohio Administrative Code, Chapter 175-10 | Accessing Confidential Personal Information, Rule 175-10-02: Procedures for accessing confidential personal information. | 1 | 2010-12-16 to 2010-12-16 |
+| `oac-rule-175-10-03` | Ohio Administrative Code, Chapter 175-10 | Accessing Confidential Personal Information, Rule 175-10-03: Valid reasons for accessing confidential personal information. | 1 | 2017-05-26 to 2017-05-26 |
+| `oac-rule-175-10-04` | Ohio Administrative Code, Chapter 175-10 | Accessing Confidential Personal Information, Rule 175-10-04: Confidentiality statutes. | 1 | 2017-05-26 to 2017-05-26 |
+| `oac-rule-175-10-05` | Ohio Administrative Code, Chapter 175-10 | Accessing Confidential Personal Information, Rule 175-10-05: Restricting and logging access to confidential personal information in computerized personal information systems. | 1 | 2010-12-16 to 2010-12-16 |
+| `oac-rule-175-11-01` | Ohio Administrative Code, Chapter 175-11 | D.O.L.L.A.R. Deed Program, Rule 175-11-01: D.O.L.L.A.R. deed program model forms. | 1 | 2023-06-26 to 2023-06-26 |
+| `oac-rule-175-12-01` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-01: Definitions. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-175-12-02` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-02: Application schedule and procedures. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-175-12-03` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-03: Single family tax credit eligibility. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-175-12-04` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-04: Selection of approved applications. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-175-12-05` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-05: Credit certificate and market appraisal. | 1 | 2024-04-12 to 2024-04-12 |
+| `oac-rule-175-12-06` | Ohio Administrative Code, Chapter 175-12 | Single Family Tax Credit Program, Rule 175-12-06: Monitoring, reporting, and recapture. | 1 | 2024-04-12 to 2024-04-12 |
 | `orc-chapter-1314` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1314: Controllable electronic records | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1316` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1316: Transitional provisions for Uniform Commercial Code amendments (2022) | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-1357` | Ohio Revised Code, Title 13: Commercial Transactions, Chapter 1357: Consumer agreements and commercial agreements | 1 | 2026-10-06 to 2026-10-06 |
 | `orc-chapter-3957` | Ohio Revised Code, Title 39: Insurance, Chapter 3957: Pharmacy Benefit Managers | 1 | 2026-06-30 to 2026-06-30 |
 | `orc-chapter-4151` | Ohio Revised Code, Title 41: Labor and Industry, Chapter 4151: E-Verify Workforce Integrity Act | 1 | 2026-03-20 to 2026-03-20 |
 
-The build made 2019 commits:
+The build made 2447 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2019 | baseline texts where the record starts |
+| 2447 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2055,7 +2484,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2019 tags.
+- 2447 tags.
 
 ## Dates
 
@@ -2067,7 +2496,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1ba39ac2ce873c13536712daea282f720842bb6a36bd9d9d7ee866c66bf0e31a` (89707034 bytes).
+- Corpus: sha256 `eb33875c170bd739a61311b0275f635eb8393131ea4dd2e94c93480637b38751` (91596919 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2095,6 +2524,8 @@ No second build of this corpus has been compared yet.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Publisher laws-notice elements are source metadata only and excluded from normative rule text.
 - One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
+- Publisher laws-notice elements are source metadata only and excluded from normative rule text.
+- One current-text act per administrative rule, dated by the rule's official Effective label; prior effective dates and statutory authority retained as source metadata.
 - Five newly listed Ohio Revised Code chapters parsed from live official chapter pages on 2026-11-11; each section in each chapter states one common effective date.
 
 ## What AI did and did not do
@@ -2107,6 +2538,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.
 - No model-authored or model-corrected legal text.

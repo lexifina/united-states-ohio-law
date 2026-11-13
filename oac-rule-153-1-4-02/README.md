@@ -1,0 +1,8 @@
+# Ohio Administrative Code, Chapter 153:1-4 | Surety Bonds, Rule 153:1-4-02: Type and amount of surety bonds.
+
+O.A.C. 153:1-4-02 · 1 versions, from 2017-01-13 (latest in force: 2017-01-13) · <https://codes.ohio.gov/ohio-administrative-code/rule-153:1-4-02>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Official source information | [source-information.md](source-information.md) | 0 |  |
+| O.A.C. 153:1-4-02 | [text.md](text.md) | 0 |  |
